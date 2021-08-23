@@ -1,0 +1,991 @@
+[
+  {
+    "category": [
+      "Drama"
+    ],
+    "data": [
+      {
+        "title": "Fate: The Winx Saga",
+        "genre": "Teen drama fantasy",
+        "premiere": "January 22, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "47–53 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Firefly Lane",
+        "genre": "Drama",
+        "premiere": "February 3, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "47–53 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Ginny & Georgia",
+        "genre": "Coming of age drama",
+        "premiere": "February 24, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "52–58 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "The One",
+        "genre": "Science fiction",
+        "premiere": "March 12, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "38–44 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Zero Chill",
+        "genre": "Sport/Teen drama",
+        "premiere": "March 15, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "26–34 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Shadow and Bone",
+        "genre": "Fantasy drama",
+        "premiere": "April 23, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "45–58 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Sweet Tooth",
+        "genre": "Fantasy drama",
+        "premiere": "June 4, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "37–53 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Jiva!",
+        "genre": "Drama",
+        "premiere": "June 24, 2021",
+        "seasons": "1 season, 5 episodes",
+        "runtime": "26–50 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Sex/Life",
+        "genre": "Drama",
+        "premiere": "June 25, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "43–52 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Hit & Run",
+        "genre": "Drama",
+        "premiere": "August 6, 2021",
+        "seasons": "1 season, 9 episodes",
+        "runtime": "39–58 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Clickbait",
+        "genre": "Thriller",
+        "premiere": "August 25, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Miniseries"
+      },
+      {
+        "title": "King of Boys: The Return of the King",
+        "genre": "Crime drama",
+        "premiere": "August 27, 2021",
+        "seasons": "7 episodes",
+        "runtime": "TBA",
+        "status": "Miniseries"
+      },
+      {
+        "title": "Midnight Mass",
+        "genre": "Horror",
+        "premiere": "September 24, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Miniseries"
+      },
+      {
+        "title": "Colin in Black & White",
+        "genre": "Biopic",
+        "premiere": "October 29, 2021",
+        "seasons": "6 episodes",
+        "runtime": "TBA",
+        "status": "Miniseries"
+      },
+      {
+        "title": "Cowboy Bebop",
+        "genre": "Science fiction",
+        "premiere": "November 19, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Comedy"
+    ],
+    "data": [
+      {
+        "title": "The Upshaws",
+        "genre": "Sitcom",
+        "premiere": "May 12, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "25–29 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "The Chair",
+        "genre": "Comedy-drama",
+        "premiere": "August 20, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "30 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "title": "Masters of the Universe: Revelation",
+        "genre": "Science fantasy",
+        "premiere": "July 23, 2021",
+        "seasons": "1 part, 5 episodes",
+        "runtime": "24–27 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Q-Force",
+        "genre": "Comedy",
+        "premiere": "September 2, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "Chicago Party Aunt",
+        "genre": "Comedy",
+        "premiere": "September 17, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "30 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Inside Job",
+        "genre": "Workplace comedy",
+        "premiere": "October 22, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Animation",
+      "Anime"
+    ],
+    "data": [
+      {
+        "title": "High-Rise Invasion",
+        "genre": "Action horror",
+        "premiere": "February 25, 2021",
+        "seasons": "1 season, 12 episodes",
+        "runtime": "25–27 min.",
+        "language": "Japanese",
+        "status": "Pending"
+      },
+      {
+        "title": "Pacific Rim: The Black",
+        "genre": "Mecha/Kaiju",
+        "premiere": "March 4, 2021",
+        "seasons": "1 season, 7 episodes",
+        "runtime": "21–29 min.",
+        "language": "English",
+        "status": "Renewed"
+      },
+      {
+        "title": "Dota: Dragon's Blood",
+        "genre": "Dark fantasy/Action",
+        "premiere": "March 25, 2021",
+        "seasons": "1 book, 8 episodes",
+        "runtime": "26–28 min.",
+        "language": "English",
+        "status": "Renewed"
+      },
+      {
+        "title": "The Way of the Househusband",
+        "genre": "Comedy",
+        "premiere": "April 8, 2021",
+        "seasons": "1 season, 5 episodes",
+        "runtime": "16–18 min.",
+        "language": "Japanese",
+        "status": "Renewed"
+      },
+      {
+        "title": "Yasuke",
+        "genre": "Historical fantasy/Action",
+        "premiere": "April 29, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "28–30 min.",
+        "language": "English",
+        "status": "Pending"
+      },
+      {
+        "title": "Eden",
+        "genre": "Science fiction",
+        "premiere": "May 27, 2021",
+        "seasons": "1 season, 4 episodes",
+        "runtime": "25 min.",
+        "language": "Japanese",
+        "status": "Pending"
+      },
+      {
+        "title": "Trese",
+        "genre": "Dark fantasy/Crime",
+        "premiere": "June 10, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "25–33 min.",
+        "language": "English",
+        "status": "Pending"
+      },
+      {
+        "title": "Record of Ragnarok",
+        "genre": "Action",
+        "premiere": "June 17, 2021",
+        "seasons": "1 season, 12 episodes",
+        "runtime": "24 min.",
+        "language": "Japanese",
+        "status": "Renewed"
+      },
+      {
+        "title": "Resident Evil: Infinite Darkness",
+        "genre": "CG animation/Horror",
+        "premiere": "July 8, 2021",
+        "seasons": "1 season, 4 episodes",
+        "runtime": "25–28 min.",
+        "language": "English",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "title": "Mighty Little Bheem: Kite Festival",
+        "premiere": "January 8, 2021",
+        "seasons": "1 collection, 3 episodes",
+        "runtime": "6–7 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Go, Dog. Go!",
+        "premiere": "January 26, 2021",
+        "seasons": "1 season, 9 episodes",
+        "runtime": "24 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Kid Cosmic",
+        "premiere": "February 2, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "17–25 min.",
+        "status": "Season 2 due to premiere on September 7, 2021; Renewed"
+      },
+      {
+        "title": "City of Ghosts",
+        "premiere": "March 5, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "18–20 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "We the People",
+        "premiere": "July 4, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "4–5 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Ridley Jones",
+        "premiere": "July 13, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "27–28 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Johnny Test",
+        "premiere": "July 16, 2021",
+        "seasons": "1 season, 20 episodes",
+        "runtime": "13–14 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Centaurworld",
+        "premiere": "July 30, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "25–27 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Oggy Oggy",
+        "premiere": "August 24, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "I Heart Arlo",
+        "premiere": "August 27, 2021",
+        "seasons": "1 season, 20 episodes",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "Sharkdog",
+        "premiere": "September 3, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "Octonauts: Above and Beyond",
+        "premiere": "September 7, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "He-Man and the Masters of the Universe",
+        "premiere": "September 16, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "Ada Twist, Scientist",
+        "premiere": "September 28, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "26 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Arabic"
+    ],
+    "data": [
+      {
+        "title": "Abla Fahita: Drama Queen",
+        "genre": "Puppetry/live-action comedy",
+        "premiere": "March 15, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "17–24 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "French"
+    ],
+    "data": [
+      {
+        "title": "Lupin",
+        "genre": "Drama",
+        "premiere": "January 8, 2021",
+        "seasons": "2 parts, 10 episodes",
+        "runtime": "40–52 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Dealer",
+        "genre": "Drama",
+        "premiere": "March 10, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "8–15 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Ganglands",
+        "genre": "Thriller",
+        "premiere": "September 24, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "German"
+    ],
+    "data": [
+      {
+        "title": "Tribes of Europa",
+        "genre": "Science fiction",
+        "premiere": "February 19, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "44–49 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Hindi"
+    ],
+    "data": [
+      {
+        "title": "Bombay Begums",
+        "genre": "Drama",
+        "premiere": "March 8, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "38–60 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Ray",
+        "genre": "Anthology series",
+        "premiere": "June 25, 2021",
+        "seasons": "1 season, 4 episodes",
+        "runtime": "52–64 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Feels Like Ishq",
+        "genre": "Anthology series",
+        "premiere": "July 23, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "25–31 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Italian"
+    ],
+    "data": [
+      {
+        "title": "Zero",
+        "genre": "Superhero",
+        "premiere": "April 21, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "21–27 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Generation 56k",
+        "genre": "Romantic comedy",
+        "premiere": "July 1, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "26–33 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Luna Park",
+        "genre": "Drama",
+        "premiere": "September 30, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Japanese"
+    ],
+    "data": [
+      {
+        "title": "Creator's File: Gold",
+        "genre": "Comedy",
+        "premiere": "June 3, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "15–31 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "The Ingenuity of the Household",
+        "genre": "Comedy",
+        "premiere": "August 29, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Korean"
+    ],
+    "data": [
+      {
+        "title": "Move to Heaven",
+        "genre": "Drama",
+        "premiere": "May 14, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "43–61 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "So Not Worth It",
+        "genre": "Sitcom",
+        "premiere": "June 18, 2021",
+        "seasons": "1 season, 12 episodes",
+        "runtime": "30–34 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "D.P.",
+        "genre": "Drama",
+        "premiere": "August 27, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      },
+      {
+        "title": "Squid Game",
+        "genre": "Thriller",
+        "premiere": "September 17, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Norwegian"
+    ],
+    "data": [
+      {
+        "title": "Post Mortem: No One Dies in Skarnes",
+        "genre": "Supernatural drama",
+        "premiere": "August 25, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Polish"
+    ],
+    "data": [
+      {
+        "title": "Sexify",
+        "genre": "Comedy drama",
+        "premiere": "April 28, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "37–51 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Open Your Eyes",
+        "genre": "Thriller",
+        "premiere": "August 25, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Portuguese"
+    ],
+    "data": [
+      {
+        "title": "Invisible City",
+        "genre": "Fantasy thriller",
+        "premiere": "February 5, 2021",
+        "seasons": "1 season, 7 episodes",
+        "runtime": "31–40 min.",
+        "status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Spanish"
+    ],
+    "data": [
+      {
+        "title": "Daughter From Another Mother",
+        "genre": "Comedy",
+        "premiere": "January 20, 2021",
+        "seasons": "1 season, 9 episodes",
+        "runtime": "35–42 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Sky Rojo",
+        "genre": "Action drama",
+        "premiere": "March 19, 2021",
+        "seasons": "2 seasons, 16 episodes",
+        "runtime": "22–40 min.",
+        "status": "Renewed for final season"
+      },
+      {
+        "title": "Who Killed Sara?",
+        "genre": "Crime drama",
+        "premiere": "March 24, 2021",
+        "seasons": "2 seasons, 18 episodes",
+        "runtime": "36–46 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Elite Short Stories: Guzmán Caye Rebe",
+        "genre": "Crime teen drama",
+        "premiere": "June 14, 2021",
+        "seasons": "1 season, 3 episodes",
+        "runtime": "9–15 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Elite Short Stories: Nadia Guzmán",
+        "genre": "Crime teen drama",
+        "premiere": "June 15, 2021",
+        "seasons": "1 season, 3 episodes",
+        "runtime": "9–14 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Elite Short Stories: Omar Ander Alexis",
+        "genre": "Crime teen drama",
+        "premiere": "June 16, 2021",
+        "seasons": "1 season, 3 episodes",
+        "runtime": "9–14 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Elite Short Stories: Carla Samuel",
+        "genre": "Crime teen drama",
+        "premiere": "June 17, 2021",
+        "seasons": "1 season, 3 episodes",
+        "runtime": "13–16 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Somos.",
+        "genre": "Drama",
+        "premiere": "June 30, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "42–73 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "The War Next-door",
+        "genre": "Comedy",
+        "premiere": "July 7, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "29–32 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "The Kingdom",
+        "genre": "Crime drama",
+        "premiere": "August 13, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "37–52 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Everything Will Be Fine",
+        "genre": "Dramedy",
+        "premiere": "August 20, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "25–34 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Swedish"
+    ],
+    "data": [
+      {
+        "title": "Snabba Cash",
+        "genre": "Thriller",
+        "premiere": "April 7, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "38–51 min.",
+        "status": "Renewed"
+      },
+      {
+        "title": "Young Royals",
+        "genre": "Coming-of-age drama",
+        "premiere": "July 1, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "40–50 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Tamil"
+    ],
+    "data": [
+      {
+        "title": "Navarasa",
+        "genre": "Anthology series",
+        "premiere": "August 6, 2021",
+        "seasons": "1 volume, 9 episodes",
+        "runtime": "28–48 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Turkish"
+    ],
+    "data": [
+      {
+        "title": "50M2",
+        "genre": "Dark comedy",
+        "premiere": "January 27, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "44–64 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Fatma",
+        "genre": "Crime drama",
+        "premiere": "April 27, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "39–47 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Other"
+    ],
+    "data": [
+      {
+        "title": "Pitta Kathalu",
+        "language": "Telugu",
+        "genre": "Anthology series",
+        "premiere": "February 19, 2021",
+        "seasons": "1 season, 4 episodes",
+        "runtime": "35–39 min.",
+        "status": "Pending"
+      },
+      {
+        "title": "Katla",
+        "language": "Icelandic",
+        "genre": "Supernatural drama",
+        "premiere": "June 17, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "41–51 min.",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "title": "Under Suspicion: Uncovering the Wesphael Case",
+        "partner/country": "RTL-TVI/Belgium",
+        "genre": "True crime",
+        "premiere": "March 17, 2021",
+        "seasons": "1 season, 5 episodes",
+        "runtime": "34–38 min.",
+        "language": "French",
+        "netflix exclusive regions": "All other markets",
+        "status": "Pending"
+      },
+      {
+        "title": "Life in Colour with David Attenborough",
+        "partner/country": "BBC Two/United Kingdom",
+        "genre": "Nature docu-series",
+        "premiere": "April 22, 2021",
+        "seasons": "1 season, 3 episodes",
+        "runtime": "44–50 min.",
+        "language": "English",
+        "netflix exclusive regions": "All other markets except Ireland and Australia",
+        "status": "Pending"
+      },
+      {
+        "title": "Dive Club",
+        "partner/country": "Network 10/Australia",
+        "genre": "Mystery teen drama",
+        "premiere": "September 3, 2021",
+        "seasons": "1 season, 12 episodes",
+        "runtime": "TBA",
+        "language": "English",
+        "netflix exclusive regions": "All other markets",
+        "status": "Pending"
+      },
+      {
+        "title": "On the Verge",
+        "partner/country": "Canal+/France",
+        "genre": "Comedy",
+        "premiere": "September 7, 2021",
+        "seasons": "TBA",
+        "runtime": "TBA",
+        "language": "English",
+        "netflix exclusive regions": "All other markets",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Continuations"
+    ],
+    "data": [
+      {
+        "title": "Cobra Kai (season 3)",
+        "genre": "Martial arts/Action dramedy",
+        "prev. network(s)": "YouTube Premium",
+        "premiere": "January 1, 2021",
+        "seasons": "1 season, 10 episodes",
+        "runtime": "27–41 min.",
+        "language": "English",
+        "status": "Season 4 due to premiere in December 2021"
+      },
+      {
+        "title": "Girl from Nowhere (season 2)",
+        "genre": "Teen mystery thriller anthology",
+        "prev. network(s)": "GMM 25",
+        "premiere": "May 7, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "38–48 min.",
+        "language": "Thai",
+        "status": "Pending"
+      },
+      {
+        "title": "The A List (season 2)",
+        "genre": "Teen mystery thriller",
+        "prev. network(s)": "BBC iPlayer",
+        "premiere": "June 25, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "26–29 min.",
+        "language": "English",
+        "status": "Pending"
+      },
+      {
+        "title": "The Mire (season 2)",
+        "genre": "Thriller",
+        "prev. network(s)": "Showmax",
+        "premiere": "July 7, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "53–60 min.",
+        "language": "Polish",
+        "status": "Pending"
+      },
+      {
+        "title": "Sexy Beasts (season 2)",
+        "genre": "Dating show",
+        "prev. network(s)": "A&E",
+        "premiere": "July 21, 2021",
+        "seasons": "1 season, 6 episodes",
+        "runtime": "22–24 min.",
+        "language": "English",
+        "status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Specials"
+    ],
+    "data": [
+      {
+        "title": "Kingdom: Ashin of the North",
+        "genre": "Period horror thriller",
+        "premiere": "July 23, 2021",
+        "runtime": "1 hour, 33 min."
+      },
+      {
+        "title": "The Witcher: Nightmare of the Wolf",
+        "genre": "Animated dark fantasy",
+        "premiere": "August 23, 2021",
+        "runtime": "1 hour, 23 min."
+      },
+      {
+        "title": "You vs. Wild: Out Cold",
+        "genre": "Interactive reality",
+        "premiere": "September 14, 2021",
+        "runtime": "TBA"
+      },
+      {
+        "title": "A StoryBots Space Adventure",
+        "genre": "Animation",
+        "premiere": "September 23, 2021",
+        "runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Animation"
+    ],
+    "data": [
+      {
+        "title": "Kayko and Kokosh",
+        "premiere": "February 28, 2021",
+        "seasons": "1 season, 5 episodes",
+        "runtime": "14–15 min.",
+        "netflix exclusive territory": "Selected territories[a]",
+        "status": "Pending"
+      },
+      {
+        "title": "Ask the StoryBots Korea Edition",
+        "premiere": "May 5, 2021",
+        "seasons": "1 season, 8 episodes",
+        "runtime": "53 min.",
+        "netflix exclusive territory": "Selected territories",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Continuations"
+    ],
+    "data": []
+  }
+]

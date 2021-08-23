@@ -1,0 +1,15 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "My useful scripts",
+  "main": "package.json",
+  "author": "Shawn Dai",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "node-html-parser": "^4.1.3",
+    "tabletojson": "^2.0.7",
+    "wikijs": "^6.3.2"
+  }
+}
