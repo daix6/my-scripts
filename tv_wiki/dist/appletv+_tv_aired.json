@@ -1,0 +1,395 @@
+[
+  {
+    "category": [
+      "Original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "For All Mankind",
+        "Genre": "Alternate history",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "48–76 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Morning Show",
+        "Genre": "Drama",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "50–66 min.",
+        "Status": "Season 2 due to premiere on September 17, 2021"
+      },
+      {
+        "Title": "See",
+        "Genre": "Science fiction",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "49–57 min.",
+        "Status": "Season 2 due to premiere on August 27, 2021; Renewed"
+      },
+      {
+        "Title": "Servant",
+        "Genre": "Psychological thriller",
+        "Premiere": "November 28, 2019",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "25–36 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Truth Be Told",
+        "Genre": "Legal drama",
+        "Premiere": "December 6, 2019",
+        "Seasons": "2 seasons, 9 episodes",
+        "Runtime": "39–51 min.",
+        "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "Amazing Stories",
+        "Genre": "Science fiction anthology",
+        "Premiere": "March 6, 2020",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "47–53 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Home Before Dark",
+        "Genre": "Mystery drama",
+        "Premiere": "April 3, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "41–57 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Defending Jacob",
+        "Genre": "Legal drama",
+        "Premiere": "April 24, 2020",
+        "Seasons": "8 episodes",
+        "Runtime": "45–65 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Little Voice",
+        "Genre": "Musical drama",
+        "Premiere": "July 10, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "The Mosquito Coast",
+        "Genre": "Action thriller",
+        "Premiere": "April 30, 2021",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "42–57 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Lisey's Story",
+        "Genre": "Romance horror",
+        "Premiere": "June 4, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "46–52 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Foundation",
+        "Genre": "Science fiction",
+        "Premiere": "September 24, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Invasion",
+        "Genre": "Science fiction",
+        "Premiere": "October 22, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Dickinson",
+        "Genre": "Period comedy",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Ghostwriter",
+        "Genre": "Family mystery",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 26 episodes",
+        "Runtime": "22–26 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Little America",
+        "Genre": "Comedy-drama anthology",
+        "Premiere": "January 17, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "29–34 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Mythic Quest",
+        "Genre": "Workplace comedy",
+        "Premiere": "February 7, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "24–37 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Trying",
+        "Genre": "Comedy",
+        "Premiere": "May 1, 2020",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "26–30 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Ted Lasso",
+        "Genre": "Sports comedy",
+        "Premiere": "August 14, 2020",
+        "Seasons": "2 seasons, 15 episodes",
+        "Runtime": "29–38 min.",
+        "Status": "Season 2 ongoing; Renewed"
+      },
+      {
+        "Title": "Physical",
+        "Genre": "Black comedy",
+        "Premiere": "June 18, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "27–34 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Schmigadoon!",
+        "Genre": "Musical comedy",
+        "Premiere": "July 16, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mr. Corman",
+        "Genre": "Comedy-drama",
+        "Premiere": "August 6, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "23–34 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Shrink Next Door",
+        "Genre": "Dark comedy miniseries",
+        "Premiere": "November 12, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Central Park",
+        "Genre": "Musical sitcom",
+        "Premiere": "May 29, 2020",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "22–31 min.",
+        "Status": "Season 2 ongoing; Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Snoopy in Space",
+        "Genre": "Adventure",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "8 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Doug Unplugs",
+        "Genre": "Adventure",
+        "Premiere": "November 13, 2020",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "23 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Stillwater",
+        "Genre": "Comedy",
+        "Premiere": "December 4, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "23–24 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Snoopy Show",
+        "Genre": "Comedy",
+        "Premiere": "February 5, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "22 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Visible: Out on Television",
+        "Genre": "Docuseries",
+        "Premiere": "February 14, 2020",
+        "Seasons": "5 episodes",
+        "Runtime": "50–72 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Home",
+        "Genre": "Docuseries",
+        "Premiere": "April 17, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "27–37 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dear...",
+        "Genre": "Docuseries",
+        "Premiere": "June 5, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23–38 min.",
+        "Status": "Season 2 due to premiere in 2021"
+      },
+      {
+        "Title": "Greatness Code",
+        "Genre": "Docuseries",
+        "Premiere": "July 10, 2020",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "5–7 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Long Way Up",
+        "Genre": "Travel show",
+        "Premiere": "September 18, 2020",
+        "Seasons": "11 episodes",
+        "Runtime": "43–52 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Tiny World",
+        "Genre": "Nature docuseries",
+        "Premiere": "October 2, 2020",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "25–32 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Becoming You",
+        "Genre": "Docuseries",
+        "Premiere": "November 13, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "39–43 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Earth At Night In Color",
+        "Genre": "Nature docuseries",
+        "Premiere": "December 4, 2020",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "27–29 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "1971: The Year That Music Changed Everything",
+        "Genre": "Docuseries",
+        "Premiere": "May 21, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "42–49 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Me You Can't See",
+        "Genre": "Docuseries",
+        "Premiere": "May 21, 2021",
+        "Seasons": "6 episodes",
+        "Runtime": "46–91 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Watch the Sound with Mark Ronson",
+        "Genre": "Docuseries",
+        "Premiere": "July 30, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "33–36 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Tehran",
+        "Genre": "Spy thriller",
+        "Partner/Country": "Kan 11/Israel",
+        "Premiere": "September 25, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–50 min.",
+        "Language": "Hebrew",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Losing Alice",
+        "Genre": "Erotic thriller",
+        "Partner/Country": "Hot/Israel",
+        "Premiere": "January 22, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–55 min.",
+        "Language": "Hebrew",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Calls",
+        "Genre": "Mystery thriller",
+        "Partner/Country": "Canal+/France",
+        "Premiere": "March 19, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "13–20 min.",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  }
+]

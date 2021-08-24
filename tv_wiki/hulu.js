@@ -6,14 +6,14 @@ const WIKI_NAME = 'List of Hulu original programming';
 async function runAll() {
   const result = filterExclusive(await runStreamNetwork(WIKI_NAME));
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/hulu_all_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/hulu_all.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 
 async function runAiredTV() {
   const result = filterUpcoming(filterUnscripted(filterFilm(filterExclusive(await runStreamNetwork(WIKI_NAME)))));
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/hulu_tv_aired_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/hulu_tv_aired.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 function filterExclusive(category) {

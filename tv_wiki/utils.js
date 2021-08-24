@@ -22,8 +22,10 @@ function parseTable(tableEl) {
 
       const rowspan = td.attributes.rowspan ? +td.attributes.rowspan : 1;
       const colspan = td.attributes.colspan ? +td.attributes.colspan : 1;
-      for (let i = 0; i < rowspan; i++) {
-        for (let j = 0; j < colspan; j++) {
+
+      // 有些情况 wiki 的 table 的 rowspan 会写错。。
+      for (let i = 0; i < rowspan && rowIndex + i < result.length; i++) {
+        for (let j = 0; j < colspan && colIndex + j < headers.length; j++) {
           result[rowIndex + i][colIndex + j] = removeUnicode(td.rawText.trim());
         }
       }

@@ -6,13 +6,13 @@ const WIKI_NAME = 'List of Apple TV+ original programming';
 async function runAll() {
   const result = await runStreamNetwork(WIKI_NAME);
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/appletv+_all_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/appletv+_all.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 async function runAiredTV() {
   const result = filterUpcoming(filterUnscripted(filterFilm(await runStreamNetwork(WIKI_NAME))));
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/appletv+_tv_aired_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/appletv+_tv_aired.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 function filterUnscripted(category) {

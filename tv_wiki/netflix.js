@@ -7,20 +7,20 @@ const WIKI_NAME = 'List of Netflix original programming';
 async function runAll() {
   const result = await runStreamNetwork(WIKI_NAME);
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/netflix_all_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/netflix_all.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 async function runAiredTV() {
   const result = filterUpcoming(filterUnscripted(await runStreamNetwork(WIKI_NAME)));
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/netflix_tv_aired_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/netflix_tv_aired.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 
 async function run() {
   const result = filterAirIn(filterUnscripted(await runStreamNetwork(WIKI_NAME)), '2021-01-01', '2025-12-31');
 
-  await fs.promises.writeFile(require('path').join(__dirname, `dist/netflix_2021_2025_${Date.now()}.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
+  await fs.promises.writeFile(require('path').join(__dirname, `dist/netflix_2021_2025.json`), JSON.stringify(result, undefined, 2), { encoding: 'utf-8' });
 }
 
 function filterUnscripted(category) {

@@ -1,0 +1,529 @@
+[
+  {
+    "category": [
+      "Original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "Raised by Wolves",
+        "Genre": "Science fiction",
+        "Premiere": "September 3, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "42–56 min.",
+        "Status": "Season 2 due to premiere in 2021"
+      },
+      {
+        "Title": "The Flight Attendant",
+        "Genre": "Mystery drama/Dark comedy",
+        "Premiere": "November 26, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–48 min.",
+        "Status": "Season 2 due to premiere in mid 2022"
+      },
+      {
+        "Title": "Gossip Girl",
+        "Genre": "Teen drama",
+        "Premiere": "July 8, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "56–59 min.",
+        "Status": "Part 2 of Season 1 due to premiere in November 2021"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Love Life",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "May 27, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "28–35 min.",
+        "Status": "Season 2 due to premiere in October 2021."
+      },
+      {
+        "Title": "Generation",
+        "Genre": "Teen dramedy",
+        "Premiere": "March 11, 2021",
+        "Seasons": "1 season, 16 episodes",
+        "Runtime": "27–39 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Made for Love",
+        "Genre": "Dark comedy",
+        "Premiere": "April 1, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "25–29 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "That Damn Michael Che",
+        "Genre": "Sketch comedy",
+        "Premiere": "May 6, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Hacks",
+        "Genre": "Dark comedy",
+        "Premiere": "May 13, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "29–33 min.",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Close Enough",
+        "Genre": "Surreal comedy",
+        "Premiere": "July 9, 2020",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "22–24 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Prince",
+        "Genre": "Political satire/sitcom",
+        "Premiere": "July 29, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "12–14 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "10-Year-Old Tom",
+        "Genre": "Sitcom",
+        "Premiere": "September 30, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Looney Tunes Cartoons&#91;a&#93;",
+        "Genre": "Slapstick comedy",
+        "Premiere": "May 27, 2020",
+        "Seasons": "2 seasons, 42 episodes",
+        "Runtime": "9–29 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Adventure Time: Distant Lands",
+        "Genre": "Science fantasy adventure comedy",
+        "Premiere": "June 25, 2020",
+        "Seasons": "4 episodes",
+        "Runtime": "45–46 min.",
+        "Status": "Final episode due to premiere on September 2, 2021."
+      },
+      {
+        "Title": "Tig n' Seek&#91;a&#93;",
+        "Genre": "Workplace comedy",
+        "Premiere": "July 23, 2020",
+        "Seasons": "2 seasons, 40 episodes",
+        "Runtime": "12 min.",
+        "Status": "Season 3 due to premiere on September 16, 2021."
+      },
+      {
+        "Title": "The Fungies!&#91;a&#93;",
+        "Genre": "Fantasy comedy",
+        "Premiere": "August 20, 2020",
+        "Seasons": "2 seasons, 60 episodes",
+        "Runtime": "11–12 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Tom and Jerry Special Shorts",
+        "Genre": "Slapstick comedy",
+        "Premiere": "February 20, 2021",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "4–5 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Tom and Jerry in New York",
+        "Genre": "Slapstick comedy",
+        "Premiere": "July 1, 2021",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "21 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Jellystone!",
+        "Genre": "Slapstick comedy",
+        "Premiere": "July 29, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "21 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Little Ellen",
+        "Genre": "Comedy",
+        "Premiere": "September 13, 2021",
+        "Seasons": "1 season, 40 episodes",
+        "Runtime": "15 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mush-Mush &amp; the Mushables&#91;b&#93;",
+        "Genre": "Adventure comedy",
+        "Premiere": "September 13, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Yabba-Dabba Dinosaurs",
+        "Genre": "Comedy",
+        "Premiere": "September 30, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "TBA",
+        "Status": "Ended"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Portuguese"
+    ],
+    "data": [
+      {
+        "Title": "The Missing",
+        "Genre": "Crime drama",
+        "Premiere": "July 22, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Spanish"
+    ],
+    "data": [
+      {
+        "Title": "Amarres",
+        "Genre": "Romantic dramedy",
+        "Premiere": "August 12, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "44–51 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Expecting Amy",
+        "Genre": "Docuseries",
+        "Premiere": "July 9, 2020",
+        "Seasons": "3 episodes",
+        "Runtime": "52–64 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Ravi Patel's Pursuit of Happiness",
+        "Genre": "Lifestyle",
+        "Premiere": "August 27, 2020",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "42 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Equal",
+        "Genre": "Docuseries",
+        "Premiere": "October 22, 2020",
+        "Seasons": "4 episodes",
+        "Runtime": "39–41 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Heaven's Gate: The Cult of Cults",
+        "Genre": "Docuseries",
+        "Premiere": "December 3, 2020",
+        "Seasons": "4 episodes",
+        "Runtime": "49–52 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "House of Ho",
+        "Genre": "Docusoap",
+        "Premiere": "December 10, 2020",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "29–36 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Event",
+        "Genre": "Food",
+        "Premiere": "January 14, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "34–43 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Wahl Street",
+        "Genre": "Autobiographical",
+        "Premiere": "April 15, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "23–26 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Generation Hustle",
+        "Genre": "Docuseries",
+        "Premiere": "April 22, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "43–49 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Through Our Eyes",
+        "Genre": "Docuseries",
+        "Premiere": "July 22, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "30–37 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Way Down",
+        "Genre": "Docuseries",
+        "Premiere": "September 30, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Veneno",
+        "Genre": "Drama",
+        "Partner/Country": "Atresplayer Premium/Spain",
+        "Premiere": "November 19, 2020",
+        "Seasons": "8 episodes",
+        "Runtime": "45–63 min.",
+        "Language": "Spanish",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Bridge",
+        "Genre": "Reality competition",
+        "Partner/Country": "Channel 4/United Kingdom",
+        "Premiere": "February 11, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "47 min.",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "It's a Sin",
+        "Genre": "Period drama",
+        "Partner/Country": "Channel 4/United Kingdom",
+        "Premiere": "February 18, 2021",
+        "Seasons": "5 episodes",
+        "Runtime": "46–48 min.",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Starstruck",
+        "Genre": "Comedy",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Premiere": "June 10, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30 min.",
+        "Language": "English",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Summer Camp Island (seasons 2–4)",
+        "Genre": "Animated fantasy comedy",
+        "Prev. network(s)": "Cartoon Network",
+        "Premiere": "June 18, 2020",
+        "Seasons": "3 seasons, 45 episodes",
+        "Runtime": "12 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Doom Patrol (season 2)",
+        "Genre": "Superhero comedy",
+        "Prev. network(s)": "DC Universe",
+        "Premiere": "June 25, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "45–54 min.",
+        "Status": "Season 3 due to premiere on September 23, 2021&#91;36&#93;&#91;37&#93;&#91;d&#93;"
+      },
+      {
+        "Title": "Esme &amp; Roy (season 2)",
+        "Genre": "Animated fantasy comedy/Education",
+        "Prev. network(s)": "HBO",
+        "Premiere": "June 25, 2020",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "24 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Search Party (seasons 3–4)",
+        "Genre": "Satirical dark comedy",
+        "Prev. network(s)": "TBS",
+        "Premiere": "June 25, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "23–26 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Infinity Train (seasons 3–4)",
+        "Genre": "Animated science fantasy mystery",
+        "Prev. network(s)": "Cartoon Network",
+        "Premiere": "August 13, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "12 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Sesame Street (season 51)",
+        "Genre": "Education",
+        "Prev. network(s)": "HBO",
+        "Premiere": "November 12, 2020",
+        "Seasons": "1 season, 35 episodes",
+        "Runtime": "26 min.",
+        "Status": "Renewed for seasons 52–55"
+      },
+      {
+        "Title": "Titans (season 3)",
+        "Genre": "Superhero drama",
+        "Prev. network(s)": "DC Universe",
+        "Premiere": "August 12, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "50 min.",
+        "Status": "Season 3 ongoing"
+      },
+      {
+        "Title": "The Other Two (season 2)",
+        "Genre": "Comedy",
+        "Prev. network(s)": "Comedy Central",
+        "Premiere": "August 26, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Sesame Street Elmo's Playdate: Scavenger Hunt",
+        "Genre": "Family comedy",
+        "Premiere": "August 6, 2020",
+        "Runtime": "25 min."
+      },
+      {
+        "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime!",
+        "Genre": "Family comedy",
+        "Premiere": "September 17, 2020",
+        "Runtime": "57 min."
+      },
+      {
+        "Title": "The Power of We: A Sesame Street Special",
+        "Genre": "Family",
+        "Premiere": "October 15, 2020",
+        "Runtime": "22 min."
+      },
+      {
+        "Title": "A West Wing Special to Benefit When We All Vote",
+        "Genre": "Reunion",
+        "Premiere": "October 15, 2020",
+        "Runtime": "1 hour, 4 min."
+      },
+      {
+        "Title": "The Monster at the End of This Story",
+        "Genre": "Animation",
+        "Premiere": "October 29, 2020",
+        "Runtime": "31 min."
+      },
+      {
+        "Title": "The Fresh Prince of Bel-Air Reunion",
+        "Genre": "Unscripted reunion",
+        "Premiere": "November 18, 2020",
+        "Runtime": "1 hour, 15 min."
+      },
+      {
+        "Title": "My Gift: A Christmas Special From Carrie Underwood",
+        "Genre": "Music",
+        "Premiere": "December 3, 2020",
+        "Runtime": "54 min."
+      },
+      {
+        "Title": "Homeschool Musical: Class of 2020",
+        "Genre": "Musical",
+        "Premiere": "December 17, 2020",
+        "Runtime": "52 min."
+      },
+      {
+        "Title": "The Runaway Bunny",
+        "Genre": "Animation",
+        "Premiere": "March 25, 2021",
+        "Runtime": "27 min."
+      },
+      {
+        "Title": "Friends: The Reunion",
+        "Genre": "Unscripted reunion",
+        "Premiere": "May 27, 2021",
+        "Runtime": "1 hour, 44 min."
+      },
+      {
+        "Title": "Furry Friends Forever: Elmo Gets a Puppy",
+        "Genre": "Animation",
+        "Premiere": "August 5, 2021",
+        "Runtime": "30 min."
+      }
+    ]
+  }
+]
