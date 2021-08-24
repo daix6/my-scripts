@@ -9,7 +9,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "node-html-parser": "^4.1.3",
-    "tabletojson": "^2.0.7",
+    "pug": "^3.0.2",
     "wikijs": "^6.3.2"
   }
 }

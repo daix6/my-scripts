@@ -1,0 +1,617 @@
+[
+  {
+    "category": [
+      "Original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "The Mandalorian",
+        "Genre": "Space western",
+        "Premiere": "November 12, 2019",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "31–54 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Right Stuff",
+        "Genre": "Historical drama",
+        "Premiere": "October 9, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–52 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "WandaVision",
+        "Genre": "Superhero romantic comedy-drama",
+        "Premiere": "January 15, 2021",
+        "Seasons": "9 episodes",
+        "Runtime": "30–50 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Falcon and the Winter Soldier",
+        "Genre": "Superhero action-adventure buddy",
+        "Premiere": "March 19, 2021",
+        "Seasons": "6 episodes",
+        "Runtime": "50–60 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Loki",
+        "Genre": "Superhero action-adventure fantasy",
+        "Premiere": "June 9, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43–55 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Mysterious Benedict Society",
+        "Genre": "Adventure drama",
+        "Premiere": "June 25, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "53–56 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Doogie Kameāloha, M.D.",
+        "Genre": "Medical drama",
+        "Premiere": "September 8, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hawkeye",
+        "Genre": "Superhero action drama",
+        "Premiere": "November 24, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "High School Musical: The Musical: The Series",
+        "Genre": "Musical/Mockumentary",
+        "Premiere": "November 12, 2019",
+        "Seasons": "2 seasons, 22 episodes",
+        "Runtime": "26–34 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Diary of a Future President",
+        "Genre": "Comedy-drama",
+        "Premiere": "January 17, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "22–28 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Mighty Ducks: Game Changers",
+        "Genre": "Sports comedy-drama",
+        "Premiere": "March 26, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "32–41 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Big Shot",
+        "Genre": "Comedy-drama",
+        "Premiere": "April 16, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "43–45 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Turner &amp; Hooch",
+        "Genre": "Buddy cop action-comedy",
+        "Premiere": "July 21, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "46 min.",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation"
+    ],
+    "data": [
+      {
+        "Title": "Star Wars: The Bad Batch",
+        "Genre": "Space opera",
+        "Premiere": "May 4, 2021",
+        "Seasons": "1 season, 16 episodes",
+        "Runtime": "26–70 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Monsters at Work",
+        "Genre": "Fantasy",
+        "Premiere": "July 7, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "22–24 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Chip 'n' Dale: Park Life",
+        "Genre": "Animation comedy",
+        "Premiere": "July 28, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "22 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "What If...?",
+        "Genre": "Superhero anthology",
+        "Premiere": "August 11, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "33 min.",
+        "Status": "Season 1 ongoing, Renewed"
+      },
+      {
+        "Title": "Star Wars: Visions",
+        "Genre": "Anime/Space opera anthology",
+        "Premiere": "September 22, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Marvel's Hero Project",
+        "Genre": "Docuseries",
+        "Premiere": "November 12, 2019",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "22–26 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "The Imagineering Story",
+        "Genre": "Docuseries",
+        "Premiere": "November 12, 2019",
+        "Seasons": "6 episodes",
+        "Runtime": "61–68 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The World According to Jeff Goldblum",
+        "Genre": "Docuseries",
+        "Premiere": "November 12, 2019",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "22–30 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Pick of the Litter",
+        "Genre": "Docuseries",
+        "Premiere": "December 20, 2019",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Prop Culture",
+        "Genre": "Docuseries",
+        "Premiere": "May 1, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "29–36 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Disney Gallery: The Mandalorian",
+        "Genre": "Docuseries",
+        "Premiere": "May 4, 2020",
+        "Seasons": "2 seasons, 9 episodes",
+        "Runtime": "29–69 min.",
+        "Status": "New episode due to premiere on August 25, 2021"
+      },
+      {
+        "Title": "It's a Dog's Life with Bill Farmer",
+        "Genre": "Docuseries",
+        "Premiere": "May 15, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "20–22 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Into the Unknown: Making Frozen II",
+        "Genre": "Docuseries",
+        "Premiere": "June 26, 2020",
+        "Seasons": "6 episodes",
+        "Runtime": "28–43 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Rogue Trip",
+        "Genre": "Travel show",
+        "Premiere": "July 24, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "33–38 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Magic of Disney's Animal Kingdom",
+        "Genre": "Nature",
+        "Premiere": "September 25, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "36–39 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Meet the Chimps",
+        "Genre": "Nature",
+        "Premiere": "October 16, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "34–40 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Marvel's 616",
+        "Genre": "Docuseries",
+        "Premiere": "November 20, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "38–70 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "On Pointe",
+        "Genre": "Docuseries",
+        "Premiere": "December 18, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "39–52 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Marvel Studios: Assembled",
+        "Genre": "Docuseries",
+        "Premiere": "March 12, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "58–59 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Earth Moods",
+        "Genre": "ASMR",
+        "Premiere": "April 16, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Secrets of the Whales",
+        "Genre": "Nature",
+        "Premiere": "April 22, 2021",
+        "Seasons": "4 episodes",
+        "Runtime": "46–51 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Behind the Attraction",
+        "Genre": "Docuseries",
+        "Premiere": "July 21, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "39–48 min.",
+        "Status": "New episodes due to premiere on August 25, 2021"
+      },
+      {
+        "Title": "Growing Up Animal",
+        "Genre": "Nature",
+        "Premiere": "August 18, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "46–52 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Beatles: Get Back",
+        "Genre": "Docuseries",
+        "Premiere": "November 25, 2021",
+        "Seasons": "3 episodes",
+        "Runtime": "60 min.",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Shorts"
+    ],
+    "data": [
+      {
+        "Title": "Disney Family Sundays",
+        "Genre": "DIY",
+        "Premiere": "November 12, 2019",
+        "Seasons": "1 season, 40 episodes",
+        "Runtime": "5–8 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Forky Asks a Question",
+        "Genre": "Animation",
+        "Premiere": "November 12, 2019",
+        "Seasons": "1 season, 10 episodes&#91;a&#93;",
+        "Runtime": "3–4 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Pixar in Real Life",
+        "Genre": "Hidden camera reality",
+        "Premiere": "November 12, 2019",
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "4–6 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "SparkShorts",
+        "Genre": "Animation anthology",
+        "Premiere": "November 12, 2019",
+        "Seasons": "1 season, 8 episodes&#91;a&#93;",
+        "Runtime": "7–12 min.",
+        "Status": "New episodes due to premiere on September 10, 2021 and September 17, 2021"
+      },
+      {
+        "Title": "One Day at Disney Shorts",
+        "Genre": "Docuseries",
+        "Premiere": "December 6, 2019",
+        "Seasons": "1 season, 51 episodes",
+        "Runtime": "5–7 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Short Circuit",
+        "Genre": "Animation anthology",
+        "Premiere": "January 24, 2020",
+        "Seasons": "2 seasons, 19 episodes",
+        "Runtime": "5–7 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Disney Insider",
+        "Genre": "Docuseries",
+        "Premiere": "March 20, 2020",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "16–17 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Zenimation",
+        "Genre": "Animation/ASMR",
+        "Premiere": "May 22, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "5–49 min.&#91;b&#93;",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Inside Pixar",
+        "Genre": "Docuseries",
+        "Premiere": "November 13, 2020",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "9–11 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Wonderful World of Mickey Mouse",
+        "Genre": "Animation",
+        "Premiere": "November 18, 2020",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "8 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Marvel Studios: Legends",
+        "Genre": "Superhero clip show",
+        "Premiere": "January 8, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "7–8 min.",
+        "Status": "New episode due to premiere on September 1, 2021"
+      },
+      {
+        "Title": "Pixar Popcorn",
+        "Genre": "Animation",
+        "Premiere": "January 22, 2021",
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "2–22 min.&#91;b&#93;",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Star Wars Vehicle Flythroughs",
+        "Genre": "Anthology series",
+        "Premiere": "May 4, 2021",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "3–4 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Disney's Launchpad",
+        "Genre": "Anthology series",
+        "Premiere": "May 28, 2021",
+        "Seasons": "1 season, 6 episodes&#91;a&#93;",
+        "Runtime": "14–21 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Goofy in How to Stay at Home",
+        "Genre": "Animated short",
+        "Premiere": "August 11, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "1–5 min.&#91;b&#93;",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dug Days",
+        "Genre": "Animated comedy",
+        "Premiere": "September 1, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Disney's Fairy Tale Weddings (season 2)",
+        "Genre": "Docuseries",
+        "Premiere": "February 14, 2020",
+        "Prev. network(s)": "Freeform",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "63 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Star Wars: The Clone Wars (season 7)",
+        "Genre": "Animation/Space opera",
+        "Premiere": "February 21, 2020",
+        "Prev. network(s)": "Cartoon Network &amp; Netflix",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "24 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Weird but True! (season 3)",
+        "Genre": "Docuseries",
+        "Premiere": "August 14, 2020",
+        "Prev. network(s)": "National Geographic",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "22 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Becoming (season 2)",
+        "Genre": "Docuseries",
+        "Premiere": "September 18, 2020",
+        "Prev. network(s)": "Disney XD",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "High School Musical: The Musical: The Series: The Special",
+        "Genre": "Musical/Making-of",
+        "Premiere": "December 14, 2019",
+        "Runtime": "23 min."
+      },
+      {
+        "Title": "The Real Right Stuff",
+        "Genre": "Documentary",
+        "Premiere": "November 20, 2020",
+        "Runtime": "1 hour, 30 min."
+      },
+      {
+        "Title": "High School Musical: The Musical: The Holiday Special",
+        "Genre": "Musical",
+        "Premiere": "December 11, 2020",
+        "Runtime": "45 min."
+      },
+      {
+        "Title": "Behind the Scenes of Growing Up Animal",
+        "Genre": "Making-of documentary",
+        "Premiere": "September 2, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "A Spark Story",
+        "Genre": "Documentary",
+        "Premiere": "September 24, 2021",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming"
+    ],
+    "data": [
+      {
+        "Title": "I Cavalieri di Castelcorvo",
+        "Genre": "Fantasy comedy-drama",
+        "Premiere": "November 6, 2020",
+        "Seasons": "1 season, 15 episodes",
+        "Runtime": "25 min.",
+        "Language": "Italian",
+        "Exclusive region": "Italy",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Sobrevolando",
+        "Genre": "Docuseries",
+        "Premiere": "November 17, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "27 min.",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
+      },
+      {
+        "Title": "El Ristorantino de Arnoldo",
+        "Genre": "Musical/Children's series",
+        "Premiere": "January 29, 2021",
+        "Seasons": "1 season, 18 episodes",
+        "Runtime": "24 min.",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Conecta y Canta",
+        "Genre": "Reality show",
+        "Premiere": "February 12, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "38–54 min.",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America, except Brazil",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Chaparreando",
+        "Genre": "Reality show",
+        "Premiere": "May 21, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "26–28 min.",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America, except Brazil",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Opa Popa Dupa (season 2)",
+        "Genre": "Variety/puppetry",
+        "Premiere": "June 25, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "22 min.",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
+      }
+    ]
+  }
+]
