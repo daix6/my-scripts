@@ -1,0 +1,1384 @@
+[
+  {
+    "category": [
+      "Original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "For All Mankind",
+        "Genre": "Alternate history",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "48–76 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Morning Show",
+        "Genre": "Drama",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "50–66 min.",
+        "Status": "Season 2 due to premiere on September 17, 2021"
+      },
+      {
+        "Title": "See",
+        "Genre": "Science fiction",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "49–57 min.",
+        "Status": "Season 2 due to premiere on August 27, 2021; Renewed"
+      },
+      {
+        "Title": "Servant",
+        "Genre": "Psychological thriller",
+        "Premiere": "November 28, 2019",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "25–36 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Truth Be Told",
+        "Genre": "Legal drama",
+        "Premiere": "December 6, 2019",
+        "Seasons": "2 seasons, 9 episodes",
+        "Runtime": "39–51 min.",
+        "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "Amazing Stories",
+        "Genre": "Science fiction anthology",
+        "Premiere": "March 6, 2020",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "47–53 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Home Before Dark",
+        "Genre": "Mystery drama",
+        "Premiere": "April 3, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "41–57 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Defending Jacob",
+        "Genre": "Legal drama",
+        "Premiere": "April 24, 2020",
+        "Seasons": "8 episodes",
+        "Runtime": "45–65 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Little Voice",
+        "Genre": "Musical drama",
+        "Premiere": "July 10, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "The Mosquito Coast",
+        "Genre": "Action thriller",
+        "Premiere": "April 30, 2021",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "42–57 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Lisey's Story",
+        "Genre": "Romance horror",
+        "Premiere": "June 4, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "46–52 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Foundation",
+        "Genre": "Science fiction",
+        "Premiere": "September 24, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Invasion",
+        "Genre": "Science fiction",
+        "Premiere": "October 22, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Dickinson",
+        "Genre": "Period comedy",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Ghostwriter",
+        "Genre": "Family mystery",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 26 episodes",
+        "Runtime": "22–26 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Little America",
+        "Genre": "Comedy-drama anthology",
+        "Premiere": "January 17, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "29–34 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Mythic Quest",
+        "Genre": "Workplace comedy",
+        "Premiere": "February 7, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "24–37 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Trying",
+        "Genre": "Comedy",
+        "Premiere": "May 1, 2020",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "26–30 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Ted Lasso",
+        "Genre": "Sports comedy",
+        "Premiere": "August 14, 2020",
+        "Seasons": "2 seasons, 15 episodes",
+        "Runtime": "29–38 min.",
+        "Status": "Season 2 ongoing; Renewed"
+      },
+      {
+        "Title": "Physical",
+        "Genre": "Black comedy",
+        "Premiere": "June 18, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "27–34 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Schmigadoon!",
+        "Genre": "Musical comedy",
+        "Premiere": "July 16, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mr. Corman",
+        "Genre": "Comedy-drama",
+        "Premiere": "August 6, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "23–34 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Shrink Next Door",
+        "Genre": "Dark comedy miniseries",
+        "Premiere": "November 12, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Central Park",
+        "Genre": "Musical sitcom",
+        "Premiere": "May 29, 2020",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "22–31 min.",
+        "Status": "Season 2 ongoing; Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Snoopy in Space",
+        "Genre": "Adventure",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "8 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Doug Unplugs",
+        "Genre": "Adventure",
+        "Premiere": "November 13, 2020",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "23 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Stillwater",
+        "Genre": "Comedy",
+        "Premiere": "December 4, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "23–24 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Snoopy Show",
+        "Genre": "Comedy",
+        "Premiere": "February 5, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "22 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Visible: Out on Television",
+        "Genre": "Docuseries",
+        "Premiere": "February 14, 2020",
+        "Seasons": "5 episodes",
+        "Runtime": "50–72 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Home",
+        "Genre": "Docuseries",
+        "Premiere": "April 17, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "27–37 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dear...",
+        "Genre": "Docuseries",
+        "Premiere": "June 5, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23–38 min.",
+        "Status": "Season 2 due to premiere in 2021"
+      },
+      {
+        "Title": "Greatness Code",
+        "Genre": "Docuseries",
+        "Premiere": "July 10, 2020",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "5–7 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Long Way Up",
+        "Genre": "Travel show",
+        "Premiere": "September 18, 2020",
+        "Seasons": "11 episodes",
+        "Runtime": "43–52 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Tiny World",
+        "Genre": "Nature docuseries",
+        "Premiere": "October 2, 2020",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "25–32 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Becoming You",
+        "Genre": "Docuseries",
+        "Premiere": "November 13, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "39–43 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Earth At Night In Color",
+        "Genre": "Nature docuseries",
+        "Premiere": "December 4, 2020",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "27–29 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "1971: The Year That Music Changed Everything",
+        "Genre": "Docuseries",
+        "Premiere": "May 21, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "42–49 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Me You Can't See",
+        "Genre": "Docuseries",
+        "Premiere": "May 21, 2021",
+        "Seasons": "6 episodes",
+        "Runtime": "46–91 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Watch the Sound with Mark Ronson",
+        "Genre": "Docuseries",
+        "Premiere": "July 30, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "33–36 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Unscripted",
+      "Variety"
+    ],
+    "data": [
+      {
+        "Title": "Oprah's Book Club",
+        "Genre": "Book club",
+        "Premiere": "November 1, 2019",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "8–66 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Helpsters",
+        "Genre": "Educational",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 26 episodes",
+        "Runtime": "22–28 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Oprah Talks COVID-19",
+        "Genre": "Interview",
+        "Premiere": "March 21, 2020",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "15–45 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Fraggle Rock: Rock On!",
+        "Genre": "Puppetry/variety",
+        "Premiere": "April 21, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "5–8 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Helpsters Help You",
+        "Genre": "Educational",
+        "Premiere": "April 24, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "1–3 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Oprah Conversation",
+        "Genre": "Talk show",
+        "Premiere": "July 30, 2020",
+        "Seasons": "1 season, 14 episodes",
+        "Runtime": "32–79 min.",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Tehran",
+        "Genre": "Spy thriller",
+        "Partner/Country": "Kan 11/Israel",
+        "Premiere": "September 25, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–50 min.",
+        "Language": "Hebrew",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Losing Alice",
+        "Genre": "Erotic thriller",
+        "Partner/Country": "Hot/Israel",
+        "Premiere": "January 22, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–55 min.",
+        "Language": "Hebrew",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Calls",
+        "Genre": "Mystery thriller",
+        "Partner/Country": "Canal+/France",
+        "Premiere": "March 19, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "13–20 min.",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original films",
+      "Feature films"
+    ],
+    "data": [
+      {
+        "Title": "Hala",
+        "Genre": "Coming-of-age drama",
+        "Release": "December 6, 2019",
+        "Runtime": "1 hour, 33 min."
+      },
+      {
+        "Title": "The Banker",
+        "Genre": "Drama",
+        "Release": "March 20, 2020",
+        "Runtime": "2 hours"
+      },
+      {
+        "Title": "Greyhound",
+        "Genre": "War",
+        "Release": "July 10, 2020",
+        "Runtime": "1 hour, 31 min."
+      },
+      {
+        "Title": "On the Rocks",
+        "Genre": "Comedy-drama",
+        "Release": "October 23, 2020&#91;a&#93;",
+        "Runtime": "1 hour, 36 min."
+      },
+      {
+        "Title": "Wolfwalkers",
+        "Genre": "Animated fantasy",
+        "Release": "December 11, 2020",
+        "Runtime": "1 hour, 42 min."
+      },
+      {
+        "Title": "Palmer",
+        "Genre": "Drama",
+        "Release": "January 29, 2021",
+        "Runtime": "1 hour, 50 min."
+      },
+      {
+        "Title": "Cherry",
+        "Genre": "Crime drama",
+        "Release": "March 12, 2021",
+        "Runtime": "2 hours, 20 min."
+      },
+      {
+        "Title": "CODA",
+        "Genre": "Coming-of-age drama",
+        "Release": "August 13, 2021",
+        "Runtime": "1 hour, 52 min."
+      },
+      {
+        "Title": "Come from Away",
+        "Genre": "Musical",
+        "Release": "September 10, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Finch",
+        "Genre": "Science fiction",
+        "Release": "November 5, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Luck",
+        "Genre": "Animation",
+        "Release": "February 18, 2022",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original films",
+      "Documentaries"
+    ],
+    "data": [
+      {
+        "Title": "The Elephant Queen",
+        "Genre": "Nature documentary",
+        "Release": "November 1, 2019&#91;a&#93;",
+        "Runtime": "1 hour, 36 min."
+      },
+      {
+        "Title": "Beastie Boys Story",
+        "Genre": "Documentary",
+        "Release": "April 24, 2020",
+        "Runtime": "2 hours"
+      },
+      {
+        "Title": "Dads",
+        "Genre": "Documentary",
+        "Release": "June 19, 2020",
+        "Runtime": "1 hour, 21 min."
+      },
+      {
+        "Title": "Boys State",
+        "Genre": "Documentary",
+        "Release": "August 14, 2020&#91;a&#93;",
+        "Runtime": "1 hour, 49 min."
+      },
+      {
+        "Title": "Bruce Springsteen's Letter to You",
+        "Genre": "Documentary",
+        "Release": "October 23, 2020",
+        "Runtime": "1 hour, 30 min."
+      },
+      {
+        "Title": "Fireball: Visitors from Darker Worlds",
+        "Genre": "Documentary",
+        "Release": "November 13, 2020",
+        "Runtime": "1 hour, 37 min."
+      },
+      {
+        "Title": "Billie Eilish: The World's a Little Blurry",
+        "Genre": "Documentary",
+        "Release": "February 26, 2021&#91;b&#93;",
+        "Runtime": "2 hours, 20 min."
+      },
+      {
+        "Title": "The Year Earth Changed",
+        "Genre": "Nature documentary",
+        "Release": "April 16, 2021",
+        "Runtime": "48 min."
+      },
+      {
+        "Title": "Fathom",
+        "Genre": "Nature documentary",
+        "Release": "June 25, 2021",
+        "Runtime": "1 hour, 26 min."
+      },
+      {
+        "Title": "Who Are You, Charlie Brown?",
+        "Genre": "Documentary",
+        "Release": "June 25, 2021",
+        "Runtime": "54 min."
+      },
+      {
+        "Title": "9/11: Inside the President's War Room",
+        "Genre": "Documentary",
+        "Release": "September 1, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Velvet Underground",
+        "Genre": "Documentary",
+        "Release": "October 15, 2021",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original films",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Here We Are: Notes for Living on Planet Earth",
+        "Genre": "Animated short",
+        "Release": "April 17, 2020",
+        "Runtime": "36 min."
+      },
+      {
+        "Title": "Mariah Carey's Magical Christmas Special",
+        "Genre": "Holiday special",
+        "Release": "December 4, 2020",
+        "Runtime": "43 min."
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "Severance",
+        "Genre": "Thriller",
+        "Premiere": "2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Bad Monkey",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Changeling",
+        "Genre": "Horror",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "City on Fire",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Crowded Room",
+        "Genre": "Drama anthology",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Dear Edward",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Essex Serpent",
+        "Genre": "Period drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Extrapolations",
+        "Genre": "Drama anthology",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Five Days at Memorial",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Hedy Lamarr",
+        "Genre": "Biopic miniseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "In with the Devil",
+        "Genre": "True crime drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Jane",
+        "Genre": "Live-action animated family drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Lady in the Lake",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Last Days of Ptolemy Grey",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Last Thing He Told Me",
+        "Genre": "Thriller miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Lessons in Chemistry",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Masters of the Air",
+        "Genre": "War drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "9 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "My Glory Was I Had Such Friends",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Shantaram",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Shining Girls",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Slow Horses",
+        "Genre": "Spy drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes&#91;c&#93;",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Surface",
+        "Genre": "Psychological thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Suspicion",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Swagger!",
+        "Genre": "Sports drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Untitled Damien Chazelle series",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Untitled Team Downey/Adam Perlman series",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "WeCrashed",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Wool",
+        "Genre": "Science fiction",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Puppy Place",
+        "Genre": "Family comedy",
+        "Premiere": "2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Afterparty",
+        "Genre": "Mystery comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "The Big Door Prize",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "Hello Tomorrow!",
+        "Genre": "Comedy-drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "High Desert",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "Loot",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "Lovely Little Farm",
+        "Genre": "Live-action animated family comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Platonic",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "Roar",
+        "Genre": "Anthology",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min."
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Strange Planet",
+        "Genre": "Adult animation",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Wolfboy and the Everything Factory",
+        "Genre": "Animation",
+        "Premiere": "2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Harriet the Spy",
+        "Genre": "Animation",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Search for WondLa&#91;d&#93;",
+        "Genre": "Animation",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Untitled Cartoon Saloon series",
+        "Genre": "Animation",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 12 episodes&#91;e&#93;",
+        "Runtime": "30 min."
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted"
+    ],
+    "data": [
+      {
+        "Title": "Pachinko",
+        "Genre": "Drama",
+        "Premiere": "2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Language": "Korean/Japanese/English"
+      },
+      {
+        "Title": "Dr. Brain",
+        "Genre": "Science fiction thriller",
+        "Premiere": "2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Language": "Korean"
+      },
+      {
+        "Title": "Acapulco",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30 min.",
+        "Language": "Spanish/English"
+      },
+      {
+        "Title": "Echo 3",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Language": "Spanish/English"
+      },
+      {
+        "Title": "Liaison",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "TBA",
+        "Language": "French/English"
+      },
+      {
+        "Title": "Now and Then",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish/English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "The Line: The War Within",
+        "Genre": "True crime miniseries",
+        "Premiere": "Late 2021",
+        "Seasons": "4 episodes&#91;f&#93;",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Big Man on Campus",
+        "Genre": "Sports",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Earthsound",
+        "Genre": "Natural history",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "30 min."
+      },
+      {
+        "Title": "Gutsy Women",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Jet",
+        "Genre": "True crime miniseries",
+        "Premiere": "TBA",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Prehistoric Planet",
+        "Genre": "Natural history",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Supermodels",
+        "Genre": "Fashion",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Untitled Oprah Winfrey biographical docuseries",
+        "Genre": "Biographical docuseries",
+        "Premiere": "TBA",
+        "Seasons": "2 episodes",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Untitled World Surf League docuseries",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "My Kind of Country",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Variety"
+    ],
+    "data": [
+      {
+        "Title": "The Problem with Jon Stewart",
+        "Genre": "News/Talk show",
+        "Premiere": "September 2021",
+        "Seasons": "TBA",
+        "Runtime": "60 min."
+      },
+      {
+        "Title": "Fraggle Rock",
+        "Genre": "Children's puppetry",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Hello, Jack! The Kindness Show",
+        "Genre": "Educational",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Carpool Karaoke: The Series",
+        "Genre": "Reality",
+        "Prev. network(s)": "Apple Music/Apple TV",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "In development"
+    ],
+    "data": [
+      {
+        "Title": "The Custom of the Country",
+        "Genre": "Drama miniseries"
+      },
+      {
+        "Title": "Dark Matter",
+        "Genre": "Science fiction thriller"
+      },
+      {
+        "Title": "El Gato Negro",
+        "Genre": "Superhero crime thriller"
+      },
+      {
+        "Title": "The Guru",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Losing Earth",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "My Ex-Life",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Time Bandits",
+        "Genre": "Fantasy"
+      },
+      {
+        "Title": "Untitled Colleen McGuinness series",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "Untitled Justin Timberlake series",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Untitled Negro league baseball series",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Untitled Ramy Youssef/Stephen Way series",
+        "Genre": "Comedy-drama"
+      },
+      {
+        "Title": "Untitled Young Lords project",
+        "Genre": "Drama"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original films",
+      "Feature films"
+    ],
+    "data": [
+      {
+        "Title": "The Tragedy of Macbeth&#91;a&#93;",
+        "Genre": "Drama",
+        "Release": "2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Spellbound",
+        "Genre": "Animation",
+        "Release": "2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Argylle",
+        "Genre": "Spy thriller",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Bride&#91;a&#93;",
+        "Genre": "Drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Emancipation",
+        "Genre": "Action thriller",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Greatest Beer Run Ever",
+        "Genre": "Drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Killers of the Flower Moon&#91;g&#93;",
+        "Genre": "Crime thriller",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Kitbag",
+        "Genre": "Epic historical drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Sharper&#91;a&#93;",
+        "Genre": "Drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Sky Is Everywhere&#91;a&#93;",
+        "Genre": "Drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Spirited",
+        "Genre": "Musical",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Swan Song",
+        "Genre": "Drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Tetris",
+        "Genre": "Biographical drama",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Untitled Idris Elba/Simon Kinberg film",
+        "Genre": "Spy romance",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original films",
+      "Documentaries"
+    ],
+    "data": [
+      {
+        "Title": "Black &amp; Blues: The Colorful Ballad of Louis Armstrong",
+        "Genre": "Documentary",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Number One on the Call Sheet: Black Leading Men in Hollywood",
+        "Genre": "Documentary",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Number One on the Call Sheet: Black Leading Women in Hollywood",
+        "Genre": "Documentary",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original films",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Blush",
+        "Genre": "Animated short",
+        "Release": "TBA",
+        "Length": "TBA"
+      },
+      {
+        "Title": "Untitled Peanuts back to school special",
+        "Genre": "Animation",
+        "Release": "TBA",
+        "Length": "TBA"
+      },
+      {
+        "Title": "Untitled Peanuts Earth Day special",
+        "Genre": "Animation",
+        "Release": "TBA",
+        "Length": "TBA"
+      },
+      {
+        "Title": "Untitled Peanuts Mother's Day special",
+        "Genre": "Animation",
+        "Release": "TBA",
+        "Length": "TBA"
+      },
+      {
+        "Title": "Untitled Peanuts New Year's Eve special",
+        "Genre": "Animation",
+        "Release": "TBA",
+        "Length": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original films",
+      "In development"
+    ],
+    "data": [
+      {
+        "Title": "Being Heumann",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Carrie &amp; Me",
+        "Genre": "Biopic"
+      },
+      {
+        "Title": "Dolly",
+        "Genre": "Science fiction courtroom drama"
+      },
+      {
+        "Title": "Snow Blind",
+        "Genre": "Thriller"
+      },
+      {
+        "Title": "Untitled Andy Samberg project",
+        "Genre": "Science fiction comedy-drama"
+      }
+    ]
+  }
+]

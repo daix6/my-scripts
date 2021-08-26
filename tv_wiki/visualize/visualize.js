@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path')
 const _ = require('lodash');
 
-const disney = require('../dist/disney+_tv_aired.json');
+const disney = require('../dist/disney+ tv customized.json');
 
 function processData(source) {
   return source.map(category => {

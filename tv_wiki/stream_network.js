@@ -76,7 +76,7 @@ const STREAM_NETWORKS = [
     },
   },
   {
-    name: 'hbo_max',
+    name: 'hbo max',
     wiki: ['List of HBO Max original programming'],
     filter(data) {
       return data.filter(table => {
@@ -88,7 +88,7 @@ const STREAM_NETWORKS = [
     },
   },
   {
-    name: 'apple_tv+',
+    name: 'apple tv+',
     wiki: ['List of Apple TV+ original programming'],
     filter(data) {
       return data.filter(table => {
@@ -148,9 +148,9 @@ async function run(all) {
 
     const filteredResult = network.filter(result);
 
-    if (all) await fs.promises.writeFile(path.join(__dirname, 'dist/', `${network.name}_tv_all.json`), JSON.stringify(result, undefined, 2), {encoding: 'utf-8'});
-    await fs.promises.writeFile(path.join(__dirname, 'dist/', `${network.name}_tv_aired.json`), JSON.stringify(filteredResult, undefined, 2), {encoding: 'utf-8'});
+    if (all) await fs.promises.writeFile(path.join(__dirname, 'dist/', `${network.name} all.json`), JSON.stringify(result, undefined, 2), {encoding: 'utf-8'});
+    await fs.promises.writeFile(path.join(__dirname, 'dist/', `${network.name} tv customized.json`), JSON.stringify(filteredResult, undefined, 2), {encoding: 'utf-8'});
   }
 }
 
-run();
+run(true);
