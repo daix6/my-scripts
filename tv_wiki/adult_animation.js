@@ -16,7 +16,7 @@ async function run() {
   let sources = await Promise.all(wiki.map(wiki => runStreamNetwork(wiki)));
   sources = sources.map(source => {
     return source.map(table => {
-      table.data = table.data.filter(item => !item["Release date"] || item["Release date"] !== 'TBA');
+      table.data = _.uniqBy(table.data.filter(item => !item["Release date"] || item["Release date"] !== 'TBA'), item => ([item.Title, item["Original release"]].join('-')));
       return table;
     });
   });
@@ -26,6 +26,8 @@ async function run() {
 
   const result = [];
   for (const key of allKeys) {
+    // console.log(keyBySources[0][key],keyBySources[1][key]);
+
     result.push({
       category: key.split('~'),
       data: _.orderBy(

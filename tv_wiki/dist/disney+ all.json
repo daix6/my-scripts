@@ -59,14 +59,14 @@
         "Premiere": "September 8, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Hawkeye",
-        "Genre": "Superhero action drama",
+        "Genre": "Superhero action-adventure",
         "Premiere": "November 24, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "40–50 min.",
         "Status": "Miniseries"
       }
     ]
@@ -83,7 +83,7 @@
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 22 episodes",
         "Runtime": "26–34 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Diary of a Future President",
@@ -107,15 +107,23 @@
         "Premiere": "April 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–45 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Turner &amp; Hooch",
         "Genre": "Buddy cop action-comedy",
         "Premiere": "July 21, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "46 min.",
+        "Runtime": "45–47 min.",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Just Beyond",
+        "Genre": "Supernatural comedy anthology",
+        "Premiere": "October 13, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -130,7 +138,7 @@
         "Genre": "Space opera",
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 16 episodes",
-        "Runtime": "26–70 min.",
+        "Runtime": "24–74 min.",
         "Status": "Renewed"
       },
       {
@@ -138,8 +146,8 @@
         "Genre": "Fantasy",
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "22–24 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "24–28 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "Chip 'n' Dale: Park Life",
@@ -154,7 +162,7 @@
         "Genre": "Superhero anthology",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "33 min.",
+        "Runtime": "33–35 min.",
         "Status": "Season 1 ongoing, Renewed"
       },
       {
@@ -213,14 +221,6 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "29–36 min.",
         "Status": "Ended"
-      },
-      {
-        "Title": "Disney Gallery: The Mandalorian",
-        "Genre": "Docuseries",
-        "Premiere": "May 4, 2020",
-        "Seasons": "2 seasons, 10 episodes",
-        "Runtime": "29–69 min.",
-        "Status": "Pending"
       },
       {
         "Title": "It's a Dog's Life with Bill Farmer",
@@ -307,7 +307,7 @@
         "Genre": "Docuseries",
         "Premiere": "July 21, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "39–48 min.",
+        "Runtime": "37–47 min.",
         "Status": "Pending"
       },
       {
@@ -316,6 +316,14 @@
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–52 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Among the Stars",
+        "Genre": "Docuseries",
+        "Premiere": "October 6, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       },
       {
@@ -382,7 +390,7 @@
         "Premiere": "July 31, 2020",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "22–24 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Earth to Ned",
@@ -430,15 +438,15 @@
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "4–6 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "SparkShorts",
         "Genre": "Animation anthology",
         "Premiere": "November 12, 2019",
-        "Seasons": "1 season, 8 episodes&#91;a&#93;",
+        "Seasons": "1 season, 10 episodes&#91;a&#93;",
         "Runtime": "7–12 min.",
-        "Status": "New episodes due to premiere on September 10, 2021 and September 17, 2021"
+        "Status": "Ended"
       },
       {
         "Title": "One Day at Disney Shorts",
@@ -492,9 +500,9 @@
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Runtime": "7–8 min.",
-        "Status": "New episode due to premiere on September 1, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Pixar Popcorn",
@@ -533,7 +541,7 @@
         "Genre": "Animated comedy",
         "Premiere": "September 1, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "TBA",
+        "Runtime": "8–11 min.",
         "Status": "Pending"
       }
     ]
@@ -578,14 +586,15 @@
         "Prev. network(s)": "Disney XD",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
   {
     "category": [
       "Original programming",
-      "Specials"
+      "Specials",
+      "One-time"
     ],
     "data": [
       {
@@ -607,16 +616,27 @@
         "Runtime": "45 min."
       },
       {
-        "Title": "Behind the Scenes of Growing Up Animal",
-        "Genre": "Making-of documentary",
-        "Premiere": "September 2, 2021",
-        "Runtime": "TBA"
-      },
-      {
         "Title": "A Spark Story",
         "Genre": "Documentary",
         "Premiere": "September 24, 2021",
         "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Specials",
+      "Episodic"
+    ],
+    "data": [
+      {
+        "Title": "Disney Gallery: The Mandalorian",
+        "Genre": "Docuseries",
+        "Premiere": "May 4, 2020",
+        "Seasons": "2 seasons, 10 episodes",
+        "Runtime": "29–69 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -748,15 +768,23 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Premiere": "2022",
-        "Status": "Pre-production"
+        "Status": "Filming"
       },
       {
         "Title": "The Acolyte",
         "Genre": "Space opera/Mystery-thriller",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Premiere": "March 2023",
+        "Status": "Series order"
+      },
+      {
+        "Title": "National Treasure",
+        "Genre": "Action-adventure",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Premiere": "TBA",
-        "Status": "Series order"
+        "Status": "Pre-production"
       },
       {
         "Title": "Ahsoka",
@@ -807,14 +835,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "National Treasure",
-        "Genre": "Action-adventure",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Premiere": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Nautilus",
         "Genre": "Adventure",
         "Seasons": "1 season, 10 episodes",
@@ -846,14 +866,6 @@
       "Comedy"
     ],
     "data": [
-      {
-        "Title": "Just Beyond",
-        "Genre": "Horror comedy anthology",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Premiere": "Late 2021",
-        "Status": "Post-production"
-      },
       {
         "Title": "She-Hulk",
         "Genre": "Superhero legal comedy",
@@ -947,6 +959,14 @@
         "Genre": "Action-adventure comedy",
         "Seasons": "TBA",
         "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled Marvel Studios series",
+        "Genre": "Superhero drama",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
         "Premiere": "TBA",
         "Status": "Series order"
       },
@@ -1392,10 +1412,6 @@
       {
         "Title": "Untitled Echo series",
         "Genre": "Superhero action drama"
-      },
-      {
-        "Title": "Untitled Marvel Studios animated series",
-        "Genre": "Animated superhero action drama"
       },
       {
         "Title": "Untitled Marvel Studios animated series",

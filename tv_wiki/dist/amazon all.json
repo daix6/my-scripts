@@ -161,7 +161,7 @@
       },
       {
         "Title": "The Wilds",
-        "Genre": "Young adult Drama",
+        "Genre": "Young adult drama",
         "Premiere": "December 11, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Renewed"
@@ -200,6 +200,13 @@
         "Premiere": "October 15, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Wheel of Time",
+        "Genre": "Fantasy",
+        "Premiere": "November 19, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Renewed"
       },
       {
         "Title": "The Lord of the Rings",
@@ -378,10 +385,17 @@
         "Status": "Ended"
       },
       {
+        "Title": "Borat's American Lockdown &amp; Debunking Borat",
+        "Genre": "Comedy",
+        "Premiere": "May 24, 2021",
+        "Seasons/episodes": "7 episodes",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Back to the Rafters",
         "Genre": "Comedy-drama",
         "Premiere": "September 17, 2021",
-        "Seasons/episodes": "TBA",
+        "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -443,7 +457,7 @@
     "category": [
       "Original programming",
       "Animation",
-      "Kids &amp; family"
+      "Kids and family"
     ],
     "data": [
       {
@@ -535,7 +549,7 @@
         "Genre": "Comedy",
         "Premiere": "September 21, 2018",
         "Seasons/episodes": "2 seasons, 28 episodes",
-        "Status": "Pete The Cat Back To School Operetta is due to release on August 27, 2021."
+        "Status": "Pending"
       },
       {
         "Title": "Kung Fu Panda: The Paws of Destiny",
@@ -678,7 +692,7 @@
         "Title": "Chacha Vidhayak Hain Humare",
         "Genre": "Comedy",
         "Premiere": "May 18, 2018",
-        "Seasons/episodes": "2 season, 16 episodes",
+        "Seasons/episodes": "2 seasons, 16 episodes",
         "Status": "Renewed"
       },
       {
@@ -713,14 +727,14 @@
         "Title": "The Family Man",
         "Genre": "Espionage",
         "Premiere": "September 20, 2019",
-        "Seasons/episodes": "2 season, 19 episodes",
+        "Seasons/episodes": "2 seasons, 19 episodes",
         "Status": "Renewed"
       },
       {
         "Title": "Hostel Daze",
         "Genre": "Comedy-drama",
         "Premiere": "December 13, 2019",
-        "Seasons/episodes": "1 season, 5 episodes",
+        "Seasons/episodes": "2 seasons, 9 episodes",
         "Status": "Ended"
       },
       {
@@ -790,6 +804,13 @@
         "Title": "The Last Hour",
         "Genre": "Crime thriller",
         "Premiere": "May 14, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mumbai Diaries 26/11",
+        "Genre": "Thriller",
+        "Premiere": "September 9, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       }
@@ -956,6 +977,13 @@
         "Genre": "Drama",
         "Premiere": "June 25, 2021",
         "Seasons/episodes": "1 season, 5 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Uncoupled in Rio",
+        "Genre": "Comedy",
+        "Premiere": "October 1, 2021",
+        "Seasons/episodes": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1448,7 +1476,7 @@
         "Title": "Fernando",
         "Genre": "Sports documentary",
         "Premiere": "September 25, 2020",
-        "Seasons/episodes": "1 season, 5 episodes",
+        "Seasons/episodes": "2 seasons, 9 episodes",
         "Language": "English",
         "Status": "Pending"
       },
@@ -1734,12 +1762,20 @@
         "Status": "Renewed"
       },
       {
+        "Title": "LOL - Enga Siri Paappom",
+        "Genre": "Comedy competition",
+        "Premiere": "August 27, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "Tamil/English",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Masked Singer Japan",
         "Genre": "Music competition",
         "Premiere": "September 3, 2021",
         "Seasons/episodes": "1 season, 9 episodes",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -2064,6 +2100,19 @@
   },
   {
     "category": [
+      "Original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Borat: VHS Cassette of Material Deemed \"Sub-acceptable\" By Kazakhstan Ministry of Censorship and Circumcision",
+        "Genre": "Comedy",
+        "Premiere": "May 24, 2021"
+      }
+    ]
+  },
+  {
+    "category": [
       "Regional original programming",
       "Drama"
     ],
@@ -2266,7 +2315,7 @@
       },
       {
         "Title": "Soorarai Pottru",
-        "Genre(s)": "Biographical",
+        "Genre(s)": "Drama",
         "Premiere": "November 12, 2020",
         "Language": "Tamil"
       },
@@ -2493,16 +2542,28 @@
         "Language": "English"
       },
       {
+        "Title": "Tuck Jagadish",
+        "Genre(s)": "Action drama",
+        "Premiere": "September 10, 2021",
+        "Language": "Telugu"
+      },
+      {
         "Title": "Everybody's Talking About Jamie",
         "Genre(s)": "Musical drama",
         "Premiere": "September 17, 2021",
         "Language": "English"
       },
       {
-        "Title": "The Mad Woman's Ball",
+        "Title": "The Mad Women's Ball",
         "Genre(s)": "Period mystery thriller",
         "Premiere": "September 17, 2021",
         "Language": "French"
+      },
+      {
+        "Title": "Birds of Paradise",
+        "Genre(s)": "Drama",
+        "Premiere": "September 24, 2021",
+        "Language": "English"
       },
       {
         "Title": "Bingo Hell",
@@ -2527,6 +2588,12 @@
         "Genre(s)": "Horror",
         "Premiere": "October 8, 2021",
         "Language": "English"
+      },
+      {
+        "Title": "Sardar Udham Singh",
+        "Genre(s)": "Biographical",
+        "Premiere": "October 16, 2021",
+        "Language": "Hindi"
       }
     ]
   },
@@ -2572,6 +2639,11 @@
         "Language": "Italian"
       },
       {
+        "Title": "Bastille: ReOrchestrated",
+        "Premiere": "February 10, 2021",
+        "Language": "English"
+      },
+      {
         "Title": "The Boy From Medellín",
         "Premiere": "May 7, 2021",
         "Language": "Spanish"
@@ -2584,6 +2656,11 @@
       {
         "Title": "Mary J. Blige's My Life",
         "Premiere": "June 25, 2021",
+        "Language": "English"
+      },
+      {
+        "Title": "Justin Bieber: Our World",
+        "Premiere": "October 8, 2021",
         "Language": "English"
       }
     ]
@@ -2811,12 +2888,6 @@
     ],
     "data": [
       {
-        "Title": "The Wheel of Time",
-        "Genre": "Fantasy",
-        "Seasons": "TBA",
-        "Premiere": "November 2021;&#91;86&#93; Renewed"
-      },
-      {
         "Title": "The End",
         "Genre": "Hindi action-thriller",
         "Seasons": "TBA",
@@ -2915,6 +2986,12 @@
       {
         "Title": "Everybody Loves Diamonds",
         "Genre": "Italian heist drama",
+        "Seasons": "TBA",
+        "Premiere": "2023"
+      },
+      {
+        "Title": "Wilderness",
+        "Genre": "Psychological thriller",
         "Seasons": "TBA",
         "Premiere": "2023"
       },
@@ -3095,7 +3172,7 @@
       {
         "Title": "The Power",
         "Genre": "Drama",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Premiere": "TBA"
       },
       {
@@ -3355,6 +3432,10 @@
         "Genre": "Adult animated black comedy"
       },
       {
+        "Title": "Infinite Thread",
+        "Genre": "True crime science fiction"
+      },
+      {
         "Title": "The Inheritance Games",
         "Genre": "Young adult"
       },
@@ -3453,6 +3534,10 @@
       {
         "Title": "Savannah",
         "Genre": "Thriller"
+      },
+      {
+        "Title": "She-Ra",
+        "Genre": "Fantasy"
       },
       {
         "Title": "Shoot the Moon",
@@ -3556,7 +3641,7 @@
       },
       {
         "Title": "Unknown",
-        "Genre": "Psychological thriller Horror Anthology"
+        "Genre": "Psychological thriller horror anthology"
       },
       {
         "Title": "Youth",
@@ -3571,6 +3656,12 @@
     ],
     "data": [
       {
+        "Title": "Chhorii",
+        "Genre": "Horror",
+        "Release": "November 2021",
+        "Language": "Hindi"
+      },
+      {
         "Title": "Anni Da Cane",
         "Genre": "Comedy",
         "Release": "2021",
@@ -3583,12 +3674,6 @@
         "Language": "French"
       },
       {
-        "Title": "The Electrical Life of Louis Wain",
-        "Genre": "Biography",
-        "Release": "2021",
-        "Language": "English"
-      },
-      {
         "Title": "Run Sweetheart Run",
         "Genre": "Horror",
         "Release": "2021",
@@ -3597,12 +3682,6 @@
       {
         "Title": "Don't Make Me Go",
         "Genre": "Comedy/Drama",
-        "Release": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Relationship Goals",
-        "Genre": "Romance/Comedy",
         "Release": "TBA",
         "Language": "English"
       },
@@ -4341,7 +4420,7 @@
         "Title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
         "Genre": "Anime",
         "Release date": "August 13, 2021",
-        "Prime Video exclusive region": "Worldwide",
+        "Prime Video exclusive region": "Worldwide excluding Japan",
         "Language": "Japanese"
       }
     ]
@@ -4356,7 +4435,7 @@
       {
         "Title": "Hotel Transylvania: Transformania",
         "Genre": "Animated comedy",
-        "Release date": "Early 2022",
+        "Release date": "TBA",
         "Prime Video exclusive region": "Worldwide except China",
         "Language": "English"
       },

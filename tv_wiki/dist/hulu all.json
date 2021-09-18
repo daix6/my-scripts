@@ -47,7 +47,7 @@
       },
       {
         "Title": "Chance",
-        "Genre": "Crime drama / Psychological thriller",
+        "Genre": "Crime drama psychological thriller",
         "Premiere": "October 19, 2016",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "40–42 min.",
@@ -63,7 +63,7 @@
       },
       {
         "Title": "Dimension 404",
-        "Genre": "Science fiction / anthology",
+        "Genre": "Science fiction anthology",
         "Premiere": "April 4, 2017",
         "Seasons": "1 season, 6 episodes",
         "Length": "40 min.",
@@ -79,7 +79,7 @@
       },
       {
         "Title": "Runaways",
-        "Genre": "Superhero / Teen drama",
+        "Genre": "Superhero teen drama",
         "Premiere": "November 21, 2017",
         "Seasons": "3 seasons, 33 episodes",
         "Length": "46–53 min.",
@@ -107,7 +107,7 @@
         "Premiere": "October 5, 2018",
         "Seasons": "2 seasons, 24 episodes",
         "Length": "81–93 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Light as a Feather",
@@ -129,9 +129,9 @@
         "Title": "Wu-Tang: An American Saga",
         "Genre": "Drama",
         "Premiere": "September 4, 2019",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "59 min.",
-        "Status": "Season 2 due to premiere on September 8, 2021"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Looking for Alaska",
@@ -191,7 +191,7 @@
       },
       {
         "Title": "Helstrom",
-        "Genre": "Superhero / Horror",
+        "Genre": "Superhero horror",
         "Premiere": "October 16, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "44–55 min.",
@@ -211,7 +211,7 @@
         "Premiere": "July 15, 2021",
         "Seasons": "1 season, 7 episodes",
         "Length": "38–49 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Nine Perfect Strangers",
@@ -227,7 +227,7 @@
         "Premiere": "September 13, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Premise&#91;a&#93;",
@@ -329,9 +329,9 @@
         "Title": "PEN15",
         "Genre": "Teen comedy",
         "Premiere": "February 8, 2019",
-        "Seasons": "2 seasons, 17 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Length": "22–24 min.",
-        "Status": "New episode due to premiere on August 27, 2021,&#91;32&#93; Season 2 ongoing"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Shrill",
@@ -395,15 +395,15 @@
         "Premiere": "August 9, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
         "Title": "Only Murders in the Building",
         "Genre": "Comedy",
         "Premiere": "August 31, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "26–35 min.",
+        "Status": "Season 1 ongoing; Renewed"
       }
     ]
   },
@@ -424,7 +424,7 @@
       },
       {
         "Title": "Solar Opposites",
-        "Genre": "Science fiction / Sitcom",
+        "Genre": "Science fiction sitcom",
         "Premiere": "May 8, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "22–25 min.",
@@ -477,7 +477,7 @@
         "Premiere": "November 20, 2020",
         "Seasons": "1 season, 13 episodes",
         "Length": "24–27 min.",
-        "Status": "Season 2 due to premiere on November 5, 2021;&#91;25&#93; Renewed"
+        "Status": "Season 2 due to premiere on November 5, 2021;&#91;21&#93; Renewed"
       }
     ]
   },
@@ -676,7 +676,7 @@
     "data": [
       {
         "Title": "The Thick of It (series 4)",
-        "Partner / Country": "BBC Two / United Kingdom",
+        "Partner/Country": "BBC Two/United Kingdom",
         "Genre": "Comedy",
         "Premiere": "September 9, 2012",
         "Seasons": "1 season, 7 episodes",
@@ -685,7 +685,7 @@
       },
       {
         "Title": "Mother Up!",
-        "Partner / Country": "City / Canada",
+        "Partner/Country": "Citytv/Canada",
         "Genre": "Adult animation",
         "Premiere": "November 6, 2013",
         "Seasons": "1 season, 13 episodes",
@@ -694,7 +694,7 @@
       },
       {
         "Title": "The Wrong Mans",
-        "Partner / Country": "BBC Two / United Kingdom",
+        "Partner/Country": "BBC Two/United Kingdom",
         "Genre": "Comedy-drama",
         "Premiere": "November 11, 2013",
         "Seasons": "2 seasons, 10 episodes",
@@ -703,7 +703,7 @@
       },
       {
         "Title": "Harlots",
-        "Partner / Country": "ITV Encore / United Kingdom",
+        "Partner/Country": "ITV Encore/United Kingdom",
         "Genre": "Historical period drama",
         "Premiere": "March 29, 2017",
         "Seasons": "3 seasons, 24 episodes",
@@ -712,7 +712,7 @@
       },
       {
         "Title": "Hard Sun",
-        "Partner / Country": "BBC One / United Kingdom",
+        "Partner/Country": "BBC One/United Kingdom",
         "Genre": "Drama",
         "Premiere": "March 7, 2018",
         "Seasons": "1 season, 6 episodes",
@@ -721,7 +721,7 @@
       },
       {
         "Title": "The First",
-        "Partner / Country": "Channel 4 / United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Drama",
         "Premiere": "September 14, 2018",
         "Seasons": "1 season, 8 episodes",
@@ -730,7 +730,7 @@
       },
       {
         "Title": "The Bisexual",
-        "Partner / Country": "Channel 4 / United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Comedy-drama",
         "Premiere": "November 16, 2018",
         "Seasons": "1 season, 6 episodes",
@@ -739,7 +739,7 @@
       },
       {
         "Title": "Holly Hobbie",
-        "Partner / Country": "Family Channel / Canada",
+        "Partner/Country": "Family Channel/Canada",
         "Genre": "Teen comedy",
         "Premiere": "November 16, 2018",
         "Seasons": "2 seasons, 20 episodes",
@@ -748,8 +748,8 @@
       },
       {
         "Title": "Catch-22",
-        "Partner / Country": "Sky Italia / Italy",
-        "Genre": "Satire / Dark comedy",
+        "Partner/Country": "Sky Italia/Italy",
+        "Genre": "Satire dark comedy",
         "Premiere": "May 17, 2019",
         "Seasons": "6 episodes",
         "Length": "60 min.",
@@ -757,7 +757,7 @@
       },
       {
         "Title": "The Weekly&#91;a&#93;",
-        "Partner / Country": "FX / United States",
+        "Partner/Country": "FX/United States",
         "Genre": "Docuseries",
         "Premiere": "June 3, 2019",
         "Seasons": "1 season, 30 episodes",
@@ -766,7 +766,7 @@
       },
       {
         "Title": "This Way Up",
-        "Partner / Country": "Channel 4 / United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Comedy-drama",
         "Premiere": "August 21, 2019",
         "Seasons": "2 seasons, 12 episodes",
@@ -775,8 +775,8 @@
       },
       {
         "Title": "Zomboat!",
-        "Partner / Country": "ITV2 / United Kingdom",
-        "Genre": "Comedy-drama / thriller",
+        "Partner/Country": "ITV2/United Kingdom",
+        "Genre": "Comedy-drama thriller",
         "Premiere": "October 25, 2019",
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
@@ -784,7 +784,7 @@
       },
       {
         "Title": "The Accident",
-        "Partner / Country": "Channel 4 / United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Drama",
         "Premiere": "November 22, 2019",
         "Seasons": "4 episodes",
@@ -793,7 +793,7 @@
       },
       {
         "Title": "Endlings",
-        "Partner / Country": "CBC Television / Canada",
+        "Partner/Country": "CBC Television/Canada",
         "Genre": "Family science fiction",
         "Premiere": "January 17, 2020",
         "Seasons": "2 seasons, 24 episodes",
@@ -802,8 +802,8 @@
       },
       {
         "Title": "Utopia Falls",
-        "Partner / Country": "CBC Gem / Canada",
-        "Genre": "Teen science fiction / Drama",
+        "Partner/Country": "CBC Gem/Canada",
+        "Genre": "Teen science fiction drama",
         "Premiere": "February 14, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "60 min.",
@@ -811,7 +811,7 @@
       },
       {
         "Title": "Baghdad Central",
-        "Partner / Country": "Channel 4 / United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Drama",
         "Premiere": "March 27, 2020",
         "Seasons": "1 season, 6 episodes",
@@ -820,7 +820,7 @@
       },
       {
         "Title": "Normal People",
-        "Partner / Country": "BBC Three / United Kingdom",
+        "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
         "Premiere": "April 29, 2020",
         "Seasons": "12 episodes",
@@ -829,7 +829,7 @@
       },
       {
         "Title": "The New York Times Presents",
-        "Partner / Country": "FX / United States",
+        "Partner/Country": "FX/United States",
         "Genre": "Docuseries",
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 10 episodes",
@@ -838,7 +838,7 @@
       },
       {
         "Title": "Madagascar: A Little Wild",
-        "Partner / Country": "Peacock / United States",
+        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
         "Seasons": "4 seasons, 25 episodes",
@@ -847,7 +847,7 @@
       },
       {
         "Title": "The Mighty Ones",
-        "Partner / Country": "Peacock / United States",
+        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
         "Seasons": "2 seasons, 20 episodes",
@@ -856,7 +856,7 @@
       },
       {
         "Title": "No Man's Land",
-        "Partner / Country": "Arte France / France",
+        "Partner/Country": "Arte France/France",
         "Genre": "Drama",
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 8 episodes",
@@ -865,17 +865,17 @@
       },
       {
         "Title": "Trolls: TrollsTopia",
-        "Partner / Country": "Peacock / United States",
+        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "3 seasons, 26 episodes",
+        "Seasons": "4 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 4 due to premiere on September 2, 2021."
+        "Status": "Pending"
       },
       {
         "Title": "The Hardy Boys",
-        "Partner / Country": "YTV / Canada",
-        "Genre": "Drama / Mystery",
+        "Partner/Country": "YTV/Canada",
+        "Genre": "Mystery teen drama",
         "Premiere": "December 4, 2020",
         "Seasons": "1 season, 13 episodes",
         "Length": "40–46 min.",
@@ -883,12 +883,21 @@
       },
       {
         "Title": "The Sister",
-        "Partner / Country": "ITV / United Kingdom",
+        "Partner/Country": "ITV/United Kingdom",
         "Genre": "Psychological thriller",
         "Premiere": "January 22, 2021",
         "Seasons": "4 episodes",
         "Length": "59 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Croods: Family Tree",
+        "Partner/Country": "Peacock/United States",
+        "Genre": "Animated family comedy",
+        "Premiere": "September 23, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -918,7 +927,7 @@
       },
       {
         "Title": "Veronica Mars (season 4)",
-        "Genre": "Noir / Mystery",
+        "Genre": "Noir/mystery",
         "Prev. network(s)": "UPN/The CW",
         "Premiere": "July 19, 2019",
         "Seasons": "1 season, 8 episodes",
@@ -1036,7 +1045,7 @@
         "Title": "Vacation Friends",
         "Genre": "Comedy",
         "Release date": "August 27, 2021",
-        "Runtime": "TBA"
+        "Runtime": "1 hour, 45 min."
       }
     ]
   },
@@ -1209,14 +1218,14 @@
         "Genre": "Drama",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Premiere": "2022"
+        "Premiere": "2021"
       },
       {
         "Title": "The Dropout",
         "Genre": "Drama miniseries",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Premiere": "2022"
+        "Premiere": "2021"
       },
       {
         "Title": "Candy",
@@ -1226,14 +1235,14 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Class of '09",
+        "Title": "Class of '09&#91;a&#93;",
         "Genre": "Crime drama miniseries",
         "Seasons": "TBA",
         "Length": "TBA",
         "Premiere": "TBA"
       },
       {
-        "Title": "Fleishman Is in Trouble",
+        "Title": "Fleishman Is in Trouble&#91;a&#93;",
         "Genre": "Drama miniseries",
         "Seasons": "9 episodes",
         "Length": "TBA",
@@ -1268,14 +1277,14 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Pistol",
+        "Title": "Pistol&#91;a&#93;",
         "Genre": "Biographical drama miniseries",
         "Seasons": "6 episodes",
         "Length": "TBA",
         "Premiere": "TBA"
       },
       {
-        "Title": "Shōgun",
+        "Title": "Shōgun&#91;a&#93;",
         "Genre": "Historical drama miniseries",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1289,7 +1298,7 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Under the Banner of Heaven",
+        "Title": "Under the Banner of Heaven&#91;a&#93;",
         "Genre": "Crime drama miniseries",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1451,7 +1460,7 @@
         "Title": "The Orville (season 3)",
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
-        "Seasons": "3",
+        "Seasons": "1 season, 11 episodes",
         "Length": "TBA",
         "Premiere": "2021"
       }
@@ -1494,6 +1503,10 @@
       {
         "Title": "Brainbox",
         "Genre": "Science fiction"
+      },
+      {
+        "Title": "Career Opportunities In Murder &amp; Mayhem",
+        "Genre": "Drama"
       },
       {
         "Title": "Demons",

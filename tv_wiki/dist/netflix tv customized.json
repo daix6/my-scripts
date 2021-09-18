@@ -103,25 +103,17 @@
         "Status": "Pending"
       },
       {
-        "Title": "King of Boys: The Return of the King",
-        "Genre": "Crime drama",
-        "Premiere": "August 27, 2021",
-        "Seasons": "7 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Midnight Mass",
         "Genre": "Horror",
         "Premiere": "September 24, 2021",
-        "Seasons": "TBA",
+        "Seasons": "7 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
       },
       {
         "Title": "Maid",
         "Genre": "Dramedy",
-        "Premiere": "October 2, 2021",
+        "Premiere": "October 1, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Miniseries"
@@ -141,6 +133,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "True Story",
+        "Genre": "Drama",
+        "Premiere": "November 24, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -191,6 +191,22 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Scaredy Cats",
+        "Genre": "Comedy",
+        "Premiere": "October 1, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Pretty Smart",
+        "Genre": "Sitcom",
+        "Premiere": "October 8, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -206,23 +222,23 @@
         "Premiere": "July 23, 2021",
         "Seasons": "1 part, 5 episodes",
         "Runtime": "24–27 min.",
-        "Status": "Renewed"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Q-Force",
         "Genre": "Comedy",
         "Premiere": "September 2, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "26 min.",
         "Status": "Pending"
       },
       {
         "Title": "Chicago Party Aunt",
         "Genre": "Comedy",
         "Premiere": "September 17, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Status": "Renewed"
+        "Seasons": "1 part, 8 episodes",
+        "Runtime": "22–25 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Inside Job",
@@ -274,7 +290,7 @@
         "Seasons": "1 season, 5 episodes",
         "Runtime": "16–18 min.",
         "Language": "Japanese",
-        "Status": "Renewed"
+        "Status": "Part 2 due to premiere on October 7, 2021"
       },
       {
         "Title": "Yasuke",
@@ -330,6 +346,15 @@
         "Runtime": "24–26 min.",
         "Language": "English",
         "Notes": ""
+      },
+      {
+        "Title": "Baki Hanma",
+        "Genre": "Martial arts",
+        "Premiere": "September 30, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
       }
     ]
   },
@@ -508,14 +533,6 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "15–31 min.",
         "Status": "Pending"
-      },
-      {
-        "Title": "The Ingenuity of the Household",
-        "Genre": "Comedy",
-        "Premiere": "August 29, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
       }
     ]
   },
@@ -545,16 +562,16 @@
         "Title": "D.P.",
         "Genre": "Drama",
         "Premiere": "August 27, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "45–55 min.",
         "Status": "Pending"
       },
       {
         "Title": "Squid Game",
         "Genre": "Thriller",
         "Premiere": "September 17, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "32–63 min.",
         "Status": "Pending"
       }
     ]
@@ -655,38 +672,6 @@
         "Notes": ""
       },
       {
-        "Title": "Elite Short Stories: Guzmán Caye Rebe",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 14, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "9–15 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Nadia Guzmán",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 15, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "9–14 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Omar Ander Alexis",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 16, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "9–14 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Carla Samuel",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 17, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "13–16 min.",
-        "Status": "Pending"
-      },
-      {
         "Title": "Somos.",
         "Genre": "Drama",
         "Premiere": "June 30, 2021",
@@ -716,14 +701,6 @@
         "Premiere": "August 20, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–34 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Jaguar",
-        "Genre": "Historical drama",
-        "Premiere": "September 22, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -871,7 +848,7 @@
         "Genre": "Mystery teen drama",
         "Premiere": "September 3, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "TBA",
+        "Runtime": "26–27 min.",
         "Language": "English",
         "Netflix Exclusive Regions": "All other markets",
         "Status": "Pending"
@@ -881,8 +858,8 @@
         "Partner/Country": "Canal+/France",
         "Genre": "Comedy",
         "Premiere": "September 7, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "28–35 min.",
         "Language": "English",
         "Netflix Exclusive Regions": "All other markets",
         "Status": "Pending"
@@ -902,7 +879,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–41 min.",
         "Language": "English",
-        "Status": "Season 4 due to premiere in December 2021"
+        "Status": "Season 4 due to premiere in December 2021; Renewed"
       },
       {
         "Title": "Girl from Nowhere (season 2)",
@@ -948,104 +925,148 @@
   },
   {
     "category": [
-      "Specials"
+      "Specials",
+      "One-time"
     ],
     "data": [
+      {
+        "Title": "Cobra Kai - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "January 2, 2021",
+        "Runtime": "34 min.",
+        "Notes": ""
+      },
       {
         "Title": "Creating The Queen's Gambit",
         "Genre": "Making-of",
         "Premiere": "January 8, 2021",
-        "Runtime": "14 min."
+        "Runtime": "14 min.",
+        "Notes": ""
+      },
+      {
+        "Title": "Bridgerton - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "January 23, 2021",
+        "Runtime": "38 min.",
+        "Notes": ""
+      },
+      {
+        "Title": "Bling Empire - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "January 30, 2021",
+        "Runtime": "35 min.",
+        "Notes": ""
+      },
+      {
+        "Title": "To All the Boys: Always and Forever - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "February 13, 2021",
+        "Runtime": "36 min.",
+        "Notes": ""
       },
       {
         "Title": "Animals on the Loose: A You vs. Wild Interactive Movie",
         "Genre": "Reality television/Interactive fiction",
         "Premiere": "February 16, 2021",
-        "Runtime": "45 min."
+        "Runtime": "45 min.",
+        "Notes": ""
       },
       {
         "Title": "Fate: The Winx Saga - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "February 20, 2021",
-        "Runtime": "35 min."
+        "Runtime": "35 min.",
+        "Notes": ""
       },
       {
         "Title": "Ginny &amp; Georgia - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "February 26, 2021",
-        "Runtime": "35 min."
+        "Runtime": "35 min.",
+        "Notes": ""
       },
       {
         "Title": "The Last Kids on Earth: Happy Apocalypse to You",
         "Genre": "Animation/Interactive fiction",
         "Premiere": "April 6, 2021",
-        "Runtime": "27 min."
+        "Runtime": "27 min.",
+        "Notes": ""
       },
       {
         "Title": "Dad Stop Embarrassing Me! - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "April 16, 2021",
-        "Runtime": "37 min."
+        "Runtime": "37 min.",
+        "Notes": ""
       },
       {
         "Title": "Shadow and Bone - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "April 24, 2021",
-        "Runtime": "32 min."
+        "Runtime": "32 min.",
+        "Notes": ""
       },
       {
         "Title": "The Circle - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "May 7, 2021",
-        "Runtime": "35 min."
+        "Runtime": "35 min.",
+        "Notes": ""
       },
       {
         "Title": "The Upshaws - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "May 14, 2021",
-        "Runtime": "32 min."
+        "Runtime": "32 min.",
+        "Notes": ""
       },
       {
         "Title": "Super Monsters: Once Upon a Rhyme",
         "Genre": "Animation",
         "Premiere": "June 1, 2021",
-        "Runtime": "25 min."
+        "Runtime": "25 min.",
+        "Notes": ""
       },
       {
         "Title": "Trese After Dark",
         "Genre": "Aftershow",
         "Premiere": "June 10, 2021",
-        "Runtime": "35 min."
+        "Runtime": "35 min.",
+        "Notes": ""
       },
       {
         "Title": "Headspace: Unwind Your Mind",
         "Genre": "Documentary/Interactive fiction",
         "Premiere": "June 15, 2021",
-        "Runtime": "15 min."
+        "Runtime": "15 min.",
+        "Notes": ""
       },
       {
         "Title": "The House of Flowers: The Movie",
         "Genre": "Comedy",
         "Premiere": "June 23, 2021",
-        "Runtime": "1 hour, 27 min."
+        "Runtime": "1 hour, 27 min.",
+        "Notes": ""
       },
       {
         "Title": "Kingdom: Ashin of the North",
         "Genre": "Period horror thriller",
         "Premiere": "July 23, 2021",
-        "Runtime": "1 hour, 33 min."
+        "Runtime": "1 hour, 33 min.",
+        "Notes": ""
       },
       {
         "Title": "The Witcher: Nightmare of the Wolf",
         "Genre": "Animated dark fantasy",
         "Premiere": "August 23, 2021",
-        "Runtime": "1 hour, 23 min."
+        "Runtime": "1 hour, 23 min.",
+        "Notes": ""
       },
       {
         "Title": "You vs. Wild: Out Cold",
         "Genre": "Interactive reality",
         "Premiere": "September 14, 2021",
-        "Runtime": "TBA"
+        "Runtime": "25 min."
       },
       {
         "Title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
@@ -1058,39 +1079,113 @@
         "Genre": "Animation",
         "Premiere": "September 23, 2021",
         "Runtime": "TBA"
+      },
+      {
+        "Title": "Sharkdog's Fintastic Halloween",
+        "Genre": "Animation",
+        "Premiere": "October 15, 2021",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Specials",
+      "Episodic"
+    ],
+    "data": [
+      {
+        "Title": "Elite Short Stories: Guzmán Caye Rebe",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 14, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–15 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Nadia Guzmán",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 15, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–14 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Omar Ander Alexis",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 16, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–14 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Carla Samuel",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 17, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "13–16 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Revelations: The Masters of the Universe Revelation Aftershow",
+        "Genre": "Aftershow",
+        "Premiere": "July 23, 2021",
+        "Seasons": "1 season, 1 episode",
+        "Runtime": "25 min.",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Ingenuity of the Househusband",
+        "Genre": "Comedy",
+        "Premiere": "August 29, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "4-6 min.",
+        "Language": "Japanese",
+        "Status": "Season 2 due to premiere on October 7, 2021"
+      },
+      {
+        "Title": "Money Heist: From Tokyo to Berlin",
+        "Genre": "Docu-series",
+        "Premiere": "September 3, 2021",
+        "Seasons": "1 volume, 1 episode",
+        "Runtime": "52 min.",
+        "Language": "Spanish",
+        "Status": "Volume 1 ongoing"
       }
     ]
   },
   {
     "category": [
       "Regional original programming",
-      "Animation"
+      "Episodic"
     ],
     "data": [
       {
         "Title": "Kayko and Kokosh",
+        "Genre": "Animation",
         "Premiere": "February 28, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "14–15 min.",
+        "Language": "English",
         "Netflix exclusive territory": "Selected territories&#91;a&#93;",
         "Status": "Pending"
       },
       {
         "Title": "Ask the StoryBots Korea Edition",
+        "Genre": "Animation",
         "Premiere": "May 5, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "53 min.",
+        "Language": "English",
         "Netflix exclusive territory": "Selected territories",
         "Status": "Pending"
       }
     ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Continuations"
-    ],
-    "data": []
   },
   {
     "category": [
@@ -1117,28 +1212,32 @@
         "Genre": "Psychological thriller",
         "Premiere": "February 17, 2021",
         "Episodes": "6 episodes",
-        "Runtime": "46–53 min."
+        "Runtime": "46–53 min.",
+        "Notes": ""
       },
       {
         "Title": "Halston",
         "Genre": "Drama",
         "Premiere": "May 14, 2021",
         "Episodes": "5 episodes",
-        "Runtime": "44–53 min."
+        "Runtime": "44–53 min.",
+        "Notes": ""
       },
       {
         "Title": "Brand New Cherry Flavor",
         "Genre": "Horror thriller",
         "Premiere": "August 13, 2021",
         "Episodes": "8 episodes",
-        "Runtime": "36–51 min."
+        "Runtime": "36–51 min.",
+        "Notes": ""
       },
       {
         "Title": "Clickbait",
         "Genre": "Thriller",
         "Premiere": "August 25, 2021",
         "Episodes": "8 episodes",
-        "Runtime": "42–48 min."
+        "Runtime": "42–48 min.",
+        "Notes": ""
       }
     ]
   },
@@ -1173,8 +1272,39 @@
   {
     "category": [
       "Regional original programming",
+      "Miniseries"
+    ],
+    "data": [
+      {
+        "Title": "King of Boys: The Return of the King",
+        "Genre": "Crime drama",
+        "Premiere": "August 27, 2021",
+        "Episodes": "7 episodes",
+        "Runtime": "60–79 min.",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Animation"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Regional original programming",
       "Unscripted",
       "Docuseries"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Continuations"
     ],
     "data": []
   }

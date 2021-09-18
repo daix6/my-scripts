@@ -17,17 +17,17 @@
         "Title": "The Morning Show",
         "Genre": "Drama",
         "Premiere": "November 1, 2019",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 11 episodes",
         "Runtime": "50–66 min.",
-        "Status": "Season 2 due to premiere on September 17, 2021"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "See",
         "Genre": "Science fiction",
         "Premiere": "November 1, 2019",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "49–57 min.",
-        "Status": "Season 2 due to premiere on August 27, 2021; Renewed"
+        "Status": "Season 2 ongoing; Renewed"
       },
       {
         "Title": "Servant",
@@ -41,7 +41,7 @@
         "Title": "Truth Be Told",
         "Genre": "Legal drama",
         "Premiere": "December 6, 2019",
-        "Seasons": "2 seasons, 9 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Runtime": "39–51 min.",
         "Status": "Season 2 ongoing"
       },
@@ -79,7 +79,7 @@
       },
       {
         "Title": "The Mosquito Coast",
-        "Genre": "Action thriller",
+        "Genre": "Thriller drama",
         "Premiere": "April 30, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "42–57 min.",
@@ -108,6 +108,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "60 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Swagger!",
+        "Genre": "Sports drama",
+        "Premiere": "October 29, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -123,15 +131,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–34 min.",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Ghostwriter",
-        "Genre": "Family mystery",
-        "Premiere": "November 1, 2019",
-        "Seasons": "2 seasons, 26 episodes",
-        "Runtime": "22–26 min.",
-        "Status": "Pending"
+        "Status": "Final season due to premiere on November 5, 2021"
       },
       {
         "Title": "Little America",
@@ -161,7 +161,7 @@
         "Title": "Ted Lasso",
         "Genre": "Sports comedy",
         "Premiere": "August 14, 2020",
-        "Seasons": "2 seasons, 15 episodes",
+        "Seasons": "2 seasons, 19 episodes",
         "Runtime": "29–38 min.",
         "Status": "Season 2 ongoing; Renewed"
       },
@@ -185,17 +185,49 @@
         "Title": "Mr. Corman",
         "Genre": "Comedy-drama",
         "Premiere": "August 6, 2021",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "23–34 min.",
         "Status": "Season 1 ongoing"
       },
       {
+        "Title": "Acapulco",
+        "Genre": "Comedy",
+        "Premiere": "October 8, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Shrink Next Door",
-        "Genre": "Dark comedy miniseries",
+        "Genre": "Dark comedy",
         "Premiere": "November 12, 2021",
         "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Family"
+    ],
+    "data": [
+      {
+        "Title": "Ghostwriter",
+        "Genre": "Family mystery",
+        "Premiere": "November 1, 2019",
+        "Seasons": "2 seasons, 26 episodes",
+        "Runtime": "22–26 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Puppy Place",
+        "Genre": "Family adventure",
+        "Premiere": "October 15, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -212,7 +244,7 @@
         "Premiere": "May 29, 2020",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "22–31 min.",
-        "Status": "Season 2 ongoing; Renewed"
+        "Status": "Renewed"
       }
     ]
   },
@@ -307,9 +339,9 @@
         "Title": "Watch the Sound with Mark Ronson",
         "Genre": "Docuseries",
         "Premiere": "July 30, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "6 episodes",
         "Runtime": "33–36 min.",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -322,9 +354,10 @@
       {
         "Title": "Tehran",
         "Genre": "Spy thriller",
-        "Partner/Country": "Kan 11/Israel",
+        "Partner": "Kan 11",
+        "Country": "Israel",
         "Premiere": "September 25, 2020",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "8 episodes",
         "Runtime": "44–50 min.",
         "Language": "Hebrew",
         "Status": "Renewed"
@@ -332,17 +365,19 @@
       {
         "Title": "Losing Alice",
         "Genre": "Erotic thriller",
-        "Partner/Country": "Hot/Israel",
+        "Partner": "Hot",
+        "Country": "Israel",
         "Premiere": "January 22, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–55 min.",
         "Language": "Hebrew",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Calls",
         "Genre": "Mystery thriller",
-        "Partner/Country": "Canal+/France",
+        "Partner": "Canal+",
+        "Country": "France",
         "Premiere": "March 19, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "13–20 min.",
