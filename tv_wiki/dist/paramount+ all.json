@@ -151,7 +151,7 @@
       },
       {
         "Title": "The Game",
-        "Genre": "Sitcom",
+        "Genre": "Comedy-drama",
         "Premiere": "November 11, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -170,7 +170,7 @@
         "Title": "Tooning Out the News",
         "Genre": "Variety",
         "Premiere": "April 7, 2020",
-        "Seasons": "2 seasons, 221 episodes",
+        "Seasons": "2 seasons, 227 episodes",
         "Runtime": "5–44 min.",
         "Status": "Season 2 ongoing"
       },
@@ -213,7 +213,7 @@
         "Premiere": "May 27, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "23–44 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
         "Title": "Star Trek: Prodigy",
@@ -262,7 +262,7 @@
         "Premiere": "July 29, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "47–55 min.",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -295,7 +295,7 @@
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–47 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "The Challenge: All Stars",
@@ -368,7 +368,7 @@
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 30 episodes",
         "Runtime": "15–25 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -411,7 +411,7 @@
         "Premiere": "June 20, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "47 min.",
-        "Status": "Season 2 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars (season 6)",
@@ -437,11 +437,11 @@
         "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
         "Premiere": "September 7, 2021",
         "Seasons": "1 season, 24 episodes",
-        "Runtime": "61–62 min.",
+        "Runtime": "61–64 min.",
         "Status": "Season 44 ongoing"
       },
       {
-        "Title": "SEAL Team (season 5 episodes 5-14)",
+        "Title": "SEAL Team (season 5 episodes 5–14)",
         "Genre": "Military action",
         "Prev. network(s)": "CBS (seasons 1–5 episode 4)",
         "Premiere": "November 1, 2021",
@@ -475,7 +475,7 @@
         "Title": "74th Tony Awards",
         "Genre": "Award show",
         "Premiere": "September 26, 2021",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 43 min.",
         "Language": "English"
       }
     ]
@@ -490,11 +490,11 @@
         "Title": "Rio Shore",
         "Genre": "Reality",
         "Premiere": "September 30, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "60 min.",
         "Exclusive region(s)": "Latin America",
         "Language": "Portuguese",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -510,7 +510,7 @@
         "Prev. network(s)": "Network 10",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44-46 min.",
+        "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
         "Language": "English",
         "Status": "Renewed"
@@ -542,6 +542,13 @@
         "Genre": "Musical",
         "Release date": "September 3, 2021",
         "Runtime": "1 hour, 25 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Queenpins",
+        "Genre": "Crime comedy",
+        "Release date": "September 30, 2021&#91;e&#93;",
+        "Runtime": "1 hour, 40 min.",
         "Language": "English"
       },
       {
@@ -602,9 +609,21 @@
         "Language": "English"
       },
       {
+        "Title": "Bring Your Own Brigade",
+        "Release date": "August 20, 2021",
+        "Runtime": "2 hours, 7 min.",
+        "Language": "English"
+      },
+      {
         "Title": "26th Street Garage: The FBI's Untold Story of 9/11",
         "Release date": "September 9, 2021",
-        "Runtime": "TBA",
+        "Runtime": "58 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Destination Porto: The Unimaginable Journey",
+        "Release date": "September 28, 2021",
+        "Runtime": "1 hour, 26 min.",
         "Language": "English"
       }
     ]
@@ -618,15 +637,15 @@
       {
         "Title": "Kacey Musgraves: star-crossed",
         "Genre": "Visual album",
-        "Release date": "September 10, 2021&#91;e&#93;",
+        "Release date": "September 10, 2021&#91;f&#93;",
         "Length": "50 min.",
         "Language": "English"
       },
       {
-        "Title": "Madonna: Madame X Tour",
+        "Title": "Madame X",
         "Genre": "Concert film",
-        "Release date": "October 8, 2021&#91;f&#93;",
-        "Length": "TBA",
+        "Release date": "October 8, 2021&#91;g&#93;",
+        "Length": "1 hour, 57 min.",
         "Language": "English"
       }
     ]
@@ -638,7 +657,7 @@
     ],
     "data": [
       {
-        "Title": "Halo&#91;g&#93;",
+        "Title": "Halo&#91;h&#93;",
         "Genre": "Science fiction",
         "Premiere": "Early 2022",
         "Seasons": "TBA",
@@ -760,7 +779,7 @@
       {
         "Title": "The Fairly OddParents",
         "Genre": "Sitcom",
-        "Premiere": "2021",
+        "Premiere": "Late 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
@@ -1010,6 +1029,10 @@
         "Genre": "Drama miniseries"
       },
       {
+        "Title": "Æon Flux",
+        "Genre": "Science fiction"
+      },
+      {
         "Title": "Arlington Road",
         "Genre": "Neo-noir thriller"
       },
@@ -1068,6 +1091,10 @@
       {
         "Title": "Untitled The Challenge spin-off",
         "Genre": "Reality"
+      },
+      {
+        "Title": "Wolf Pack",
+        "Genre": "Horror"
       },
       {
         "Title": "Yellow Bird",
@@ -1227,6 +1254,13 @@
       },
       {
         "Title": "Untitled Pet Sematary prequel",
+        "Genre": "Horror",
+        "Release date": "TBA",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Untitled Teen Wolf revival",
         "Genre": "Horror",
         "Release date": "TBA",
         "Runtime": "TBA",

@@ -72,8 +72,8 @@
         "Title": "Goliath",
         "Genre": "Legal drama",
         "Premiere": "October 14, 2016",
-        "Seasons/episodes": "3 seasons, 24 episodes",
-        "Status": "Final season due to premiere on September 24, 2021"
+        "Seasons/episodes": "4 seasons, 32 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "Lore",
@@ -108,7 +108,7 @@
         "Genre": "Action",
         "Premiere": "March 29, 2019",
         "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on November 24, 2021"
       },
       {
         "Title": "Too Old to Die Young",
@@ -397,6 +397,13 @@
         "Premiere": "September 17, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "With Love",
+        "Genre": "Romantic comedy",
+        "Premiere": "December 17, 2021",
+        "Seasons/episodes": "1 season, 5 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -427,6 +434,20 @@
         "Premiere": "March 25, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Renewed for seasons 2 and 3"
+      },
+      {
+        "Title": "Fairfax",
+        "Genre": "Comedy",
+        "Premiere": "October 29, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Legend of Vox Machina",
+        "Genre": "Fantasy/Action comedy",
+        "Premiere": "February 4, 2022",
+        "Seasons/episodes": "1 season, 12 episodes",
+        "Status": "Renewed"
       }
     ]
   },
@@ -450,141 +471,6 @@
         "Premiere": "October 10, 2019",
         "Seasons/episodes": "1 season, 24 episodes",
         "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Animation",
-      "Kids and family"
-    ],
-    "data": [
-      {
-        "Title": "Creative Galaxy",
-        "Genre": "Preschool science fiction",
-        "Premiere": "October 2, 2013",
-        "Seasons/episodes": "3 seasons, 36 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Tumble Leaf",
-        "Genre": "Preschool adventure",
-        "Premiere": "May 23, 2014",
-        "Seasons/episodes": "4 seasons, 52 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Wishenpoof!",
-        "Genre": "Fantasy",
-        "Premiere": "February 5, 2014",
-        "Seasons/episodes": "2 seasons, 39 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Stinky &amp; Dirty Show",
-        "Genre": "Preschool series",
-        "Premiere": "January 15, 2015",
-        "Seasons/episodes": "2 seasons, 39 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Danger &amp; Eggs",
-        "Genre": "Adventure/Comedy",
-        "Premiere": "November 5, 2015",
-        "Seasons/episodes": "1 season, 13 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Niko and the Sword of Light",
-        "Genre": "Action/Fantasy",
-        "Premiere": "July 20, 2017",
-        "Seasons/episodes": "2 seasons, 23 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Lost In Oz",
-        "Genre": "Fantasy",
-        "Premiere": "June 26, 2015",
-        "Seasons/episodes": "1 season, 26 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Selfie With Bajrangi",
-        "Genre": "Action comedy",
-        "Premiere": "April 16; 2018",
-        "Seasons/episodes": "2 seasons, 104 episodes",
-        "Status": "Ended&#91;c&#93;"
-      },
-      {
-        "Title": "If You Give a Mouse a Cookie",
-        "Genre": "Preschool adventure",
-        "Premiere": "November 5, 2015",
-        "Seasons/episodes": "2 seasons, 46 episodes",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Inspector Chingum",
-        "Genre": "Action comedy",
-        "Premiere": "May 4, 2018",
-        "Seasons/episodes": "2 seasons, 54 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Little Big Awesome",
-        "Genre": "Adventure",
-        "Premiere": "June 17, 2016",
-        "Seasons/episodes": "1 season, 13 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Adventures of Rocky and Bullwinkle",
-        "Genre": "Action-adventure/Comedy",
-        "Premiere": "May 11, 2018",
-        "Seasons/episodes": "1 season, 26 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Pete the Cat",
-        "Genre": "Comedy",
-        "Premiere": "September 21, 2018",
-        "Seasons/episodes": "2 seasons, 28 episodes",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Kung Fu Panda: The Paws of Destiny",
-        "Genre": "Action/Comedy",
-        "Premiere": "November 16, 2018",
-        "Seasons/episodes": "2 season, 26 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Costume Quest",
-        "Genre": "Fantasy/Comedy",
-        "Premiere": "March 8, 2019",
-        "Seasons/episodes": "1 season, 14 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Bug Diaries",
-        "Genre": "Preschool series",
-        "Premiere": "April 12, 2019",
-        "Seasons/episodes": "1 season, 12 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Jessy and Nessy",
-        "Genre": "Preschool animation/live-action",
-        "Premiere": "March 13, 2020",
-        "Seasons/episodes": "1 season, 15 episodes",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Do, Re &amp; Mi",
-        "Genre": "Animation",
-        "Premiere": "September 17, 2021",
-        "Seasons/episodes": "1 season, 6 episodes",
-        "Status": "Pending"
       }
     ]
   },
@@ -806,6 +692,13 @@
         "Premiere": "May 14, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Mumbai Diaries 26/11",
+        "Genre": "Thriller",
+        "Premiere": "September 9, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -922,13 +815,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Banana Fish",
-        "Genre": "Action/Crime thriller",
-        "Premiere": "July 5, 2018",
-        "Seasons/episodes": "1 season, 24 episodes",
-        "Status": "Ended"
-      },
-      {
         "Title": "Shonan Junai Gumi",
         "Genre": "Action comedy-drama",
         "Premiere": "February 28, 2020",
@@ -970,6 +856,13 @@
         "Genre": "Drama",
         "Premiere": "June 25, 2021",
         "Seasons/episodes": "1 season, 5 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Uncoupled in Rio",
+        "Genre": "Comedy",
+        "Premiere": "October 1, 2021",
+        "Seasons/episodes": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1071,6 +964,20 @@
         "Premiere": "March 26, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Maradona: Blessed Dream",
+        "Genre": "Biopic drama",
+        "Premiere": "October 29, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Historias para no dormir&#91;e&#93;",
+        "Genre": "Spanish horror anthology miniseries",
+        "Premiere": "November 5, 2021",
+        "Seasons/episodes": "4 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1126,7 +1033,7 @@
         "Genre": "Historical drama",
         "Premiere": "June 14, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Language": "France",
+        "Language": "French",
         "Status": "Pending"
       }
     ]
@@ -1171,7 +1078,7 @@
         "Premiere": "January 18, 2018",
         "Seasons/episodes": "1 series, 9 episodes",
         "Language": "English",
-        "Status": "Ended&#91;e&#93;"
+        "Status": "Ended&#91;f&#93;"
       },
       {
         "Title": "Falco",
@@ -1232,9 +1139,9 @@
         "Partner": "Pantaya",
         "Genre": "Comedy-drama",
         "Premiere": "August 16, 2019",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 seasons, 18 episodes",
         "Language": "Spanish",
-        "Status": "Renewed for seasons 2 and 3"
+        "Status": "Renewed"
       },
       {
         "Title": "Hernán",
@@ -1297,7 +1204,7 @@
         "Premiere": "April 21, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Status": "Renewed for seasons 2 and 3"
       },
       {
         "Title": "Inés del alma mía",
@@ -1387,7 +1294,7 @@
         "Seasons/episodes": "2 seasons, 20 episodes",
         "Prime Video exclusive region": "Worldwide",
         "Language": "English",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on December 10, 2021"
       },
       {
         "Title": "Absentia (season 3)",
@@ -1427,750 +1334,6 @@
         "Seasons/episodes": "1 season, 10 episodes",
         "Availability": "United States, Canada, Australia, and New Zealand",
         "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution"
-    ],
-    "data": []
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Drama"
-    ],
-    "data": [
-      {
-        "Title": "Absentia (seasons 1–2)",
-        "Genre": "Thriller",
-        "Original broadcaster": "AXN",
-        "Country": "Spain",
-        "Prime Video exclusive region": "United States",
-        "Seasons": "2 seasons, 20 episodes",
-        "Original run": "2017–19"
-      },
-      {
-        "Title": "American Gods",
-        "Genre": "Drama",
-        "Original broadcaster": "Starz",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States",
-        "Seasons": "3 seasons, 26 episodes",
-        "Original run": "2017–21"
-      },
-      {
-        "Title": "Black Sails",
-        "Genre": "Historical drama",
-        "Original broadcaster": "Starz",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom and Ireland",
-        "Seasons": "4 seasons, 38 episodes",
-        "Original run": "2014–17"
-      },
-      {
-        "Title": "Cruel Summer",
-        "Genre": "Thriller drama",
-        "Original broadcaster": "Freeform",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States, Canada, and China",
-        "Seasons": "TBA",
-        "Original run": "2021"
-      },
-      {
-        "Title": "Doctor Thorne",
-        "Genre": "Drama",
-        "Original broadcaster": "ITV",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "Worldwide except Japan, United Kingdom and Ireland",
-        "Seasons": "3 episodes",
-        "Original run": "2016"
-      },
-      {
-        "Title": "Falling Water",
-        "Genre": "Drama",
-        "Original broadcaster": "USA",
-        "Country": "United States",
-        "Prime Video exclusive region": "Switzerland",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2016–18"
-      },
-      {
-        "Title": "Halt and Catch Fire",
-        "Genre": "Drama",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom, Ireland and  Switzerland",
-        "Seasons": "4 seasons, 40 episodes",
-        "Original run": "2014–17"
-      },
-      {
-        "Title": "Informer",
-        "Genre": "Drama",
-        "Original broadcaster": "BBC One",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "Worldwide except Japan",
-        "Seasons": "1 season, 6 episodes",
-        "Original run": "2019–"
-      },
-      {
-        "Title": "Into the Badlands",
-        "Genre": "Action drama/Wuxia",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "3 seasons, 32 episodes",
-        "Original run": "2015–19"
-      },
-      {
-        "Title": "It's a Sin",
-        "Genre": "Period drama",
-        "Original broadcaster": "Channel 4HBO Max",
-        "Country": "United KingdomUnited States",
-        "Prime Video exclusive region": "Canada",
-        "Seasons": "1 season, 5 episodes",
-        "Original run": "2021"
-      },
-      {
-        "Title": "Leonardo",
-        "Genre": "Drama",
-        "Original broadcaster": "Rai 1",
-        "Country": "Italy",
-        "Prime Video exclusive region": "United Kingdom and Ireland",
-        "Seasons": "1 season, 8 episodes",
-        "Original run": "2021"
-      },
-      {
-        "Title": "Little Fires Everywhere",
-        "Genre": "Drama",
-        "Original broadcaster": "Hulu",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States and India",
-        "Seasons": "1 season, 8 episodes",
-        "Original run": "2020"
-      },
-      {
-        "Title": "Marvel's Cloak &amp; Dagger",
-        "Genre": "Superhero drama",
-        "Original broadcaster": "Freeform",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "2 seasons, 20 episodes",
-        "Original run": "2018–19"
-      },
-      {
-        "Title": "McMafia",
-        "Genre": "Crime drama",
-        "Original broadcaster": "BBC One/AMC",
-        "Country": "United Kingdom/United States &amp; Canada",
-        "Prime Video exclusive region": "Worldwide except United Kingdom, United States and Canada",
-        "Seasons": "1 season, 8 episodes",
-        "Original run": "2018"
-      },
-      {
-        "Title": "Motherland: Fort Salem",
-        "Genre": "Supernatural drama",
-        "Original broadcaster": "Freeform",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2020 -"
-      },
-      {
-        "Title": "Nine Perfect Strangers",
-        "Genre": "Drama",
-        "Original broadcaster": "Hulu",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States",
-        "Seasons": "8 episodesminiseries ongoing",
-        "Original run": "2021"
-      },
-      {
-        "Title": "Outlander",
-        "Genre": "Drama",
-        "Original broadcaster": "Starz",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Austria",
-        "Seasons": "5 seasons, 67 episodes",
-        "Original run": "2014–"
-      },
-      {
-        "Title": "Philip K. Dick's Electric Dreams",
-        "Genre": "Science fiction anthology",
-        "Original broadcaster": "Channel 4",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "United States, Japan and Latin America",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2018"
-      },
-      {
-        "Title": "Picnic at Hanging Rock",
-        "Genre": "Mystery/Romance drama",
-        "Original broadcaster": "Fox Showcase",
-        "Country": "Australia",
-        "Prime Video exclusive region": "United States",
-        "Seasons": "1 season, 6 episodes",
-        "Original run": "2018"
-      },
-      {
-        "Title": "Preacher",
-        "Genre": "Drama",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "4 seasons, 43 episodes",
-        "Original run": "2016–19"
-      },
-      {
-        "Title": "Rogue",
-        "Genre": "Crime drama",
-        "Original broadcaster": "Audience Network",
-        "Country": "Canada/United Kingdom",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Switzerland",
-        "Seasons": "4 seasons, 50 episodes",
-        "Original run": "2013–17"
-      },
-      {
-        "Title": "Soulmates",
-        "Genre": "Science fiction anthology",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 6 episodes",
-        "Original run": "2020–"
-      },
-      {
-        "Title": "Star Trek: Picard",
-        "Genre": "Science fiction",
-        "Original broadcaster": "Paramount+",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except U.S. and Canada",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2020–"
-      },
-      {
-        "Title": "StartUp",
-        "Genre": "Drama",
-        "Original broadcaster": "Crackle",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States",
-        "Seasons": "3 seasons, 30 episodes",
-        "Original run": "2016–"
-      },
-      {
-        "Title": "The ABC Murders",
-        "Genre": "Mystery thriller",
-        "Original broadcaster": "BBC One",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "United States",
-        "Seasons": "3 episodes",
-        "Original run": "2018"
-      },
-      {
-        "Title": "The Capture",
-        "Genre": "Mystery crime drama",
-        "Original broadcaster": "BBC OnePeacock",
-        "Country": "United KingdomUnited States",
-        "Prime Video exclusive region": "Canada",
-        "Seasons": "1 season, 6 episodes",
-        "Original run": "2019-"
-      },
-      {
-        "Title": "The Expanse (seasons 1–3)",
-        "Genre": "Science fiction",
-        "Original broadcaster": "Syfy",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide",
-        "Seasons": "3 seasons, 36 episodes",
-        "Original run": "2015–18"
-      },
-      {
-        "Title": "The Head",
-        "Genre": "Mystery thriller",
-        "Original broadcaster": "Orange TVHBO AsiaHulu Japan",
-        "Country": "SpainJapan",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "6 episodes",
-        "Original run": "2020"
-      },
-      {
-        "Title": "The Girlfriend Experience",
-        "Genre": "Drama",
-        "Original broadcaster": "Starz",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "2 seasons, 27 episodes",
-        "Original run": "2016–"
-      },
-      {
-        "Title": "The Looming Tower",
-        "Genre": "Drama",
-        "Original broadcaster": "Hulu",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2018"
-      },
-      {
-        "Title": "The Path",
-        "Genre": "Drama",
-        "Original broadcaster": "Hulu",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Switzerland",
-        "Seasons": "3 seasons, 36 episodes",
-        "Original run": "2016–18"
-      },
-      {
-        "Title": "The Purge",
-        "Genre": "Horror",
-        "Original broadcaster": "USA Network",
-        "Country": "United States",
-        "Prime Video exclusive region": "Canada, Japan, Latin America and France",
-        "Seasons": "2 season, 12 episodes",
-        "Original run": "2018–19"
-      },
-      {
-        "Title": "The Red Road",
-        "Genre": "Drama",
-        "Original broadcaster": "SundanceTV",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Switzerland",
-        "Seasons": "2 seasons, 12 episodes",
-        "Original run": "2014–15"
-      },
-      {
-        "Title": "The Walking Dead: World Beyond",
-        "Genre": "Horror Zombie apocalypse",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2020–"
-      },
-      {
-        "Title": "Treadstone",
-        "Genre": "Action drama",
-        "Original broadcaster": "USA Network",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2019"
-      },
-      {
-        "Title": "TURN: Washington's Spies",
-        "Genre": "Historical drama",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Switzerland",
-        "Seasons": "4 seasons, 40 episodes",
-        "Original run": "2014–17"
-      },
-      {
-        "Title": "Vikings (seasons 1–6A)",
-        "Genre": "Historical drama",
-        "Original broadcaster": "History",
-        "Country": "Canada",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Japan",
-        "Seasons": "4 seasons, 49 episodes",
-        "Original run": "2013–20"
-      },
-      {
-        "Title": "White Dragon",
-        "Genre": "Thriller",
-        "Original broadcaster": "ITV",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 8 episodes",
-        "Original run": "2018"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Comedy"
-    ],
-    "data": [
-      {
-        "Title": "A Very English Scandal",
-        "Genre": "Comedy-drama/Miniseries",
-        "Original broadcaster": "BBC One",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "Worldwide except Japan and Canada",
-        "Seasons": "3 episodes",
-        "Original run": "2018"
-      },
-      {
-        "Title": "BrainDead",
-        "Genre": "Comedy-drama",
-        "Original broadcaster": "CBS",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom and Ireland",
-        "Seasons": "1 season, 13 episodes",
-        "Original run": "2016"
-      },
-      {
-        "Title": "Catastrophe",
-        "Genre": "Comedy",
-        "Original broadcaster": "Channel 4",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "Worldwide except Japan",
-        "Seasons": "4 seasons, 24 episodes",
-        "Original run": "2015–19"
-      },
-      {
-        "Title": "Fleabag",
-        "Genre": "Comedy-drama",
-        "Original broadcaster": "BBC Three",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "Worldwide except United Kingdom and Ireland",
-        "Seasons": "2 season, 12 episodes",
-        "Original run": "2016–19"
-      },
-      {
-        "Title": "Kevin Can F**k Himself",
-        "Genre": "Black comedy",
-        "Original broadcaster": "AMC",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 8 episodes",
-        "Original run": "2021"
-      },
-      {
-        "Title": "Life in Pieces",
-        "Genre": "Sitcom",
-        "Original broadcaster": "CBS",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom and Ireland",
-        "Seasons": "2 seasons, 44 episodes",
-        "Original run": "2015–19"
-      },
-      {
-        "Title": "Please Like Me",
-        "Genre": "Comedy-drama",
-        "Original broadcaster": "ABC",
-        "Country": "Australia",
-        "Prime Video exclusive region": "United Kingdom",
-        "Seasons": "4 seasons, 32 episodes",
-        "Original run": "2013–16"
-      },
-      {
-        "Title": "Roadies",
-        "Genre": "Comedy-drama",
-        "Original broadcaster": "Showtime",
-        "Country": "United States",
-        "Prime Video exclusive region": "United Kingdom",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2016"
-      },
-      {
-        "Title": "The Bold Type",
-        "Genre": "Comedy-drama",
-        "Original broadcaster": "Freeform",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2017–"
-      },
-      {
-        "Title": "The Flight Attendant",
-        "Genre": "Mystery comedy-drama",
-        "Original broadcaster": "HBO Max",
-        "Country": "United States",
-        "Prime Video exclusive region": "Germany, Austria and Switzerland",
-        "Seasons": "1 season, 8 episodes",
-        "Original run": "2021-"
-      },
-      {
-        "Title": "The Goes Wrong Show",
-        "Genre": "Comedy",
-        "Original broadcaster": "BBC One",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "United States, Canada, New Zealand and Australia",
-        "Seasons": "1 season, 6 episodes",
-        "Original run": "2020–"
-      },
-      {
-        "Title": "Wayne",
-        "Genre": "Action comedy",
-        "Original broadcaster": "YouTube Premium",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2019"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Animation"
-    ],
-    "data": [
-      {
-        "Title": "Star Trek: Lower Decks",
-        "Genre": "Science fiction comedy",
-        "Original broadcaster": "CBS All Access",
-        "Country": "United States",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "2 seasons, 20 episodesSeason 2 ongoing",
-        "Language": "English",
-        "Original run": "2020–"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Animation"
-    ],
-    "data": [
-      {
-        "Title": "Ronja, the Robber's Daughter",
-        "Genre": "Fantasy",
-        "Original broadcaster": "NHK",
-        "Country": "Japan",
-        "Prime Video exclusive region": "United States",
-        "Seasons": "1 season, 26 episodes",
-        "Language": "English",
-        "Original run": "2014–15"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Animation"
-    ],
-    "data": [
-      {
-        "Title": "Bookaboo",
-        "Genre": "Children's",
-        "Original broadcaster": "CITV",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "United States and Japan",
-        "Seasons": "1 season, 8 episodes",
-        "Language": "English",
-        "Original run": "2016"
-      },
-      {
-        "Title": "Kalari Kids",
-        "Genre": "Adventure",
-        "Original broadcaster": "TBA",
-        "Country": "India",
-        "Prime Video exclusive region": "Selected territories",
-        "Seasons": "3 seasons, 60 episodes",
-        "Language": "English",
-        "Original run": "2017–19"
-      },
-      {
-        "Title": "Thunderbirds Are Go",
-        "Genre": "Science fiction",
-        "Original broadcaster": "ITV",
-        "Country": "United Kingdom",
-        "Prime Video exclusive region": "United States",
-        "Seasons": "2 seasons, 52 episodes",
-        "Language": "English",
-        "Original run": "2015–20"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Non-English language scripted"
-    ],
-    "data": [
-      {
-        "Title": "De viaje con los Derbez",
-        "Genre": "Documentary/Comedy",
-        "Original broadcaster": "Pantaya",
-        "Country": "United States",
-        "Prime Video exclusive region": "Worldwide except United States and Puerto Rico",
-        "Seasons": "1 season, 8 episodes",
-        "Language": "Spanish",
-        "Original run": "2019"
-      },
-      {
-        "Title": "So I Married the Anti-fan",
-        "Genre": "Romantic comedy",
-        "Original broadcaster": "Naver TV",
-        "Country": "South Korea",
-        "Prime Video exclusive region": "Japan",
-        "Seasons": "1 season, 16 episodes",
-        "Language": "Korean",
-        "Original run": "2021"
-      },
-      {
-        "Title": "The Bureau",
-        "Genre": "Political thriller",
-        "Original broadcaster": "Canal+",
-        "Country": "France",
-        "Prime Video exclusive region": "United Kingdom and Ireland",
-        "Seasons": "3 seasons, 20 episodes",
-        "Language": "French",
-        "Original run": "2015–"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "TV shows",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "Der Lack ist ab (season 4–5)",
-        "Genre": "Comedy",
-        "Original network": "My Video (S1-S2)sat1.de (S3)",
-        "Original region": "Germany",
-        "Prime Video exclusive region": "Germany",
-        "Seasons/episodes": "2 seasons, 20 episodes",
-        "Language": "German",
-        "Original run": "2017–18"
-      },
-      {
-        "Title": "Pastewka (season 8–10)",
-        "Genre": "Comedy",
-        "Original network": "Sat.1",
-        "Original region": "Germany",
-        "Prime Video exclusive region": "Germany and Austria",
-        "Seasons/episodes": "3 seasons, 30 episodes",
-        "Language": "German",
-        "Original run": "2017–20"
-      },
-      {
-        "Title": "Vikings (season 6B)",
-        "Genre": "Historical drama",
-        "Original network": "History",
-        "Original region": "United States",
-        "Prime Video exclusive region": "United Kingdom, Ireland and Japan",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Language": "English",
-        "Original run": "2020"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "Films"
-    ],
-    "data": [
-      {
-        "Title": "Zoe",
-        "Genre": "Science fiction",
-        "Release date": "July 20, 2018",
-        "Prime Video exclusive region": "Selected territories",
-        "Language": "English"
-      },
-      {
-        "Title": "King Lear",
-        "Genre": "Drama",
-        "Release date": "September 28, 2018",
-        "Prime Video exclusive region": "Worldwide except United Kingdom, Japan, and Canada",
-        "Language": "English"
-      },
-      {
-        "Title": "The Upside",
-        "Genre": "Comedy-drama",
-        "Release date": "April 19, 2019",
-        "Prime Video exclusive region": "Worldwide except United States, Canada, and China",
-        "Language": "English"
-      },
-      {
-        "Title": "Halston",
-        "Genre": "Documentary",
-        "Release date": "June 7, 2019",
-        "Prime Video exclusive region": "Selected territories",
-        "Language": "English"
-      },
-      {
-        "Title": "Chiara Ferragni: Unposted",
-        "Genre": "Documentary",
-        "Release date": "November 29, 2019",
-        "Prime Video exclusive region": "Selected territories",
-        "Language": "English/Italian"
-      },
-      {
-        "Title": "My Spy",
-        "Genre": "Spy comedy",
-        "Release date": "June 26, 2020",
-        "Prime Video exclusive region": "United States and Canada",
-        "Language": "English"
-      },
-      {
-        "Title": "Palm Springs",
-        "Genre": "Science fiction romantic comedy",
-        "Release date": "November 20, 2020&#91;h&#93;December 18, 2020&#91;i&#93;April 9, 2021&#91;j&#93;",
-        "Prime Video exclusive region": "Selected territories",
-        "Language": "English"
-      },
-      {
-        "Title": "I Care a Lot",
-        "Genre": "Dark comedy thriller",
-        "Release date": "February 19, 2021",
-        "Prime Video exclusive region": "Selected territories",
-        "Language": "English"
-      },
-      {
-        "Title": "The Sleepwalkers",
-        "Genre": "Drama",
-        "Release date": "March 31, 2021",
-        "Prime Video exclusive region": "United States and Latin America",
-        "Language": "Spanish"
-      },
-      {
-        "Title": "Stowaway",
-        "Genre": "Science fiction",
-        "Release date": "April 22, 2021",
-        "Prime Video exclusive region": "Canada",
-        "Language": "English"
-      },
-      {
-        "Title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-        "Genre": "Anime",
-        "Release date": "August 13, 2021",
-        "Prime Video exclusive region": "Worldwide excluding Japan",
-        "Language": "Japanese"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "Films",
-      "Upcoming"
-    ],
-    "data": [
-      {
-        "Title": "Hotel Transylvania: Transformania",
-        "Genre": "Animated comedy",
-        "Release date": "TBA",
-        "Prime Video exclusive region": "Worldwide except China",
-        "Language": "English"
-      },
-      {
-        "Title": "My Tender Matador",
-        "Genre": "Romantic drama",
-        "Release date": "TBA",
-        "Prime Video exclusive region": "Latin America",
-        "Language": "Spanish"
-      },
-      {
-        "Title": "Shotgun Wedding",
-        "Genre": "Romantic comedy action",
-        "Release date": "TBA",
-        "Prime Video exclusive region": "Selected territories",
-        "Language": "English"
       }
     ]
   },

@@ -72,8 +72,8 @@
         "Title": "Goliath",
         "Genre": "Legal drama",
         "Premiere": "October 14, 2016",
-        "Seasons/episodes": "3 seasons, 24 episodes",
-        "Status": "Final season due to premiere on September 24, 2021"
+        "Seasons/episodes": "4 seasons, 32 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "Lore",
@@ -108,7 +108,7 @@
         "Genre": "Action",
         "Premiere": "March 29, 2019",
         "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on November 24, 2021"
       },
       {
         "Title": "Too Old to Die Young",
@@ -397,6 +397,13 @@
         "Premiere": "September 17, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "With Love",
+        "Genre": "Romantic comedy",
+        "Premiere": "December 17, 2021",
+        "Seasons/episodes": "1 season, 5 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -427,6 +434,20 @@
         "Premiere": "March 25, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Renewed for seasons 2 and 3"
+      },
+      {
+        "Title": "Fairfax",
+        "Genre": "Comedy",
+        "Premiere": "October 29, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Legend of Vox Machina",
+        "Genre": "Fantasy/Action comedy",
+        "Premiere": "February 4, 2022",
+        "Seasons/episodes": "1 season, 12 episodes",
+        "Status": "Renewed"
       }
     ]
   },
@@ -510,13 +531,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Selfie With Bajrangi",
-        "Genre": "Action comedy",
-        "Premiere": "April 16; 2018",
-        "Seasons/episodes": "2 seasons, 104 episodes",
-        "Status": "Ended&#91;c&#93;"
-      },
-      {
         "Title": "If You Give a Mouse a Cookie",
         "Genre": "Preschool adventure",
         "Premiere": "November 5, 2015",
@@ -536,6 +550,13 @@
         "Premiere": "June 17, 2016",
         "Seasons/episodes": "1 season, 13 episodes",
         "Status": "Ended"
+      },
+      {
+        "Title": "Selfie With Bajrangi",
+        "Genre": "Action comedy",
+        "Premiere": "April 16, 2018",
+        "Seasons/episodes": "2 seasons, 104 episodes",
+        "Status": "Ended&#91;c&#93;"
       },
       {
         "Title": "The Adventures of Rocky and Bullwinkle",
@@ -576,14 +597,14 @@
         "Title": "Jessy and Nessy",
         "Genre": "Preschool animation/live-action",
         "Premiere": "March 13, 2020",
-        "Seasons/episodes": "1 season, 15 episodes",
-        "Status": "Ended"
+        "Seasons/episodes": "1 season, 20 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Do, Re &amp; Mi",
         "Genre": "Animation",
         "Premiere": "September 17, 2021",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "1 season, 7 episodes",
         "Status": "Pending"
       }
     ]
@@ -929,13 +950,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Banana Fish",
-        "Genre": "Action/Crime thriller",
-        "Premiere": "July 5, 2018",
-        "Seasons/episodes": "1 season, 24 episodes",
-        "Status": "Ended"
-      },
-      {
         "Title": "Shonan Junai Gumi",
         "Genre": "Action comedy-drama",
         "Premiere": "February 28, 2020",
@@ -1085,6 +1099,20 @@
         "Premiere": "March 26, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Maradona: Blessed Dream",
+        "Genre": "Biopic drama",
+        "Premiere": "October 29, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Historias para no dormir&#91;e&#93;",
+        "Genre": "Spanish horror anthology miniseries",
+        "Premiere": "November 5, 2021",
+        "Seasons/episodes": "4 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1140,7 +1168,7 @@
         "Genre": "Historical drama",
         "Premiere": "June 14, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Language": "France",
+        "Language": "French",
         "Status": "Pending"
       }
     ]
@@ -1868,7 +1896,7 @@
         "Premiere": "January 18, 2018",
         "Seasons/episodes": "1 series, 9 episodes",
         "Language": "English",
-        "Status": "Ended&#91;e&#93;"
+        "Status": "Ended&#91;f&#93;"
       },
       {
         "Title": "Falco",
@@ -1929,9 +1957,9 @@
         "Partner": "Pantaya",
         "Genre": "Comedy-drama",
         "Premiere": "August 16, 2019",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 seasons, 18 episodes",
         "Language": "Spanish",
-        "Status": "Renewed for seasons 2 and 3"
+        "Status": "Renewed"
       },
       {
         "Title": "Hernán",
@@ -1994,7 +2022,7 @@
         "Premiere": "April 21, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Status": "Renewed for seasons 2 and 3"
       },
       {
         "Title": "Inés del alma mía",
@@ -2084,7 +2112,7 @@
         "Seasons/episodes": "2 seasons, 20 episodes",
         "Prime Video exclusive region": "Worldwide",
         "Language": "English",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on December 10, 2021"
       },
       {
         "Title": "Absentia (season 3)",
@@ -2560,10 +2588,22 @@
         "Language": "French"
       },
       {
+        "Title": "Sunny",
+        "Genre(s)": "Musical drama",
+        "Premiere": "September 23, 2021",
+        "Language": "Malayalam"
+      },
+      {
         "Title": "Birds of Paradise",
         "Genre(s)": "Drama",
         "Premiere": "September 24, 2021",
         "Language": "English"
+      },
+      {
+        "Title": "Raame Aandalum Raavane Aandalum",
+        "Genre(s)": "Drama",
+        "Premiere": "September 24, 2021",
+        "Language": "Tamil"
       },
       {
         "Title": "Bingo Hell",
@@ -2578,6 +2618,12 @@
         "Language": "English"
       },
       {
+        "Title": "Bhramam",
+        "Genre(s)": "Crime thriller",
+        "Premiere": "October 7, 2021",
+        "Language": "Malayalam"
+      },
+      {
         "Title": "Madres",
         "Genre(s)": "Horror",
         "Premiere": "October 8, 2021",
@@ -2590,10 +2636,34 @@
         "Language": "English"
       },
       {
-        "Title": "Sardar Udham Singh",
+        "Title": "Udanpirappe",
+        "Genre(s)": "Family drama",
+        "Premiere": "October 14, 2021",
+        "Language": "Tamil"
+      },
+      {
+        "Title": "Sardar Udham",
         "Genre(s)": "Biographical",
         "Premiere": "October 16, 2021",
         "Language": "Hindi"
+      },
+      {
+        "Title": "Rathnan Prapancha",
+        "Genre(s)": "Comedy drama",
+        "Premiere": "October 22, 2021",
+        "Language": "Kannada"
+      },
+      {
+        "Title": "Jai Bhim",
+        "Genre(s)": "Legal drama",
+        "Premiere": "November 2, 2021",
+        "Language": "Tamil"
+      },
+      {
+        "Title": "Oh My Dog",
+        "Genre(s)": "Drama",
+        "Premiere": "December 2021",
+        "Language": "Tamil"
       }
     ]
   },
@@ -2694,6 +2764,11 @@
       {
         "Title": "Yearly Departed",
         "Premiere": "December 29, 2020",
+        "Language": "English"
+      },
+      {
+        "Title": "Savage X Fenty Show Vol. 3",
+        "Premiere": "September 24, 2021",
         "Language": "English"
       }
     ]
@@ -2888,6 +2963,12 @@
     ],
     "data": [
       {
+        "Title": "The Ferragnez: The Series",
+        "Genre": "Italian docu-reality",
+        "Seasons": "1 season, 8 episodes",
+        "Premiere": "December 2021"
+      },
+      {
         "Title": "The End",
         "Genre": "Hindi action-thriller",
         "Seasons": "TBA",
@@ -2900,34 +2981,16 @@
         "Premiere": "Late 2021"
       },
       {
-        "Title": "With Love",
-        "Genre": "Romantic comedy",
-        "Seasons": "TBA",
-        "Premiere": "Late 2021"
-      },
-      {
         "Title": "Dinner Club",
         "Genre": "Italian cooking/travel documentary",
         "Seasons": "TBA",
         "Premiere": "2021"
       },
       {
-        "Title": "Fairfax",
-        "Genre": "Adult animated comedy",
-        "Seasons": "1 season, 8 episodes",
-        "Premiere": "2021; Renewed"
-      },
-      {
         "Title": "Harlem",
         "Genre": "Comedy",
         "Seasons": "1 season, 10 episodes",
         "Premiere": "2021"
-      },
-      {
-        "Title": "Maradona: Blessed Dream",
-        "Genre": "Biopic",
-        "Seasons": "1 season, 10 episodes",
-        "Premiere": "2021; Renewed"
       },
       {
         "Title": "The Missing One",
@@ -2954,6 +3017,12 @@
         "Premiere": "2021"
       },
       {
+        "Title": "The Terminal List",
+        "Genre": "Conspiracy thriller",
+        "Seasons": "TBA",
+        "Premiere": "Early 2022"
+      },
+      {
         "Title": "The Bad Guy",
         "Genre": "Italian crime comedy",
         "Seasons": "TBA",
@@ -2975,6 +3044,12 @@
         "Title": "Prisma",
         "Genre": "Italian teen drama",
         "Seasons": "TBA",
+        "Premiere": "2022"
+      },
+      {
+        "Title": "The Rig",
+        "Genre": "Supernatural thriller",
+        "Seasons": "1 season, 6 episodes",
         "Premiere": "2022"
       },
       {
@@ -3008,6 +3083,12 @@
         "Premiere": "TBA"
       },
       {
+        "Title": "As We See It",
+        "Genre": "Comedy drama",
+        "Seasons": "TBA",
+        "Premiere": "TBA"
+      },
+      {
         "Title": "Bang Bang Baby",
         "Genre": "Italian crime drama",
         "Seasons": "TBA",
@@ -3026,7 +3107,7 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Chloe&#91;f&#93;",
+        "Title": "Chloe&#91;g&#93;",
         "Genre": "Psychological thriller",
         "Seasons": "TBA",
         "Premiere": "TBA"
@@ -3050,7 +3131,7 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The English&#91;f&#93;",
+        "Title": "The English&#91;g&#93;",
         "Genre": "Epic Western",
         "Seasons": "TBA",
         "Premiere": "TBA"
@@ -3080,12 +3161,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Historias Para No Dormir&#91;g&#93;",
-        "Genre": "Spanish horror anthology miniseries",
-        "Seasons": "4 episodes",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "I'm a Virgo",
         "Genre": "Dark comedy",
         "Seasons": "TBA",
@@ -3102,12 +3177,6 @@
         "Genre": "Comedy",
         "Seasons": "TBA",
         "Premiere": "TBA"
-      },
-      {
-        "Title": "The Legend of Vox Machina",
-        "Genre": "Adult animated action comedy",
-        "Seasons": "1 season, 10 episodes",
-        "Premiere": "TBA; Renewed"
       },
       {
         "Title": "Lightyears",
@@ -3140,7 +3209,7 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The Offenders&#91;f&#93;",
+        "Title": "The Outlaws&#91;g&#93;",
         "Genre": "Comedy-drama",
         "Seasons": "1 season, 6 episodes",
         "Premiere": "TBA; Renewed"
@@ -3176,12 +3245,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The Rig",
-        "Genre": "Supernatural thriller",
-        "Seasons": "1 season, 6 episodes",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Rihanna: Volume 1",
         "Genre": "Documentary",
         "Seasons": "TBA",
@@ -3197,12 +3260,6 @@
         "Title": "The Summer I Turned Pretty",
         "Genre": "Young adult romantic drama",
         "Seasons": "1 season, 8 episodes",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Terminal List",
-        "Genre": "Conspiracy thriller",
-        "Seasons": "TBA",
         "Premiere": "TBA"
       },
       {
@@ -3226,12 +3283,6 @@
       {
         "Title": "Untitled Jack Reacher series",
         "Genre": "Drama",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Jason Katims autism comedy drama series",
-        "Genre": "Comedy drama",
         "Seasons": "TBA",
         "Premiere": "TBA"
       },
@@ -3600,10 +3651,6 @@
         "Genre": "Comedy"
       },
       {
-        "Title": "Untitled Sigmund Freud miniseries",
-        "Genre": "Drama miniseries"
-      },
-      {
         "Title": "Untitled Sharon Horgan comedy",
         "Genre": "Comedy"
       },
@@ -3655,6 +3702,12 @@
       "Feature films"
     ],
     "data": [
+      {
+        "Title": "Dybbuk",
+        "Genre": "Supernatural horror",
+        "Release": "October 2021",
+        "Language": "Hindi"
+      },
       {
         "Title": "Chhorii",
         "Genre": "Horror",
@@ -3851,6 +3904,15 @@
         "Original run": "2018"
       },
       {
+        "Title": "Most Dangerous Game",
+        "Genre": "Action thriller",
+        "Original broadcaster": "Quibi",
+        "Country": "United States",
+        "Prime Video exclusive region": "Selected territories",
+        "Seasons": "1 season, 15 episodes",
+        "Original run": "2020"
+      },
+      {
         "Title": "Motherland: Fort Salem",
         "Genre": "Supernatural drama",
         "Original broadcaster": "Freeform",
@@ -4027,8 +4089,8 @@
         "Original broadcaster": "AMC",
         "Country": "United States",
         "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 10 episodes",
-        "Original run": "2020–"
+        "Seasons": "2 seasons, 20 episodesSeason 1 ongoing",
+        "Original run": "2020–2021"
       },
       {
         "Title": "Treadstone",
@@ -4420,8 +4482,15 @@
         "Title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
         "Genre": "Anime",
         "Release date": "August 13, 2021",
-        "Prime Video exclusive region": "Worldwide excluding Japan",
+        "Prime Video exclusive region": "Worldwide except Japan",
         "Language": "Japanese"
+      },
+      {
+        "Title": "Hotel Transylvania: Transformania",
+        "Genre": "Animation",
+        "Release date": "January 14, 2022",
+        "Prime Video exclusive region": "Worldwide except China",
+        "Language": "English"
       }
     ]
   },
@@ -4432,13 +4501,6 @@
       "Upcoming"
     ],
     "data": [
-      {
-        "Title": "Hotel Transylvania: Transformania",
-        "Genre": "Animated comedy",
-        "Release date": "TBA",
-        "Prime Video exclusive region": "Worldwide except China",
-        "Language": "English"
-      },
       {
         "Title": "My Tender Matador",
         "Genre": "Romantic drama",

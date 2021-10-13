@@ -17,7 +17,7 @@
         "Title": "The Morning Show",
         "Genre": "Drama",
         "Premiere": "November 1, 2019",
-        "Seasons": "2 seasons, 11 episodes",
+        "Seasons": "2 seasons, 14 episodes",
         "Runtime": "50–66 min.",
         "Status": "Season 2 ongoing"
       },
@@ -25,7 +25,7 @@
         "Title": "See",
         "Genre": "Science fiction",
         "Premiere": "November 1, 2019",
-        "Seasons": "2 seasons, 12 episodes",
+        "Seasons": "2 seasons, 15 episodes",
         "Runtime": "49–57 min.",
         "Status": "Season 2 ongoing; Renewed"
       },
@@ -41,7 +41,7 @@
         "Title": "Truth Be Told",
         "Genre": "Legal drama",
         "Premiere": "December 6, 2019",
-        "Seasons": "2 seasons, 13 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "39–51 min.",
         "Status": "Season 2 ongoing"
       },
@@ -97,9 +97,9 @@
         "Title": "Foundation",
         "Genre": "Science fiction",
         "Premiere": "September 24, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "60 min.",
-        "Status": "Pending"
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "61–69 min.",
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
         "Title": "Invasion",
@@ -161,9 +161,9 @@
         "Title": "Ted Lasso",
         "Genre": "Sports comedy",
         "Premiere": "August 14, 2020",
-        "Seasons": "2 seasons, 19 episodes",
+        "Seasons": "2 seasons, 22 episodes",
         "Runtime": "29–38 min.",
-        "Status": "Season 2 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Physical",
@@ -185,17 +185,17 @@
         "Title": "Mr. Corman",
         "Genre": "Comedy-drama",
         "Premiere": "August 6, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "23–34 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Acapulco",
         "Genre": "Comedy",
         "Premiere": "October 8, 2021",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 2 episodes",
         "Runtime": "30 min.",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Shrink Next Door",
@@ -210,7 +210,7 @@
   {
     "category": [
       "Original programming",
-      "Family"
+      "Kids &amp; family"
     ],
     "data": [
       {
@@ -226,6 +226,14 @@
         "Genre": "Family adventure",
         "Premiere": "October 15, 2021",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hello, Jack! The Kindness Show",
+        "Genre": "Children's educational",
+        "Premiere": "November 5, 2021",
+        "Seasons": "1 season, 7 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -275,9 +283,9 @@
         "Title": "Stillwater",
         "Genre": "Comedy",
         "Premiere": "December 4, 2020",
-        "Seasons": "1 season, 11 episodes",
+        "Seasons": "1 season, 12 episodes",
         "Runtime": "23–24 min.",
-        "Status": "New episode due to premiere on October 1, 2021."
+        "Status": "Pending"
       },
       {
         "Title": "The Snoopy Show",
@@ -292,16 +300,16 @@
         "Genre": "Animation",
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "24-26 min.",
         "Status": "Pending"
       },
       {
         "Title": "Get Rolling with Otis",
         "Genre": "Animated adventure",
         "Premiere": "October 8, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "23 min.",
+        "Status": "New episode due to premiere on December 3, 2021"
       }
     ]
   },
@@ -402,7 +410,7 @@
       },
       {
         "Title": "The Line: The War Within",
-        "Genre": "True crime miniseries",
+        "Genre": "True crime",
         "Premiere": "November 5, 2021",
         "Seasons": "4 episodes&#91;a&#93;",
         "Runtime": "TBA",
@@ -421,7 +429,7 @@
         "Title": "Oprah's Book Club",
         "Genre": "Book club",
         "Premiere": "November 1, 2019",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Runtime": "8–66 min.",
         "Status": "Season 1 ongoing"
       },
@@ -471,7 +479,7 @@
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 1 episode",
         "Runtime": "60 min.",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -484,10 +492,9 @@
       {
         "Title": "Tehran",
         "Genre": "Spy thriller",
-        "Partner": "Kan 11",
-        "Country": "Israel",
+        "Partner/Country": "Kan 11/Israel",
         "Premiere": "September 25, 2020",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "44–50 min.",
         "Language": "Hebrew",
         "Status": "Renewed"
@@ -495,8 +502,7 @@
       {
         "Title": "Losing Alice",
         "Genre": "Erotic thriller",
-        "Partner": "Hot",
-        "Country": "Israel",
+        "Partner/Country": "Hot/Israel",
         "Premiere": "January 22, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–55 min.",
@@ -506,8 +512,7 @@
       {
         "Title": "Calls",
         "Genre": "Mystery thriller",
-        "Partner": "Canal+",
-        "Country": "France",
+        "Partner/Country": "Canal+/France",
         "Premiere": "March 19, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "13–20 min.",
@@ -587,6 +592,12 @@
         "Genre": "Drama",
         "Release": "December 17, 2021",
         "Runtime": "TBA"
+      },
+      {
+        "Title": "The Tragedy of Macbeth&#91;b&#93;",
+        "Genre": "Drama",
+        "Release": "January 14, 2022",
+        "Runtime": "1 hour, 45 min."
       },
       {
         "Title": "Luck",
@@ -704,6 +715,12 @@
         "Title": "Blush",
         "Genre": "Animated short",
         "Release": "October 1, 2021",
+        "Runtime": "10 min."
+      },
+      {
+        "Title": "For Auld Lang Syne",
+        "Genre": "Animation",
+        "Release": "December 10, 2021",
         "Runtime": "TBA"
       }
     ]
@@ -914,9 +931,16 @@
       {
         "Title": "The Afterparty",
         "Genre": "Mystery comedy",
-        "Premiere": "TBA",
+        "Premiere": "January 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min."
+      },
+      {
+        "Title": "Amber Brown",
+        "Genre": "Family comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
       },
       {
         "Title": "The Big Door Prize",
@@ -966,6 +990,13 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min."
+      },
+      {
+        "Title": "Untitled Sharon Horgan series",
+        "Genre": "Dark comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1034,7 +1065,7 @@
         "Genre": "Science fiction thriller",
         "Premiere": "Late 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "60 min.",
         "Language": "Korean"
       },
       {
@@ -1113,6 +1144,13 @@
         "Runtime": "TBA"
       },
       {
+        "Title": "Untitled Carlos Ghosn docuseries",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Untitled Oprah Winfrey biographical docuseries",
         "Genre": "Biographical docuseries",
         "Premiere": "TBA",
@@ -1159,14 +1197,7 @@
         "Runtime": "TBA"
       },
       {
-        "Title": "Hello, Jack! The Kindness Show",
-        "Genre": "Educational",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Yo Gabba Gabba",
+        "Title": "Yo Gabba Gabba!",
         "Genre": "Children's puppetry",
         "Premiere": "TBA",
         "Seasons": "1 season, 20 episodes",
@@ -1253,10 +1284,10 @@
     ],
     "data": [
       {
-        "Title": "The Tragedy of Macbeth&#91;b&#93;",
-        "Genre": "Drama",
-        "Release": "2021",
-        "Runtime": "1 hour, 45 min.",
+        "Title": "Killers of the Flower Moon&#91;g&#93;",
+        "Genre": "Crime thriller",
+        "Release": "TBA",
+        "Runtime": "TBA",
         "Status": "Post-production"
       },
       {
@@ -1288,8 +1319,15 @@
         "Status": "Filming"
       },
       {
-        "Title": "Killers of the Flower Moon&#91;g&#93;",
-        "Genre": "Crime thriller",
+        "Title": "The Greatest Beer Run Ever",
+        "Genre": "Drama",
+        "Release": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Raymond and Ray",
+        "Genre": "Comedy drama",
         "Release": "TBA",
         "Runtime": "TBA",
         "Status": "Filming"
@@ -1330,22 +1368,8 @@
         "Status": "Pre-production"
       },
       {
-        "Title": "The Greatest Beer Run Ever",
-        "Genre": "Drama",
-        "Release": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
         "Title": "Kitbag",
         "Genre": "Epic historical drama",
-        "Release": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Raymond and Ray",
-        "Genre": "Comedy drama",
         "Release": "TBA",
         "Runtime": "TBA",
         "Status": "Pre-production"
@@ -1401,12 +1425,6 @@
         "Genre": "Animation",
         "Release": "TBA",
         "Length": "TBA"
-      },
-      {
-        "Title": "Untitled Peanuts New Year's Eve special",
-        "Genre": "Animation",
-        "Release": "TBA",
-        "Length": "TBA"
       }
     ]
   },
@@ -1435,6 +1453,10 @@
       {
         "Title": "Untitled Andy Samberg project",
         "Genre": "Science fiction comedy-drama"
+      },
+      {
+        "Title": "Untitled George Clooney/Brad Pitt/Jon Watts project",
+        "Genre": "Thriller"
       },
       {
         "Title": "Untitled Idris Elba/Simon Kinberg film",

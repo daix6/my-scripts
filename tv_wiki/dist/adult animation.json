@@ -1,6 +1,12 @@
 [
   {
     "category": [
+      ""
+    ],
+    "data": []
+  },
+  {
+    "category": [
       "List",
       "United States"
     ],
@@ -148,7 +154,7 @@
       {
         "Title": "The Simpsons",
         "Genre": "Sitcom",
-        "Seasons/episodes": "32 seasons, 706 episodes",
+        "Seasons/episodes": "33 seasons, 708 episodes",
         "Show creator(s)": "Matt Groening",
         "Original release": "December 17, 1989 – present",
         "Network": "Fox",
@@ -447,7 +453,7 @@
       {
         "Title": "Family Guy",
         "Genre": "Sitcom",
-        "Seasons/episodes": "19 seasons, 361 episodes",
+        "Seasons/episodes": "20 seasons, 371 episodes",
         "Show creator(s)": "Seth MacFarlane",
         "Original release": "January 31, 1999 – present",
         "Network": "Fox",
@@ -951,7 +957,7 @@
       {
         "Title": "American Dad!",
         "Genre": "Animated sitcom",
-        "Seasons/episodes": "17 seasons, 300 episodes",
+        "Seasons/episodes": "18 seasons, 321 episodes",
         "Show creator(s)": "Seth MacFarlane",
         "Original release": "February 6, 2005 – present",
         "Network": "Fox&#91;ag&#93;",
@@ -2487,7 +2493,7 @@
       {
         "Title": "The Great North",
         "Genre": "Comedy, sitcom",
-        "Seasons/episodes": "1 season, 11 episodes",
+        "Seasons/episodes": "2 season, 13 episodes",
         "Show creator(s)": "Lizzie Molyneux-Logelin, Wendy Molyneux and Minty Lewis",
         "Original release": "January 3, 2021 – present",
         "Network": "Fox",
@@ -2619,7 +2625,7 @@
       {
         "Title": "What If...?",
         "Genre": "Anthology",
-        "Seasons/episodes": "1 season, 20 episodes",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "A.C. Bradley",
         "Original release": "August 11, 2021 – present",
         "Network": "Disney+",
@@ -2633,7 +2639,7 @@
         "Genre": "Spy-fi",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Gabe Liedman",
-        "Original release": "September  2, 2021 – present",
+        "Original release": "September 2, 2021 – present",
         "Network": "Netflix",
         "Studio": "Universal Television",
         "Age rating": "TV-MA",
@@ -2643,7 +2649,7 @@
       {
         "Title": "Teenage Euthanasia",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 1 episodes",
+        "Seasons/episodes": "1 season, 4 episodes",
         "Show creator(s)": "Alyson Levy",
         "Original release": "September 5, 2021 – present",
         "Network": "Adult Swim",
@@ -2672,6 +2678,18 @@
         "Original release": "September 17, 2021 – present",
         "Network": "Netflix",
         "Studio": "Olive Bridge Entertainment",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Ten Year Old Tom",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Steve Dildarian",
+        "Original release": "September 30, 2021",
+        "Network": "HBO Max",
+        "Studio": "Tomorrow Studios",
         "Age rating": "TV-MA",
         "Technique": "Flash",
         "Source": ""
@@ -3480,18 +3498,6 @@
         "Source": ""
       },
       {
-        "Title": "Fairfax",
-        "Genre": "",
-        "Seasons, episodes": "2 seasons, 16 episodes",
-        "Show creator": "Aaron Buchsbaum",
-        "Release date": "2021",
-        "Original channel": "Amazon Prime Video",
-        "Studio": "Amazon Studios",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "Smiling Friends",
         "Genre": "",
         "Seasons, episodes": "TBA",
@@ -3504,13 +3510,13 @@
         "Source": ""
       },
       {
-        "Title": "Ten Year Old Tom",
+        "Title": "Adventure Beast",
         "Genre": "Comedy",
         "Seasons, episodes": "TBA",
-        "Show creator": "Steve Dildarian",
-        "Release date": "September 30, 2021",
-        "Original channel": "HBO Max",
-        "Studio": "Tomorrow Studios",
+        "Show creator": "TBA",
+        "Release date": "October 22, 2021",
+        "Original channel": "Netflix",
+        "Studio": "TBA",
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""
@@ -3528,6 +3534,30 @@
         "Source": ""
       },
       {
+        "Title": "Fairfax",
+        "Genre": "",
+        "Seasons, episodes": "2 seasons, 16 episodes",
+        "Show creator": "Aaron Buchsbaum",
+        "Release date": "October 29, 2021",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Amazon Studios",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Arcane",
+        "Genre": "Action",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Ash Brannon",
+        "Release date": "November 6, 2021",
+        "Original channel": "Netflix",
+        "Studio": "Riot Games",
+        "Age rating": "",
+        "Technique": "CGI",
+        "Source": ""
+      },
+      {
         "Title": "Hit-Monkey",
         "Genre": "Action",
         "Seasons, episodes": "TBA",
@@ -3537,30 +3567,6 @@
         "Studio": "Marvel Animation",
         "Age rating": "",
         "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "The Boondocks (2022)",
-        "Genre": "Black sitcom",
-        "Seasons, episodes": "2 seasons, TBA",
-        "Show creator": "Aaron McGruder",
-        "Release date": "2022",
-        "Original channel": "HBO Max",
-        "Studio": "Sony Pictures Animation",
-        "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "Krapopolis",
-        "Genre": "",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Dan Harmon",
-        "Release date": "2022",
-        "Original channel": "Fox",
-        "Studio": "Fox Entertainment",
-        "Age rating": "",
-        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3576,15 +3582,15 @@
         "Source": ""
       },
       {
-        "Title": "Royal Crackers",
-        "Genre": "",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Jason Ruiz",
-        "Release date": "2022",
-        "Original channel": "Adult Swim",
-        "Studio": "Titmouse, Inc.",
+        "Title": "The Legend of Vox Machina",
+        "Genre": "Action",
+        "Seasons, episodes": "2 seasons, 24 episodes",
+        "Show creator": "Matthew Mercer",
+        "Release date": "February 4, 2022",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Amazon Studios",
         "Age rating": "",
-        "Technique": "",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]

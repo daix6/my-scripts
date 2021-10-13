@@ -187,7 +187,7 @@
         "Premiere": "October 2, 2020",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–53 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Helstrom",
@@ -218,15 +218,15 @@
         "Genre": "Drama",
         "Premiere": "August 18, 2021",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries ongoing"
+        "Length": "42–55 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Y: The Last Man&#91;a&#93;",
         "Genre": "Science fiction drama",
         "Premiere": "September 13, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Length": "47–54 min.",
         "Status": "Season 1 ongoing"
       },
       {
@@ -235,7 +235,7 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 5 episodes",
         "Length": "30 min.",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Dopesick",
@@ -395,7 +395,7 @@
         "Premiere": "August 9, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Only Murders in the Building",
@@ -436,7 +436,7 @@
         "Premiere": "June 12, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–24 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on December 10, 2021."
       },
       {
         "Title": "M.O.D.O.K.",
@@ -444,6 +444,14 @@
         "Premiere": "May 21, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "23–25 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hit-Monkey",
+        "Genre": "Superhero comedy",
+        "Premiere": "November 17, 2021",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -477,7 +485,7 @@
         "Premiere": "November 20, 2020",
         "Seasons": "1 season, 13 episodes",
         "Length": "24–27 min.",
-        "Status": "Season 2 due to premiere on November 5, 2021;&#91;21&#93; Renewed"
+        "Status": "Season 2 due to premiere on November 5, 2021;&#91;27&#93; Renewed"
       }
     ]
   },
@@ -567,6 +575,22 @@
         "Seasons": "6 episodes",
         "Length": "27–31 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Wild Crime",
+        "Genre": "Docuseries",
+        "Premiere": "September 28, 2021",
+        "Seasons": "4 episodes",
+        "Length": "39–41 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Curse of Von Dutch",
+        "Genre": "Docuseries",
+        "Premiere": "November 18, 2021",
+        "Seasons": "3 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -618,7 +642,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Baker’s Dozen",
+        "Title": "Baker's Dozen",
         "Genre": "Cooking competition",
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
@@ -843,7 +867,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "4 seasons, 25 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on November 11, 2021"
       },
       {
         "Title": "The Mighty Ones",
@@ -870,7 +894,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "4 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on November 4, 2021"
       },
       {
         "Title": "The Hardy Boys",
@@ -880,6 +904,15 @@
         "Seasons": "1 season, 13 episodes",
         "Length": "40–46 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Jann",
+        "Partner/Country": "CTV/Canada",
+        "Genre": "Sitcom",
+        "Premiere": "January 22, 2021",
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "24 min.",
+        "Status": "Pending"
       },
       {
         "Title": "The Sister",
@@ -933,6 +966,15 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "48–53 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Orville (season 3)",
+        "Genre": "Science fiction comedy-drama",
+        "Prev. network(s)": "Fox",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 11 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -947,6 +989,13 @@
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;b&#93;",
+        "Genre": "Animated family comedy",
+        "Premiere": "November 26, 2021",
+        "Length": "TBA",
         "Language": "English"
       }
     ]
@@ -1169,6 +1218,11 @@
         "Title": "Homeroom",
         "Release date": "August 12, 2021",
         "Runtime": "1 hour, 30 min."
+      },
+      {
+        "Title": "Jacinta",
+        "Release date": "October 8, 2021",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1218,14 +1272,14 @@
         "Genre": "Drama",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Premiere": "2021"
+        "Premiere": "2022"
       },
       {
-        "Title": "The Dropout",
-        "Genre": "Drama miniseries",
+        "Title": "Black Cake",
+        "Genre": "Drama",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Premiere": "2021"
+        "Premiere": "TBA"
       },
       {
         "Title": "Candy",
@@ -1237,6 +1291,13 @@
       {
         "Title": "Class of '09&#91;a&#93;",
         "Genre": "Crime drama miniseries",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Dropout",
+        "Genre": "Drama miniseries",
         "Seasons": "TBA",
         "Length": "TBA",
         "Premiere": "TBA"
@@ -1279,7 +1340,14 @@
       {
         "Title": "Pistol&#91;a&#93;",
         "Genre": "Biographical drama miniseries",
-        "Seasons": "6 episodes",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Reasonable Doubt",
+        "Genre": "Legal drama",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Premiere": "TBA"
       },
@@ -1301,6 +1369,13 @@
         "Title": "Under the Banner of Heaven&#91;a&#93;",
         "Genre": "Crime drama miniseries",
         "Seasons": "TBA",
+        "Length": "TBA",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Washington Black",
+        "Genre": "Drama miniseries",
+        "Seasons": "9 episodes",
         "Length": "TBA",
         "Premiere": "TBA"
       }
@@ -1342,13 +1417,6 @@
       "Adult animation"
     ],
     "data": [
-      {
-        "Title": "Hit-Monkey",
-        "Genre": "Superhero comedy",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Premiere": "TBA"
-      },
       {
         "Title": "Koala Man",
         "Genre": "Superhero comedy",
@@ -1403,13 +1471,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Untitled Von Dutch docuseries",
-        "Genre": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Untitled The 1619 Project docuseries",
         "Genre": "TBA",
         "Seasons": "TBA",
@@ -1426,7 +1487,7 @@
     ],
     "data": [
       {
-        "Title": "Untitled Kardashians project",
+        "Title": "The Kardashian Jenner",
         "Genre": "Reality",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1447,22 +1508,14 @@
         "Seasons": "1 season, 12 episodes",
         "Length": "30 min.",
         "Premiere": "2022"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Continuations"
-    ],
-    "data": [
+      },
       {
-        "Title": "The Orville (season 3)",
-        "Genre": "Science fiction comedy-drama",
-        "Prev. network(s)": "Fox",
-        "Seasons": "1 season, 11 episodes",
+        "Title": "The Hair Tales",
+        "Genre": "Docuseries",
+        "Partner/Country": "OWN/United States",
+        "Seasons": "TBA",
         "Length": "TBA",
-        "Premiere": "2021"
+        "Premiere": "TBA"
       }
     ]
   },
@@ -1505,7 +1558,7 @@
         "Genre": "Science fiction"
       },
       {
-        "Title": "Career Opportunities In Murder &amp; Mayhem",
+        "Title": "Career Opportunities in Murder &amp; Mayhem",
         "Genre": "Drama"
       },
       {
@@ -1559,10 +1612,6 @@
       {
         "Title": "Queen",
         "Genre": "Dramedy"
-      },
-      {
-        "Title": "Reasonable Doubt",
-        "Genre": "Legal drama"
       },
       {
         "Title": "Reboot",
@@ -1669,9 +1718,21 @@
         "Runtime": "TBA"
       },
       {
+        "Title": "Hellraiser",
+        "Genre": "Horror",
+        "Release date": "2022",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "No Exit",
         "Genre": "Thriller",
         "Release date": "2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Honeymoon Friends",
+        "Genre": "Comedy",
+        "Release date": "TBA",
         "Runtime": "TBA"
       },
       {
@@ -1685,10 +1746,25 @@
         "Genre": "Teen romantic comedy",
         "Release date": "TBA",
         "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming co-distributed films"
+    ],
+    "data": [
+      {
+        "Title": "Fire Island",
+        "Genre": "Romantic comedy",
+        "Co-distributed with": "Searchlight Pictures",
+        "Release date": "TBA",
+        "Runtime": "TBA"
       },
       {
-        "Title": "Untitled Hellraiser remake",
-        "Genre": "Horror",
+        "Title": "Not Okay",
+        "Genre": "Comedy",
+        "Co-distributed with": "Searchlight Pictures",
         "Release date": "TBA",
         "Runtime": "TBA"
       }

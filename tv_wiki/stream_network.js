@@ -7,10 +7,11 @@ const _ = require('lodash');
 const TYPICAL_HEADERS = {
   upcoming: ['upcoming original programming', 'upcoming original films'],
   unscripted: ['unscripted', 'pilots not picked up to series'],
-  kids: ['kids &amp; family'],
+  kids: ['kids &amp; family', 'kids and family'],
   docuseries: ['docuseries'],
-  film: ['original films', 'co-distributed films', 'upcoming original films'],
-  exclusive: ['exclusive international television distribution'],
+  film: ['original films', 'co-distributed films', 'upcoming original films', 'upcoming co-distributed films'],
+  exclusive: ['exclusive international television distribution', 'exclusive international distribution'],
+  podcast: ['original podcasts'],
 }
 
 const STREAM_NETWORKS = [
@@ -68,7 +69,7 @@ const STREAM_NETWORKS = [
     wiki: ['List of Amazon Prime Video original programming'],
     filter(data) {
       return data.filter(table => {
-        if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film].includes(table.category[0]?.toLowerCase())) return false;
+        if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film, ...TYPICAL_HEADERS.exclusive].includes(table.category[0]?.toLowerCase())) return false;
         if (TYPICAL_HEADERS.kids.includes(table.category[2]?.toLowerCase())) return false;
 
         return !TYPICAL_HEADERS.unscripted.includes(table.category[1]?.toLowerCase());
@@ -80,7 +81,7 @@ const STREAM_NETWORKS = [
     wiki: ['List of HBO Max original programming'],
     filter(data) {
       return data.filter(table => {
-        if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film].includes(table.category[0]?.toLowerCase())) return false;
+        if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film, ...TYPICAL_HEADERS.podcast].includes(table.category[0]?.toLowerCase())) return false;
         if (TYPICAL_HEADERS.kids.includes(table.category[2]?.toLowerCase())) return false;
 
         return !TYPICAL_HEADERS.unscripted.includes(table.category[1]?.toLowerCase());
