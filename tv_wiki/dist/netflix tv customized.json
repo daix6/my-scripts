@@ -9,7 +9,7 @@
         "Genre": "Teen drama fantasy",
         "Premiere": "January 22, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "47–53 min.",
+        "Runtime": "47–53 min",
         "Status": "Renewed"
       },
       {
@@ -17,7 +17,7 @@
         "Genre": "Drama",
         "Premiere": "February 3, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "47–53 min.",
+        "Runtime": "47–53 min",
         "Status": "Renewed"
       },
       {
@@ -25,7 +25,7 @@
         "Genre": "Coming of age drama",
         "Premiere": "February 24, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "52–58 min.",
+        "Runtime": "52–58 min",
         "Status": "Renewed"
       },
       {
@@ -33,16 +33,17 @@
         "Genre": "Science fiction",
         "Premiere": "March 12, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "38–44 min.",
+        "Runtime": "38–44 min",
         "Status": "Pending"
       },
       {
         "Title": "Zero Chill",
         "Genre": "Sport/Teen drama",
         "Premiere": "March 15, 2021",
+        "Finale": "March 15, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "26–34 min.",
-        "Status": "Pending"
+        "Runtime": "26–34 min",
+        "Notes": ""
       },
       {
         "Title": "The Irregulars",
@@ -50,7 +51,7 @@
         "Premiere": "March 26, 2021",
         "Finale": "March 26, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "49–58 min.",
+        "Runtime": "49–58 min",
         "Notes": ""
       },
       {
@@ -58,7 +59,7 @@
         "Genre": "Fantasy drama",
         "Premiere": "April 23, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "45–58 min.",
+        "Runtime": "45–58 min",
         "Status": "Renewed"
       },
       {
@@ -67,7 +68,7 @@
         "Premiere": "May 7, 2021",
         "Finale": "May 7, 2021",
         "Seasons": "1 volume, 8 episodes",
-        "Runtime": "35–56 min.",
+        "Runtime": "35–56 min",
         "Notes": ""
       },
       {
@@ -75,7 +76,7 @@
         "Genre": "Fantasy drama",
         "Premiere": "June 4, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "37–53 min.",
+        "Runtime": "37–53 min",
         "Status": "Renewed"
       },
       {
@@ -83,7 +84,7 @@
         "Genre": "Drama",
         "Premiere": "June 24, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "26–50 min.",
+        "Runtime": "26–50 min",
         "Status": "Pending"
       },
       {
@@ -91,7 +92,7 @@
         "Genre": "Drama",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–52 min.",
+        "Runtime": "43–52 min",
         "Status": "Renewed"
       },
       {
@@ -100,23 +101,15 @@
         "Premiere": "August 6, 2021",
         "Finale": "August 6, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "39–58 min.",
+        "Runtime": "39–58 min",
         "Notes": ""
-      },
-      {
-        "Title": "Colin in Black &amp; White",
-        "Genre": "Biopic",
-        "Premiere": "October 29, 2021",
-        "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
       },
       {
         "Title": "Cowboy Bebop",
         "Genre": "Science fiction",
         "Premiere": "November 19, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "37–60 min",
         "Status": "Pending"
       },
       {
@@ -148,7 +141,7 @@
         "Premiere": "February 15, 2021",
         "Finale": "February 15, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "20–30 min.",
+        "Runtime": "20–30 min",
         "Notes": ""
       },
       {
@@ -157,7 +150,7 @@
         "Premiere": "March 19, 2021",
         "Finale": "March 19, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "20–27 min.",
+        "Runtime": "20–27 min",
         "Notes": ""
       },
       {
@@ -166,7 +159,7 @@
         "Premiere": "April 14, 2021",
         "Finale": "April 14, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "25–27 min.",
+        "Runtime": "25–27 min",
         "Notes": ""
       },
       {
@@ -174,7 +167,7 @@
         "Genre": "Sitcom",
         "Premiere": "May 12, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "25–29 min.",
+        "Runtime": "25–29 min",
         "Status": "Renewed"
       },
       {
@@ -182,7 +175,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "August 20, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Status": "Pending"
       },
       {
@@ -190,7 +183,7 @@
         "Genre": "Comedy",
         "Premiere": "October 1, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "24–46 min.",
+        "Runtime": "24–46 min",
         "Status": "Pending"
       },
       {
@@ -198,7 +191,7 @@
         "Genre": "Sitcom",
         "Premiere": "October 8, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "22–26 min.",
+        "Runtime": "22–26 min",
         "Status": "Pending"
       }
     ]
@@ -214,7 +207,7 @@
         "Genre": "Science fantasy",
         "Premiere": "July 23, 2021",
         "Seasons": "1 part, 5 episodes",
-        "Runtime": "24–27 min.",
+        "Runtime": "24–27 min",
         "Language": "English",
         "Status": "Part 2 of Season 1 due to premiere on November 23, 2021"
       },
@@ -223,7 +216,7 @@
         "Genre": "Comedy",
         "Premiere": "September 2, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "26 min.",
+        "Runtime": "26 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -232,7 +225,7 @@
         "Genre": "Comedy",
         "Premiere": "September 17, 2021",
         "Seasons": "1 part, 8 episodes",
-        "Runtime": "22–25 min.",
+        "Runtime": "22–25 min",
         "Language": "English",
         "Status": "Season 1 ongoing"
       },
@@ -240,8 +233,8 @@
         "Title": "Adventure Beast",
         "Genre": "Educational/Comedy",
         "Premiere": "October 22, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "16–20 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -250,15 +243,24 @@
         "Genre": "Workplace comedy",
         "Premiere": "October 22, 2021",
         "Seasons": "1 part, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "26–31 min",
         "Language": "English",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Tear Along the Dotted Line (it)",
+        "Genre": "Comedy",
+        "Premiere": "November 17, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "16–22 min",
+        "Language": "Italian",
         "Status": "Pending"
       },
       {
-        "Title": "Arcane",
-        "Genre": "Fantasy/Science fiction",
-        "Premiere": "November 6, 2021",
-        "Seasons": "1 season, 9 episodes",
+        "Title": "The House",
+        "Genre": "Stop motion/Dark comedy",
+        "Premiere": "January 14, 2022",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Pending"
@@ -276,7 +278,7 @@
         "Genre": "Action horror",
         "Premiere": "February 25, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "25–27 min.",
+        "Runtime": "25–27 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -285,7 +287,7 @@
         "Genre": "Mecha/Kaiju",
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "21–29 min.",
+        "Runtime": "21–29 min",
         "Language": "English",
         "Status": "Renewed"
       },
@@ -294,16 +296,16 @@
         "Genre": "Dark fantasy/Action",
         "Premiere": "March 25, 2021",
         "Seasons": "1 book, 8 episodes",
-        "Runtime": "26–28 min.",
+        "Runtime": "26–28 min",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Book 2 due to premiere in January 2022"
       },
       {
         "Title": "The Way of the Househusband",
         "Genre": "Comedy",
         "Premiere": "April 8, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "16–19 min.",
+        "Runtime": "16–19 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -312,7 +314,7 @@
         "Genre": "Historical fantasy/Action",
         "Premiere": "April 29, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "28–30 min.",
+        "Runtime": "28–30 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -321,7 +323,7 @@
         "Genre": "Science fiction",
         "Premiere": "May 27, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "25 min.",
+        "Runtime": "25 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -330,7 +332,7 @@
         "Genre": "Dark fantasy/Crime",
         "Premiere": "June 10, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "25–33 min.",
+        "Runtime": "25–33 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -339,7 +341,7 @@
         "Genre": "Action",
         "Premiere": "June 17, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "24 min",
         "Language": "Japanese",
         "Status": "Renewed"
       },
@@ -348,7 +350,7 @@
         "Genre": "CG animation/Horror",
         "Premiere": "July 8, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "25–28 min.",
+        "Runtime": "25–28 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -358,7 +360,7 @@
         "Premiere": "July 29, 2021",
         "Finale": "",
         "Seasons": "6 episodes",
-        "Runtime": "24–26 min.",
+        "Runtime": "24–26 min",
         "Language": "English",
         "Notes": ""
       },
@@ -367,7 +369,7 @@
         "Genre": "Martial arts",
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "24–25 min.",
+        "Runtime": "24–25 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -385,31 +387,6 @@
   {
     "category": [
       "Non-English language scripted",
-      "Arabic"
-    ],
-    "data": [
-      {
-        "Title": "Abla Fahita: Drama Queen",
-        "Genre": "Puppetry/live-action comedy",
-        "Premiere": "March 15, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "17–24 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "AlRawabi School for Girls",
-        "Genre": "Drama",
-        "Premiere": "August 12, 2021",
-        "Finale": "",
-        "Seasons": "6 episodes",
-        "Runtime": "44–52 min.",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
       "Danish"
     ],
     "data": [
@@ -418,12 +395,12 @@
         "Genre": "Crime drama",
         "Premiere": "September 29, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "51–59 min.",
+        "Runtime": "51–59 min",
         "Status": "Pending"
       },
       {
         "Title": "Elves",
-        "Genre": "Horror",
+        "Genre": "Fantasy horror",
         "Premiere": "November 28, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -442,7 +419,7 @@
         "Genre": "Drama",
         "Premiere": "January 8, 2021",
         "Seasons": "2 parts, 10 episodes",
-        "Runtime": "40–52 min.",
+        "Runtime": "40–52 min",
         "Status": "Renewed"
       },
       {
@@ -450,7 +427,7 @@
         "Genre": "Drama",
         "Premiere": "March 10, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "8–15 min.",
+        "Runtime": "8–15 min",
         "Status": "Pending"
       },
       {
@@ -459,7 +436,7 @@
         "Premiere": "August 13, 2021",
         "Finale": "",
         "Seasons": "5 episodes",
-        "Runtime": "44–53 min.",
+        "Runtime": "44–53 min",
         "Notes": ""
       },
       {
@@ -467,7 +444,15 @@
         "Genre": "Thriller",
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "44–51 min.",
+        "Runtime": "44–51 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Christmas Flow",
+        "Genre": "Romantic comedy/Musical",
+        "Premiere": "November 17, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "47–54 min",
         "Status": "Pending"
       }
     ]
@@ -483,7 +468,7 @@
         "Genre": "Science fiction",
         "Premiere": "February 19, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "44–49 min.",
+        "Runtime": "44–49 min",
         "Status": "Pending"
       },
       {
@@ -492,14 +477,22 @@
         "Premiere": "October 7, 2021",
         "Finale": "",
         "Seasons": "4 episodes",
-        "Runtime": "58–77 min.",
+        "Runtime": "58–77 min",
         "Notes": ""
       },
       {
         "Title": "Life's a Glitch with Julien Bam",
-        "Genre": "Reality show",
+        "Genre": "Science fiction comedy-drama",
         "Premiere": "October 21, 2021",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "32–36 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Kitz",
+        "Genre": "Young adult mystery drama",
+        "Premiere": "December 30, 2021",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -516,7 +509,7 @@
         "Genre": "Drama",
         "Premiere": "March 8, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "38–60 min.",
+        "Runtime": "38–60 min",
         "Status": "Pending"
       },
       {
@@ -524,7 +517,7 @@
         "Genre": "Anthology series",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "52–64 min.",
+        "Runtime": "52–64 min",
         "Status": "Pending"
       },
       {
@@ -532,13 +525,21 @@
         "Genre": "Anthology series",
         "Premiere": "July 23, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "25–31 min.",
+        "Runtime": "25–31 min",
         "Status": "Pending"
       },
       {
         "Title": "Call My Agent: Bollywood",
-        "Genre": "Comedy-drama",
+        "Genre": "Workplace dramedy",
         "Premiere": "October 29, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "39–49 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Aranyak",
+        "Genre": "Crime thriller",
+        "Premiere": "December 10, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -557,7 +558,7 @@
         "Premiere": "April 21, 2021",
         "Finale": "April 21, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "21–27 min.",
+        "Runtime": "21–27 min",
         "Notes": ""
       },
       {
@@ -565,7 +566,7 @@
         "Genre": "Romantic comedy",
         "Premiere": "July 1, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "26–33 min.",
+        "Runtime": "26–33 min",
         "Status": "Pending"
       },
       {
@@ -573,16 +574,16 @@
         "Genre": "Drama",
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "44–54 min.",
+        "Runtime": "44–54 min",
         "Status": "Pending"
       },
       {
         "Title": "An Astrological Guide for Broken Hearts",
         "Genre": "Romantic comedy",
         "Premiere": "October 27, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30–38 min",
+        "Status": "Renewed"
       }
     ]
   },
@@ -594,10 +595,18 @@
     "data": [
       {
         "Title": "Creator's File: Gold",
-        "Genre": "Comedy",
+        "Genre": "Mockumentary",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "15–31 min.",
+        "Runtime": "15–31 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Journalist",
+        "Genre": "Drama",
+        "Premiere": "January 13, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -610,10 +619,10 @@
     "data": [
       {
         "Title": "Move to Heaven",
-        "Genre": "Drama",
+        "Genre": "Melodrama",
         "Premiere": "May 14, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "43–61 min.",
+        "Runtime": "43–61 min",
         "Status": "Pending"
       },
       {
@@ -621,37 +630,45 @@
         "Genre": "Sitcom",
         "Premiere": "June 18, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "30–34 min.",
+        "Runtime": "30–34 min",
         "Status": "Pending"
       },
       {
         "Title": "D.P.",
-        "Genre": "Drama",
+        "Genre": "Military drama",
         "Premiere": "August 27, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "45–55 min.",
+        "Runtime": "45–55 min",
         "Status": "Pending"
       },
       {
         "Title": "Squid Game",
-        "Genre": "Thriller",
+        "Genre": "Survival thriller",
         "Premiere": "September 17, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "32–63 min.",
+        "Runtime": "32–63 min",
         "Status": "Pending"
       },
       {
         "Title": "My Name",
-        "Genre": "Thriller",
+        "Genre": "Crime thriller",
         "Premiere": "October 15, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45–58 min",
         "Status": "Pending"
       },
       {
         "Title": "Hellbound",
         "Genre": "Supernatural drama",
         "Premiere": "November 19, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "42–60 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Silent Sea",
+        "Genre": "Science fiction thriller",
+        "Premiere": "December 24, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -668,7 +685,15 @@
         "Title": "More than Blue: The Series",
         "Genre": "Romantic drama",
         "Premiere": "October 22, 2021",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "42–50 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Light the Night",
+        "Genre": "Romantic thriller",
+        "Premiere": "November 26, 2021",
+        "Seasons": "1 part, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -685,7 +710,7 @@
         "Genre": "Supernatural drama",
         "Premiere": "August 25, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–47 min.",
+        "Runtime": "43–47 min",
         "Status": "Pending"
       }
     ]
@@ -701,7 +726,7 @@
         "Genre": "Comedy drama",
         "Premiere": "April 28, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "37–51 min.",
+        "Runtime": "37–51 min",
         "Status": "Renewed"
       },
       {
@@ -709,7 +734,7 @@
         "Genre": "Thriller",
         "Premiere": "August 25, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "42–54 min.",
+        "Runtime": "42–54 min",
         "Status": "Pending"
       }
     ]
@@ -725,8 +750,16 @@
         "Genre": "Fantasy thriller",
         "Premiere": "February 5, 2021",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "31–40 min.",
+        "Runtime": "31–40 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Glória",
+        "Genre": "Thriller",
+        "Premiere": "November 5, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40–47 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -737,11 +770,11 @@
     ],
     "data": [
       {
-        "Title": "Daughter From Another Mother",
+        "Title": "Daughter from Another Mother",
         "Genre": "Comedy",
         "Premiere": "January 20, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "35–42 min.",
+        "Runtime": "35–42 min",
         "Status": "Renewed"
       },
       {
@@ -749,7 +782,7 @@
         "Genre": "Action drama",
         "Premiere": "March 19, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "22–40 min.",
+        "Runtime": "22–40 min",
         "Status": "Renewed for final season"
       },
       {
@@ -757,7 +790,7 @@
         "Genre": "Crime drama",
         "Premiere": "March 24, 2021",
         "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "36–46 min.",
+        "Runtime": "36–46 min",
         "Status": "Renewed"
       },
       {
@@ -766,7 +799,7 @@
         "Premiere": "April 30, 2021",
         "Finale": "",
         "Seasons": "8 episodes",
-        "Runtime": "49–71 min.",
+        "Runtime": "49–71 min",
         "Notes": ""
       },
       {
@@ -774,7 +807,7 @@
         "Genre": "Drama",
         "Premiere": "June 30, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "42–73 min.",
+        "Runtime": "42–73 min",
         "Status": "Pending"
       },
       {
@@ -782,7 +815,7 @@
         "Genre": "Comedy",
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "29–32 min.",
+        "Runtime": "29–32 min",
         "Status": "Renewed"
       },
       {
@@ -790,7 +823,7 @@
         "Genre": "Crime drama",
         "Premiere": "August 13, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "37–52 min.",
+        "Runtime": "37–52 min",
         "Status": "Pending"
       },
       {
@@ -798,7 +831,7 @@
         "Genre": "Dramedy",
         "Premiere": "August 20, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "25–34 min.",
+        "Runtime": "25–34 min",
         "Status": "Pending"
       },
       {
@@ -806,7 +839,7 @@
         "Genre": "Historical drama",
         "Premiere": "September 22, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "37–51 min.",
+        "Runtime": "37–51 min",
         "Status": "Pending"
       },
       {
@@ -814,13 +847,21 @@
         "Genre": "Dramedy",
         "Premiere": "October 6, 2021",
         "Seasons": "1 season, 18 episodes",
-        "Runtime": "33–48 min.",
+        "Runtime": "33–48 min",
         "Status": "Pending"
       },
       {
         "Title": "The Time It Takes",
         "Genre": "Drama",
         "Premiere": "October 29, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "12–13 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Rebelde",
+        "Genre": "Teen drama",
+        "Premiere": "January 5, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -838,7 +879,7 @@
         "Genre": "Thriller",
         "Premiere": "April 7, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "38–51 min.",
+        "Runtime": "38–51 min",
         "Status": "Renewed"
       },
       {
@@ -846,16 +887,25 @@
         "Genre": "Coming-of-age drama",
         "Premiere": "July 1, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "40–50 min.",
+        "Runtime": "40–50 min",
         "Status": "Renewed"
       },
       {
         "Title": "The Unlikely Murderer",
         "Genre": "Crime drama miniseries",
         "Premiere": "November 5, 2021",
+        "Finale": "",
+        "Seasons": "5 episodes",
+        "Runtime": "43–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Anxious People",
+        "Genre": "Comedy drama",
+        "Premiere": "December 29, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -870,7 +920,7 @@
         "Genre": "Anthology series",
         "Premiere": "August 6, 2021",
         "Seasons": "1 volume, 9 episodes",
-        "Runtime": "28–48 min.",
+        "Runtime": "28–48 min",
         "Status": "Pending"
       }
     ]
@@ -885,16 +935,25 @@
         "Title": "50M2",
         "Genre": "Dark comedy",
         "Premiere": "January 27, 2021",
+        "Finale": "January 27, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–64 min.",
-        "Status": "Pending"
+        "Runtime": "44–64 min",
+        "Notes": ""
       },
       {
         "Title": "Fatma",
         "Genre": "Crime drama",
         "Premiere": "April 27, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "39–47 min.",
+        "Runtime": "39–47 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Club",
+        "Genre": "Period drama",
+        "Premiere": "November 5, 2021",
+        "Seasons": "1 part, 6 episodes",
+        "Runtime": "43–56 min",
         "Status": "Pending"
       }
     ]
@@ -911,7 +970,16 @@
         "Genre": "Anthology series",
         "Premiere": "February 19, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "35–39 min.",
+        "Runtime": "35–39 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Abla Fahita: Drama Queen",
+        "Language": "Arabic",
+        "Genre": "Puppetry/live-action comedy",
+        "Premiere": "March 15, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "17–24 min",
         "Status": "Pending"
       },
       {
@@ -920,7 +988,7 @@
         "Genre": "Supernatural drama",
         "Premiere": "June 17, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "41–51 min.",
+        "Runtime": "41–51 min",
         "Status": "Pending"
       },
       {
@@ -929,7 +997,16 @@
         "Genre": "Thriller",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "54–64 min.",
+        "Runtime": "54–64 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Misfit: The Series",
+        "Language": "Dutch",
+        "Genre": "Teen musical comedy-drama",
+        "Premiere": "October 16, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "22–28 min",
         "Status": "Pending"
       }
     ]
@@ -945,7 +1022,7 @@
         "Genre": "True crime",
         "Premiere": "March 17, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "34–38 min.",
+        "Runtime": "34–38 min",
         "Language": "French",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
@@ -957,17 +1034,17 @@
         "Premiere": "April 2, 2021",
         "Finale": "",
         "Seasons": "8 episodes",
-        "Runtime": "55–59 min.",
+        "Runtime": "55–59 min",
         "Language": "English",
         "Notes": ""
       },
       {
         "Title": "Life in Colour with David Attenborough",
         "Partner/Country": "BBC Two/United Kingdom",
-        "Genre": "Nature docu-series",
+        "Genre": "Nature docuseries",
         "Premiere": "April 22, 2021",
         "Seasons": "1 season, 3 episodes",
-        "Runtime": "44–50 min.",
+        "Runtime": "44–50 min",
         "Language": "English",
         "Netflix exclusive regions": "All other markets except Ireland and Australia",
         "Status": "Pending"
@@ -978,7 +1055,7 @@
         "Genre": "Mystery teen drama",
         "Premiere": "September 3, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "26–27 min.",
+        "Runtime": "26–27 min",
         "Language": "English",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
@@ -989,7 +1066,7 @@
         "Genre": "Comedy",
         "Premiere": "September 7, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "28–35 min.",
+        "Runtime": "28–35 min",
         "Language": "English",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
@@ -1000,7 +1077,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "31–44 min.",
+        "Runtime": "31–44 min",
         "Language": "Hindi",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
@@ -1018,9 +1095,9 @@
         "Prev. network(s)": "YouTube Premium",
         "Premiere": "January 1, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "27–41 min.",
+        "Runtime": "27–41 min",
         "Language": "English",
-        "Status": "Season 4 due to premiere on December 31, 2021;&#91;171&#93; Renewed"
+        "Status": "Season 4 due to premiere on December 31, 2021;&#91;162&#93; Renewed"
       },
       {
         "Title": "Blown Away (season 2)",
@@ -1028,7 +1105,7 @@
         "Prev. network(s)": "Makeful",
         "Premiere": "January 22, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "25–30 min.",
+        "Runtime": "25–30 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -1038,7 +1115,7 @@
         "Prev. network(s)": "GMM 25",
         "Premiere": "May 7, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "38–48 min.",
+        "Runtime": "38–48 min",
         "Language": "Thai",
         "Status": "Pending"
       },
@@ -1048,7 +1125,7 @@
         "Prev. network(s)": "BBC iPlayer",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "26–29 min.",
+        "Runtime": "26–29 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -1058,7 +1135,7 @@
         "Prev. network(s)": "Showmax",
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "53–60 min.",
+        "Runtime": "53–60 min",
         "Language": "Polish",
         "Status": "Pending"
       },
@@ -1068,7 +1145,7 @@
         "Prev. network(s)": "A&amp;E",
         "Premiere": "July 21, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "22–24 min.",
+        "Runtime": "22–24 min",
         "Language": "English",
         "Status": "Pending"
       }
@@ -1084,173 +1161,181 @@
         "Title": "Cobra Kai - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "January 2, 2021",
-        "Runtime": "34 min.",
+        "Runtime": "34 min",
         "Notes": ""
       },
       {
         "Title": "Creating The Queen's Gambit",
         "Genre": "Making-of",
         "Premiere": "January 8, 2021",
-        "Runtime": "14 min.",
+        "Runtime": "14 min",
         "Notes": ""
       },
       {
         "Title": "Bridgerton - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "January 23, 2021",
-        "Runtime": "38 min.",
+        "Runtime": "38 min",
         "Notes": ""
       },
       {
         "Title": "Bling Empire - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "January 30, 2021",
-        "Runtime": "35 min.",
+        "Runtime": "35 min",
         "Notes": ""
       },
       {
         "Title": "To All the Boys: Always and Forever - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "February 13, 2021",
-        "Runtime": "36 min.",
+        "Runtime": "36 min",
         "Notes": ""
       },
       {
         "Title": "Animals on the Loose: A You vs. Wild Interactive Movie",
         "Genre": "Reality television/Interactive fiction",
         "Premiere": "February 16, 2021",
-        "Runtime": "45 min.",
+        "Runtime": "45 min",
         "Notes": ""
       },
       {
         "Title": "Fate: The Winx Saga - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "February 20, 2021",
-        "Runtime": "35 min.",
+        "Runtime": "35 min",
         "Notes": ""
       },
       {
         "Title": "Ginny &amp; Georgia - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "February 26, 2021",
-        "Runtime": "35 min.",
+        "Runtime": "35 min",
         "Notes": ""
       },
       {
         "Title": "The Last Kids on Earth: Happy Apocalypse to You",
         "Genre": "Animation/Interactive fiction",
         "Premiere": "April 6, 2021",
-        "Runtime": "27 min.",
+        "Runtime": "27 min",
         "Notes": ""
       },
       {
         "Title": "Dad Stop Embarrassing Me! - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "April 16, 2021",
-        "Runtime": "37 min.",
+        "Runtime": "37 min",
         "Notes": ""
       },
       {
         "Title": "Shadow and Bone - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "April 24, 2021",
-        "Runtime": "32 min.",
+        "Runtime": "32 min",
         "Notes": ""
       },
       {
         "Title": "The Circle - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "May 7, 2021",
-        "Runtime": "35 min.",
+        "Runtime": "35 min",
         "Notes": ""
       },
       {
         "Title": "The Upshaws - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "May 14, 2021",
-        "Runtime": "32 min.",
+        "Runtime": "32 min",
         "Notes": ""
       },
       {
         "Title": "Super Monsters: Once Upon a Rhyme",
         "Genre": "Animation",
         "Premiere": "June 1, 2021",
-        "Runtime": "25 min.",
+        "Runtime": "25 min",
         "Notes": ""
       },
       {
         "Title": "Trese After Dark",
         "Genre": "Aftershow",
         "Premiere": "June 10, 2021",
-        "Runtime": "35 min.",
+        "Runtime": "35 min",
         "Notes": ""
       },
       {
         "Title": "Headspace: Unwind Your Mind",
         "Genre": "Documentary/Interactive fiction",
         "Premiere": "June 15, 2021",
-        "Runtime": "15 min.",
+        "Runtime": "15 min",
         "Notes": ""
       },
       {
         "Title": "The House of Flowers: The Movie",
         "Genre": "Comedy",
         "Premiere": "June 23, 2021",
-        "Runtime": "1 hour, 27 min.",
+        "Runtime": "1 h 27 min",
         "Notes": ""
       },
       {
         "Title": "Kingdom: Ashin of the North",
         "Genre": "Period horror thriller",
         "Premiere": "July 23, 2021",
-        "Runtime": "1 hour, 33 min.",
+        "Runtime": "1 h 33 min",
         "Notes": ""
       },
       {
         "Title": "The Witcher: Nightmare of the Wolf",
         "Genre": "Animated dark fantasy",
         "Premiere": "August 23, 2021",
-        "Runtime": "1 hour, 23 min.",
+        "Runtime": "1 h 23 min",
         "Notes": ""
       },
       {
         "Title": "You vs. Wild: Out Cold",
         "Genre": "Interactive reality",
         "Premiere": "September 14, 2021",
-        "Runtime": "25 min.",
+        "Runtime": "25 min",
         "Notes": ""
       },
       {
         "Title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
         "Genre": "Animation",
         "Premiere": "September 21, 2021",
-        "Runtime": "1 hour, 1 min.",
+        "Runtime": "1 h 1 min",
         "Notes": ""
       },
       {
         "Title": "Making The Billion Dollar Code",
         "Genre": "Making-of",
         "Premiere": "October 10, 2021",
-        "Runtime": "28 min.",
+        "Runtime": "28 min",
         "Notes": ""
       },
       {
         "Title": "Sharkdog's Fintastic Halloween",
         "Genre": "Animation",
         "Premiere": "October 15, 2021",
-        "Runtime": "TBA"
+        "Runtime": "24 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Johnny Test's Ultimate Meatloaf Quest",
+        "Genre": "Animation/Interactive",
+        "Premiere": "November 16, 2021",
+        "Runtime": "20 min",
+        "Notes": ""
       },
       {
         "Title": "Waffles + Mochi's Holiday Feast",
         "Genre": "Cooking show",
         "Premiere": "November 23, 2021",
-        "Runtime": "TBA"
+        "Runtime": "28 min"
       },
       {
         "Title": "StarBeam: Beaming in the New Year",
         "Genre": "Animation",
         "Premiere": "December 14, 2021",
-        "Runtime": "TBA"
+        "Runtime": "47 min"
       }
     ]
   },
@@ -1265,7 +1350,7 @@
         "Genre": "Crime teen drama",
         "Premiere": "June 14, 2021",
         "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–15 min.",
+        "Runtime": "10–15 min",
         "Language": "Spanish",
         "Status": "Pending"
       },
@@ -1274,7 +1359,7 @@
         "Genre": "Crime teen drama",
         "Premiere": "June 15, 2021",
         "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–14 min.",
+        "Runtime": "10–14 min",
         "Language": "Spanish",
         "Status": "Pending"
       },
@@ -1283,7 +1368,7 @@
         "Genre": "Crime teen drama",
         "Premiere": "June 16, 2021",
         "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–14 min.",
+        "Runtime": "10–14 min",
         "Language": "Spanish",
         "Status": "Pending"
       },
@@ -1292,7 +1377,61 @@
         "Genre": "Crime teen drama",
         "Premiere": "June 17, 2021",
         "Seasons": "1 season, 3 episodes",
-        "Runtime": "13–16 min.",
+        "Runtime": "13–16 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Revelations: The Masters of the Universe Revelation Aftershow",
+        "Genre": "Aftershow",
+        "Premiere": "July 23, 2021",
+        "Seasons": "1 season, 1 episode",
+        "Runtime": "25 min",
+        "Language": "English",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Ingenuity of the Househusband",
+        "Genre": "Comedy",
+        "Premiere": "August 29, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "3–6 min",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Money Heist: From Tokyo to Berlin",
+        "Genre": "Docu-series",
+        "Premiere": "September 3, 2021",
+        "Seasons": "1 volume, 1 episode",
+        "Runtime": "52 min",
+        "Language": "Spanish",
+        "Status": "Volume 1 ongoing"
+      },
+      {
+        "Title": "Elite Short Stories: Phillipe Caye Felipe",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 15, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Samuel Omar",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 20, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Patrick",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 23, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Language": "Spanish",
         "Status": "Pending"
       }
@@ -1309,7 +1448,7 @@
         "Genre": "Animation",
         "Premiere": "May 5, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "53 min.",
+        "Runtime": "53 min",
         "Language": "Korean",
         "Netflix exclusive territory": "Selected territories",
         "Status": "Pending"
@@ -1319,10 +1458,20 @@
         "Genre": "Crime drama",
         "Premiere": "July 28, 2021",
         "Seasons": "1 season, 60 episodes",
-        "Runtime": "38–58 min.",
+        "Runtime": "38–58 min",
         "Language": "Spanish",
         "Netflix exclusive territory": "Selected territories",
         "Status": "Pending"
+      },
+      {
+        "Title": "Arcane",
+        "Genre": "Animated science fiction fantasy",
+        "Premiere": "November 6, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "39–44 min",
+        "Language": "English",
+        "Netflix exclusive territory": "Worldwide except China",
+        "Status": "Renewed"
       }
     ]
   },
@@ -1332,14 +1481,6 @@
       "Specials"
     ],
     "data": [
-      {
-        "Title": "A StoryBots Space Adventure",
-        "Genre": "Animation",
-        "Premiere": "September 15, 2021",
-        "Runtime": "13 min.",
-        "Netflix exclusive territory": "Selected territories",
-        "Notes": ""
-      },
       {
         "Title": "Shaun the Sheep: The Flight Before Christmas",
         "Genre": "Stop motion",
@@ -1359,7 +1500,7 @@
         "Genre": "Psychological thriller",
         "Premiere": "February 17, 2021",
         "Episodes": "6 episodes",
-        "Runtime": "46–53 min.",
+        "Runtime": "46–53 min",
         "Notes": ""
       },
       {
@@ -1367,7 +1508,7 @@
         "Genre": "Drama",
         "Premiere": "May 14, 2021",
         "Episodes": "5 episodes",
-        "Runtime": "44–53 min.",
+        "Runtime": "44–53 min",
         "Notes": ""
       },
       {
@@ -1375,7 +1516,7 @@
         "Genre": "Horror thriller",
         "Premiere": "August 13, 2021",
         "Episodes": "8 episodes",
-        "Runtime": "36–51 min.",
+        "Runtime": "36–51 min",
         "Notes": ""
       },
       {
@@ -1383,7 +1524,7 @@
         "Genre": "Thriller",
         "Premiere": "August 25, 2021",
         "Episodes": "8 episodes",
-        "Runtime": "42–48 min.",
+        "Runtime": "42–48 min",
         "Notes": ""
       },
       {
@@ -1391,7 +1532,7 @@
         "Genre": "Horror",
         "Premiere": "September 24, 2021",
         "Episodes": "7 episodes",
-        "Runtime": "59–70 min.",
+        "Runtime": "59–70 min",
         "Notes": ""
       },
       {
@@ -1399,7 +1540,32 @@
         "Genre": "Dramedy",
         "Premiere": "October 1, 2021",
         "Episodes": "10 episodes",
-        "Runtime": "47–60 min.",
+        "Runtime": "47–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Colin in Black &amp; White",
+        "Genre": "Biopic",
+        "Premiere": "October 29, 2021",
+        "Episodes": "6 episodes",
+        "Runtime": "27–35 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Arabic"
+    ],
+    "data": [
+      {
+        "Title": "AlRawabi School for Girls",
+        "Genre": "Drama",
+        "Premiere": "August 12, 2021",
+        "Finale": "",
+        "Seasons": "6 episodes",
+        "Runtime": "44–52 min",
         "Notes": ""
       }
     ]
@@ -1436,7 +1602,7 @@
         "Genre": "Crime drama",
         "Premiere": "August 27, 2021",
         "Episodes": "7 episodes",
-        "Runtime": "60–79 min.",
+        "Runtime": "60–79 min",
         "Netflix exclusive region": "Selected territories",
         "Notes": ""
       }

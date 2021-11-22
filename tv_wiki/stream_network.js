@@ -7,7 +7,7 @@ const _ = require('lodash');
 const TYPICAL_HEADERS = {
   upcoming: ['upcoming original programming', 'upcoming original films'],
   unscripted: ['unscripted', 'pilots not picked up to series'],
-  kids: ['kids &amp; family', 'kids and family'],
+  kids: ['kids &amp; family', 'kids and family', 'kids &amp; family (animation)'],
   docuseries: ['docuseries'],
   film: ['original films', 'co-distributed films', 'upcoming original films', 'upcoming co-distributed films'],
   exclusive: ['exclusive international television distribution', 'exclusive international distribution'],
@@ -82,7 +82,7 @@ const STREAM_NETWORKS = [
     filter(data) {
       return data.filter(table => {
         if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film, ...TYPICAL_HEADERS.podcast].includes(table.category[0]?.toLowerCase())) return false;
-        if (TYPICAL_HEADERS.kids.includes(table.category[2]?.toLowerCase())) return false;
+        if ([...TYPICAL_HEADERS.kids, ...TYPICAL_HEADERS.unscripted].includes(table.category[2]?.toLowerCase())) return false;
 
         return !TYPICAL_HEADERS.unscripted.includes(table.category[1]?.toLowerCase());
       });

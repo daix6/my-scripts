@@ -11,7 +11,7 @@
         "Premiere": "September 3, 2020",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "42–56 min.",
-        "Status": "Season 2 due to premiere in 2021"
+        "Status": "Season 2 due to premiere in early 2022"
       },
       {
         "Title": "The Flight Attendant",
@@ -27,7 +27,23 @@
         "Premiere": "July 8, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "56–59 min.",
-        "Status": "Part 2 of Season 1 due to premiere in November 2021;&#91;4&#93;&#91;5&#93; Renewed"
+        "Status": "Part 2 of Season 1 due to premiere on November 25, 2021;&#91;5&#93;&#91;6&#93; Renewed"
+      },
+      {
+        "Title": "Station Eleven",
+        "Genre": "Post-apocalyptic drama",
+        "Premiere": "December 16, 2021",
+        "Seasons": "10 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Peacemaker",
+        "Genre": "Superhero action/Black comedy",
+        "Premiere": "January 13, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -41,9 +57,9 @@
         "Title": "Love Life",
         "Genre": "Romantic comedy anthology",
         "Premiere": "May 27, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "28–35 min.",
-        "Status": "Season 2 due to premiere on October 28, 2021"
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "25–36 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Generation",
@@ -66,7 +82,7 @@
         "Genre": "Sketch comedy",
         "Premiere": "May 6, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "19–23 min.",
         "Status": "Renewed"
       },
       {
@@ -82,16 +98,24 @@
         "Genre": "Teen sitcom",
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "21–27 min.",
         "Status": "Pending"
       },
       {
         "Title": "The Sex Lives of College Girls",
         "Genre": "Comedy-drama",
         "Premiere": "November 18, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30–51 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "And Just Like That...",
+        "Genre": "Romantic comedy",
+        "Premiere": "December 9, 2021",
+        "Seasons": "10 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -119,11 +143,19 @@
         "Status": "Pending"
       },
       {
-        "Title": "10-Year-Old Tom",
+        "Title": "Ten Year Old Tom",
         "Genre": "Sitcom",
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–26 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Santa Inc.",
+        "Genre": "Black comedy",
+        "Premiere": "December 2, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -131,8 +163,25 @@
   {
     "category": [
       "Original programming",
-      "Non-English language scripted",
-      "Portuguese"
+      "Non-English language",
+      "Scripted"
+    ],
+    "data": [
+      {
+        "Title": "Kamikaze",
+        "Genre": "Young adult thriller drama",
+        "Premiere": "November 14, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "33 min.",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language",
+      "Scripted"
     ],
     "data": [
       {
@@ -148,17 +197,49 @@
   {
     "category": [
       "Original programming",
-      "Non-English language scripted",
-      "Spanish"
+      "Non-English language",
+      "Scripted"
     ],
     "data": [
       {
-        "Title": "Todo lo otro",
-        "Genre": "Comedy-drama",
-        "Premiere": "October 26, 2021",
+        "Title": "Amongst Men",
+        "Genre": "Crime",
+        "Premiere": "September 26, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Días de Gallos",
+        "Genre": "Coming-of-age music drama",
+        "Premiere": "November 4, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "39–52 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Venga Juan",
+        "Genre": "Political satire",
+        "Premiere": "November 28, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "TBA"
+        "Status": "Pending"
+      },
+      {
+        "Title": "A Thousand Fangs",
+        "Genre": "Military action drama",
+        "Premiere": "December 9, 2021",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "44–54 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Todo lo otro",
+        "Genre": "Comedy-drama",
+        "Premiere": "December 10, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -170,7 +251,7 @@
     "data": [
       {
         "Title": "Veneno",
-        "Genre": "Drama",
+        "Genre": "Biographical drama",
         "Partner/Country": "Atresplayer Premium/Spain",
         "Premiere": "November 19, 2020",
         "Seasons": "8 episodes",
@@ -209,14 +290,24 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Maricon Perdido",
-        "Genre": "Drama",
-        "Partner/Country": "TNT España/Spain",
-        "Premiere": "October 26, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Title": "Sort Of",
+        "Genre": "Sitcom",
+        "Partner/Country": "CBC Television/Canada",
+        "Premiere": "November 18, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "20–21 min.",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Perfect Life (season 2)",
+        "Genre": "Comedy-drama",
+        "Partner/Country": "Movistar+/Spain",
+        "Premiere": "December 2, 2021",
+        "Seasons": "TBA",
+        "Runtime": "30 min.",
         "Language": "Spanish",
-        "Status": "TBA"
+        "Status": "Post-production"
       }
     ]
   },
@@ -233,16 +324,16 @@
         "Premiere": "June 18, 2020",
         "Seasons": "3 seasons, 45 episodes",
         "Runtime": "12 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on December 9, 2021."
       },
       {
         "Title": "Doom Patrol (seasons 2–3)",
         "Genre": "Superhero comedy",
         "Prev. network(s)": "DC Universe",
         "Premiere": "June 25, 2020",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "45–54 min.",
-        "Status": "Season 3 ongoing&#91;d&#93;"
+        "Seasons": "2 seasons, 19 episodes",
+        "Runtime": "45–56 min.",
+        "Status": "Renewed&#91;45&#93;&#91;f&#93;"
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -260,7 +351,7 @@
         "Premiere": "June 25, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Renewed"
+        "Status": "Final Season due to premiere on January 7, 2022"
       },
       {
         "Title": "Infinity Train (seasons 3–4)",
@@ -269,16 +360,16 @@
         "Premiere": "August 13, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "12 min.",
-        "Status": "Ended"
+        "Status": "Canceled"
       },
       {
-        "Title": "Sesame Street (season 51)",
+        "Title": "Sesame Street (seasons 51–52)",
         "Genre": "Education",
         "Prev. network(s)": "HBO",
         "Premiere": "November 12, 2020",
-        "Seasons": "1 season, 35 episodes",
+        "Seasons": "2 seasons, 70 episodes",
         "Runtime": "26 min.",
-        "Status": "Renewed for seasons 52–55"
+        "Status": "Season 52 ongoing; Renewed for seasons 53–55"
       },
       {
         "Title": "Titans (season 3)",
@@ -287,7 +378,7 @@
         "Premiere": "August 12, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "50 min.",
-        "Status": "Season 3 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "The Other Two (season 2)",
@@ -297,6 +388,42 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Young Justice (season 4)",
+        "Genre": "Animated superhero action",
+        "Prev. network(s)": "Cartoon Network (seasons 1–2)DC Universe (season 3)",
+        "Premiere": "October 16, 2021",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "21–25 min.",
+        "Status": "Season 4 ongoing"
+      },
+      {
+        "Title": "Gen:Lock (season 2)",
+        "Genre": "Animated science fantasy",
+        "Prev. network(s)": "Rooster Teeth",
+        "Premiere": "November 4, 2021",
+        "Seasons": "1 season, TBA episodes",
+        "Runtime": "25–27 min.",
+        "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "South Side (season 2)",
+        "Genre": "Black sitcom",
+        "Prev. network(s)": "Comedy Central",
+        "Premiere": "November 11, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "27–31 min.",
+        "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "Beforeigners (season 2)",
+        "Genre": "Science fiction crime drama",
+        "Prev. network(s)": "HBO Nordic",
+        "Premiere": "December 23, 2021",
+        "Seasons": "TBA",
+        "Runtime": "45 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -341,24 +468,6 @@
         "Genre": "Unscripted reunion",
         "Premiere": "November 18, 2020",
         "Runtime": "1 hour, 15 min."
-      },
-      {
-        "Title": "My Gift: A Christmas Special From Carrie Underwood",
-        "Genre": "Music",
-        "Premiere": "December 3, 2020",
-        "Runtime": "54 min."
-      },
-      {
-        "Title": "Homeschool Musical: Class of 2020",
-        "Genre": "Musical",
-        "Premiere": "December 17, 2020",
-        "Runtime": "52 min."
-      },
-      {
-        "Title": "The Runaway Bunny",
-        "Genre": "Animation",
-        "Premiere": "March 25, 2021",
-        "Runtime": "27 min."
       },
       {
         "Title": "Friends: The Reunion",

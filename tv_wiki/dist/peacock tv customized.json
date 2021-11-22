@@ -35,7 +35,7 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "42–47 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "One of Us Is Lying",
@@ -43,14 +43,14 @@
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "46–49 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Girl in the Woods",
         "Genre": "Supernatural",
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "24–30 min.",
         "Status": "Pending"
       }
     ]
@@ -67,7 +67,7 @@
         "Premiere": "November 25, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "24–31 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on November 24, 2021"
       },
       {
         "Title": "Punky Brewster",
@@ -106,9 +106,9 @@
         "Partner/Country": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "4 seasons, 25 episodes",
+        "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 11, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -126,7 +126,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "4 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 4, 2021"
+        "Status": "Season 5 due to premiere on December 9, 2021"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -143,7 +143,7 @@
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "23 min.",
+        "Length": "22 min.",
         "Status": "Pending"
       }
     ]
@@ -155,13 +155,13 @@
     ],
     "data": [
       {
-        "Title": "Curious George (season 13)",
+        "Title": "Curious George (season 13–14)",
         "Genre": "Family animation",
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
-        "Seasons": "1 season, 15 episodes",
+        "Seasons": "2 seasons, 30 episodes",
         "Length": "23 min.",
-        "Status": "Season 14 due to premiere on October 21, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Where's Waldo? (season 2)",
@@ -182,7 +182,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Connecting (episodes 5–8)",
+        "Title": "Connecting (season 1B)",
         "Genre": "Comedy",
         "Prev. network(s)": "NBC",
         "Premiere": "November 5, 2020",
@@ -196,7 +196,7 @@
         "Prev. network(s)": "Universal Kids",
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 15 episodes",
-        "Length": "TBA",
+        "Length": "42–45 min.",
         "Status": "Season 3 ongoing"
       }
     ]
@@ -212,6 +212,13 @@
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Chrisley Knows Thanksgiving",
+        "Genre": "Reality",
+        "Premiere": "November 18, 2021",
+        "Length": "TBA",
         "Language": "English"
       },
       {

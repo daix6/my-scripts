@@ -10,7 +10,7 @@
         "Genre": "Space western",
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "31–54 min.",
+        "Runtime": "31–54 min",
         "Status": "Renewed"
       },
       {
@@ -18,7 +18,7 @@
         "Genre": "Historical drama",
         "Premiere": "October 9, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–52 min.",
+        "Runtime": "42–52 min",
         "Status": "Ended"
       },
       {
@@ -26,7 +26,7 @@
         "Genre": "Superhero romantic comedy-drama",
         "Premiere": "January 15, 2021",
         "Seasons": "9 episodes",
-        "Runtime": "30–50 min.",
+        "Runtime": "30–50 min",
         "Status": "Miniseries"
       },
       {
@@ -34,7 +34,7 @@
         "Genre": "Superhero action-adventure buddy",
         "Premiere": "March 19, 2021",
         "Seasons": "6 episodes",
-        "Runtime": "50–60 min.",
+        "Runtime": "50–60 min",
         "Status": "Miniseries"
       },
       {
@@ -42,7 +42,7 @@
         "Genre": "Superhero action-adventure fantasy",
         "Premiere": "June 9, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–55 min.",
+        "Runtime": "43–55 min",
         "Status": "Renewed"
       },
       {
@@ -50,7 +50,7 @@
         "Genre": "Adventure drama",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "53–56 min.",
+        "Runtime": "53–56 min",
         "Status": "Renewed"
       },
       {
@@ -58,15 +58,15 @@
         "Genre": "Medical drama",
         "Premiere": "September 8, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "27–38 min",
+        "Status": "Pending"
       },
       {
         "Title": "Hawkeye",
         "Genre": "Superhero action-adventure",
         "Premiere": "November 24, 2021",
         "Seasons": "6 episodes",
-        "Runtime": "40–50 min.",
+        "Runtime": "40–50 min",
         "Status": "Miniseries"
       },
       {
@@ -90,7 +90,7 @@
         "Genre": "Musical/Mockumentary",
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 22 episodes",
-        "Runtime": "26–34 min.",
+        "Runtime": "26–34 min",
         "Status": "Renewed"
       },
       {
@@ -98,7 +98,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "January 17, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "22–28 min.",
+        "Runtime": "22–28 min",
         "Status": "Pending"
       },
       {
@@ -106,7 +106,7 @@
         "Genre": "Sports comedy-drama",
         "Premiere": "March 26, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "32–41 min.",
+        "Runtime": "32–41 min",
         "Status": "Renewed"
       },
       {
@@ -114,7 +114,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "April 16, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "43–45 min.",
+        "Runtime": "43–45 min",
         "Status": "Renewed"
       },
       {
@@ -122,7 +122,7 @@
         "Genre": "Buddy cop action-comedy",
         "Premiere": "July 21, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "45–47 min.",
+        "Runtime": "45–47 min",
         "Status": "Pending"
       },
       {
@@ -130,7 +130,7 @@
         "Genre": "Supernatural comedy anthology",
         "Premiere": "October 13, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "24–32 min.",
+        "Runtime": "24–32 min",
         "Status": "Pending"
       }
     ]
@@ -146,7 +146,7 @@
         "Genre": "Space opera",
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 16 episodes",
-        "Runtime": "24–74 min.",
+        "Runtime": "24–74 min",
         "Status": "Renewed"
       },
       {
@@ -154,7 +154,7 @@
         "Genre": "Fantasy",
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–28 min.",
+        "Runtime": "24–28 min",
         "Status": "Renewed"
       },
       {
@@ -162,24 +162,16 @@
         "Genre": "Animation comedy",
         "Premiere": "July 28, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "22 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "22 min",
+        "Status": "Pending"
       },
       {
         "Title": "What If...?",
         "Genre": "Superhero anthology",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "33–35 min.",
+        "Runtime": "33–35 min",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Star Wars: Visions",
-        "Genre": "Anime/Space opera anthology",
-        "Premiere": "September 22, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "13–22 min.",
-        "Status": "Pending"
       }
     ]
   },
@@ -194,7 +186,7 @@
         "Genre": "DIY",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 40 episodes",
-        "Runtime": "5–8 min.",
+        "Runtime": "5–8 min",
         "Status": "Ended"
       },
       {
@@ -202,7 +194,7 @@
         "Genre": "Animation",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 10 episodes&#91;a&#93;",
-        "Runtime": "3–4 min.",
+        "Runtime": "3–4 min",
         "Status": "Ended"
       },
       {
@@ -210,7 +202,7 @@
         "Genre": "Hidden camera reality",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 11 episodes",
-        "Runtime": "4–6 min.",
+        "Runtime": "4–6 min",
         "Status": "Ended"
       },
       {
@@ -218,7 +210,7 @@
         "Genre": "Animation anthology",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 10 episodes&#91;a&#93;",
-        "Runtime": "7–12 min.",
+        "Runtime": "7–12 min",
         "Status": "Pending"
       },
       {
@@ -226,7 +218,7 @@
         "Genre": "Docuseries",
         "Premiere": "December 6, 2019",
         "Seasons": "1 season, 51 episodes",
-        "Runtime": "5–7 min.",
+        "Runtime": "5–7 min",
         "Status": "Pending"
       },
       {
@@ -234,23 +226,23 @@
         "Genre": "Animation anthology",
         "Premiere": "January 24, 2020",
         "Seasons": "2 seasons, 19 episodes",
-        "Runtime": "5–7 min.",
+        "Runtime": "5–7 min",
         "Status": "Pending"
       },
       {
         "Title": "Disney Insider",
         "Genre": "Docuseries",
         "Premiere": "March 20, 2020",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "16–17 min.",
-        "Status": "New episodes due to premiere on October 20, 2021 &amp; October 27, 2021"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "16–22 min",
+        "Status": "New episodes due to premiere on December 1, 2021 &amp; December 8, 2021."
       },
       {
         "Title": "Zenimation",
         "Genre": "Animation/ASMR",
         "Premiere": "May 22, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "5–49 min.&#91;b&#93;",
+        "Runtime": "5–49 min&#91;b&#93;",
         "Status": "Pending"
       },
       {
@@ -258,7 +250,7 @@
         "Genre": "Docuseries",
         "Premiere": "November 13, 2020",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "9–11 min.",
+        "Runtime": "9–11 min",
         "Status": "Pending"
       },
       {
@@ -266,23 +258,23 @@
         "Genre": "Animation",
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "8 min.",
-        "Status": "Pending"
+        "Runtime": "8 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "7–8 min.",
+        "Seasons": "1 season, 14 episodes",
+        "Runtime": "7–8 min",
         "Status": "Pending"
       },
       {
         "Title": "Pixar Popcorn",
         "Genre": "Animation",
         "Premiere": "January 22, 2021",
-        "Seasons": "1 season, 11 episodes",
-        "Runtime": "2–22 min.&#91;b&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "2–22 min&#91;b&#93;",
         "Status": "Pending"
       },
       {
@@ -290,7 +282,7 @@
         "Genre": "Anthology series",
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 2 episodes",
-        "Runtime": "3–4 min.",
+        "Runtime": "3–4 min",
         "Status": "Pending"
       },
       {
@@ -298,7 +290,7 @@
         "Genre": "Anthology series",
         "Premiere": "May 28, 2021",
         "Seasons": "1 season, 6 episodes&#91;a&#93;",
-        "Runtime": "14–21 min.",
+        "Runtime": "14–21 min",
         "Status": "Renewed"
       },
       {
@@ -306,7 +298,7 @@
         "Genre": "Animated short",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "1–5 min.&#91;b&#93;",
+        "Runtime": "1–5 min&#91;b&#93;",
         "Status": "Pending"
       },
       {
@@ -314,8 +306,41 @@
         "Genre": "Animated comedy",
         "Premiere": "September 1, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "8–11 min.",
+        "Runtime": "8–11 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Star Wars: Visions",
+        "Genre": "Anime/Space opera/anthology",
+        "Premiere": "September 22, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "13–22 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Olaf Presents",
+        "Genre": "Animated comedy",
+        "Premiere": "November 12, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "1.5 min&#91;b&#93;",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Simultaneous Releases"
+    ],
+    "data": [
+      {
+        "Title": "The Ghost and Molly McGee",
+        "Genre": "Animated comedy",
+        "Premiere": "October 1, 2021",
+        "Network(s)": "Disney Channel",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "22 min",
+        "Status": "Season 1 ongoing; Renewed"
       }
     ]
   },
@@ -331,7 +356,7 @@
         "Premiere": "February 14, 2020",
         "Prev. network(s)": "Freeform",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "63 min.",
+        "Runtime": "63 min",
         "Status": "Ended"
       },
       {
@@ -340,7 +365,7 @@
         "Premiere": "February 21, 2020",
         "Prev. network(s)": "Cartoon Network &amp; Netflix",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "24 min",
         "Status": "Ended"
       },
       {
@@ -349,16 +374,7 @@
         "Premiere": "August 14, 2020",
         "Prev. network(s)": "National Geographic",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "22 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Becoming (season 2)",
-        "Genre": "Docuseries",
-        "Premiere": "September 18, 2020",
-        "Prev. network(s)": "Disney XD",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "22 min",
         "Status": "Ended"
       }
     ]
@@ -374,25 +390,25 @@
         "Title": "High School Musical: The Musical: The Series: The Special",
         "Genre": "Musical/Making-of",
         "Premiere": "December 14, 2019",
-        "Runtime": "23 min."
+        "Runtime": "23 min"
       },
       {
         "Title": "The Real Right Stuff",
         "Genre": "Documentary",
         "Premiere": "November 20, 2020",
-        "Runtime": "1 hour, 30 min."
+        "Runtime": "1 h 30 min"
       },
       {
         "Title": "High School Musical: The Musical: The Holiday Special",
         "Genre": "Musical",
         "Premiere": "December 11, 2020",
-        "Runtime": "45 min."
+        "Runtime": "45 min"
       },
       {
         "Title": "A Spark Story",
         "Genre": "Documentary",
         "Premiere": "September 24, 2021",
-        "Runtime": "1 hour, 27 min."
+        "Runtime": "1 h 27 min"
       }
     ]
   },
@@ -408,7 +424,7 @@
         "Genre": "Docuseries",
         "Premiere": "May 4, 2020",
         "Seasons": "2 seasons, 10 episodes",
-        "Runtime": "29–69 min.",
+        "Runtime": "29–69 min",
         "Status": "Pending"
       }
     ]
@@ -420,63 +436,73 @@
     ],
     "data": [
       {
-        "Title": "I Cavalieri di Castelcorvo",
+        "Title": "The Knights of Castelcorvo",
         "Genre": "Fantasy comedy-drama",
         "Premiere": "November 6, 2020",
-        "Seasons": "1 season, 15 episodes",
-        "Runtime": "25 min.",
+        "Seasons": "15 episodes",
+        "Runtime": "22–25 min",
         "Language": "Italian",
-        "Exclusive region": "Selected countries",
-        "Status": "Pending"
+        "Exclusive region": "Selected territories",
+        "Status": "Ended"
       },
       {
-        "Title": "Sobrevolando",
+        "Title": "Latin America from Above",
         "Genre": "Docuseries",
         "Premiere": "November 17, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "27 min.",
+        "Runtime": "27 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
       {
-        "Title": "El Ristorantino de Arnoldo",
+        "Title": "Arnoldo's Ristorantino",
         "Genre": "Musical/Children's series",
         "Premiere": "January 29, 2021",
         "Seasons": "1 season, 18 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "24 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
       {
-        "Title": "Conecta y Canta",
+        "Title": "Sync Us a Song",
         "Genre": "Reality show",
         "Premiere": "February 12, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "38–54 min.",
+        "Runtime": "38–54 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America, except Brazil",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Chaparreando",
         "Genre": "Reality show",
         "Premiere": "May 21, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "26–28 min.",
+        "Seasons": "6 episodes",
+        "Runtime": "26–28 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America, except Brazil",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Opa Popa Dupa (season 2)",
         "Genre": "Variety/puppetry",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "22 min.",
+        "Runtime": "22 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Intertwined",
+        "Genre": "Musical/Fantasy comedy-drama",
+        "Premiere": "November 12, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "41–53 min",
+        "Language": "Spanish",
+        "Exclusive region": "Selected territories",
         "Status": "Pending"
       }
     ]

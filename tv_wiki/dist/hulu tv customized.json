@@ -46,14 +46,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Chance",
-        "Genre": "Crime drama psychological thriller",
-        "Premiere": "October 19, 2016",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "40–42 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Shut Eye",
         "Genre": "Drama",
         "Premiere": "December 7, 2016",
@@ -131,7 +123,7 @@
         "Premiere": "September 4, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "59 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Looking for Alaska",
@@ -227,7 +219,7 @@
         "Premiere": "September 13, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "47–54 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "The Premise&#91;a&#93;",
@@ -235,12 +227,20 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 5 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Dopesick",
         "Genre": "Drama",
         "Premiere": "October 13, 2021",
+        "Seasons": "8 episodes",
+        "Length": "57–63 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Pam &amp; Tommy",
+        "Genre": "Biographical drama",
+        "Premiere": "February 2, 2022",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
@@ -331,7 +331,7 @@
         "Premiere": "February 8, 2019",
         "Seasons": "2 seasons, 18 episodes",
         "Length": "22–24 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Season 2B due to resume on December 3, 2021"
       },
       {
         "Title": "Shrill",
@@ -377,9 +377,9 @@
         "Title": "The Great",
         "Genre": "Historical comedy",
         "Premiere": "May 15, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "50–55 min.",
-        "Status": "Season 2 due to premiere on November 19, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Woke",
@@ -403,7 +403,15 @@
         "Premiere": "August 31, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "26–35 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
+      },
+      {
+        "Title": "How I Met Your Father",
+        "Genre": "Comedy",
+        "Premiere": "January 18, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -428,7 +436,7 @@
         "Premiere": "May 8, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "22–25 min.",
-        "Status": "Renewed for seasons 3 and 4"
+        "Status": "New episode due to premiere on November 22, 2021;&#91;36&#93; Renewed for seasons 3 and 4"
       },
       {
         "Title": "Crossing Swords",
@@ -450,8 +458,8 @@
         "Title": "Hit-Monkey",
         "Genre": "Superhero comedy",
         "Premiere": "November 17, 2021",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "22–27 min.",
         "Status": "Pending"
       }
     ]
@@ -532,7 +540,7 @@
         "Premiere": "November 16, 2018",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "25 min.",
-        "Status": "Ended"
+        "Status": "Final season due to premiere on November 23, 2021&#91;53&#93;&#91;b&#93;"
       },
       {
         "Title": "Catch-22",
@@ -550,7 +558,7 @@
         "Premiere": "June 3, 2019",
         "Seasons": "1 season, 30 episodes",
         "Length": "60 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "This Way Up",
@@ -622,16 +630,16 @@
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "60 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Madagascar: A Little Wild",
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "4 seasons, 25 episodes",
+        "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 11, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -649,7 +657,7 @@
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 8 episodes",
         "Length": "59 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Trolls: TrollsTopia",
@@ -658,7 +666,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "4 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 4, 2021"
+        "Status": "Season 5 due to premiere on December 9, 2021."
       },
       {
         "Title": "The Hardy Boys",
@@ -684,8 +692,17 @@
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
+        "Length": "22 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Bloods",
+        "Partner/Country": "Sky One/United Kingdom",
+        "Genre": "Comedy",
+        "Premiere": "December 9, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Renewed"
       }
     ]
   },
@@ -740,10 +757,17 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;c&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;c&#93;",
+        "Genre": "Animated family comedy",
+        "Premiere": "November 26, 2021",
+        "Length": "TBA",
         "Language": "English"
       }
     ]

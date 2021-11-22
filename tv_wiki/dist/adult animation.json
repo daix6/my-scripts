@@ -879,7 +879,7 @@
         "Network": "Nick at Nite",
         "Studio": "Smiley, Inc.",
         "Age rating": "TV-G",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -1943,7 +1943,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "2 season, 20 episodes",
         "Show creator(s)": "Tyler, The Creator",
-        "Original release": "October 22, 2017 – present",
+        "Original release": "October 22, 2017 – June 23, 2019",
         "Network": "Adult Swim",
         "Studio": "Bald Fade Productions",
         "Age rating": "TV-14",
@@ -1967,7 +1967,7 @@
         "Genre": "Soap opera",
         "Seasons/episodes": "3 seasons, 15 episodes",
         "Show creator(s)": "David Bonawits",
-        "Original release": "December 19, 2017 – present",
+        "Original release": "December 19, 2017 – June 19,  2020",
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-14",
@@ -2147,7 +2147,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Lisa Hanawalt",
-        "Original release": "May 3, 2019 – present",
+        "Original release": "May 3, 2019 – April 27, 2022",
         "Network": "Netflix (season 1)",
         "Studio": "The Tornante Company",
         "Age rating": "TV-MA (Season 1 only)",
@@ -2280,7 +2280,7 @@
         "Seasons/episodes": "2 season, 26 episodes",
         "Show creator(s)": "Justin Halpern",
         "Original release": "November 29, 2019 – present",
-        "Network": "DC Universe (Seasons 1-2)HBO Max (season 3)",
+        "Network": "DC Universe (Seasons 1–2)HBO Max (season 3)",
         "Studio": "DC Entertainment",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
@@ -2300,7 +2300,7 @@
       },
       {
         "Title": "Deathstroke: Knights &amp; Dragons",
-        "Genre": "Action, Adventure, Superhero",
+        "Genre": "Action",
         "Seasons/episodes": "1 season, 2 episodes",
         "Show creator(s)": "J. M. DeMatteis",
         "Original release": "January 6–November 24, 2020",
@@ -2314,7 +2314,7 @@
         "Title": "Duncanville",
         "Genre": "Sitcom",
         "Seasons/episodes": "2 seasons, 23 episodes",
-        "Show creator(s)": "Mike Scully, Julie Thacker Scully and Amy Poehler",
+        "Show creator(s)": "Mike Scully",
         "Original release": "February 16, 2020 – present",
         "Network": "Fox",
         "Studio": "Bento Box Entertainment",
@@ -2373,8 +2373,8 @@
       {
         "Title": "Central Park",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 seasons, 13 episodes",
-        "Show creator(s)": "Josh Gad, Loren Bouchard and Nora Smith",
+        "Seasons/episodes": "2 seasons, 18 episodes",
+        "Show creator(s)": "Josh Gad",
         "Original release": "May 29, 2020 – present",
         "Network": "Apple TV+",
         "Studio": "Bento Box Entertainment",
@@ -2492,7 +2492,7 @@
       },
       {
         "Title": "Onyx Equinox",
-        "Genre": "Action, Adventure, Science fantasy",
+        "Genre": "Action",
         "Seasons/episodes": "1 season, 12 episodes",
         "Show creator(s)": "Sofia Alexander",
         "Original release": "November 21, 2020–present",
@@ -2504,9 +2504,9 @@
       },
       {
         "Title": "The Great North",
-        "Genre": "Comedy, Sitcom",
+        "Genre": "Comedy",
         "Seasons/episodes": "2 season, 13 episodes",
-        "Show creator(s)": "Lizzie Molyneux-Logelin, Wendy Molyneux and Minty Lewis",
+        "Show creator(s)": "Lizzie Molyneux-Logelin",
         "Original release": "January 3, 2021 – present",
         "Network": "Fox",
         "Studio": "Bento Box Entertainment",
@@ -2576,7 +2576,7 @@
       },
       {
         "Title": "Birdgirl",
-        "Genre": "Comedy, Superhero",
+        "Genre": "Comedy",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Michael Ouweleen",
         "Original release": "April 4, 2021 – present",
@@ -2602,7 +2602,7 @@
         "Title": "HouseBroken",
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 11 episodes",
-        "Show creator(s)": "Gabrielle Allan, Jennifer Crittenden and Clea DuVall",
+        "Show creator(s)": "Gabrielle Allan",
         "Original release": "May 31, 2021 – present",
         "Network": "Fox",
         "Studio": "Kapital Entertainment",
@@ -2675,7 +2675,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Brad Neely",
-        "Original release": "September 16, 2021 – present",
+        "Original release": "September 16 –November 4, 2021",
         "Network": "Paramount+",
         "Studio": "CBS Studios",
         "Age rating": "TV-MA",
@@ -2710,7 +2710,7 @@
         "Title": "Adventure Beast",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 12 episodes",
-        "Show creator(s)": "TBA",
+        "Show creator(s)": "Mark Gravas",
         "Original release": "October 22, 2021 – present",
         "Network": "Netflix",
         "Studio": "TBA",
@@ -2733,13 +2733,37 @@
       {
         "Title": "Fairfax",
         "Genre": "Comedy",
-        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Seasons/episodes": "1 seasons, 8 episodes",
         "Show creator(s)": "Aaron Buchsbaum",
         "Original release": "October 29, 2021 – present",
         "Network": "Amazon Prime Video",
         "Studio": "Amazon Studios",
         "Age rating": "TV-MA",
         "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Arcane",
+        "Genre": "Action",
+        "Seasons/episodes": "3 episodes",
+        "Show creator(s)": "Ash Brannon",
+        "Original release": "November 6, 2021 – present",
+        "Network": "Netflix",
+        "Studio": "Riot Games",
+        "Age rating": "TV-14",
+        "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "Hit-Monkey",
+        "Genre": "Action",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Josh Gordon",
+        "Original release": "November 17, 2021 – present",
+        "Network": "Hulu",
+        "Studio": "Marvel Animation",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]
@@ -2926,7 +2950,7 @@
         "Original release": "April 1,&#160;2001 – August 12, 2001",
         "Network": "Teletoon at Night",
         "Studio": "MTV Animation",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3530,6 +3554,26 @@
   },
   {
     "category": [
+      "List",
+      "Italy"
+    ],
+    "data": [
+      {
+        "Title": "Tear Along the Dotted Line&#160;&#91;it&#93;",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Show creator(s)": "Zerocalcare",
+        "Original release": "November 17, 2021 – present",
+        "Network": "Netflix",
+        "Studio": "Movements Production",
+        "Technique": "TV-MA",
+        "Source": "Flash",
+        "": ""
+      }
+    ]
+  },
+  {
+    "category": [
       "Upcoming"
     ],
     "data": [
@@ -3538,59 +3582,11 @@
         "Genre": "Comedy",
         "Seasons, episodes": "1 season, 8 episodes",
         "Show creator": "Seth Rogen",
-        "Release date": "Fall 2021",
+        "Release date": "December 2, 2021",
         "Original channel": "HBO Max",
         "Studio": "Lionsgate Television",
         "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "Smiling Friends",
-        "Genre": "Comedy",
-        "Seasons, episodes": "1 season, 8 episodes",
-        "Show creator": "Jason Ruiz",
-        "Release date": "2021",
-        "Original channel": "Adult Swim",
-        "Studio": "Six Point Harness",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Arcane",
-        "Genre": "Action",
-        "Seasons, episodes": "3 episodes",
-        "Show creator": "Ash Brannon",
-        "Release date": "November 6, 2021",
-        "Original channel": "Netflix",
-        "Studio": "Riot Games",
-        "Age rating": "TV-14",
-        "Technique": "CGI",
-        "Source": ""
-      },
-      {
-        "Title": "Hit-Monkey",
-        "Genre": "Action",
-        "Seasons, episodes": "1 season, 3 episodes",
-        "Show creator": "Josh Gordon",
-        "Release date": "November 17, 2021",
-        "Original channel": "Hulu",
-        "Studio": "Marvel Animation",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "Tear Along the Dotted Line&#160;&#91;it&#93;",
-        "Genre": "Comedy",
-        "Seasons, episodes": "1 season, 6 episodes",
-        "Show creator": "Zerocalcare",
-        "Release date": "November 17, 2021",
-        "Original channel": "Netflix",
-        "Studio": "TBA",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
+        "Technique": "Stop-Motion",
         "Source": ""
       },
       {
@@ -3615,6 +3611,18 @@
         "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "The House",
+        "Genre": "Dark comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Paloma Baeza",
+        "Release date": "January 14, 2022",
+        "Original channel": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "Stop-Motion",
         "Source": ""
       },
       {
