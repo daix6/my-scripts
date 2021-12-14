@@ -65,9 +65,9 @@
         "Title": "Saved by the Bell",
         "Genre": "Sitcom",
         "Premiere": "November 25, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "24–31 min.",
-        "Status": "Season 2 due to premiere on November 24, 2021"
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "24–33 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Punky Brewster",
@@ -92,6 +92,14 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "26–32 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "MacGruber",
+        "Genre": "Comedy",
+        "Premiere": "December 16, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -126,7 +134,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "4 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on December 9, 2021"
+        "Status": "Season 5 due to premiere on December 9, 2021."
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -142,6 +150,15 @@
         "Partner/Country": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "22 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dragons: The Nine Realms",
+        "Partner/Country": "Hulu/United States",
+        "Genre": "Animated adventure",
+        "Premiere": "December 23, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "22 min.",
         "Status": "Pending"
@@ -179,7 +196,7 @@
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "21–25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Connecting (season 1B)",
@@ -218,14 +235,14 @@
         "Title": "Chrisley Knows Thanksgiving",
         "Genre": "Reality",
         "Premiere": "November 18, 2021",
-        "Length": "TBA",
+        "Length": "42 min.",
         "Language": "English"
       },
       {
         "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;a&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
-        "Length": "TBA",
+        "Length": "23 min.",
         "Language": "English"
       }
     ]

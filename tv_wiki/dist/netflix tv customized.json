@@ -108,17 +108,10 @@
         "Title": "Cowboy Bebop",
         "Genre": "Science fiction",
         "Premiere": "November 19, 2021",
+        "Finale": "November 19, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "37–60 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "True Story",
-        "Genre": "Drama",
-        "Premiere": "November 24, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Stay Close",
@@ -127,6 +120,38 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Archive 81",
+        "Genre": "Found footage horror",
+        "Premiere": "January 14, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "In From the Cold",
+        "Genre": "Thriller",
+        "Premiere": "January 28, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Inventing Anna",
+        "Genre": "Drama miniseries",
+        "Premiere": "February 11, 2022",
+        "Seasons": "9 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Vikings: Valhalla",
+        "Genre": "Historical period drama",
+        "Premiere": "February 25, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -193,6 +218,22 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "22–26 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Decoupled",
+        "Genre": "Comedy",
+        "Premiere": "December 17, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Woman in the House Across the Street from the Girl in the Window",
+        "Genre": "Dark comedy thriller miniseries",
+        "Premiere": "January 28, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -206,10 +247,10 @@
         "Title": "Masters of the Universe: Revelation",
         "Genre": "Science fantasy",
         "Premiere": "July 23, 2021",
-        "Seasons": "1 part, 5 episodes",
-        "Runtime": "24–27 min",
+        "Seasons": "2 parts, 10 episodes",
+        "Runtime": "22–32 min",
         "Language": "English",
-        "Status": "Part 2 of Season 1 due to premiere on November 23, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Q-Force",
@@ -248,7 +289,7 @@
         "Status": "Season 1 ongoing"
       },
       {
-        "Title": "Tear Along the Dotted Line (it)",
+        "Title": "Tear Along the Dotted Line",
         "Genre": "Comedy",
         "Premiere": "November 17, 2021",
         "Seasons": "1 season, 6 episodes",
@@ -298,7 +339,7 @@
         "Seasons": "1 book, 8 episodes",
         "Runtime": "26–28 min",
         "Language": "English",
-        "Status": "Book 2 due to premiere in January 2022"
+        "Status": "Book 2 due to premiere on January 6, 2022"
       },
       {
         "Title": "The Way of the Househusband",
@@ -378,6 +419,15 @@
         "Genre": "Crime",
         "Premiere": "November 25, 2021",
         "Seasons": "1 season, 13 episodes",
+        "Runtime": "20–29 min",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Orbital Children",
+        "Genre": "Science fiction/Adventure",
+        "Premiere": "January 28, 2022",
+        "Seasons": "2 parts, 6 episodes",
         "Runtime": "TBA",
         "Language": "Japanese",
         "Status": "Pending"
@@ -402,8 +452,8 @@
         "Title": "Elves",
         "Genre": "Fantasy horror",
         "Premiere": "November 28, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "20–26 min",
         "Status": "Pending"
       }
     ]
@@ -445,7 +495,7 @@
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–51 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Christmas Flow",
@@ -540,8 +590,8 @@
         "Title": "Aranyak",
         "Genre": "Crime thriller",
         "Premiere": "December 10, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "37–48 min",
         "Status": "Pending"
       }
     ]
@@ -639,7 +689,7 @@
         "Premiere": "August 27, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45–55 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Squid Game",
@@ -694,8 +744,8 @@
         "Genre": "Romantic thriller",
         "Premiere": "November 26, 2021",
         "Seasons": "1 part, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "44–51 min",
+        "Status": "Part 2 due to premiere on December 30, 2021"
       }
     ]
   },
@@ -775,7 +825,7 @@
         "Premiere": "January 20, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "35–42 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on December 24, 2021"
       },
       {
         "Title": "Sky Rojo",
@@ -905,23 +955,7 @@
         "Premiere": "December 29, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Tamil"
-    ],
-    "data": [
-      {
-        "Title": "Navarasa",
-        "Genre": "Anthology series",
-        "Premiere": "August 6, 2021",
-        "Seasons": "1 volume, 9 episodes",
-        "Runtime": "28–48 min",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -954,7 +988,7 @@
         "Premiere": "November 5, 2021",
         "Seasons": "1 part, 6 episodes",
         "Runtime": "43–56 min",
-        "Status": "Pending"
+        "Status": "Part 2 due to premiere on January 6, 2022"
       }
     ]
   },
@@ -989,6 +1023,15 @@
         "Premiere": "June 17, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–51 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Navarasa",
+        "Language": "Tamil",
+        "Genre": "Anthology series",
+        "Premiere": "August 6, 2021",
+        "Seasons": "1 volume, 9 episodes",
+        "Runtime": "28–48 min",
         "Status": "Pending"
       },
       {
@@ -1081,6 +1124,17 @@
         "Language": "Hindi",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
+      },
+      {
+        "Title": "Single's Inferno",
+        "Partner/Country": "JTBC/South Korea",
+        "Genre": "Reality show",
+        "Premiere": "December 18, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Korean",
+        "Netflix exclusive regions": "All other markets",
+        "Status": "Pending"
       }
     ]
   },
@@ -1097,7 +1151,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–41 min",
         "Language": "English",
-        "Status": "Season 4 due to premiere on December 31, 2021;&#91;162&#93; Renewed"
+        "Status": "Season 4 due to premiere on December 31, 2021;&#91;153&#93; Renewed"
       },
       {
         "Title": "Blown Away (season 2)",
@@ -1150,6 +1204,251 @@
         "Status": "Pending"
       }
     ]
+  },
+  {
+    "category": [
+      "Specials",
+      "Episodic"
+    ],
+    "data": [
+      {
+        "Title": "Elite Short Stories: Guzmán Caye Rebe",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 14, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–15 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Nadia Guzmán",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 15, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–14 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Omar Ander Alexis",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 16, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–14 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Carla Samuel",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 17, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "13–16 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Revelations: The Masters of the Universe Revelation Aftershow",
+        "Genre": "Aftershow",
+        "Premiere": "July 23, 2021",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "25 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Ingenuity of the Househusband",
+        "Genre": "Comedy",
+        "Premiere": "August 29, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "3–6 min",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Money Heist: From Tokyo to Berlin",
+        "Genre": "Docu-series",
+        "Premiere": "September 3, 2021",
+        "Finale": "December 3, 2021",
+        "Seasons": "2 volumes, 2 episodes",
+        "Runtime": "51–52 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Phillipe Caye Felipe",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 15, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Samuel Omar",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 20, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Elite Short Stories: Patrick",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 23, 2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming"
+    ],
+    "data": [
+      {
+        "Title": "Ask the StoryBots Korea Edition",
+        "Genre": "Animation",
+        "Premiere": "May 5, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "53 min",
+        "Language": "Korean",
+        "Netflix exclusive territory": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Snitch Cartel: Origins",
+        "Genre": "Crime drama",
+        "Premiere": "July 28, 2021",
+        "Seasons": "1 season, 60 episodes",
+        "Runtime": "38–58 min",
+        "Language": "Spanish",
+        "Netflix exclusive territory": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Arcane",
+        "Genre": "Animated science fiction fantasy",
+        "Premiere": "November 6, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "39–44 min",
+        "Language": "English",
+        "Netflix exclusive territory": "Worldwide except China",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Miniseries"
+    ],
+    "data": [
+      {
+        "Title": "Behind Her Eyes",
+        "Genre": "Psychological thriller",
+        "Premiere": "February 17, 2021",
+        "Episodes": "6 episodes",
+        "Runtime": "46–53 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Halston",
+        "Genre": "Drama",
+        "Premiere": "May 14, 2021",
+        "Episodes": "5 episodes",
+        "Runtime": "44–53 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Brand New Cherry Flavor",
+        "Genre": "Horror thriller",
+        "Premiere": "August 13, 2021",
+        "Episodes": "8 episodes",
+        "Runtime": "36–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Clickbait",
+        "Genre": "Thriller",
+        "Premiere": "August 25, 2021",
+        "Episodes": "8 episodes",
+        "Runtime": "42–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Midnight Mass",
+        "Genre": "Horror",
+        "Premiere": "September 24, 2021",
+        "Episodes": "7 episodes",
+        "Runtime": "59–70 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Maid",
+        "Genre": "Dramedy",
+        "Premiere": "October 1, 2021",
+        "Episodes": "10 episodes",
+        "Runtime": "47–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Colin in Black &amp; White",
+        "Genre": "Biopic",
+        "Premiere": "October 29, 2021",
+        "Episodes": "6 episodes",
+        "Runtime": "27–35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "True Story",
+        "Genre": "Drama",
+        "Premiere": "November 24, 2021",
+        "Episodes": "7 episodes",
+        "Runtime": "27–58 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Arabic"
+    ],
+    "data": [
+      {
+        "Title": "AlRawabi School for Girls",
+        "Genre": "Drama",
+        "Premiere": "August 12, 2021",
+        "Finale": "",
+        "Seasons": "6 episodes",
+        "Runtime": "44–52 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Dutch"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Tamil"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Thai"
+    ],
+    "data": []
   },
   {
     "category": [
@@ -1298,6 +1597,13 @@
         "Notes": ""
       },
       {
+        "Title": "A StoryBots Space Adventure",
+        "Genre": "Animation",
+        "Premiere": "September 15, 2021",
+        "Runtime": "13 min",
+        "Notes": ""
+      },
+      {
         "Title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
         "Genre": "Animation",
         "Premiere": "September 21, 2021",
@@ -1329,260 +1635,17 @@
         "Title": "Waffles + Mochi's Holiday Feast",
         "Genre": "Cooking show",
         "Premiere": "November 23, 2021",
-        "Runtime": "28 min"
+        "Runtime": "28 min",
+        "Notes": ""
       },
       {
         "Title": "StarBeam: Beaming in the New Year",
         "Genre": "Animation",
         "Premiere": "December 14, 2021",
-        "Runtime": "47 min"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Specials",
-      "Episodic"
-    ],
-    "data": [
-      {
-        "Title": "Elite Short Stories: Guzmán Caye Rebe",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 14, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–15 min",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Nadia Guzmán",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 15, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–14 min",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Omar Ander Alexis",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 16, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–14 min",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Carla Samuel",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 17, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "13–16 min",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Revelations: The Masters of the Universe Revelation Aftershow",
-        "Genre": "Aftershow",
-        "Premiere": "July 23, 2021",
-        "Seasons": "1 season, 1 episode",
-        "Runtime": "25 min",
-        "Language": "English",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "The Ingenuity of the Househusband",
-        "Genre": "Comedy",
-        "Premiere": "August 29, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "3–6 min",
-        "Language": "Japanese",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Money Heist: From Tokyo to Berlin",
-        "Genre": "Docu-series",
-        "Premiere": "September 3, 2021",
-        "Seasons": "1 volume, 1 episode",
-        "Runtime": "52 min",
-        "Language": "Spanish",
-        "Status": "Volume 1 ongoing"
-      },
-      {
-        "Title": "Elite Short Stories: Phillipe Caye Felipe",
-        "Genre": "Crime teen drama",
-        "Premiere": "December 15, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Samuel Omar",
-        "Genre": "Crime teen drama",
-        "Premiere": "December 20, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Elite Short Stories: Patrick",
-        "Genre": "Crime teen drama",
-        "Premiere": "December 23, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Episodic"
-    ],
-    "data": [
-      {
-        "Title": "Ask the StoryBots Korea Edition",
-        "Genre": "Animation",
-        "Premiere": "May 5, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "53 min",
-        "Language": "Korean",
-        "Netflix exclusive territory": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Snitch Cartel: Origins",
-        "Genre": "Crime drama",
-        "Premiere": "July 28, 2021",
-        "Seasons": "1 season, 60 episodes",
-        "Runtime": "38–58 min",
-        "Language": "Spanish",
-        "Netflix exclusive territory": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Arcane",
-        "Genre": "Animated science fiction fantasy",
-        "Premiere": "November 6, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "39–44 min",
-        "Language": "English",
-        "Netflix exclusive territory": "Worldwide except China",
-        "Status": "Renewed"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Specials"
-    ],
-    "data": [
-      {
-        "Title": "Shaun the Sheep: The Flight Before Christmas",
-        "Genre": "Stop motion",
-        "Premiere": "December 3, 2021",
-        "Runtime": "TBA",
-        "Netflix exclusive territory": "Selected territories"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Miniseries"
-    ],
-    "data": [
-      {
-        "Title": "Behind Her Eyes",
-        "Genre": "Psychological thriller",
-        "Premiere": "February 17, 2021",
-        "Episodes": "6 episodes",
-        "Runtime": "46–53 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Halston",
-        "Genre": "Drama",
-        "Premiere": "May 14, 2021",
-        "Episodes": "5 episodes",
-        "Runtime": "44–53 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Brand New Cherry Flavor",
-        "Genre": "Horror thriller",
-        "Premiere": "August 13, 2021",
-        "Episodes": "8 episodes",
-        "Runtime": "36–51 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Clickbait",
-        "Genre": "Thriller",
-        "Premiere": "August 25, 2021",
-        "Episodes": "8 episodes",
-        "Runtime": "42–48 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Midnight Mass",
-        "Genre": "Horror",
-        "Premiere": "September 24, 2021",
-        "Episodes": "7 episodes",
-        "Runtime": "59–70 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Maid",
-        "Genre": "Dramedy",
-        "Premiere": "October 1, 2021",
-        "Episodes": "10 episodes",
-        "Runtime": "47–60 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Colin in Black &amp; White",
-        "Genre": "Biopic",
-        "Premiere": "October 29, 2021",
-        "Episodes": "6 episodes",
-        "Runtime": "27–35 min",
+        "Runtime": "47 min.",
         "Notes": ""
       }
     ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Arabic"
-    ],
-    "data": [
-      {
-        "Title": "AlRawabi School for Girls",
-        "Genre": "Drama",
-        "Premiere": "August 12, 2021",
-        "Finale": "",
-        "Seasons": "6 episodes",
-        "Runtime": "44–52 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Dutch"
-    ],
-    "data": []
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Thai"
-    ],
-    "data": []
   },
   {
     "category": [
@@ -1629,5 +1692,21 @@
       "Continuations"
     ],
     "data": []
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Shaun the Sheep: The Flight Before Christmas",
+        "Genre": "Stop motion",
+        "Premiere": "December 3, 2021",
+        "Runtime": "30 min",
+        "Netflix exclusive territory": "Selected territories",
+        "Notes": ""
+      }
+    ]
   }
 ]

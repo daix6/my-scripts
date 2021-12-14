@@ -46,14 +46,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Chance",
-        "Genre": "Crime drama psychological thriller",
-        "Premiere": "October 19, 2016",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "40–42 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Shut Eye",
         "Genre": "Drama",
         "Premiere": "December 7, 2016",
@@ -131,7 +123,7 @@
         "Premiere": "September 4, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "59 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Looking for Alaska",
@@ -227,7 +219,7 @@
         "Premiere": "September 13, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "47–54 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "The Premise&#91;a&#93;",
@@ -235,12 +227,20 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 5 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Dopesick",
         "Genre": "Drama",
         "Premiere": "October 13, 2021",
+        "Seasons": "8 episodes",
+        "Length": "57–63 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Pam &amp; Tommy",
+        "Genre": "Biographical drama",
+        "Premiere": "February 2, 2022",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
@@ -329,9 +329,9 @@
         "Title": "PEN15",
         "Genre": "Teen comedy",
         "Premiere": "February 8, 2019",
-        "Seasons": "2 seasons, 18 episodes",
+        "Seasons": "2 seasons, 25 episodes",
         "Length": "22–24 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Shrill",
@@ -363,7 +363,7 @@
         "Premiere": "November 15, 2019",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–32 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on February 11, 2022"
       },
       {
         "Title": "High Fidelity",
@@ -377,9 +377,9 @@
         "Title": "The Great",
         "Genre": "Historical comedy",
         "Premiere": "May 15, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "50–55 min.",
-        "Status": "Season 2 due to premiere on November 19, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Woke",
@@ -403,7 +403,15 @@
         "Premiere": "August 31, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "26–35 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
+      },
+      {
+        "Title": "How I Met Your Father",
+        "Genre": "Comedy",
+        "Premiere": "January 18, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -426,7 +434,7 @@
         "Title": "Solar Opposites",
         "Genre": "Science fiction sitcom",
         "Premiere": "May 8, 2020",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "2 seasons, 17 episodes",
         "Length": "22–25 min.",
         "Status": "Renewed for seasons 3 and 4"
       },
@@ -434,9 +442,9 @@
         "Title": "Crossing Swords",
         "Genre": "Medieval fantasy comedy",
         "Premiere": "June 12, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "22–24 min.",
-        "Status": "Season 2 due to premiere on December 10, 2021."
+        "Status": "Pending"
       },
       {
         "Title": "M.O.D.O.K.",
@@ -450,8 +458,8 @@
         "Title": "Hit-Monkey",
         "Genre": "Superhero comedy",
         "Premiere": "November 17, 2021",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "22–27 min.",
         "Status": "Pending"
       }
     ]
@@ -460,7 +468,7 @@
     "category": [
       "Original programming",
       "Animation",
-      "Kids &amp; family"
+      "Kids and family"
     ],
     "data": [
       {
@@ -483,9 +491,9 @@
         "Title": "Animaniacs",
         "Genre": "Comedy",
         "Premiere": "November 20, 2020",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "2 seasons, 26 episodes",
         "Length": "24–27 min.",
-        "Status": "Season 2 due to premiere on November 5, 2021;&#91;27&#93; Renewed"
+        "Status": "Renewed"
       }
     ]
   },
@@ -578,18 +586,26 @@
       },
       {
         "Title": "Wild Crime",
-        "Genre": "Docuseries",
+        "Genre": "True crime",
         "Premiere": "September 28, 2021",
         "Seasons": "4 episodes",
         "Length": "39–41 min.",
         "Status": "Miniseries"
       },
       {
-        "Title": "The Curse of Von Dutch",
+        "Title": "The Curse of Von Dutch: A Brand to Die For",
         "Genre": "Docuseries",
         "Premiere": "November 18, 2021",
         "Seasons": "3 episodes",
-        "Length": "TBA",
+        "Length": "57–58 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "City of Angels &#124; City of Death",
+        "Genre": "True crime",
+        "Premiere": "November 24, 2021",
+        "Seasons": "6 episodes",
+        "Length": "40–46 min.",
         "Status": "Miniseries"
       }
     ]
@@ -613,9 +629,9 @@
         "Title": "Taste the Nation with Padma Lakshmi",
         "Genre": "Cooking show",
         "Premiere": "June 18, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "29 min.",
-        "Status": "Season 2 due to premiere on November 4, 2021"
+        "Seasons": "2 seasons, 14 episodes",
+        "Length": "30–36 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Eater's Guide To The World",
@@ -623,7 +639,7 @@
         "Premiere": "November 11, 2020",
         "Seasons": "1 season, 7 episodes",
         "Length": "25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Exposure",
@@ -638,8 +654,8 @@
         "Genre": "Docu-reality",
         "Premiere": "September 3, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "25–34 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "Baker's Dozen",
@@ -654,6 +670,14 @@
         "Genre": "Food",
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Candified: Home for the Holidays",
+        "Genre": "Reality",
+        "Premiere": "December 1, 2021",
+        "Seasons": "1 season, 4 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -689,6 +713,14 @@
         "Seasons": "2 seasons, 21 episodes",
         "Length": "26–33 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Choe Show&#91;a&#93;",
+        "Genre": "Lifestyle",
+        "Premiere": "June 25, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Length": "22–30 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -766,9 +798,9 @@
         "Partner/Country": "Family Channel/Canada",
         "Genre": "Teen comedy",
         "Premiere": "November 16, 2018",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Length": "25 min.",
-        "Status": "Ended"
+        "Status": "Ended&#91;b&#93;"
       },
       {
         "Title": "Catch-22",
@@ -786,7 +818,7 @@
         "Premiere": "June 3, 2019",
         "Seasons": "1 season, 30 episodes",
         "Length": "60 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "This Way Up",
@@ -858,16 +890,16 @@
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "60 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Madagascar: A Little Wild",
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "4 seasons, 25 episodes",
+        "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 11, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -885,16 +917,16 @@
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 8 episodes",
         "Length": "59 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Trolls: TrollsTopia",
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "4 seasons, 32 episodes",
+        "Seasons": "5 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 4, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "The Hardy Boys",
@@ -904,15 +936,6 @@
         "Seasons": "1 season, 13 episodes",
         "Length": "40–46 min.",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Jann",
-        "Partner/Country": "CTV/Canada",
-        "Genre": "Sitcom",
-        "Premiere": "January 22, 2021",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "24 min.",
-        "Status": "Pending"
       },
       {
         "Title": "The Sister",
@@ -929,7 +952,16 @@
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
+        "Length": "22 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dragons: The Nine Realms",
+        "Partner/Country": "Peacock/United States",
+        "Genre": "Animated adventure",
+        "Premiere": "December 23, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "22 min.",
         "Status": "Pending"
       }
     ]
@@ -985,14 +1017,14 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;c&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;c&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "TBA",
@@ -1095,6 +1127,12 @@
         "Genre": "Comedy",
         "Release date": "August 27, 2021",
         "Runtime": "1 hour, 45 min."
+      },
+      {
+        "Title": "Mother/Android",
+        "Genre": "Science fiction thriller",
+        "Release date": "December 17, 2021",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1200,9 +1238,29 @@
         "Runtime": "1 hour, 42 min."
       },
       {
+        "Title": "24 Hours: Assault On The Capital",
+        "Release date": "January 11, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "OnlyFans: Selling Sexy",
+        "Release date": "February 10, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Trump: The Reckoning",
+        "Release date": "February 16, 2021",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Kid 90",
         "Release date": "March 12, 2021",
         "Runtime": "1 hour, 11 min."
+      },
+      {
+        "Title": "Gamestopped",
+        "Release date": "March 15, 2021",
+        "Runtime": "TBA"
       },
       {
         "Title": "WeWork: Or The Making and Breaking of a $47 Billion Unicorn",
@@ -1210,9 +1268,24 @@
         "Runtime": "1 hour, 44 min."
       },
       {
+        "Title": "It’s Not Too Late: Earth Day Special",
+        "Release date": "April 21, 2021",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Changing the Game",
         "Release date": "June 1, 2021",
         "Runtime": "1 hour, 28 min."
+      },
+      {
+        "Title": "The American Royal Baby",
+        "Release date": "June 7, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Housewife and the Hustler",
+        "Release date": "June 14, 2021",
+        "Runtime": "TBA"
       },
       {
         "Title": "Homeroom",
@@ -1220,8 +1293,38 @@
         "Runtime": "1 hour, 30 min."
       },
       {
+        "Title": "Final Hours, America’s Longest War",
+        "Release date": "August 31, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Asylum",
+        "Release date": "October 1, 2021",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Jacinta",
         "Release date": "October 8, 2021",
+        "Runtime": "1 hour, 45 min."
+      },
+      {
+        "Title": "The Informant: Fear and Faith in the Heartland",
+        "Release date": "November 1, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "3212: Un-Redacted",
+        "Release date": "November 19, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Housewife &amp; the Shah Shocker",
+        "Release date": "November 29, 2021",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Dead Asleep",
+        "Release date": "December 16, 2021",
         "Runtime": "TBA"
       }
     ]
@@ -1237,6 +1340,12 @@
         "Genre": "Mentalism",
         "Release date": "January 22, 2021",
         "Runtime": "1 hour, 30 min."
+      },
+      {
+        "Title": "Out of the Shadows: The Man Behind The Steele Dossier",
+        "Genre": "Interview",
+        "Release date": "October 18, 2021",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1331,13 +1440,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Pam &amp; Tommy",
-        "Genre": "Biographical drama miniseries",
-        "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Pistol&#91;a&#93;",
         "Genre": "Biographical drama miniseries",
         "Seasons": "8 episodes",
@@ -1392,13 +1494,6 @@
         "Genre": "Comedy",
         "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
-        "Premiere": "2021"
-      },
-      {
-        "Title": "How I Met Your Father",
-        "Genre": "Comedy",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
         "Premiere": "TBA"
       },
       {
@@ -1437,7 +1532,7 @@
     "category": [
       "Upcoming original programming",
       "Animation",
-      "Kids &amp; family"
+      "Kids and family"
     ],
     "data": [
       {
@@ -1445,7 +1540,7 @@
         "Genre": "Comedy",
         "Seasons": "1 season, 26 episodes",
         "Length": "TBA",
-        "Premiere": "2021"
+        "Premiere": "TBA"
       }
     ]
   },
@@ -1491,7 +1586,23 @@
         "Genre": "Reality",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Premiere": "Late 2021"
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Variety"
+    ],
+    "data": [
+      {
+        "Title": "History of the World, Part II",
+        "Genre": "Variety",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Premiere": "TBA"
       }
     ]
   },
@@ -1508,6 +1619,14 @@
         "Seasons": "1 season, 12 episodes",
         "Length": "30 min.",
         "Premiere": "2022"
+      },
+      {
+        "Title": "Planet Sex",
+        "Genre": "Docuseries",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Premiere": "TBA"
       },
       {
         "Title": "The Hair Tales",
@@ -1548,6 +1667,10 @@
       {
         "Title": "American Seoul",
         "Genre": "Drama"
+      },
+      {
+        "Title": "Badass (And Her Sister)",
+        "Genre": "Spy comedy"
       },
       {
         "Title": "Bitches",
@@ -1638,8 +1761,16 @@
         "Genre": "Drama miniseries"
       },
       {
+        "Title": "The Checker",
+        "Genre": "Drama"
+      },
+      {
         "Title": "The Devil in the White City",
         "Genre": "Drama miniseries"
+      },
+      {
+        "Title": "The Golden Cage",
+        "Genre": "Drama"
       },
       {
         "Title": "The Hitchhiker's Guide to the Galaxy",
@@ -1652,6 +1783,10 @@
       {
         "Title": "The Other Typist",
         "Genre": "Suspense thriller miniseries"
+      },
+      {
+        "Title": "The Stephanies",
+        "Genre": "Drama"
       },
       {
         "Title": "The Wangs vs. the World",
@@ -1706,12 +1841,6 @@
     ],
     "data": [
       {
-        "Title": "Mother/Android",
-        "Genre": "Science fiction thriller",
-        "Release date": "2021",
-        "Runtime": "TBA"
-      },
-      {
         "Title": "The Valet",
         "Genre": "Romantic comedy",
         "Release date": "Mid 2022",
@@ -1730,20 +1859,38 @@
         "Runtime": "TBA"
       },
       {
+        "Title": "Prey",
+        "Genre": "Science fiction horror",
+        "Release date": "2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Princess",
+        "Genre": "Action-thriller",
+        "Release date": "2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Rosaline",
+        "Genre": "Romantic comedy",
+        "Release date": "2022",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Honeymoon Friends",
         "Genre": "Comedy",
         "Release date": "TBA",
         "Runtime": "TBA"
       },
       {
-        "Title": "The Princess",
-        "Genre": "Action-thriller",
+        "Title": "Sex Appeal",
+        "Genre": "Teen romantic comedy",
         "Release date": "TBA",
         "Runtime": "TBA"
       },
       {
-        "Title": "Sex Appeal",
-        "Genre": "Teen romantic comedy",
+        "Title": "The Boogeyman",
+        "Genre": "Horror",
         "Release date": "TBA",
         "Runtime": "TBA"
       }
@@ -1764,6 +1911,13 @@
       {
         "Title": "Not Okay",
         "Genre": "Comedy",
+        "Co-distributed with": "Searchlight Pictures",
+        "Release date": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Quasi",
+        "Genre": "Drama",
         "Co-distributed with": "Searchlight Pictures",
         "Release date": "TBA",
         "Runtime": "TBA"
@@ -1926,6 +2080,24 @@
         "Original region": "United Kingdom",
         "Seasons": "1 season, 4 episodes",
         "Run": "2017",
+        "Language": "English"
+      },
+      {
+        "Title": "Bloods",
+        "Genre": "Comedy",
+        "Original network": "Sky One",
+        "Original region": "United Kingdom",
+        "Seasons": "1 season, 8 episodes",
+        "Run": "2021",
+        "Language": "English"
+      },
+      {
+        "Title": "Creamerie",
+        "Genre": "Drama",
+        "Original network": "TVNZ",
+        "Original region": "New Zealand",
+        "Seasons": "1 season, 6 episodes",
+        "Run": "2021",
         "Language": "English"
       }
     ]

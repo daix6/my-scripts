@@ -35,7 +35,7 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "42–47 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "One of Us Is Lying",
@@ -43,14 +43,14 @@
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "46–49 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Girl in the Woods",
         "Genre": "Supernatural",
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "24–30 min.",
         "Status": "Pending"
       }
     ]
@@ -65,9 +65,9 @@
         "Title": "Saved by the Bell",
         "Genre": "Sitcom",
         "Premiere": "November 25, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "24–31 min.",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "24–33 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Punky Brewster",
@@ -92,6 +92,14 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "26–32 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "MacGruber",
+        "Genre": "Comedy",
+        "Premiere": "December 16, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -114,16 +122,32 @@
         "Title": "Archibald's Next Big Thing Is Here!",
         "Genre": "Family comedy",
         "Premiere": "February 18, 2021",
-        "Seasons": "3 seasons, 18 episodes",
+        "Seasons": "4 seasons, 24 episodes",
         "Length": "22 min.",
-        "Status": "Season 4 due to premiere on October 14, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
         "Genre": "Family adventure",
         "Premiere": "November 24, 2021",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "23 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Babble Bop!",
+        "Genre": "Musical",
+        "Premiere": "December 23, 2021",
+        "Seasons": "1 season, 72 episodes",
+        "Length": "2 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Supernatural Academy",
+        "Genre": "Fantasy",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 16 episodes",
+        "Length": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -222,6 +246,14 @@
         "Seasons": "4 episodes",
         "Length": "43–47 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Paris in Love",
+        "Genre": "Docu-reality",
+        "Premiere": "November 11, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "31–43 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -254,15 +286,15 @@
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 13 episodes",
         "Length": "40–42 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Top Chef Family Style",
         "Genre": "Reality competition",
         "Premiere": "September 9, 2021",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "1 season, 9 episodes",
         "Length": "44 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Backyard Blowout",
@@ -273,19 +305,35 @@
         "Status": "Pending"
       },
       {
+        "Title": "Create the Escape",
+        "Genre": "Reality competition",
+        "Premiere": "October 7, 2021",
+        "Seasons": "1 season, 11 episodes",
+        "Length": "21–23 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Siwa Dance Pop Revolution",
         "Genre": "Reality competition",
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "43–52 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Real Housewives Ultimate Girls Trip",
         "Genre": "Reality",
-        "Premiere": "November 18, 2021",
+        "Premiere": "November 15, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "21–49 min.",
+        "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Baking It",
+        "Genre": "Reality competition",
+        "Premiere": "December 2, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "41–49 min.",
         "Status": "Pending"
       }
     ]
@@ -350,8 +398,8 @@
         "Genre": "Children's late-night talk show",
         "Premiere": "October 14, 2021",
         "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "11–18 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -366,9 +414,9 @@
         "Partner/Country": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "4 seasons, 25 episodes",
+        "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 11, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -386,7 +434,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "4 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 4, 2021"
+        "Status": "Season 5 due to premiere on December 9, 2021."
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -403,7 +451,16 @@
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "23 min.",
+        "Length": "22 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dragons: The Nine Realms",
+        "Partner/Country": "Hulu/United States",
+        "Genre": "Animated adventure",
+        "Premiere": "December 23, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "22 min.",
         "Status": "Pending"
       }
     ]
@@ -415,13 +472,13 @@
     ],
     "data": [
       {
-        "Title": "Curious George (season 13)",
+        "Title": "Curious George (season 13–14)",
         "Genre": "Family animation",
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
-        "Seasons": "1 season, 15 episodes",
+        "Seasons": "2 seasons, 30 episodes",
         "Length": "23 min.",
-        "Status": "Season 14 due to premiere on October 21, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Where's Waldo? (season 2)",
@@ -439,10 +496,10 @@
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "21–25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Connecting (episodes 5–8)",
+        "Title": "Connecting (season 1B)",
         "Genre": "Comedy",
         "Prev. network(s)": "NBC",
         "Premiere": "November 5, 2020",
@@ -456,8 +513,26 @@
         "Prev. network(s)": "Universal Kids",
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 15 episodes",
-        "Length": "TBA",
+        "Length": "42–45 min.",
         "Status": "Season 3 ongoing"
+      },
+      {
+        "Title": "Home Sweet Home (season 1B)",
+        "Genre": "Reality competition",
+        "Prev. network(s)": "NBC",
+        "Premiere": "November 12, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "43 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Real Housewives of Miami (season 4)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Bravo",
+        "Premiere": "December 16, 2021",
+        "Seasons": "1 season, 14 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -475,10 +550,24 @@
         "Language": "English"
       },
       {
+        "Title": "Snoop and Martha's Very Tasty Halloween",
+        "Genre": "Reality competition",
+        "Premiere": "October 21, 2021",
+        "Length": "52 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Chrisley Knows Thanksgiving",
+        "Genre": "Reality",
+        "Premiere": "November 18, 2021",
+        "Length": "42 min.",
+        "Language": "English"
+      },
+      {
         "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;a&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
-        "Length": "TBA",
+        "Length": "23 min.",
         "Language": "English"
       }
     ]
@@ -492,8 +581,7 @@
       {
         "Title": "The Capture",
         "Genre": "Mystery crime drama",
-        "Original network": "BBC One",
-        "Original region": "United Kingdom",
+        "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "56–60 min.",
@@ -502,29 +590,26 @@
       {
         "Title": "Intelligence",
         "Genre": "Sitcom",
-        "Original network": "Sky One (season 1–2)",
-        "Original region": "United Kingdom",
+        "Partner/Country": "Sky One/United Kingdom (season 1–2)",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "20–22 min.",
         "Status": "Pending"
       },
       {
-        "Title": "Hitmen",
-        "Genre": "Comedy-drama",
-        "Original network": "Sky One (season 1)Sky Comedy (season 2)",
-        "Original region": "United Kingdom",
+        "Title": "Hitmen: Reloaded",
+        "Genre": "Crime dramedy",
+        "Partner/Country": "Sky One (season 1)Sky Comedy (season 2)/United Kingdom",
         "Premiere": "August 6, 2020",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min.",
-        "Status": "Season 2 due to premiere October 28, 2021"
+        "Status": "Pending"
       },
       {
         "Title": "Five Bedrooms",
         "Genre": "Comedy-drama",
-        "Original network": "Network 10 (season 1)Paramount+ (season 2)",
-        "Original region": "Australia",
-        "Premiere": "August 13, 2020",
+        "Partner/Country": "Network 10 (season 1)Paramount+ (season 2)/Australia",
+        "Premiere": "April 15, 2020",
         "Seasons": "2 season, 16 episodes",
         "Length": "44–46 min.",
         "Status": "Renewed"
@@ -532,8 +617,7 @@
       {
         "Title": "Save Me",
         "Genre": "Crime drama",
-        "Original network": "Sky Atlantic",
-        "Original region": "United Kingdom",
+        "Partner/Country": "Sky Atlantic/United Kingdom",
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "46–50 min.",
@@ -542,8 +626,7 @@
       {
         "Title": "Noughts + Crosses",
         "Genre": "Alternative history drama",
-        "Original network": "BBC One",
-        "Original region": "United Kingdom",
+        "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–58 min.",
@@ -552,28 +635,25 @@
       {
         "Title": "Departure",
         "Genre": "Conspiracy thriller",
-        "Original network": "Global",
-        "Original region": "Canada",
+        "Partner/Country": "Global/Canada",
         "Premiere": "September 17, 2020",
         "Seasons": "2 season, 12 episodes",
         "Length": "42–44 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Code 404",
         "Genre": "Police procedural dramedy",
-        "Original network": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2)",
-        "Original region": "United Kingdom",
+        "Partner/Country": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2)/United Kingdom",
         "Premiere": "October 8, 2020",
         "Seasons": "2 season, 12 episodes",
         "Length": "26–31 min.",
-        "Status": "Pending"
+        "Status": "Planned third season"
       },
       {
         "Title": "Dime Quién Soy: Mistress of War",
         "Genre": "Historical drama",
-        "Original network": "Movistar+",
-        "Original region": "Spain",
+        "Partner/Country": "Movistar+/Spain",
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
         "Length": "42–60 min.",
@@ -582,8 +662,7 @@
       {
         "Title": "Intergalactic",
         "Genre": "Science fiction",
-        "Original network": "Sky One",
-        "Original region": "United Kingdom",
+        "Partner/Country": "Sky One/United Kingdom",
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–47 min.",
@@ -592,22 +671,29 @@
       {
         "Title": "We Are Lady Parts",
         "Genre": "Musical ensemble sitcom",
-        "Original network": "Channel 4",
-        "Original region": "United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "24–25 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Smother",
         "Genre": "Crime thriller",
-        "Original network": "RTÉ One",
-        "Original region": "Ireland",
+        "Partner/Country": "RTÉ One/Ireland",
         "Premiere": "July 1, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "49–51 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Vigil",
+        "Genre": "Crime thriller",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "December 23, 2021",
+        "Seasons": "6 episodes",
+        "Length": "55–59 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -639,9 +725,30 @@
         "Language": "English"
       },
       {
+        "Title": "Curious George: Cape Ahoy",
+        "Genre": "Family animation",
+        "Release": "September 30, 2021",
+        "Runtime": "1 hour, 28 min.",
+        "Language": "English"
+      },
+      {
         "Title": "Psych 3: This Is Gus",
         "Genre": "Detective comedy-drama",
         "Release": "November 18, 2021",
+        "Runtime": "1 hour, 36 min",
+        "Language": "English"
+      },
+      {
+        "Title": "The Real Housewives of the North Pole",
+        "Genre": "Reality",
+        "Release": "December 9, 2021",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Days of Our Lives: A Very Salem Christmas",
+        "Genre": "Soap opera",
+        "Release": "December 16, 2021",
         "Runtime": "TBA",
         "Language": "English"
       }
@@ -743,6 +850,13 @@
         "Release": "September 23, 2021",
         "Runtime": "1 hour, 27 min.",
         "Language": "English"
+      },
+      {
+        "Title": "The Murder of Gabby Petito: Truth, Lies and Social Media",
+        "Genre": "True crime",
+        "Release": "December 17, 2021",
+        "Runtime": "TBA",
+        "Language": "English"
       }
     ]
   },
@@ -761,7 +875,7 @@
       },
       {
         "Title": "To: Gerard",
-        "Genre": "Animated shorts",
+        "Genre": "Animated short",
         "Release": "December 17, 2020",
         "Runtime": "7 min.",
         "Language": "English"
@@ -782,16 +896,16 @@
       },
       {
         "Title": "Good Timing with Jo Firestone",
-        "Genre": "Stand-up comedy",
+        "Genre": "Comedy special",
         "Release": "October 15, 2021",
-        "Runtime": "TBA",
+        "Runtime": "49 min.",
         "Language": "English"
       },
       {
-        "Title": "Snoop and Martha's Very Tasty Halloween",
-        "Genre": "Halloween",
-        "Release": "October 21, 2021",
-        "Runtime": "TBA",
+        "Title": "Joyelle Nicole Johnson: Love Joy",
+        "Genre": "Stand-up comedy",
+        "Release": "November 5, 2021",
+        "Runtime": "53 min.",
         "Language": "English"
       }
     ]
@@ -890,6 +1004,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "The Missing",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Mrs. Davis",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -938,35 +1060,27 @@
     ],
     "data": [
       {
-        "Title": "MacGruber",
-        "Genre": "Comedy",
-        "Premiere": "2021",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "The Best Man: The Final Chapters",
         "Genre": "Dramedy",
         "Premiere": "TBA",
-        "Seasons": "10 episodes",
-        "Length": "TBA",
+        "Seasons": "TBA",
+        "Length": "10 episodes",
         "Status": "Miniseries order"
       },
       {
         "Title": "Bust Down",
         "Genre": "Comedy",
         "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
+        "Seasons": "TBA",
+        "Length": "1 season, 6 episodes",
         "Status": "Series order"
       },
       {
-        "Title": "Untitled Craig Robinson project",
+        "Title": "Killing It",
         "Genre": "Comedy",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Seasons": "TBA",
+        "Length": "1 season, 10 episodes",
         "Status": "Series order"
       },
       {
@@ -981,16 +1095,16 @@
         "Title": "Take Note",
         "Genre": "Musical comedy",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Seasons": "TBA",
+        "Length": "1 season, 10 episodes",
         "Status": "Series order"
       },
       {
         "Title": "Ted",
         "Genre": "Comedy",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Seasons": "TBA",
+        "Length": "1 season, 10 episodes",
         "Status": "Series order"
       }
     ]
@@ -1028,6 +1142,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Untitled Barney &amp; Friends docuseries",
+        "Genre": "Docuseries",
+        "Premiere": "2022",
+        "Seasons": "3 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries order"
+      },
+      {
         "Title": "Diamond Princess",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -1048,14 +1170,6 @@
         "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Paris in Love",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 13 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -1101,24 +1215,8 @@
     ],
     "data": [
       {
-        "Title": "Baking It",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Below Deck Down Under",
         "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Create the Escape",
-        "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1147,23 +1245,6 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Animation",
-      "Kids &amp; family"
-    ],
-    "data": [
-      {
-        "Title": "Babble Bop!",
-        "Genre": "Musical",
-        "Premiere": "December 2021",
-        "Seasons": "1 season, 72 episodes",
-        "Length": "2 min.",
         "Status": "Series order"
       }
     ]
@@ -1200,23 +1281,6 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
         "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "The Real Housewives of Miami (season 4)",
-        "Genre": "Reality",
-        "Prev. network": "Bravo",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Season order"
       }
     ]
   },
@@ -1355,14 +1419,7 @@
     ],
     "data": [
       {
-        "Title": "The Real Housewives of the North Pole",
-        "Genre": "Reality",
-        "Release": "Late 2021",
-        "Runtime": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Untitled John Logan/Blumhouse project",
+        "Title": "Untitled John Logan film",
         "Genre": "Horror",
         "Release": "2022",
         "Runtime": "TBA",
@@ -1372,6 +1429,21 @@
         "Title": "The Munsters",
         "Genre": "Horror comedy",
         "Release": "TBA",
+        "Runtime": "TBA",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original films",
+      "Documentaries"
+    ],
+    "data": [
+      {
+        "Title": "The Rebellious Life of Mrs. Rosa Parks",
+        "Genre": "Documentary",
+        "Release": "2022",
         "Runtime": "TBA",
         "Language": "English"
       }

@@ -9,7 +9,7 @@
         "Title": "The Good Fight",
         "Genre": "Legal drama",
         "Premiere": "February 19, 2017",
-        "Seasons": "5 seasons, 48 episodes",
+        "Seasons": "5 seasons, 50 episodes",
         "Runtime": "49–53 min.",
         "Status": "Renewed"
       },
@@ -17,9 +17,9 @@
         "Title": "Star Trek: Discovery",
         "Genre": "Science fiction",
         "Premiere": "September 24, 2017",
-        "Seasons": "3 seasons, 42 episodes",
+        "Seasons": "4 seasons, 46 episodes",
         "Runtime": "37–65 min.",
-        "Status": "Season 4 due to premiere on November 18, 2021"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "Strange Angel",
@@ -97,9 +97,9 @@
         "Title": "Mayor of Kingstown",
         "Genre": "Crime thriller",
         "Premiere": "November 14, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "47–66 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "1883",
@@ -145,17 +145,17 @@
         "Title": "Guilty Party",
         "Genre": "Dark comedy",
         "Premiere": "October 14, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "28–35 min.",
         "Status": "Pending"
       },
       {
         "Title": "The Game",
         "Genre": "Comedy-drama",
         "Premiere": "November 11, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "29–35 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -168,11 +168,11 @@
     "data": [
       {
         "Title": "Tooning Out the News",
-        "Genre": "Variety",
+        "Genre": "Variety news satire",
         "Premiere": "April 7, 2020",
-        "Seasons": "2 seasons, 227 episodes",
+        "Seasons": "2 seasons, 233 episodes",
         "Runtime": "5–44 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Star Trek: Lower Decks",
@@ -180,15 +180,15 @@
         "Premiere": "August 6, 2020",
         "Seasons": "2 season, 20 episodes",
         "Runtime": "24–26 min.",
-        "Status": "Season 2 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "The Harper House",
         "Genre": "Comedy",
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "23–24 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "24–25 min.",
+        "Status": "Ended"
       }
     ]
   },
@@ -219,9 +219,9 @@
         "Title": "Star Trek: Prodigy",
         "Genre": "Science fiction",
         "Premiere": "October 28, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Renewed"
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "23–45 min.",
+        "Status": "Season 1 ongoing; Renewed"
       }
     ]
   },
@@ -244,9 +244,9 @@
         "Title": "Texas 6",
         "Genre": "Sports",
         "Premiere": "November 26, 2020",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "30–41 min.",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "From Cradle to Stage",
@@ -290,20 +290,20 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Real World Homecoming: New York",
+        "Title": "The Real World Homecoming",
         "Genre": "Reality",
         "Premiere": "March 4, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "46–47 min.",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 9 episodes",
+        "Runtime": "41–47 min.",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "The Challenge: All Stars",
-        "Genre": "Reality",
+        "Genre": "Reality competition",
         "Premiere": "April 1, 2021",
-        "Seasons": "9 episodes",
-        "Runtime": "43–45 min.",
-        "Status": "Miniseries"
+        "Seasons": "2 seasons, 19 episodes",
+        "Runtime": "43–46 min.",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Love Island: Exclusive Episodes",
@@ -333,9 +333,9 @@
         "Title": "Queen of the Universe",
         "Genre": "Music competition",
         "Premiere": "December 2, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "45 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -437,17 +437,17 @@
         "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
         "Premiere": "September 7, 2021",
         "Seasons": "1 season, 24 episodes",
-        "Runtime": "61–64 min.",
+        "Runtime": "60–65 min.",
         "Status": "Season 44 ongoing"
       },
       {
-        "Title": "SEAL Team (season 5 episodes 5–14)",
+        "Title": "SEAL Team (season 5B)",
         "Genre": "Military action",
-        "Prev. network(s)": "CBS (seasons 1–5 episode 4)",
+        "Prev. network(s)": "CBS (seasons 1–5A)",
         "Premiere": "November 1, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "43–48 min.",
+        "Status": "Season 5 ongoing"
       }
     ]
   },
@@ -477,6 +477,38 @@
         "Premiere": "September 26, 2021",
         "Runtime": "1 hour, 43 min.",
         "Language": "English"
+      },
+      {
+        "Title": "Porta dos Fundos: Te Prego Lá Fora",
+        "Genre": "Animated comedy",
+        "Premiere": "December 15, 2021",
+        "Runtime": "TBA",
+        "Language": "Portuguese"
+      },
+      {
+        "Title": "Reno 911! The Hunt for QAnon",
+        "Genre": "Comedy",
+        "Premiere": "December 23, 2021",
+        "Runtime": "TBA",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Spreadsheet",
+        "Genre": "Comedy",
+        "Premiere": "October 27, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -490,7 +522,7 @@
         "Title": "Rio Shore",
         "Genre": "Reality",
         "Premiere": "September 30, 2021",
-        "Seasons": "1 season, 3 episodes",
+        "Seasons": "1 season, 12 episodes",
         "Runtime": "60 min.",
         "Exclusive region(s)": "Latin America",
         "Language": "Portuguese",
@@ -545,17 +577,60 @@
         "Language": "English"
       },
       {
-        "Title": "Queenpins",
-        "Genre": "Crime comedy",
-        "Release date": "September 30, 2021&#91;e&#93;",
-        "Runtime": "1 hour, 40 min.",
-        "Language": "English"
-      },
-      {
         "Title": "Paranormal Activity: Next of Kin",
         "Genre": "Supernatural horror",
         "Release date": "October 29, 2021",
+        "Runtime": "1 hour, 38 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "South Park: Post Covid",
+        "Genre": "Adult animated comedy",
+        "Release date": "November 25, 2021",
+        "Runtime": "59 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Rumble",
+        "Genre": "Animation comedy",
+        "Release date": "December 15, 2021",
         "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "South Park: Post Covid: The Return of Covid",
+        "Genre": "Adult animated comedy",
+        "Release date": "December 16, 2021",
+        "Runtime": "TBA",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original films",
+      "Simultaneous releases"
+    ],
+    "data": [
+      {
+        "Title": "Paw Patrol: The Movie",
+        "Genre": "Animation comedy",
+        "Release date": "August 20, 2021",
+        "Runtime": "1 hour, 26 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Queenpins",
+        "Genre": "Crime comedy",
+        "Release date": "September 30, 2021&#91;e&#93;",
+        "Runtime": "1 hour, 50 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Clifford the Big Red Dog",
+        "Genre": "Adventure comedy",
+        "Release date": "November 10, 2021",
+        "Runtime": "1 hour, 36 min.",
         "Language": "English"
       }
     ]
@@ -625,6 +700,60 @@
         "Release date": "September 28, 2021",
         "Runtime": "1 hour, 26 min.",
         "Language": "English"
+      },
+      {
+        "Title": "Unknown Dimension: The Story of Paranormal Activity",
+        "Release date": "October 29, 2021",
+        "Runtime": "1 hour, 35 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Ascension",
+        "Release date": "November 15, 2021",
+        "Runtime": "1 hour, 38 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Sabaya",
+        "Release date": "November 15, 2021",
+        "Runtime": "1 hour, 32 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Oasis Knebworth 1996",
+        "Release date": "November 19, 2021",
+        "Runtime": "1 hour, 50 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Bree Wayy: Promise Witness Remembrance",
+        "Release date": "November 22, 2021",
+        "Runtime": "32 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Coded: The Hidden Love of J.C. Leyendecker",
+        "Release date": "November 22, 2021",
+        "Runtime": "29 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Lynching Postcards: \"Token of a Great Day\"",
+        "Release date": "November 22, 2021",
+        "Runtime": "15 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "R.I.P. T-Shirts",
+        "Release date": "November 22, 2021",
+        "Runtime": "31 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "The Musician",
+        "Release date": "November 22, 2021",
+        "Runtime": "15 min.",
+        "Language": "English"
       }
     ]
   },
@@ -647,6 +776,13 @@
         "Release date": "October 8, 2021&#91;g&#93;",
         "Length": "1 hour, 57 min.",
         "Language": "English"
+      },
+      {
+        "Title": "Madame X Presents: Madame Xtra Q&amp;A",
+        "Genre": "Concert film",
+        "Release date": "November 18, 2021",
+        "Length": "37 min.",
+        "Language": "English"
       }
     ]
   },
@@ -662,7 +798,7 @@
         "Premiere": "Early 2022",
         "Seasons": "TBA",
         "Runtime": "1 season, 9 episodes",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "Star Trek: Strange New Worlds",
@@ -767,6 +903,14 @@
         "Seasons": "TBA",
         "Runtime": "1 season, 8 episodes",
         "Status": "Series order"
+      },
+      {
+        "Title": "Happy Face",
+        "Genre": "True crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -779,18 +923,10 @@
       {
         "Title": "The Fairly OddParents",
         "Genre": "Sitcom",
-        "Premiere": "Late 2021",
+        "Premiere": "March 2022",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Spreadsheet",
-        "Genre": "Comedy",
-        "Premiere": "2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "Frasier",
@@ -802,7 +938,7 @@
       },
       {
         "Title": "Dora the Explorer",
-        "Genre": "Adventure sketch comedy",
+        "Genre": "Adventure comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -833,6 +969,15 @@
     ],
     "data": [
       {
+        "Title": "Miss Fallaci Takes America",
+        "Genre": "Biopic",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Italian",
+        "Status": "Series order"
+      },
+      {
         "Title": "Los Enviados",
         "Genre": "Action thriller",
         "Premiere": "TBA",
@@ -849,6 +994,15 @@
         "Runtime": "TBA",
         "Language": "Portuguese",
         "Status": "Filming"
+      },
+      {
+        "Title": "Bosé",
+        "Genre": "Biopic",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
       }
     ]
   },
@@ -863,6 +1017,14 @@
         "Title": "Stories from the Beautiful Game",
         "Genre": "Soccer",
         "Premiere": "2021",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Couples Therapy",
+        "Genre": "Docuseries",
+        "Premiere": "2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
@@ -888,6 +1050,14 @@
         "Genre": "Docuseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Not A Bride",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 4 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -936,6 +1106,23 @@
         "Title": "Yo! MTV Raps",
         "Genre": "Music",
         "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "The Bridge Australia",
+        "Genre": "Reality competition",
+        "Premiere": "2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
@@ -1006,21 +1193,6 @@
   {
     "category": [
       "Upcoming original programming",
-      "Specials"
-    ],
-    "data": [
-      {
-        "Title": "Reno 911! The Hunt for QAnon",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
       "In development"
     ],
     "data": [
@@ -1047,10 +1219,6 @@
       {
         "Title": "Girls with Guns",
         "Genre": "Drama"
-      },
-      {
-        "Title": "Happy Face",
-        "Genre": "True crime drama"
       },
       {
         "Title": "Mercy House",
@@ -1112,20 +1280,6 @@
       "Feature films"
     ],
     "data": [
-      {
-        "Title": "Untitled South Park film",
-        "Genre": "Adult animated comedy",
-        "Release date": "2021",
-        "Runtime": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Untitled South Park film",
-        "Genre": "Adult animated comedy",
-        "Release date": "2021",
-        "Runtime": "TBA",
-        "Language": "English"
-      },
       {
         "Title": "Hush, Hush",
         "Genre": "Drama",

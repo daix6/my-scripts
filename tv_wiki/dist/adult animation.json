@@ -2745,13 +2745,25 @@
       {
         "Title": "Arcane",
         "Genre": "Action",
-        "Seasons/episodes": "3 episodes",
+        "Seasons/episodes": "1 season, 9 episodes",
         "Show creator(s)": "Ash Brannon",
         "Original release": "November 6, 2021 – present",
         "Network": "Netflix",
         "Studio": "Riot Games",
         "Age rating": "TV-14",
         "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "The Freak Brothers",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "TBA",
+        "Original release": "November 14, 2021 – present",
+        "Network": "Tubi",
+        "Studio": "Lionsgate Television",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2764,6 +2776,18 @@
         "Studio": "Marvel Animation",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Santa Inc.",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Alexandra Rushfield",
+        "Original release": "December 2, 2021",
+        "Network": "HBO Max",
+        "Studio": "Lionsgate Television",
+        "Age rating": "TV-MA",
+        "Technique": "Stop-Motion",
         "Source": ""
       }
     ]
@@ -2950,7 +2974,7 @@
         "Original release": "April 1,&#160;2001 – August 12, 2001",
         "Network": "Teletoon at Night",
         "Studio": "MTV Animation",
-        "Technique": "Flash",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -3559,7 +3583,7 @@
     ],
     "data": [
       {
-        "Title": "Tear Along the Dotted Line&#160;&#91;it&#93;",
+        "Title": "Tear Along the Dotted Line",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Zerocalcare",
@@ -3578,18 +3602,6 @@
     ],
     "data": [
       {
-        "Title": "Santa Inc.",
-        "Genre": "Comedy",
-        "Seasons, episodes": "1 season, 8 episodes",
-        "Show creator": "Seth Rogen",
-        "Release date": "December 2, 2021",
-        "Original channel": "HBO Max",
-        "Studio": "Lionsgate Television",
-        "Age rating": "",
-        "Technique": "Stop-Motion",
-        "Source": ""
-      },
-      {
         "Title": "The Boondocks (2022)",
         "Genre": "Black sitcom",
         "Seasons, episodes": "2 seasons, TBA",
@@ -3597,6 +3609,18 @@
         "Release date": "2022",
         "Original channel": "HBO Max",
         "Studio": "Sony Pictures Animation",
+        "Age rating": "",
+        "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "The Boys: Diabolical",
+        "Genre": "Anthology series",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "TBA",
+        "Release date": "2022",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Sony Pictures Television",
         "Age rating": "",
         "Technique": "",
         "Source": ""

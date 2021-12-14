@@ -13,17 +13,17 @@
         "Status": "Ended"
       },
       {
-        "Title": "Hand of God",
-        "Genre": "Psychological thriller",
-        "Premiere": "September 4, 2015",
-        "Seasons/episodes": "2 seasons, 20 episodes",
-        "Status": "Ended"
-      },
-      {
         "Title": "Sneaky Pete",
         "Genre": "Crime drama",
         "Premiere": "August 5, 2015",
         "Seasons/episodes": "3 seasons, 30 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Hand of God",
+        "Genre": "Psychological thriller",
+        "Premiere": "September 4, 2015",
+        "Seasons/episodes": "2 seasons, 20 episodes",
         "Status": "Ended"
       },
       {
@@ -87,7 +87,7 @@
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
         "Seasons/episodes": "2 season, 16 episodes",
-        "Status": "Renewed"
+        "Status": "Renewed for seasons 3 and 4"
       },
       {
         "Title": "The Romanoffs",
@@ -107,8 +107,8 @@
         "Title": "Hanna",
         "Genre": "Action",
         "Premiere": "March 29, 2019",
-        "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Season 3 due to premiere on November 24, 2021"
+        "Seasons/episodes": "3 seasons, 22 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "Too Old to Die Young",
@@ -149,8 +149,8 @@
         "Title": "Alex Rider",
         "Genre": "Spy thriller",
         "Premiere": "June 4, 2020",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Utopia",
@@ -183,7 +183,7 @@
       {
         "Title": "Solos",
         "Genre": "Science fiction anthology",
-        "Premiere": "May 21, 2021&#91;a&#93;June 25, 2021&#91;b&#93;",
+        "Premiere": "May 21, 2021",
         "Seasons/episodes": "1 season, 7 episodes",
         "Status": "Pending"
       },
@@ -206,7 +206,14 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Reacher",
+        "Genre": "Drama",
+        "Premiere": "February 4, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Lord of the Rings",
@@ -340,7 +347,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "November 29, 2017",
         "Seasons/episodes": "3 seasons, 26 episodes",
-        "Status": "Renewed"
+        "Status": "Season 4 due to premiere on February 18, 2022"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -392,10 +399,24 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "The Moth Effect",
+        "Genre": "Comedy",
+        "Premiere": "July 30, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Back to the Rafters",
         "Genre": "Comedy-drama",
         "Premiere": "September 17, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Harlem",
+        "Genre": "Comedy",
+        "Premiere": "December 3, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
       },
       {
@@ -403,6 +424,13 @@
         "Genre": "Romantic comedy",
         "Premiere": "December 17, 2021",
         "Seasons/episodes": "1 season, 5 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "As We See It",
+        "Genre": "Comedy-drama",
+        "Premiere": "January 21, 2022",
+        "Seasons/episodes": "TBA",
         "Status": "Pending"
       }
     ]
@@ -478,7 +506,7 @@
     "category": [
       "Original programming",
       "Animation",
-      "Kids and family"
+      "Kids &amp; family"
     ],
     "data": [
       {
@@ -534,7 +562,7 @@
         "Title": "If You Give a Mouse a Cookie",
         "Genre": "Preschool adventure",
         "Premiere": "November 5, 2015",
-        "Seasons/episodes": "2 seasons, 46 episodes",
+        "Seasons/episodes": "2 seasons, 53 episodes",
         "Status": "Pending"
       },
       {
@@ -556,7 +584,7 @@
         "Genre": "Action comedy",
         "Premiere": "April 16, 2018",
         "Seasons/episodes": "2 seasons, 104 episodes",
-        "Status": "Ended&#91;c&#93;"
+        "Status": "Ended&#91;a&#93;"
       },
       {
         "Title": "The Adventures of Rocky and Bullwinkle",
@@ -569,7 +597,7 @@
         "Title": "Pete the Cat",
         "Genre": "Comedy",
         "Premiere": "September 21, 2018",
-        "Seasons/episodes": "2 seasons, 28 episodes",
+        "Seasons/episodes": "2 seasons, 35 episodes",
         "Status": "Pending"
       },
       {
@@ -604,7 +632,7 @@
         "Title": "Do, Re &amp; Mi",
         "Genre": "Animation",
         "Premiere": "September 17, 2021",
-        "Seasons/episodes": "1 season, 7 episodes",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       }
     ]
@@ -721,7 +749,7 @@
         "Genre": "Crime thriller",
         "Premiere": "November 16, 2018",
         "Seasons/episodes": "2 seasons, 19 episodes",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "Four More Shots Please!",
@@ -749,7 +777,7 @@
         "Genre": "Espionage",
         "Premiere": "September 20, 2019",
         "Seasons/episodes": "2 seasons, 19 episodes",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Hostel Daze",
@@ -805,7 +833,7 @@
         "Genre": "Musical",
         "Premiere": "August 4, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Sons of the Soil: Jaipur Pink Panthers",
@@ -833,6 +861,43 @@
         "Genre": "Thriller",
         "Premiere": "September 9, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Akkad Bakkad Rafu Chakkar",
+        "Genre": "Crime drama",
+        "Premiere": "November 3, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Italian"
+    ],
+    "data": [
+      {
+        "Title": "Scatola Nera",
+        "Genre": "Comedy crime",
+        "Premiere": "November 25, 2019",
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Made in Italy",
+        "Genre": "Comedy-drama",
+        "Premiere": "September 23, 2019",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Vita da Carlo",
+        "Genre": "Comedy",
+        "Premiere": "November 5, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
       }
     ]
@@ -961,7 +1026,7 @@
         "Genre": "Sitcom",
         "Premiere": "September 18, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -991,13 +1056,13 @@
         "Genre": "Drama",
         "Premiere": "June 25, 2021",
         "Seasons/episodes": "1 season, 5 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Uncoupled in Rio",
         "Genre": "Comedy",
         "Premiere": "October 1, 2021",
-        "Seasons/episodes": "TBA",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       }
     ]
@@ -1024,7 +1089,7 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Pequeñas coincidencias&#91;d&#93;",
+        "Title": "Pequeñas coincidencias&#91;b&#93;",
         "Genre": "Romantic comedy",
         "Premiere": "December 7, 2018",
         "Seasons/episodes": "3 seasons, 30 episodes",
@@ -1045,7 +1110,7 @@
         "Status": "Renewed for seasons 2 and 3"
       },
       {
-        "Title": "Relatos con-fin-a-dos&#160;&#91;es&#93;&#91;d&#93;",
+        "Title": "Relatos con-fin-a-dos&#160;&#91;es&#93;&#91;b&#93;",
         "Genre": "Comedy-drama anthology",
         "Premiere": "July 3, 2020",
         "Seasons/episodes": "5 episodes",
@@ -1063,14 +1128,14 @@
         "Genre": "Crime drama",
         "Premiere": "July 17, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Súbete a mi moto&#91;d&#93;",
+        "Title": "Súbete a mi moto&#91;b&#93;",
         "Genre": "Drama",
         "Premiere": "October 9, 2020",
         "Seasons/episodes": "1 season, 15 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "El Cid",
@@ -1101,18 +1166,18 @@
         "Status": "Pending"
       },
       {
+        "Title": "Narcos vs Zombies",
+        "Genre": "Horror",
+        "Premiere": "August 6, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Maradona: Blessed Dream",
         "Genre": "Biopic drama",
         "Premiere": "October 29, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Historias para no dormir&#91;e&#93;",
-        "Genre": "Spanish horror anthology miniseries",
-        "Premiere": "November 5, 2021",
-        "Seasons/episodes": "4 episodes",
-        "Status": "Pending"
       }
     ]
   },
@@ -1148,28 +1213,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Scatola Nera",
-        "Genre": "Comedy crime",
-        "Premiere": "November 25, 2019",
-        "Seasons/episodes": "2 seasons, 16 episodes",
-        "Language": "Italian",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Made in Italy",
-        "Genre": "Comedy-drama",
-        "Premiere": "September 23, 2019",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Language": "Italian",
-        "Status": "Ended"
-      },
-      {
         "Title": "Mixte",
         "Genre": "Historical drama",
         "Premiere": "June 14, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "French",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1514,7 +1563,7 @@
         "Premiere": "October 30, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "James May: Oh Cook!",
@@ -1522,7 +1571,7 @@
         "Premiere": "November 13, 2020",
         "Seasons/episodes": "1 season, 7 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Making Their Mark",
@@ -1555,6 +1604,54 @@
         "Seasons/episodes": "1 season, 4 episodes",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "Dinner Club",
+        "Genre": "Cooking/travel documentary",
+        "Premiere": "September 24, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "Italian",
+        "Status": "Pending"
+      },
+      {
+        "Title": "FC Bayern: Behind the Legend",
+        "Genre": "Sports documentary",
+        "Premiere": "November 2, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "German",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Always Jane",
+        "Genre": "Docuseries",
+        "Premiere": "November 12, 2021",
+        "Seasons/episodes": "1 season, 4 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Everybody Loves Natti",
+        "Genre": "Docuseries",
+        "Premiere": "November 18, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "All or Nothing: Juventus",
+        "Genre": "Sports documentary",
+        "Premiere": "November 24, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "The Ferragnez",
+        "Genre": "Docu-reality",
+        "Premiere": "December 9, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "Italian",
+        "Status": "Pending"
       }
     ]
   },
@@ -1577,15 +1674,7 @@
         "Title": "Hitoshi Matsumoto Presents Documental",
         "Genre": "Comedy competition",
         "Premiere": "November 30, 2016",
-        "Seasons/episodes": "9 seasons, 42 episodes",
-        "Language": "Japanese",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Bachelor Japan",
-        "Genre": "Dating reality show",
-        "Premiere": "February 17, 2017",
-        "Seasons/episodes": "3 seasons, 50 episodes",
+        "Seasons/episodes": "10 seasons, 47 episodes",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -1627,7 +1716,7 @@
         "Premiere": "September 19, 2018",
         "Seasons/episodes": "2 seasons, 10 episodes",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Hear Me Love Me",
@@ -1638,12 +1727,20 @@
         "Status": "Ended"
       },
       {
+        "Title": "This Is Family",
+        "Genre": "Reality show",
+        "Premiere": "September 28, 2018",
+        "Seasons/episodes": "4 seasons, 20 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
         "Title": "LOL: Last One Laughing",
         "Genre": "Comedy competition",
         "Premiere": "December 14, 2018",
-        "Seasons/episodes": "2 seasons, 12 episodes",
+        "Seasons/episodes": "3 seasons, 14 episodes",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Skulls and Roses",
@@ -1707,7 +1804,7 @@
         "Premiere": "August 14, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Comicstaan Semma Comedy Pa",
@@ -1715,15 +1812,7 @@
         "Premiere": "September 11, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "Tamil",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Bachelorette Japan",
-        "Genre": "Dating reality show",
-        "Premiere": "October 9, 2020",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Language": "Japanese",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Pack",
@@ -1753,9 +1842,9 @@
         "Title": "LOL: Last One Laughing Germany",
         "Genre": "Comedy competition",
         "Premiere": "April 8, 2021",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "2 seasons, 12 episodes",
         "Language": "German",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "LOL: Qui rit, sort!",
@@ -1779,7 +1868,7 @@
         "Premiere": "May 14, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Luxe Listings Sydney",
@@ -1803,7 +1892,31 @@
         "Premiere": "September 3, 2021",
         "Seasons/episodes": "1 season, 9 episodes",
         "Language": "Japanese",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Tampa Baes",
+        "Genre": "Reality show",
+        "Premiere": "November 5, 2021",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "LOL: Se Rir, Já Era",
+        "Genre": "Comedy competition",
+        "Premiere": "December 3, 2021",
+        "Seasons/episodes": "TBA",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Celebrity Bake Off España",
+        "Genre": "Baking competition",
+        "Premiere": "December 16, 2021",
+        "Seasons/episodes": "TBA",
+        "Language": "Spanish",
+        "Status": "Pending"
       }
     ]
   },
@@ -1836,7 +1949,7 @@
         "Premiere": "August 7, 2020",
         "Seasons/episodes": "1 season, 7 episodes",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Prime Rewind: Inside the Boys",
@@ -1850,9 +1963,9 @@
         "Title": "NFL Next",
         "Genre": "Sports talk show",
         "Premiere": "October 6, 2020",
-        "Seasons/episodes": "1 season, 12 episodes",
+        "Seasons/episodes": "2 seasons, 24 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -1896,7 +2009,7 @@
         "Premiere": "January 18, 2018",
         "Seasons/episodes": "1 series, 9 episodes",
         "Language": "English",
-        "Status": "Ended&#91;f&#93;"
+        "Status": "Ended&#91;c&#93;"
       },
       {
         "Title": "Falco",
@@ -2040,16 +2153,16 @@
         "Premiere": "November 13, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "Spanish/German",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Small Axe",
         "Partner": "BBC One",
         "Genre": "Anthology drama",
         "Premiere": "November 20, 2020",
-        "Seasons/episodes": "5 episodes",
+        "Seasons/episodes": "1 season, 5 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Frank of Ireland",
@@ -2090,10 +2203,19 @@
       {
         "Title": "The Pursuit of Love",
         "Partner": "BBC One",
-        "Genre": "Drama miniseries",
+        "Genre": "Romantic drama",
         "Premiere": "July 30, 2021",
         "Seasons/episodes": "3 episodes",
         "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Stories to Stay Awake",
+        "Partner": "RTVE",
+        "Genre": "Horror anthology",
+        "Premiere": "November 5, 2021",
+        "Seasons/episodes": "4 episodes",
+        "Language": "Spanish",
         "Status": "Miniseries"
       }
     ]
@@ -2105,14 +2227,14 @@
     ],
     "data": [
       {
-        "Title": "The Expanse (seasons 4–5)",
+        "Title": "The Expanse (seasons 4–6)",
         "Genre": "Hard science-fiction",
         "Previous channel": "Syfy",
         "Premiere": "December 13, 2019",
-        "Seasons/episodes": "2 seasons, 20 episodes",
+        "Seasons/episodes": "3 seasons, 26 episodes",
         "Prime Video exclusive region": "Worldwide",
         "Language": "English",
-        "Status": "Final season due to premiere on December 10, 2021"
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Absentia (season 3)",
@@ -2654,10 +2776,34 @@
         "Language": "Kannada"
       },
       {
+        "Title": "Dybbuk",
+        "Genre(s)": "Supernatural horror",
+        "Premiere": "October 29, 2021",
+        "Language": "Hindi"
+      },
+      {
         "Title": "Jai Bhim",
         "Genre(s)": "Legal drama",
         "Premiere": "November 2, 2021",
         "Language": "Tamil"
+      },
+      {
+        "Title": "Drushyam 2",
+        "Genre(s)": "Thriller drama",
+        "Premiere": "November 25, 2021",
+        "Language": "Telugu"
+      },
+      {
+        "Title": "Chhorii",
+        "Genre(s)": "Horror",
+        "Premiere": "November 26, 2021",
+        "Language": "Hindi"
+      },
+      {
+        "Title": "Bali",
+        "Genre(s)": "Horror",
+        "Premiere": "December 9, 2021",
+        "Language": "Marathi"
       },
       {
         "Title": "Oh My Dog",
@@ -2732,6 +2878,16 @@
         "Title": "Justin Bieber: Our World",
         "Premiere": "October 8, 2021",
         "Language": "English"
+      },
+      {
+        "Title": "A Man Named Scott",
+        "Premiere": "November 5, 2021",
+        "Language": "English"
+      },
+      {
+        "Title": "Burning",
+        "Premiere": "November 25, 2021",
+        "Language": "English"
       }
     ]
   },
@@ -2762,7 +2918,7 @@
         "Language": "English"
       },
       {
-        "Title": "Yearly Departed",
+        "Title": "Yearly Departed 2020",
         "Premiere": "December 29, 2020",
         "Language": "English"
       },
@@ -2963,44 +3119,14 @@
     ],
     "data": [
       {
-        "Title": "The Ferragnez: The Series",
-        "Genre": "Italian docu-reality",
-        "Seasons": "1 season, 8 episodes",
-        "Premiere": "December 2021"
-      },
-      {
         "Title": "The End",
         "Genre": "Hindi action-thriller",
         "Seasons": "TBA",
         "Premiere": "Late 2021"
       },
       {
-        "Title": "Tampa Baes",
-        "Genre": "Docuseries",
-        "Seasons": "1 season, 8 episodes",
-        "Premiere": "Late 2021"
-      },
-      {
-        "Title": "Dinner Club",
-        "Genre": "Italian cooking/travel documentary",
-        "Seasons": "TBA",
-        "Premiere": "2021"
-      },
-      {
-        "Title": "Harlem",
-        "Genre": "Comedy",
-        "Seasons": "1 season, 10 episodes",
-        "Premiere": "2021"
-      },
-      {
         "Title": "The Missing One",
         "Genre": "French reality competition",
-        "Seasons": "TBA",
-        "Premiere": "2021"
-      },
-      {
-        "Title": "Narcos vs Zombies",
-        "Genre": "Spanish horror",
         "Seasons": "TBA",
         "Premiere": "2021"
       },
@@ -3025,6 +3151,18 @@
       {
         "Title": "The Bad Guy",
         "Genre": "Italian crime comedy",
+        "Seasons": "TBA",
+        "Premiere": "2022"
+      },
+      {
+        "Title": "The Boys: Diabolical",
+        "Genre": "Adult animated anthology",
+        "Seasons": "1 season, 8 episodes",
+        "Premiere": "2022"
+      },
+      {
+        "Title": "The Lake",
+        "Genre": "Comedy",
         "Seasons": "TBA",
         "Premiere": "2022"
       },
@@ -3083,12 +3221,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "As We See It",
-        "Genre": "Comedy drama",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Bang Bang Baby",
         "Genre": "Italian crime drama",
         "Seasons": "TBA",
@@ -3107,8 +3239,14 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Chloe&#91;g&#93;",
+        "Title": "Chloe&#91;d&#93;",
         "Genre": "Psychological thriller",
+        "Seasons": "TBA",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Consultant",
+        "Genre": "Workplace comedy",
         "Seasons": "TBA",
         "Premiere": "TBA"
       },
@@ -3131,7 +3269,7 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The English&#91;g&#93;",
+        "Title": "The English&#91;d&#93;",
         "Genre": "Epic Western",
         "Seasons": "TBA",
         "Premiere": "TBA"
@@ -3173,12 +3311,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The Lake",
-        "Genre": "Comedy",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Lightyears",
         "Genre": "Science fiction drama",
         "Seasons": "TBA",
@@ -3209,7 +3341,7 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The Outlaws&#91;g&#93;",
+        "Title": "The Outlaws&#91;d&#93;",
         "Genre": "Comedy-drama",
         "Seasons": "1 season, 6 episodes",
         "Premiere": "TBA; Renewed"
@@ -3275,18 +3407,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Untitled FC Bayern Munich docuseries",
-        "Genre": "Sports docuseries",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Jack Reacher series",
-        "Genre": "Drama",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Untilted Paris Saint-Germain F.C. docuseries",
         "Genre": "Sports docuseries",
         "Seasons": "1 season, 4 episodes",
@@ -3302,12 +3422,6 @@
         "Title": "Untitled The Boys spin-off",
         "Genre": "Superhero teen drama",
         "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Vita da Carlo",
-        "Genre": "Italian comedy",
-        "Seasons": "1 season, 10 episodes",
         "Premiere": "TBA"
       }
     ]
@@ -3519,6 +3633,10 @@
         "Genre": "Drama"
       },
       {
+        "Title": "Mass Effect",
+        "Genre": "Science fiction"
+      },
+      {
         "Title": "Mastermind",
         "Genre": "Crime drama"
       },
@@ -3549,6 +3667,10 @@
       {
         "Title": "Oona Out of Order",
         "Genre": "Science fiction romance"
+      },
+      {
+        "Title": "Once Upon a Time in Aztlan",
+        "Genre": "Drama"
       },
       {
         "Title": "Outrider",
@@ -3702,18 +3824,6 @@
       "Feature films"
     ],
     "data": [
-      {
-        "Title": "Dybbuk",
-        "Genre": "Supernatural horror",
-        "Release": "October 2021",
-        "Language": "Hindi"
-      },
-      {
-        "Title": "Chhorii",
-        "Genre": "Horror",
-        "Release": "November 2021",
-        "Language": "Hindi"
-      },
       {
         "Title": "Anni Da Cane",
         "Genre": "Comedy",
@@ -3909,7 +4019,7 @@
         "Original broadcaster": "Quibi",
         "Country": "United States",
         "Prime Video exclusive region": "Selected territories",
-        "Seasons": "1 season, 15 episodes",
+        "Seasons": "1 season, 1 episode",
         "Original run": "2020"
       },
       {
@@ -4089,7 +4199,7 @@
         "Original broadcaster": "AMC",
         "Country": "United States",
         "Prime Video exclusive region": "Selected territories",
-        "Seasons": "2 seasons, 20 episodesSeason 1 ongoing",
+        "Seasons": "2 seasons, 20 episodes",
         "Original run": "2020–2021"
       },
       {
@@ -4257,10 +4367,10 @@
       {
         "Title": "Star Trek: Lower Decks",
         "Genre": "Science fiction comedy",
-        "Original broadcaster": "CBS All Access",
+        "Original broadcaster": "Paramount+",
         "Country": "United States",
         "Prime Video exclusive region": "Selected territories",
-        "Seasons": "2 seasons, 20 episodesSeason 2 ongoing",
+        "Seasons": "2 seasons, 20 episodes",
         "Language": "English",
         "Original run": "2020–"
       }
@@ -4453,7 +4563,7 @@
       {
         "Title": "Palm Springs",
         "Genre": "Science fiction romantic comedy",
-        "Release date": "November 20, 2020&#91;h&#93;December 18, 2020&#91;i&#93;April 9, 2021&#91;j&#93;",
+        "Release date": "November 20, 2020&#91;e&#93;December 18, 2020&#91;f&#93;April 9, 2021&#91;g&#93;",
         "Prime Video exclusive region": "Selected territories",
         "Language": "English"
       },
@@ -4803,7 +4913,7 @@
         "Notes": ""
       },
       {
-        "Title": "The New V.I.P.’s",
+        "Title": "The New V.I.P.'s",
         "Pilot season": "8",
         "Genre": "Animation",
         "Premiere": "March 17, 2017",

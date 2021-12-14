@@ -10,7 +10,7 @@
         "Genre": "Space western",
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "31–54 min.",
+        "Runtime": "31–54 min",
         "Status": "Renewed"
       },
       {
@@ -18,7 +18,7 @@
         "Genre": "Historical drama",
         "Premiere": "October 9, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–52 min.",
+        "Runtime": "42–52 min",
         "Status": "Ended"
       },
       {
@@ -26,7 +26,7 @@
         "Genre": "Superhero romantic comedy-drama",
         "Premiere": "January 15, 2021",
         "Seasons": "9 episodes",
-        "Runtime": "30–50 min.",
+        "Runtime": "30–50 min",
         "Status": "Miniseries"
       },
       {
@@ -34,7 +34,7 @@
         "Genre": "Superhero action-adventure buddy",
         "Premiere": "March 19, 2021",
         "Seasons": "6 episodes",
-        "Runtime": "50–60 min.",
+        "Runtime": "50–60 min",
         "Status": "Miniseries"
       },
       {
@@ -42,7 +42,7 @@
         "Genre": "Superhero action-adventure fantasy",
         "Premiere": "June 9, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–55 min.",
+        "Runtime": "43–55 min",
         "Status": "Renewed"
       },
       {
@@ -50,7 +50,7 @@
         "Genre": "Adventure drama",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "53–56 min.",
+        "Runtime": "53–56 min",
         "Status": "Renewed"
       },
       {
@@ -58,22 +58,22 @@
         "Genre": "Medical drama",
         "Premiere": "September 8, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "27–38 min",
+        "Status": "Pending"
       },
       {
         "Title": "Hawkeye",
-        "Genre": "Superhero action-adventure",
+        "Genre": "Superhero action-adventure crime",
         "Premiere": "November 24, 2021",
         "Seasons": "6 episodes",
-        "Runtime": "40–50 min.",
-        "Status": "Miniseries"
+        "Runtime": "40–50 min",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "The Book of Boba Fett",
         "Genre": "Space opera",
         "Premiere": "December 29, 2021",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 7 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -90,7 +90,7 @@
         "Genre": "Musical/Mockumentary",
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 22 episodes",
-        "Runtime": "26–34 min.",
+        "Runtime": "26–34 min",
         "Status": "Renewed"
       },
       {
@@ -98,15 +98,15 @@
         "Genre": "Comedy-drama",
         "Premiere": "January 17, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "22–28 min.",
-        "Status": "Pending"
+        "Runtime": "22–28 min",
+        "Status": "Ended"
       },
       {
         "Title": "The Mighty Ducks: Game Changers",
         "Genre": "Sports comedy-drama",
         "Premiere": "March 26, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "32–41 min.",
+        "Runtime": "32–41 min",
         "Status": "Renewed"
       },
       {
@@ -114,7 +114,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "April 16, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "43–45 min.",
+        "Runtime": "43–45 min",
         "Status": "Renewed"
       },
       {
@@ -122,15 +122,15 @@
         "Genre": "Buddy cop action-comedy",
         "Premiere": "July 21, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "45–47 min.",
-        "Status": "Pending"
+        "Runtime": "45–47 min",
+        "Status": "Ended"
       },
       {
         "Title": "Just Beyond",
         "Genre": "Supernatural comedy anthology",
         "Premiere": "October 13, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "24–32 min.",
+        "Runtime": "24–32 min",
         "Status": "Pending"
       }
     ]
@@ -146,15 +146,15 @@
         "Genre": "Space opera",
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 16 episodes",
-        "Runtime": "24–74 min.",
+        "Runtime": "24–74 min",
         "Status": "Renewed"
       },
       {
         "Title": "Monsters at Work",
-        "Genre": "Fantasy",
+        "Genre": "Fantasy comedy",
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–28 min.",
+        "Runtime": "22–24 min",
         "Status": "Renewed"
       },
       {
@@ -162,24 +162,16 @@
         "Genre": "Animation comedy",
         "Premiere": "July 28, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "22 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "22 min",
+        "Status": "Pending"
       },
       {
         "Title": "What If...?",
         "Genre": "Superhero anthology",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "33–35 min.",
+        "Runtime": "33–35 min",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Star Wars: Visions",
-        "Genre": "Anime/Space opera anthology",
-        "Premiere": "September 22, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "13–22 min.",
-        "Status": "Pending"
       }
     ]
   },
@@ -195,7 +187,7 @@
         "Genre": "Docuseries",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "22–26 min.",
+        "Runtime": "22–26 min",
         "Status": "Ended"
       },
       {
@@ -203,23 +195,23 @@
         "Genre": "Docuseries",
         "Premiere": "November 12, 2019",
         "Seasons": "6 episodes",
-        "Runtime": "61–68 min.",
+        "Runtime": "61–68 min",
         "Status": "Miniseries"
       },
       {
         "Title": "The World According to Jeff Goldblum",
         "Genre": "Docuseries",
         "Premiere": "November 12, 2019",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "22–30 min.",
-        "Status": "The first five episodes of Season 2 are set to premiere on November 12, 2021"
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "22–30 min",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Pick of the Litter",
         "Genre": "Docuseries",
         "Premiere": "December 20, 2019",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "25–34 min.",
+        "Runtime": "25–34 min",
         "Status": "Ended"
       },
       {
@@ -227,7 +219,7 @@
         "Genre": "Docuseries",
         "Premiere": "May 1, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "29–36 min.",
+        "Runtime": "29–36 min",
         "Status": "Ended"
       },
       {
@@ -235,7 +227,7 @@
         "Genre": "Docuseries",
         "Premiere": "May 15, 2020",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "20–22 min.",
+        "Runtime": "20–22 min",
         "Status": "Ended"
       },
       {
@@ -243,7 +235,7 @@
         "Genre": "Docuseries",
         "Premiere": "June 26, 2020",
         "Seasons": "6 episodes",
-        "Runtime": "28–43 min.",
+        "Runtime": "28–43 min",
         "Status": "Miniseries"
       },
       {
@@ -251,7 +243,15 @@
         "Genre": "Travel show",
         "Premiere": "July 24, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "33–38 min.",
+        "Runtime": "33–38 min",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Becoming",
+        "Genre": "Docuseries",
+        "Premiere": "September 18, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24 min",
         "Status": "Ended"
       },
       {
@@ -259,7 +259,7 @@
         "Genre": "Nature",
         "Premiere": "September 25, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "36–39 min.",
+        "Runtime": "36–39 min",
         "Status": "Ended"
       },
       {
@@ -267,39 +267,39 @@
         "Genre": "Nature",
         "Premiere": "October 16, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "34–40 min.",
-        "Status": "Pending"
+        "Runtime": "34–40 min",
+        "Status": "Ended"
       },
       {
         "Title": "Marvel's 616",
         "Genre": "Docuseries",
         "Premiere": "November 20, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "38–70 min.",
-        "Status": "Pending"
+        "Runtime": "38–70 min",
+        "Status": "Ended"
       },
       {
         "Title": "On Pointe",
         "Genre": "Docuseries",
         "Premiere": "December 18, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "39–52 min.",
+        "Runtime": "39–52 min",
         "Status": "Pending"
       },
       {
         "Title": "Marvel Studios: Assembled",
         "Genre": "Docuseries",
         "Premiere": "March 12, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "58–59 min.",
-        "Status": "New episodes due to premiere on October 20, 2021 &amp; October 27, 2021"
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "58–59 min",
+        "Status": "Pending"
       },
       {
         "Title": "Earth Moods",
         "Genre": "ASMR",
         "Premiere": "April 16, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Status": "Pending"
       },
       {
@@ -307,7 +307,7 @@
         "Genre": "Nature",
         "Premiere": "April 22, 2021",
         "Seasons": "4 episodes",
-        "Runtime": "46–51 min.",
+        "Runtime": "46–51 min",
         "Status": "Miniseries"
       },
       {
@@ -315,7 +315,7 @@
         "Genre": "Docuseries",
         "Premiere": "July 21, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "37–47 min.",
+        "Runtime": "37–47 min",
         "Status": "Pending"
       },
       {
@@ -323,24 +323,32 @@
         "Genre": "Nature",
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "46–52 min.",
+        "Runtime": "46–52 min",
         "Status": "Pending"
       },
       {
         "Title": "Among the Stars",
         "Genre": "Docuseries",
         "Premiere": "October 6, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "40–52 min.",
-        "Status": "Pending"
+        "Seasons": "6 episodes",
+        "Runtime": "40–52 min",
+        "Status": "Miniseries"
       },
       {
         "Title": "The Beatles: Get Back",
         "Genre": "Docuseries",
         "Premiere": "November 25, 2021",
         "Seasons": "3 episodes",
-        "Runtime": "120 min.",
+        "Runtime": "138–173 min",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Welcome to Earth",
+        "Genre": "Nature",
+        "Premiere": "December 8, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "36–44 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -356,7 +364,7 @@
         "Genre": "Reality show",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "56–58 min.",
+        "Runtime": "56–58 min",
         "Status": "Ended"
       },
       {
@@ -364,7 +372,7 @@
         "Genre": "Reality competition",
         "Premiere": "February 28, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–44 min.",
+        "Runtime": "42–44 min",
         "Status": "Ended"
       },
       {
@@ -372,7 +380,7 @@
         "Genre": "Cooking reality competition",
         "Premiere": "March 27, 2020",
         "Seasons": "1 season, 11 episodes",
-        "Runtime": "22 min.",
+        "Runtime": "22 min",
         "Status": "Ended"
       },
       {
@@ -380,7 +388,15 @@
         "Genre": "Game show",
         "Premiere": "May 22, 2020",
         "Seasons": "1 season, 30 episodes",
-        "Runtime": "21–25 min.",
+        "Runtime": "21–25 min",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Foodtastic",
+        "Genre": "Cooking competition",
+        "Premiere": "December 15, 2021",
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -397,7 +413,7 @@
         "Genre": "Variety/puppetry",
         "Premiere": "July 31, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "22–24 min.",
+        "Runtime": "22–24 min",
         "Status": "Ended"
       },
       {
@@ -405,7 +421,7 @@
         "Genre": "Talk show/puppetry",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Status": "Pending"
       },
       {
@@ -413,7 +429,7 @@
         "Genre": "Talk show",
         "Premiere": "July 28, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "26–27 min.",
+        "Runtime": "26–27 min",
         "Status": "Pending"
       }
     ]
@@ -429,7 +445,7 @@
         "Genre": "DIY",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 40 episodes",
-        "Runtime": "5–8 min.",
+        "Runtime": "5–8 min",
         "Status": "Ended"
       },
       {
@@ -437,7 +453,7 @@
         "Genre": "Animation",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 10 episodes&#91;a&#93;",
-        "Runtime": "3–4 min.",
+        "Runtime": "3–4 min",
         "Status": "Ended"
       },
       {
@@ -445,7 +461,7 @@
         "Genre": "Hidden camera reality",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 11 episodes",
-        "Runtime": "4–6 min.",
+        "Runtime": "4–6 min",
         "Status": "Ended"
       },
       {
@@ -453,7 +469,7 @@
         "Genre": "Animation anthology",
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 10 episodes&#91;a&#93;",
-        "Runtime": "7–12 min.",
+        "Runtime": "7–12 min",
         "Status": "Pending"
       },
       {
@@ -461,31 +477,31 @@
         "Genre": "Docuseries",
         "Premiere": "December 6, 2019",
         "Seasons": "1 season, 51 episodes",
-        "Runtime": "5–7 min.",
-        "Status": "Pending"
+        "Runtime": "5–7 min",
+        "Status": "Ended"
       },
       {
         "Title": "Short Circuit",
         "Genre": "Animation anthology",
         "Premiere": "January 24, 2020",
         "Seasons": "2 seasons, 19 episodes",
-        "Runtime": "5–7 min.",
+        "Runtime": "5–7 min",
         "Status": "Pending"
       },
       {
         "Title": "Disney Insider",
         "Genre": "Docuseries",
         "Premiere": "March 20, 2020",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "16–17 min.",
-        "Status": "New episodes due to premiere on October 20, 2021 &amp; October 27, 2021"
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "16–22 min",
+        "Status": "Pending"
       },
       {
         "Title": "Zenimation",
         "Genre": "Animation/ASMR",
         "Premiere": "May 22, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "5–49 min.&#91;b&#93;",
+        "Runtime": "5–49 min&#91;b&#93;",
         "Status": "Pending"
       },
       {
@@ -493,7 +509,7 @@
         "Genre": "Docuseries",
         "Premiere": "November 13, 2020",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "9–11 min.",
+        "Runtime": "9–11 min",
         "Status": "Pending"
       },
       {
@@ -501,23 +517,23 @@
         "Genre": "Animation",
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "8 min.",
-        "Status": "Pending"
+        "Runtime": "8 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "7–8 min.",
+        "Seasons": "1 season, 14 episodes",
+        "Runtime": "7–8 min",
         "Status": "Pending"
       },
       {
         "Title": "Pixar Popcorn",
         "Genre": "Animation",
         "Premiere": "January 22, 2021",
-        "Seasons": "1 season, 11 episodes",
-        "Runtime": "2–22 min.&#91;b&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "2–22 min&#91;b&#93;",
         "Status": "Pending"
       },
       {
@@ -525,7 +541,7 @@
         "Genre": "Anthology series",
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 2 episodes",
-        "Runtime": "3–4 min.",
+        "Runtime": "3–4 min",
         "Status": "Pending"
       },
       {
@@ -533,7 +549,7 @@
         "Genre": "Anthology series",
         "Premiere": "May 28, 2021",
         "Seasons": "1 season, 6 episodes&#91;a&#93;",
-        "Runtime": "14–21 min.",
+        "Runtime": "14–21 min",
         "Status": "Renewed"
       },
       {
@@ -541,7 +557,7 @@
         "Genre": "Animated short",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "1–5 min.&#91;b&#93;",
+        "Runtime": "1–5 min&#91;b&#93;",
         "Status": "Pending"
       },
       {
@@ -549,23 +565,31 @@
         "Genre": "Animated comedy",
         "Premiere": "September 1, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "8–11 min.",
+        "Runtime": "8–11 min",
         "Status": "Pending"
       },
       {
-        "Title": "Star Wars Galaxy of Sounds",
+        "Title": "Star Wars: Visions",
+        "Genre": "Anime/Space opera/anthology",
+        "Premiere": "September 22, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "13–22 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Star Wars: Galaxy of Sounds",
         "Genre": "Anthology series",
         "Premiere": "September 29, 2021",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "7–8 min.",
+        "Runtime": "7–8 min",
         "Status": "Pending"
       },
       {
         "Title": "Olaf Presents",
         "Genre": "Animated comedy",
         "Premiere": "November 12, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "1.5 min&#91;b&#93;",
         "Status": "Pending"
       }
     ]
@@ -582,7 +606,7 @@
         "Premiere": "February 14, 2020",
         "Prev. network(s)": "Freeform",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "63 min.",
+        "Runtime": "63 min",
         "Status": "Ended"
       },
       {
@@ -591,7 +615,7 @@
         "Premiere": "February 21, 2020",
         "Prev. network(s)": "Cartoon Network &amp; Netflix",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "24 min",
         "Status": "Ended"
       },
       {
@@ -600,16 +624,7 @@
         "Premiere": "August 14, 2020",
         "Prev. network(s)": "National Geographic",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "22 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Becoming (season 2)",
-        "Genre": "Docuseries",
-        "Premiere": "September 18, 2020",
-        "Prev. network(s)": "Disney XD",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "22 min",
         "Status": "Ended"
       }
     ]
@@ -625,25 +640,25 @@
         "Title": "High School Musical: The Musical: The Series: The Special",
         "Genre": "Musical/Making-of",
         "Premiere": "December 14, 2019",
-        "Runtime": "23 min."
+        "Runtime": "23 min"
       },
       {
         "Title": "The Real Right Stuff",
         "Genre": "Documentary",
         "Premiere": "November 20, 2020",
-        "Runtime": "1 hour, 30 min."
+        "Runtime": "1 h 30 min"
       },
       {
         "Title": "High School Musical: The Musical: The Holiday Special",
         "Genre": "Musical",
         "Premiere": "December 11, 2020",
-        "Runtime": "45 min."
+        "Runtime": "45 min"
       },
       {
         "Title": "A Spark Story",
         "Genre": "Documentary",
         "Premiere": "September 24, 2021",
-        "Runtime": "1 hour, 27 min."
+        "Runtime": "1 h 27 min"
       }
     ]
   },
@@ -659,7 +674,7 @@
         "Genre": "Docuseries",
         "Premiere": "May 4, 2020",
         "Seasons": "2 seasons, 10 episodes",
-        "Runtime": "29–69 min.",
+        "Runtime": "29–69 min",
         "Status": "Pending"
       }
     ]
@@ -671,73 +686,83 @@
     ],
     "data": [
       {
-        "Title": "I Cavalieri di Castelcorvo",
+        "Title": "The Knights of Castelcorvo",
         "Genre": "Fantasy comedy-drama",
         "Premiere": "November 6, 2020",
-        "Seasons": "1 season, 15 episodes",
-        "Runtime": "25 min.",
+        "Seasons": "15 episodes",
+        "Runtime": "22–25 min",
         "Language": "Italian",
-        "Exclusive region": "Selected countries",
-        "Status": "Pending"
+        "Exclusive region": "Selected territories",
+        "Status": "Ended"
       },
       {
-        "Title": "Sobrevolando",
+        "Title": "Latin America from Above",
         "Genre": "Docuseries",
         "Premiere": "November 17, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "27 min.",
+        "Runtime": "27 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "El Ristorantino de Arnoldo",
+        "Title": "Arnoldo's Ristorantino",
         "Genre": "Musical/Children's series",
         "Premiere": "January 29, 2021",
         "Seasons": "1 season, 18 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "24 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
       {
-        "Title": "Conecta y Canta",
+        "Title": "Sync Us a Song",
         "Genre": "Reality show",
         "Premiere": "February 12, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "38–54 min.",
+        "Runtime": "38–54 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America, except Brazil",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Chaparreando",
         "Genre": "Reality show",
         "Premiere": "May 21, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "26–28 min.",
+        "Seasons": "6 episodes",
+        "Runtime": "26–28 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America, except Brazil",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Opa Popa Dupa (season 2)",
         "Genre": "Variety/puppetry",
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "22 min.",
+        "Runtime": "22 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
       {
-        "Title": "Entrelazados",
+        "Title": "Intertwined",
         "Genre": "Musical/Fantasy comedy-drama",
         "Premiere": "November 12, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "41–53 min",
         "Language": "Spanish",
-        "Exclusive region": "Selected countries",
+        "Exclusive region": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Week-end Family",
+        "Genre": "Comedy",
+        "Premiere": "February 23, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Language": "French",
+        "Exclusive region": "Selected territories",
         "Status": "Pending"
       }
     ]
@@ -753,7 +778,7 @@
         "Genre": "Superhero coming-of-age teen drama",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
-        "Premiere": "2022",
+        "Premiere": "Summer 2022",
         "Status": "Post-production"
       },
       {
@@ -761,32 +786,24 @@
         "Genre": "Space opera",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "TBA",
-        "Premiere": "2022",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Obi-Wan Kenobi",
-        "Genre": "Space opera",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "60 min.",
-        "Premiere": "2022",
+        "Premiere": "Mid 2022",
         "Status": "Post-production"
       },
       {
         "Title": "Moon Knight",
         "Genre": "Superhero action",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "40–50 min.",
+        "Runtime": "40–50 min",
         "Premiere": "2022",
         "Status": "Post-production"
       },
       {
-        "Title": "Willow",
-        "Genre": "Fantasy adventure",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Title": "Obi-Wan Kenobi",
+        "Genre": "Space opera",
+        "Seasons": "6 episodes",
+        "Runtime": "60 min",
         "Premiere": "2022",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "Secret Invasion",
@@ -797,12 +814,12 @@
         "Status": "Filming"
       },
       {
-        "Title": "National Treasure",
-        "Genre": "Action-adventure",
-        "Seasons": "1 season, 10 episodes",
+        "Title": "Willow",
+        "Genre": "Fantasy adventure",
+        "Seasons": "TBA",
         "Runtime": "TBA",
-        "Premiere": "TBA",
-        "Status": "Pre-production"
+        "Premiere": "2022",
+        "Status": "Filming"
       },
       {
         "Title": "Ahsoka",
@@ -813,9 +830,9 @@
         "Status": "Pre-production"
       },
       {
-        "Title": "Ironheart",
-        "Genre": "Superhero action",
-        "Seasons": "1 season, 6 episodes",
+        "Title": "The Acolyte",
+        "Genre": "Space opera/Mystery-thriller",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Premiere": "TBA",
         "Status": "Pre-production"
@@ -826,11 +843,43 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Premiere": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Ironheart",
+        "Genre": "Superhero action",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "National Treasure",
+        "Genre": "Action-adventure",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Nautilus",
+        "Genre": "Adventure",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Agatha: House of Harkness",
+        "Genre": "Superhero action",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "The Acolyte",
-        "Genre": "Space opera/Mystery-thriller",
+        "Title": "Echo",
+        "Genre": "Superhero action",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Premiere": "TBA",
@@ -845,24 +894,24 @@
         "Status": "Series order"
       },
       {
-        "Title": "Nautilus",
-        "Genre": "Adventure",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Premiere": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "The Ballad of Renegade Nell",
         "Genre": "Adventure drama",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "45 min.",
+        "Runtime": "45 min",
         "Premiere": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "The Crossover",
         "Genre": "Sports drama",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled Wakanda series",
+        "Genre": "Superhero action",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Premiere": "TBA",
@@ -880,9 +929,25 @@
         "Title": "She-Hulk",
         "Genre": "Superhero legal comedy",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Premiere": "2022",
         "Status": "Post-production"
+      },
+      {
+        "Title": "Extraordinary",
+        "Genre": "Superhero comedy",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "American Born Chinese",
+        "Genre": "Action comedy",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Pre-production"
       },
       {
         "Title": "Little Town",
@@ -891,14 +956,6 @@
         "Runtime": "TBA",
         "Premiere": "TBA",
         "Status": "Pre-production"
-      },
-      {
-        "Title": "American Born Chinese",
-        "Genre": "Action comedy",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Premiere": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -909,19 +966,27 @@
     ],
     "data": [
       {
+        "Title": "The Proud Family: Louder and Prouder",
+        "Genre": "Animated comedy",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "February 2022",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Baymax!",
         "Genre": "Comedy",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Premiere": "Early 2022",
+        "Premiere": "Summer 2022",
         "Status": "In production"
       },
       {
-        "Title": "Untitled Cars series",
+        "Title": "Cars on the Road",
         "Genre": "Comedy",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Premiere": "Late 2022",
+        "Premiere": "2022",
         "Status": "In production"
       },
       {
@@ -933,19 +998,35 @@
         "Status": "In production"
       },
       {
-        "Title": "Win or Lose",
-        "Genre": "Comedy",
-        "Seasons": "TBA",
-        "Runtime": "20 min.",
-        "Premiere": "Late 2023",
-        "Status": "In production"
-      },
-      {
         "Title": "Tiana",
         "Genre": "Musical",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Premiere": "2022",
+        "Premiere": "Summer 2023",
+        "Status": "In production"
+      },
+      {
+        "Title": "Win or Lose",
+        "Genre": "Comedy",
+        "Seasons": "TBA",
+        "Runtime": "20 min",
+        "Premiere": "Fall 2023",
+        "Status": "In production"
+      },
+      {
+        "Title": "Kiya And The Kimoja Heroes",
+        "Genre": "Animated comedy",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "2023",
+        "Status": "In production"
+      },
+      {
+        "Title": "X-Men '97",
+        "Genre": "Superhero drama",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "2023",
         "Status": "In production"
       },
       {
@@ -957,10 +1038,26 @@
         "Status": "In production"
       },
       {
-        "Title": "Untitled Marvel Studios series",
-        "Genre": "Superhero drama",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
+        "Title": "Marvel Zombies",
+        "Genre": "Superhero horror",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Rhona Who Lives by the River",
+        "Genre": "Musical",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Spider-Man: Freshman Year",
+        "Genre": "Superhero coming-of-age",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Premiere": "TBA",
         "Status": "Series order"
       }
@@ -974,27 +1071,11 @@
     ],
     "data": [
       {
-        "Title": "Welcome to Earth",
-        "Genre": "Docuseries",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Premiere": "December 2021",
-        "Status": "Post-production"
-      },
-      {
         "Title": "America the Beautiful",
         "Genre": "Docuseries",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Premiere": "2021",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "A Real Bug's Life",
-        "Genre": "Docuseries",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Premiere": "2021",
+        "Premiere": "2022",
         "Status": "Post-production"
       },
       {
@@ -1002,13 +1083,13 @@
         "Genre": "Docuseries",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
-        "Premiere": "2021",
+        "Premiere": "2022",
         "Status": "Post-production"
       },
       {
         "Title": "Choir",
         "Genre": "Docuseries",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Premiere": "TBA",
         "Status": "Filming"
@@ -1024,10 +1105,18 @@
       {
         "Title": "Supernatural Earth",
         "Genre": "Docuseries",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Premiere": "TBA",
         "Status": "Filming"
+      },
+      {
+        "Title": "A Real Bug's Life",
+        "Genre": "Docuseries",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Series order"
       },
       {
         "Title": "Earthkeepers",
@@ -1054,6 +1143,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Parenting Without Borders",
+        "Genre": "Travel show",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Premiere": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "People &amp; Places",
         "Genre": "Docuseries",
         "Seasons": "TBA",
@@ -1068,14 +1165,6 @@
         "Runtime": "TBA",
         "Premiere": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Parenting Without Borders",
-        "Genre": "Travel show",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Premiere": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -1086,14 +1175,6 @@
       "Reality"
     ],
     "data": [
-      {
-        "Title": "Foodtastic",
-        "Genre": "Cooking competition",
-        "Seasons": "1 season, 11 episodes",
-        "Runtime": "TBA",
-        "Premiere": "2021",
-        "Status": "Filming"
-      },
       {
         "Title": "Family Reboot - fka (Re)Connect",
         "Genre": "Reality",
@@ -1114,7 +1195,7 @@
         "Title": "Save Our Squad",
         "Genre": "Soccer mentorship",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "35 min.",
+        "Runtime": "35 min",
         "Premiere": "TBA",
         "Status": "Series order"
       }
@@ -1131,14 +1212,14 @@
         "Genre": "Animated comedy",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Premiere": "Early 2022",
+        "Premiere": "2022",
         "Status": "In production"
       },
       {
         "Title": "Kizazi Moto: Generation Fire",
         "Genre": "Science fiction anthology",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "10 min.",
+        "Runtime": "10 min",
         "Premiere": "Late 2022",
         "Status": "In production"
       },
@@ -1158,15 +1239,6 @@
       "Continuations"
     ],
     "data": [
-      {
-        "Title": "The Proud Family: Louder and Prouder (season 3)",
-        "Genre": "Animated comedy",
-        "Prev. network(s)": "Disney Channel",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Premiere": "2022",
-        "Status": "In production"
-      },
       {
         "Title": "The Quest (season 2)",
         "Genre": "Reality/Gameshow",
@@ -1196,19 +1268,9 @@
       {
         "Title": "Siempre fui yo",
         "Genre": "Drama/Mystery/Musical",
-        "Premiere": "Late 2021",
+        "Premiere": "Early 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "40 min.",
-        "Language": "Spanish",
-        "Exclusive region": "Latin America",
-        "Status": "Pending"
-      },
-      {
-        "Title": "El Repatriado",
-        "Genre": "Drama",
-        "Premiere": "Late 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "45 min.",
+        "Runtime": "40 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1218,7 +1280,27 @@
         "Genre": "Comedy-drama/Musical",
         "Premiere": "Early 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "24 min.",
+        "Runtime": "24 min",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
+      },
+      {
+        "Title": "El Repatriado",
+        "Genre": "Drama",
+        "Premiere": "2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45 min",
+        "Language": "Spanish",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Champeta, el ritmo de la Tierra",
+        "Genre": "Comedy-drama/Musical/Fantasy",
+        "Premiere": "2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1228,7 +1310,7 @@
         "Genre": "Comedy-drama/Musical",
         "Premiere": "2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1238,7 +1320,7 @@
         "Genre": "Mystery/Horror",
         "Premiere": "2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1248,8 +1330,18 @@
         "Genre": "Drama/Mystery/Musical",
         "Premiere": "2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "40 min.",
+        "Runtime": "40 min",
         "Language": "Spanish",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mila no Multiverso",
+        "Genre": "Science-fiction/Mystery/Comedy-drama",
+        "Premiere": "2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Language": "Portuguese",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
@@ -1258,7 +1350,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Language": "Portuguese",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1268,7 +1360,7 @@
         "Genre": "Drama/Musical",
         "Premiere": "2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "45 min.",
+        "Runtime": "45 min",
         "Language": "Portuguese",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1278,20 +1370,20 @@
         "Genre": "Science-fiction/Mystery/Fantasy",
         "Premiere": "2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "40 min.",
+        "Runtime": "40 min",
         "Language": "French",
-        "Exclusive region": "Selected countries",
-        "Status": "Filming"
+        "Exclusive region": "Selected territories",
+        "Status": "Post-Production"
       },
       {
-        "Title": "Week-end Family",
-        "Genre": "Comedy",
+        "Title": "Art Attack: Modo Desafio",
+        "Genre": "DIY",
         "Premiere": "2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Language": "French",
-        "Exclusive region": "Selected countries",
-        "Status": "Pre-production"
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "22 min",
+        "Language": "Spanish/Portuguese",
+        "Exclusive region": "Latin America",
+        "Status": "Pending"
       },
       {
         "Title": "Farm Experiment",
@@ -1304,31 +1396,21 @@
         "Status": "Pending"
       },
       {
-        "Title": "Our Police Class",
-        "Genre": "Police procedural",
+        "Title": "Balenciaga",
+        "Genre": "Drama",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Korean",
-        "Exclusive region": "Korea",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Running Man: Playing More Than Running",
-        "Genre": "Variety show",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Korean",
-        "Exclusive region": "Korea",
-        "Status": "Pre-production"
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "50 min.",
+        "Language": "Spanish",
+        "Exclusive region": "Europe",
+        "Status": "Pending"
       },
       {
         "Title": "Viaje al centro de la Tierra",
         "Genre": "Adventure drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
@@ -1374,24 +1456,24 @@
         "Status": "Pending"
       },
       {
-        "Title": "Untitled Turkish series",
-        "Genre": "TBA",
+        "Title": "Twisted-Wonderland",
+        "Genre": "Anime",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Language": "Turkish",
-        "Exclusive region": "Turkey",
-        "Status": "Pending"
+        "Language": "Japanese",
+        "Exclusive region": "Selected territories",
+        "Status": "Series order"
       },
       {
         "Title": "Kaçış",
         "Genre": "TBA",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Language": "Turkish",
         "Exclusive region": "Turkey",
-        "Status": "Pending"
+        "Status": "Filming"
       }
     ]
   },
@@ -1434,16 +1516,16 @@
         "Genre": "Fantasy"
       },
       {
-        "Title": "Rangers of the New Republic",
-        "Genre": "Space opera"
-      },
-      {
         "Title": "Sal &amp; Gabi Break the Universe",
         "Genre": "Science fiction"
       },
       {
         "Title": "Secret Guide to Celestial Creatures",
         "Genre": "Action-adventure drama"
+      },
+      {
+        "Title": "Swiss Family Robinson",
+        "Genre": "Survival adventure"
       },
       {
         "Title": "The Secret History of the Pink Carnation",
@@ -1454,24 +1536,12 @@
         "Genre": "Fantasy"
       },
       {
-        "Title": "Swiss Family Robinson",
-        "Genre": "Survival adventure"
+        "Title": "The Spiderwick Chronicles",
+        "Genre": "Fantasy"
       },
       {
-        "Title": "Untitled Agatha Harkness series",
-        "Genre": "Superhero fantasy"
-      },
-      {
-        "Title": "Untitled Echo series",
-        "Genre": "Superhero action drama"
-      },
-      {
-        "Title": "Untitled Marvel Studios animated series",
-        "Genre": "Animated superhero action drama"
-      },
-      {
-        "Title": "Untitled Marvel Studios animated series",
-        "Genre": "Animated superhero action drama"
+        "Title": "Untitled Destin Daniel Cretton-developed Marvel Studios series",
+        "Genre": "Superhero"
       },
       {
         "Title": "Untitled Oswald the Lucky Rabbit series",
@@ -1482,12 +1552,12 @@
         "Genre": "Action-adventure comedy"
       },
       {
-        "Title": "Untitled The Sandlot series",
-        "Genre": "Sports comedy"
+        "Title": "Untitled Star Wars animated series",
+        "Genre": "Animated space opera"
       },
       {
-        "Title": "Untitled Wakanda series",
-        "Genre": "Superhero drama"
+        "Title": "Untitled The Sandlot series",
+        "Genre": "Sports comedy"
       }
     ]
   }
