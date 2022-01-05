@@ -206,7 +206,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Reacher",
@@ -473,7 +473,7 @@
       {
         "Title": "The Legend of Vox Machina",
         "Genre": "Fantasy/Action comedy",
-        "Premiere": "February 4, 2022",
+        "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
         "Status": "Renewed"
       }
@@ -633,7 +633,7 @@
         "Genre": "Animation",
         "Premiere": "September 17, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Episodes due to premiere on January 28, 2021"
       }
     ]
   },
@@ -749,7 +749,7 @@
         "Genre": "Crime thriller",
         "Premiere": "November 16, 2018",
         "Seasons/episodes": "2 seasons, 19 episodes",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Four More Shots Please!",
@@ -1273,7 +1273,7 @@
         "Title": "The Grand Tour",
         "Genre": "Motoring",
         "Premiere": "November 18, 2016",
-        "Seasons/episodes": "4 seasons, 41 episodes",
+        "Seasons/episodes": "4 seasons, 42 episodes",
         "Language": "English",
         "Status": "Season 4 ongoing"
       },
@@ -1554,7 +1554,7 @@
         "Genre": "Sports documentary",
         "Premiere": "September 25, 2020",
         "Seasons/episodes": "2 seasons, 9 episodes",
-        "Language": "English",
+        "Language": "Spanish/English",
         "Status": "Pending"
       },
       {
@@ -1644,6 +1644,14 @@
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "Sainz: Live to Compete",
+        "Genre": "Sports documentary",
+        "Premiere": "December 2, 2021",
+        "Seasons/episodes": "1 season, 5 episodes",
+        "Language": "Spanish/English",
+        "Status": "Pending"
       },
       {
         "Title": "The Ferragnez",
@@ -1738,9 +1746,9 @@
         "Title": "LOL: Last One Laughing",
         "Genre": "Comedy competition",
         "Premiere": "December 14, 2018",
-        "Seasons/episodes": "3 seasons, 14 episodes",
+        "Seasons/episodes": "3 seasons, 18 episodes",
         "Language": "Spanish",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Skulls and Roses",
@@ -1914,7 +1922,7 @@
         "Title": "Celebrity Bake Off España",
         "Genre": "Baking competition",
         "Premiere": "December 16, 2021",
-        "Seasons/episodes": "TBA",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Language": "Spanish",
         "Status": "Pending"
       }
@@ -2097,7 +2105,7 @@
         "Partner": "PBS Kids",
         "Genre": "Animation",
         "Premiere": "December 6, 2019",
-        "Seasons/episodes": "1 seasons, 36 episodes",
+        "Seasons/episodes": "1 season, 39 episodes",
         "Language": "English",
         "Status": "Pending"
       },
@@ -2806,10 +2814,10 @@
         "Language": "Marathi"
       },
       {
-        "Title": "Oh My Dog",
+        "Title": "Gehraiyaan",
         "Genre(s)": "Drama",
-        "Premiere": "December 2021",
-        "Language": "Tamil"
+        "Premiere": "February 11, 2022",
+        "Language": "Hindi"
       }
     ]
   },
@@ -2925,6 +2933,11 @@
       {
         "Title": "Savage X Fenty Show Vol. 3",
         "Premiere": "September 24, 2021",
+        "Language": "English"
+      },
+      {
+        "Title": "Yearly Departed 2021",
+        "Premiere": "December 23, 2021",
         "Language": "English"
       }
     ]
@@ -3467,6 +3480,10 @@
       {
         "Title": "Atlas",
         "Genre": "Drama"
+      },
+      {
+        "Title": "The Atlas Six",
+        "Genre": "Fantasy"
       },
       {
         "Title": "Black America",

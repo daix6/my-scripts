@@ -34,8 +34,8 @@
         "Genre": "Post-apocalyptic drama",
         "Premiere": "December 16, 2021",
         "Seasons": "10 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "45–49 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Peacemaker",
@@ -99,7 +99,7 @@
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "21–27 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Sex Lives of College Girls",
@@ -114,7 +114,7 @@
         "Genre": "Romantic comedy",
         "Premiere": "December 9, 2021",
         "Seasons": "10 episodes",
-        "Runtime": "42–44 min.",
+        "Runtime": "42–45 min.",
         "Status": "Miniseries ongoing"
       }
     ]
@@ -155,7 +155,7 @@
         "Genre": "Black comedy",
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "23-26 min.",
+        "Runtime": "23–26 min.",
         "Status": "Pending"
       }
     ]
@@ -250,11 +250,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "A Forbidden Orange",
-        "Genre": "Drama",
-        "Premiere": "December 17, 2021",
+        "Title": "Búnker",
+        "Genre": "Action comedy",
+        "Premiere": "January 27, 2022",
         "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Runtime": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -349,7 +349,7 @@
         "Premiere": "June 25, 2020",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "45–56 min.",
-        "Status": "Renewed&#91;39&#93;&#91;f&#93;"
+        "Status": "Renewed&#91;36&#93;&#91;f&#93;"
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -419,9 +419,9 @@
         "Genre": "Animated science fantasy",
         "Prev. network(s)": "Rooster Teeth",
         "Premiere": "November 4, 2021",
-        "Seasons": "1 season, TBA episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "25–27 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "South Side (season 2)",
@@ -437,7 +437,7 @@
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
         "Premiere": "December 23, 2021",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Pending"
       }
@@ -496,6 +496,12 @@
         "Genre": "Animation",
         "Premiere": "August 5, 2021",
         "Runtime": "30 min."
+      },
+      {
+        "Title": "See Us Coming Together: A Sesame Street Special",
+        "Genre": "Family comedy",
+        "Premiere": "November 25, 2021",
+        "Runtime": "24 min."
       }
     ]
   }

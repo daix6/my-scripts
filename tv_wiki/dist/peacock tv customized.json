@@ -52,6 +52,14 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "24–30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Bel-Air",
+        "Genre": "Drama",
+        "Premiere": "February 13, 2022",
+        "Seasons": "TBA",
+        "Length": "60 min.",
+        "Status": "Renewed"
       }
     ]
   },
@@ -95,7 +103,7 @@
       },
       {
         "Title": "MacGruber",
-        "Genre": "Comedy",
+        "Genre": "Action comedy",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
@@ -116,7 +124,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on January 13, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -132,9 +140,9 @@
         "Partner/Country": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "4 seasons, 32 episodes",
+        "Seasons": "5 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on December 9, 2021."
+        "Status": "Pending"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -162,6 +170,15 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "22 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Wolf Like Me",
+        "Partner/Country": "Stan/Australia",
+        "Genre": "Dark romantic comedy",
+        "Premiere": "January 13, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "30 min.",
+        "Status": "Series order"
       }
     ]
   },
@@ -172,7 +189,7 @@
     ],
     "data": [
       {
-        "Title": "Curious George (season 13–14)",
+        "Title": "Curious George (seasons 13–14)",
         "Genre": "Family animation",
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
@@ -214,7 +231,7 @@
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 15 episodes",
         "Length": "42–45 min.",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -225,10 +242,17 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;a&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;b&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Snoop and Martha's Very Tasty Halloween",
+        "Genre": "Reality competition",
+        "Premiere": "October 21, 2021",
+        "Length": "52 min.",
         "Language": "English"
       },
       {
@@ -239,10 +263,24 @@
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;a&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;b&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "The Real Housewives of the North Pole",
+        "Genre": "Reality",
+        "Premiere": "December 9, 2021",
+        "Length": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
+        "Genre": "Comedy",
+        "Premiere": "December 28, 2021",
+        "Length": "75 min.",
         "Language": "English"
       }
     ]

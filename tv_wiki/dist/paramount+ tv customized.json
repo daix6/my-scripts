@@ -17,7 +17,7 @@
         "Title": "Star Trek: Discovery",
         "Genre": "Science fiction",
         "Premiere": "September 24, 2017",
-        "Seasons": "4 seasons, 46 episodes",
+        "Seasons": "4 seasons, 49 episodes",
         "Runtime": "37–65 min.",
         "Status": "Season 4 ongoing"
       },
@@ -105,9 +105,9 @@
         "Title": "1883",
         "Genre": "Neo-Western drama",
         "Premiere": "December 19, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "44–67 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -131,7 +131,7 @@
         "Premiere": "August 15, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "45–56 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "iCarly",
@@ -260,6 +260,15 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–48 min.",
         "Status": "Season 5 ongoing"
+      },
+      {
+        "Title": "Next Influencer (season 3)",
+        "Genre": "Reality",
+        "Prev. network(s)": "AwesomenessTV (seasons 1–2)",
+        "Premiere": "January 13, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -294,8 +303,26 @@
         "Title": "Reno 911! The Hunt for QAnon",
         "Genre": "Comedy",
         "Premiere": "December 23, 2021",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 25 min.",
         "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "Los Enviados",
+        "Genre": "Action thriller",
+        "Premiere": "December 12, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "55 min.",
+        "Exclusive region(s)": "Brazil",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -304,8 +331,7 @@
       "Regional original programming",
       "Comedy"
     ],
-    "data": [
-    ]
+    "data": []
   },
   {
     "category": [
@@ -318,10 +344,10 @@
         "Genre": "Reality",
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "60 min.",
+        "Runtime": "50–52 min.",
         "Exclusive region(s)": "Latin America",
         "Language": "Portuguese",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -343,5 +369,12 @@
         "Status": "Renewed"
       }
     ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Specials"
+    ],
+    "data": []
   }
 ]

@@ -116,6 +116,18 @@
         "Source": ""
       },
       {
+        "Title": "The Flintstones",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "6 seasons, 166 episodes",
+        "Show creator(s)": "William Hanna",
+        "Original release": "September 30, 1960 – April 1, 1966",
+        "Network": "ABC",
+        "Studio": "Hanna-Barbera",
+        "Age rating": "TV-G",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
         "Title": "Where's Huddles?",
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -674,7 +686,7 @@
         "Original release": "January 12, 2001 – April 13, 2001",
         "Network": "UPN",
         "Studio": "Bahr-Small Productions",
-        "Age rating": "TV-PG",
+        "Age rating": "TV-14",
         "Technique": "Stop-motion",
         "Source": ""
       },
@@ -1055,7 +1067,7 @@
         "Genre": "Black comedy",
         "Seasons/episodes": "12 seasons, 123 episodes",
         "Show creator(s)": "Jim Fortier",
-        "Original release": "October 16, 2005 – present",
+        "Original release": "October 16, 2005 – December 13, 2021",
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-14",
@@ -1787,7 +1799,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "4 seasons, 36 episodes",
         "Show creator(s)": "Bill Burr",
-        "Original release": "December 18, 2015 – present",
+        "Original release": "December 18, 2015 – November 25, 2021",
         "Network": "Netflix",
         "Studio": "Wild West Television",
         "Age rating": "TV-MA",
@@ -2027,7 +2039,7 @@
         "Genre": "Space opera",
         "Seasons/episodes": "3 seasons, 36 episodes",
         "Show creator(s)": "Olan Rogers",
-        "Original release": "February 26, 2018 – present",
+        "Original release": "February 26, 2018 – June 14, 2021",
         "Network": "TBS (Season 1)",
         "Studio": "Conaco",
         "Age rating": "TV-14",
@@ -2788,6 +2800,18 @@
         "Studio": "Lionsgate Television",
         "Age rating": "TV-MA",
         "Technique": "Stop-Motion",
+        "Source": ""
+      },
+      {
+        "Title": "Saturday Morning All Star Hits!",
+        "Genre": "Live-action animated",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Ben Jones",
+        "Original release": "December 10, 2021 – present",
+        "Network": "Netflix",
+        "Studio": "Georgia Entertainment Industries",
+        "Age rating": "TV-14",
+        "Technique": "Flash/Live-Action",
         "Source": ""
       }
     ]
@@ -3584,10 +3608,10 @@
     "data": [
       {
         "Title": "Tear Along the Dotted Line",
-        "Genre": "Comedy",
+        "Genre": "Comedy-drama",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Zerocalcare",
-        "Original release": "November 17, 2021 – present",
+        "Original release": "November 17, 2021",
         "Network": "Netflix",
         "Studio": "Movements Production",
         "Technique": "TV-MA",
@@ -3610,7 +3634,7 @@
         "Original channel": "HBO Max",
         "Studio": "Sony Pictures Animation",
         "Age rating": "",
-        "Technique": "",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -3622,7 +3646,7 @@
         "Original channel": "Amazon Prime Video",
         "Studio": "Sony Pictures Television",
         "Age rating": "",
-        "Technique": "",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -3645,7 +3669,7 @@
         "Release date": "January 14, 2022",
         "Original channel": "Netflix",
         "Studio": "Netflix Animation",
-        "Age rating": "",
+        "Age rating": "TV-MA",
         "Technique": "Stop-Motion",
         "Source": ""
       },

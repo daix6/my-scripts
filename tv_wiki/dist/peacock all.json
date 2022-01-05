@@ -52,6 +52,14 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "24–30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Bel-Air",
+        "Genre": "Drama",
+        "Premiere": "February 13, 2022",
+        "Seasons": "TBA",
+        "Length": "60 min.",
+        "Status": "Renewed"
       }
     ]
   },
@@ -95,7 +103,7 @@
       },
       {
         "Title": "MacGruber",
-        "Genre": "Comedy",
+        "Genre": "Action comedy",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
@@ -140,7 +148,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 72 episodes",
         "Length": "2 min.",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Supernatural Academy",
@@ -254,6 +262,22 @@
         "Seasons": "1 season, 13 episodes",
         "Length": "31–43 min.",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Joe Montana: Cool Under Pressure",
+        "Genre": "Sports",
+        "Premiere": "January 6, 2022",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "True Story with Ed and Randall&#91;a&#93;",
+        "Genre": "Docu-comedy",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -318,15 +342,15 @@
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–52 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Real Housewives Ultimate Girls Trip",
         "Genre": "Reality",
         "Premiere": "November 15, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 7 episodes",
         "Length": "21–49 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Baking It",
@@ -416,7 +440,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on January 13, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -432,9 +456,9 @@
         "Partner/Country": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "4 seasons, 32 episodes",
+        "Seasons": "5 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on December 9, 2021."
+        "Status": "Pending"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -462,6 +486,15 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "22 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Wolf Like Me",
+        "Partner/Country": "Stan/Australia",
+        "Genre": "Dark romantic comedy",
+        "Premiere": "January 13, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "30 min.",
+        "Status": "Series order"
       }
     ]
   },
@@ -472,7 +505,7 @@
     ],
     "data": [
       {
-        "Title": "Curious George (season 13–14)",
+        "Title": "Curious George (seasons 13–14)",
         "Genre": "Family animation",
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
@@ -514,7 +547,7 @@
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 15 episodes",
         "Length": "42–45 min.",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Home Sweet Home (season 1B)",
@@ -531,8 +564,8 @@
         "Prev. network(s)": "Bravo",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 14 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "41–43 min.",
+        "Status": "Season 4 ongoing"
       }
     ]
   },
@@ -543,7 +576,7 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;a&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;b&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
@@ -564,10 +597,24 @@
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;a&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;b&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "The Real Housewives of the North Pole",
+        "Genre": "Reality",
+        "Premiere": "December 9, 2021",
+        "Length": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
+        "Genre": "Comedy",
+        "Premiere": "December 28, 2021",
+        "Length": "75 min.",
         "Language": "English"
       }
     ]
@@ -581,7 +628,7 @@
       {
         "Title": "The Capture",
         "Genre": "Mystery crime drama",
-        "Partner/Country": "BBC One/United Kingdom",
+        "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "56–60 min.",
@@ -590,16 +637,16 @@
       {
         "Title": "Intelligence",
         "Genre": "Sitcom",
-        "Partner/Country": "Sky One/United Kingdom (season 1–2)",
+        "Partner/Region": "Sky One/United Kingdom (season 1–2)",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "20–22 min.",
         "Status": "Pending"
       },
       {
-        "Title": "Hitmen: Reloaded",
+        "Title": "Hitmen",
         "Genre": "Crime dramedy",
-        "Partner/Country": "Sky One (season 1)Sky Comedy (season 2)/United Kingdom",
+        "Partner/Region": "Sky One/United Kingdom (season 1)Sky Comedy (season 2)",
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min.",
@@ -608,7 +655,7 @@
       {
         "Title": "Five Bedrooms",
         "Genre": "Comedy-drama",
-        "Partner/Country": "Network 10 (season 1)Paramount+ (season 2)/Australia",
+        "Partner/Region": "Network 10 (season 1)Paramount+ (season 2–present)/Australia",
         "Premiere": "April 15, 2020",
         "Seasons": "2 season, 16 episodes",
         "Length": "44–46 min.",
@@ -617,7 +664,7 @@
       {
         "Title": "Save Me",
         "Genre": "Crime drama",
-        "Partner/Country": "Sky Atlantic/United Kingdom",
+        "Partner/Region": "Sky Atlantic/United Kingdom",
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "46–50 min.",
@@ -626,7 +673,7 @@
       {
         "Title": "Noughts + Crosses",
         "Genre": "Alternative history drama",
-        "Partner/Country": "BBC One/United Kingdom",
+        "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–58 min.",
@@ -635,7 +682,7 @@
       {
         "Title": "Departure",
         "Genre": "Conspiracy thriller",
-        "Partner/Country": "Global/Canada",
+        "Partner/Region": "Global/Canada",
         "Premiere": "September 17, 2020",
         "Seasons": "2 season, 12 episodes",
         "Length": "42–44 min.",
@@ -644,16 +691,16 @@
       {
         "Title": "Code 404",
         "Genre": "Police procedural dramedy",
-        "Partner/Country": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2)/United Kingdom",
+        "Partner/Region": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)/United Kingdom",
         "Premiere": "October 8, 2020",
         "Seasons": "2 season, 12 episodes",
         "Length": "26–31 min.",
-        "Status": "Planned third season"
+        "Status": "Renewed; planned for third season"
       },
       {
         "Title": "Dime Quién Soy: Mistress of War",
         "Genre": "Historical drama",
-        "Partner/Country": "Movistar+/Spain",
+        "Partner/Region": "Movistar+/Spain",
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
         "Length": "42–60 min.",
@@ -662,7 +709,7 @@
       {
         "Title": "Intergalactic",
         "Genre": "Science fiction",
-        "Partner/Country": "Sky One/United Kingdom",
+        "Partner/Region": "Sky One/United Kingdom",
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–47 min.",
@@ -671,7 +718,7 @@
       {
         "Title": "We Are Lady Parts",
         "Genre": "Musical ensemble sitcom",
-        "Partner/Country": "Channel 4/United Kingdom",
+        "Partner/Region": "Channel 4/United Kingdom",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "24–25 min.",
@@ -680,7 +727,7 @@
       {
         "Title": "Smother",
         "Genre": "Crime thriller",
-        "Partner/Country": "RTÉ One/Ireland",
+        "Partner/Region": "RTÉ One/Ireland",
         "Premiere": "July 1, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "49–51 min.",
@@ -689,7 +736,7 @@
       {
         "Title": "Vigil",
         "Genre": "Crime thriller",
-        "Partner/Country": "BBC One/United Kingdom",
+        "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "December 23, 2021",
         "Seasons": "6 episodes",
         "Length": "55–59 min.",
@@ -718,7 +765,7 @@
         "Language": "English"
       },
       {
-        "Title": "My Son&#91;b&#93;",
+        "Title": "My Son&#91;c&#93;",
         "Genre": "Mystery drama",
         "Release": "September 15, 2021",
         "Runtime": "1 hour, 35 min",
@@ -739,17 +786,10 @@
         "Language": "English"
       },
       {
-        "Title": "The Real Housewives of the North Pole",
-        "Genre": "Reality",
-        "Release": "December 9, 2021",
-        "Runtime": "TBA",
-        "Language": "English"
-      },
-      {
         "Title": "Days of Our Lives: A Very Salem Christmas",
         "Genre": "Soap opera",
         "Release": "December 16, 2021",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 18 min.",
         "Language": "English"
       }
     ]
@@ -855,7 +895,7 @@
         "Title": "The Murder of Gabby Petito: Truth, Lies and Social Media",
         "Genre": "True crime",
         "Release": "December 17, 2021",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 25 min.",
         "Language": "English"
       }
     ]
@@ -932,20 +972,12 @@
     ],
     "data": [
       {
-        "Title": "Law &amp; Order: Hate Crimes&#91;c&#93;",
+        "Title": "Law &amp; Order: Hate Crimes&#91;a&#93;",
         "Genre": "Crime drama",
-        "Premiere": "2021",
+        "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Bel-Air",
-        "Genre": "Drama",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Length": "60 min.",
-        "Status": "Series order; Renewed"
       },
       {
         "Title": "Angelyne",
@@ -1118,7 +1150,7 @@
       {
         "Title": "Armas de Mujer",
         "Genre": "Dramedy",
-        "Premiere": "2021",
+        "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Language": "Spanish",
@@ -1133,14 +1165,6 @@
       "Docuseries"
     ],
     "data": [
-      {
-        "Title": "True Story&#91;c&#93;",
-        "Genre": "Docuseries",
-        "Premiere": "2021",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
       {
         "Title": "Untitled Barney &amp; Friends docuseries",
         "Genre": "Docuseries",
@@ -1160,14 +1184,6 @@
       {
         "Title": "Downey Wrote That",
         "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Montana",
-        "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1272,15 +1288,6 @@
         "Seasons": "6 episodes",
         "Length": "TBA",
         "Status": "Miniseries order"
-      },
-      {
-        "Title": "Wolf Like Me",
-        "Partner/Country": "Stan/Australia",
-        "Genre": "Romantic comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "30 min.",
-        "Status": "Series order"
       }
     ]
   },
@@ -1303,6 +1310,11 @@
       {
         "Title": "All Our Wrong Todays",
         "Genre": "Romantic comedy",
+        "Status": "In development"
+      },
+      {
+        "Title": "American Assassin",
+        "Genre": "Anthology series",
         "Status": "In development"
       },
       {
@@ -1419,15 +1431,15 @@
     ],
     "data": [
       {
-        "Title": "Untitled John Logan film",
-        "Genre": "Horror",
+        "Title": "The Munsters",
+        "Genre": "Horror comedy",
         "Release": "2022",
         "Runtime": "TBA",
         "Language": "English"
       },
       {
-        "Title": "The Munsters",
-        "Genre": "Horror comedy",
+        "Title": "Untitled John Logan film",
+        "Genre": "Horror",
         "Release": "TBA",
         "Runtime": "TBA",
         "Language": "English"

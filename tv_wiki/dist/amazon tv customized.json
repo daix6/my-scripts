@@ -206,7 +206,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Reacher",
@@ -473,7 +473,7 @@
       {
         "Title": "The Legend of Vox Machina",
         "Genre": "Fantasy/Action comedy",
-        "Premiere": "February 4, 2022",
+        "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
         "Status": "Renewed"
       }
@@ -614,7 +614,7 @@
         "Genre": "Crime thriller",
         "Premiere": "November 16, 2018",
         "Seasons/episodes": "2 seasons, 19 episodes",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Four More Shots Please!",
@@ -737,6 +737,13 @@
       "Italian"
     ],
     "data": [
+      {
+        "Title": "Scatola Nera",
+        "Genre": "Comedy crime",
+        "Premiere": "November 25, 2019",
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Status": "Pending"
+      },
       {
         "Title": "Made in Italy",
         "Genre": "Comedy-drama",
@@ -1201,7 +1208,7 @@
         "Partner": "PBS Kids",
         "Genre": "Animation",
         "Premiere": "December 6, 2019",
-        "Seasons/episodes": "1 seasons, 36 episodes",
+        "Seasons/episodes": "1 season, 39 episodes",
         "Language": "English",
         "Status": "Pending"
       },

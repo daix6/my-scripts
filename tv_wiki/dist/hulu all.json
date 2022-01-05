@@ -244,6 +244,14 @@
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Dropout",
+        "Genre": "Drama",
+        "Premiere": "March 3, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -899,7 +907,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "5 seasons, 31 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on January 13, 2022."
       },
       {
         "Title": "The Mighty Ones",
@@ -1132,6 +1140,12 @@
         "Title": "Mother/Android",
         "Genre": "Science fiction thriller",
         "Release date": "December 17, 2021",
+        "Runtime": "1 hour, 50 min."
+      },
+      {
+        "Title": "Sex Appeal",
+        "Genre": "Teen romantic comedy",
+        "Release date": "January 14, 2022",
         "Runtime": "TBA"
       }
     ]
@@ -1405,13 +1419,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The Dropout",
-        "Genre": "Drama miniseries",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Fleishman Is in Trouble&#91;a&#93;",
         "Genre": "Drama miniseries",
         "Seasons": "9 episodes",
@@ -1531,22 +1538,6 @@
   {
     "category": [
       "Upcoming original programming",
-      "Animation",
-      "Kids and family"
-    ],
-    "data": [
-      {
-        "Title": "Uglydolls",
-        "Genre": "Comedy",
-        "Seasons": "1 season, 26 episodes",
-        "Length": "TBA",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
       "Unscripted",
       "Docuseries"
     ],
@@ -1582,7 +1573,7 @@
     ],
     "data": [
       {
-        "Title": "The Kardashian Jenner",
+        "Title": "The Kardashians",
         "Genre": "Reality",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1883,8 +1874,8 @@
         "Runtime": "TBA"
       },
       {
-        "Title": "Sex Appeal",
-        "Genre": "Teen romantic comedy",
+        "Title": "The Binge 2: It's A Wonderful Binge",
+        "Genre": "Comedy",
         "Release date": "TBA",
         "Runtime": "TBA"
       },

@@ -7,7 +7,7 @@
     "data": [
       {
         "Title": "The Mandalorian",
-        "Genre": "Space western",
+        "Genre": "Space Western",
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "31–54 min",
@@ -67,15 +67,15 @@
         "Premiere": "November 24, 2021",
         "Seasons": "6 episodes",
         "Runtime": "40–50 min",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "The Book of Boba Fett",
         "Genre": "Space opera",
         "Premiere": "December 29, 2021",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "31-40 min",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -233,7 +233,7 @@
         "Title": "Disney Insider",
         "Genre": "Docuseries",
         "Premiere": "March 20, 2020",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "1 season, 14 episodes",
         "Runtime": "16–22 min",
         "Status": "Pending"
       },
@@ -330,7 +330,7 @@
         "Genre": "Animated comedy",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "1.5 min&#91;b&#93;",
+        "Runtime": "3–11 min&#91;b&#93;",
         "Status": "Pending"
       }
     ]
@@ -367,6 +367,15 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "22 min",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Proud Family: Louder and Prouder",
+        "Genre": "Animated comedy",
+        "Premiere": "February 22, 2022",
+        "Prev. network(s)": "Disney Channel",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Post-production"
       }
     ]
   },
@@ -423,7 +432,34 @@
   {
     "category": [
       "Original programming",
-      "Regional original programming"
+      "Regional original programming",
+      "English language"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "Week-end Family",
+        "Genre": "Comedy",
+        "Premiere": "February 23, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Exclusive region": "Selected territories",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming",
+      "Non-English language"
     ],
     "data": [
       {
@@ -432,17 +468,24 @@
         "Premiere": "November 6, 2020",
         "Seasons": "15 episodes",
         "Runtime": "22–25 min",
-        "Language": "Italian",
         "Exclusive region": "Selected territories",
         "Status": "Ended"
-      },
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
       {
         "Title": "Latin America from Above",
         "Genre": "Docuseries",
         "Premiere": "November 17, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "27 min",
-        "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Ended"
       },
@@ -452,7 +495,6 @@
         "Premiere": "January 29, 2021",
         "Seasons": "1 season, 18 episodes",
         "Runtime": "24 min",
-        "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
@@ -462,7 +504,6 @@
         "Premiere": "February 12, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "38–54 min",
-        "Language": "Spanish",
         "Exclusive region": "Latin America, except Brazil",
         "Status": "Ended"
       },
@@ -472,7 +513,6 @@
         "Premiere": "May 21, 2021",
         "Seasons": "6 episodes",
         "Runtime": "26–28 min",
-        "Language": "Spanish",
         "Exclusive region": "Latin America, except Brazil",
         "Status": "Ended"
       },
@@ -482,7 +522,6 @@
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "22 min",
-        "Language": "Spanish",
         "Exclusive region": "Latin America",
         "Status": "Pending"
       },
@@ -492,17 +531,6 @@
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–53 min",
-        "Language": "Spanish",
-        "Exclusive region": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Week-end Family",
-        "Genre": "Comedy",
-        "Premiere": "February 23, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min",
-        "Language": "French",
         "Exclusive region": "Selected territories",
         "Status": "Pending"
       }

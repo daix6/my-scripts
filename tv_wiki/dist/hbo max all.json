@@ -34,8 +34,8 @@
         "Genre": "Post-apocalyptic drama",
         "Premiere": "December 16, 2021",
         "Seasons": "10 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "45–49 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Peacemaker",
@@ -99,7 +99,7 @@
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "21–27 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Sex Lives of College Girls",
@@ -114,7 +114,7 @@
         "Genre": "Romantic comedy",
         "Premiere": "December 9, 2021",
         "Seasons": "10 episodes",
-        "Runtime": "42–44 min.",
+        "Runtime": "42–45 min.",
         "Status": "Miniseries ongoing"
       }
     ]
@@ -155,7 +155,7 @@
         "Genre": "Black comedy",
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "23-26 min.",
+        "Runtime": "23–26 min.",
         "Status": "Pending"
       }
     ]
@@ -173,7 +173,7 @@
         "Premiere": "May 27, 2020",
         "Seasons": "3 seasons, 51 episodes",
         "Runtime": "9–29 min.",
-        "Status": "Renewed"
+        "Status": "Season 4 due to premiere on January 20, 2022;&#91;16&#93; Renewed"
       },
       {
         "Title": "Adventure Time: Distant Lands",
@@ -195,9 +195,9 @@
         "Title": "The Fungies!&#91;a&#93;",
         "Genre": "Fantasy comedy",
         "Premiere": "August 20, 2020",
-        "Seasons": "2 seasons, 60 episodes",
+        "Seasons": "3 seasons, 80 episodes",
         "Runtime": "11–12 min.",
-        "Status": "Final season due to premiere on December 16, 2021"
+        "Status": "Ended"
       },
       {
         "Title": "Tom and Jerry Special Shorts",
@@ -359,6 +359,14 @@
         "Seasons": "2 episodes",
         "Runtime": "56–57 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Take Out With Lisa Ling",
+        "Genre": "Asian cuisine",
+        "Premiere": "January 27, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -493,6 +501,14 @@
         "Title": "Finding Magic Mike",
         "Genre": "Reality competition",
         "Premiere": "December 16, 2021",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "39–46 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "My Mom, Your Dad",
+        "Genre": "Dating show",
+        "Premiere": "January 13, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -630,19 +646,19 @@
         "Status": "Pending"
       },
       {
-        "Title": "A Forbidden Orange",
-        "Genre": "Drama",
-        "Premiere": "December 17, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
         "Title": "40 Means Nothing",
         "Genre": "Drama",
         "Premiere": "December 23, 2021",
         "Seasons": "TBA",
         "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Búnker",
+        "Genre": "Action comedy",
+        "Premiere": "January 27, 2022",
+        "Seasons": "TBA",
+        "Runtime": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -665,15 +681,15 @@
       {
         "Title": "The Cut",
         "Genre": "Reality competition",
-        "Premiere": "November 25, 2021&#91;d&#93;December 16, 2021&#91;e&#93;",
+        "Premiere": "November 25, 2021&#91;d&#93;January 27, 2022&#91;e&#93;",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Jornada Astral",
         "Genre": "Talk show",
-        "Premiere": "December 21, 2021",
+        "Premiere": "December 21, 2021&#91;d&#93;January 20, 2022&#91;e&#93;",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -803,7 +819,7 @@
         "Premiere": "June 25, 2020",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "45–56 min.",
-        "Status": "Renewed&#91;39&#93;&#91;f&#93;"
+        "Status": "Renewed&#91;36&#93;&#91;f&#93;"
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -882,9 +898,9 @@
         "Genre": "Animated science fantasy",
         "Prev. network(s)": "Rooster Teeth",
         "Premiere": "November 4, 2021",
-        "Seasons": "1 season, TBA episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "25–27 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "South Side (season 2)",
@@ -900,7 +916,7 @@
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
         "Premiere": "December 23, 2021",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Pending"
       }
@@ -1033,6 +1049,24 @@
         "Genre": "Comedy",
         "Release date": "November 24, 2021",
         "Runtime": "1 hour, 37 min."
+      },
+      {
+        "Title": "The Fallout",
+        "Genre": "High school drama",
+        "Release date": "January 27, 2022",
+        "Runtime": "1 hour, 32 min."
+      },
+      {
+        "Title": "KIMI",
+        "Genre": "Crime thriller",
+        "Release date": "February 10, 2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Moonshot",
+        "Genre": "Science fiction romantic comedy",
+        "Release date": "March 24, 2022",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1097,9 +1131,15 @@
         "Runtime": "1 hour, 21 min."
       },
       {
+        "Title": "Beanie Mania",
+        "Subject": "Business",
+        "Release date": "December 23, 2021",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Diego, The Last Goodbye",
-        "Subject": "TBA",
-        "Release date": "December 16, 2021",
+        "Subject": "Soccer",
+        "Release date": "January 13, 2022",
         "Runtime": "TBA"
       }
     ]
@@ -1201,9 +1241,15 @@
         "Runtime": "TBA"
       },
       {
-        "Title": "Harry Potter 20th Anniversary: Return to Hogwarts&#91;g&#93;",
+        "Title": "Harry Potter 20th Anniversary: Return to Hogwarts",
         "Genre": "Unscripted reunion",
         "Release date": "January 1, 2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Moses Storm: White Trash",
+        "Genre": "Stand-up comedy",
+        "Release date": "January 20, 2022",
         "Runtime": "TBA"
       }
     ]
@@ -1271,7 +1317,7 @@
       {
         "Title": "Julia",
         "Genre": "Biographical drama",
-        "Premiere": "TBA",
+        "Premiere": "2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
@@ -1279,8 +1325,24 @@
       {
         "Title": "The Staircase",
         "Genre": "True crime drama",
-        "Premiere": "TBA",
+        "Premiere": "2022",
         "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "DMZ",
+        "Genre": "Dystopian alternate history drama",
+        "Premiere": "2022",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Pretty Little Liars: Original Sin",
+        "Genre": "Teen mystery crime thriller",
+        "Premiere": "2022",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -1333,14 +1395,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "DMZ",
-        "Genre": "Dystopian alternate history drama",
-        "Premiere": "TBA",
-        "Seasons": "4 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Dune: The Sisterhood",
         "Genre": "Science fiction",
         "Premiere": "TBA",
@@ -1361,14 +1415,6 @@
         "Genre": "Mystery miniseries",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Pretty Little Liars: Original Sin",
-        "Genre": "Teen mystery crime thriller",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1407,7 +1453,7 @@
       {
         "Title": "Our Flag Means Death",
         "Genre": "Period comedy",
-        "Premiere": "TBA",
+        "Premiere": "2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30 min.",
         "Status": "Filming"
@@ -1464,7 +1510,7 @@
       {
         "Title": "The Boondocks",
         "Genre": "Black sitcom",
-        "Premiere": "2022",
+        "Premiere": "TBA",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "TBA",
         "Status": "In production; Renewed"
@@ -1503,7 +1549,7 @@
     ],
     "data": [
       {
-        "Title": "Jade Armor&#91;h&#93;",
+        "Title": "Jade Armor&#91;g&#93;",
         "Genre": "Comedy",
         "Premiere": "Early 2022",
         "Seasons": "TBA",
@@ -1527,7 +1573,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Tiny Toons Looniversity&#91;h&#93;",
+        "Title": "Tiny Toons Looniversity&#91;g&#93;",
         "Genre": "Slapstick comedy",
         "Premiere": "2022",
         "Seasons": "TBA",
@@ -1535,7 +1581,7 @@
         "Status": "Series order; Renewed"
       },
       {
-        "Title": "Batwheels&#91;i&#93;",
+        "Title": "Batwheels&#91;h&#93;",
         "Genre": "Superhero",
         "Premiere": "2022",
         "Seasons": "TBA",
@@ -1599,7 +1645,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Amazing World of Gumball: The Series&#91;h&#93;",
+        "Title": "The Amazing World of Gumball: The Series&#91;g&#93;",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1607,7 +1653,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Unlimited Squirrels!&#91;h&#93;",
+        "Title": "Unlimited Squirrels!&#91;g&#93;",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1704,14 +1750,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Take Out",
-        "Genre": "Asian cuisine",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Untitled DC Comics docuseries",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -1767,14 +1805,6 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
-      },
-      {
-        "Title": "My Mom, Your Dad",
-        "Genre": "Dating show",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -1819,15 +1849,6 @@
         "Runtime": "TBA",
         "Language": "Slovak",
         "Status": "Filming"
-      },
-      {
-        "Title": "Búnker",
-        "Genre": "Action comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "30 min.",
-        "Language": "Spanish",
-        "Status": "Post-production"
       },
       {
         "Title": "Lust",
@@ -1905,9 +1926,9 @@
         "Title": "Czech It Out!",
         "Genre": "Travel docuseries",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Language": "1 season, 8 episodes",
+        "Language": "Czech",
         "Status": "Filming"
       }
     ]
@@ -1925,7 +1946,7 @@
         "Premiere": "Early 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "60 min.",
-        "Language": "English/Japanese",
+        "Language": "EnglishJapanese",
         "Status": "Post-production"
       },
       {
@@ -1936,7 +1957,7 @@
         "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Language": "English",
-        "Status": "Miniseries; Filming"
+        "Status": "Miniseries"
       },
       {
         "Title": "Theodosia",
@@ -1951,12 +1972,12 @@
       {
         "Title": "The Tourist",
         "Genre": "Mystery thriller",
-        "Partner/Country": "BBC One/United KingdomStan/Australia",
+        "Partner/Country": "BBC One/United KingdomZDF/GermanyStan/Australia",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Runtime": "TBA",
         "Language": "English",
-        "Status": "Miniseries; Filming"
+        "Status": "Miniseries; Post-production"
       }
     ]
   },
@@ -1987,7 +2008,7 @@
         "Status": "Season order"
       },
       {
-        "Title": "Total Drama Island (season 2)&#91;h&#93;",
+        "Title": "Total Drama Island (season 2)&#91;g&#93;",
         "Genre": "Animated comedy",
         "Prev. network(s)": "Teletoon",
         "Premiere": "TBA",
@@ -2022,13 +2043,6 @@
         "Status": "Pre-production"
       },
       {
-        "Title": "Harry Potter: Hogwarts Tournament of Houses&#91;g&#93;",
-        "Genre": "Quiz show",
-        "Premiere": "2022",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
         "Title": "Merry Little Batman&#91;b&#93;",
         "Genre": "Animated action comedy",
         "Premiere": "2022",
@@ -2050,14 +2064,14 @@
         "Status": "Pre-production"
       },
       {
-        "Title": "The Amazing World of Gumball: The Movie!&#91;h&#93;",
+        "Title": "The Amazing World of Gumball: The Movie!&#91;g&#93;",
         "Genre": "Animated comedy",
         "Premiere": "TBA",
         "Runtime": "TBA",
         "Status": "Pre-production"
       },
       {
-        "Title": "Naked Mole Rat Gets Dressed: The Rock Special&#91;h&#93;",
+        "Title": "Naked Mole Rat Gets Dressed: The Rock Special&#91;g&#93;",
         "Genre": "Animated musical comedy",
         "Premiere": "TBA",
         "Runtime": "TBA",
@@ -2177,7 +2191,7 @@
         "Status": "Pilot order"
       },
       {
-        "Title": "Cat the Cat's Show the Show Show with YOU the YOU!&#91;h&#93;",
+        "Title": "Cat the Cat's Show the Show Show with YOU the YOU!&#91;g&#93;",
         "Genre": "Comedy",
         "Status": "Pilot order"
       },
@@ -2227,7 +2241,7 @@
         "Status": "In development"
       },
       {
-        "Title": "Family Mash-Up&#91;h&#93;",
+        "Title": "Family Mash-Up&#91;g&#93;",
         "Genre": "Musical comedy",
         "Status": "In development"
       },
@@ -2267,7 +2281,7 @@
         "Status": "In development"
       },
       {
-        "Title": "Gross Girls&#91;h&#93;",
+        "Title": "Gross Girls&#91;g&#93;",
         "Genre": "Animated comedy",
         "Status": "In development"
       },
@@ -2332,6 +2346,11 @@
         "Status": "In development"
       },
       {
+        "Title": "Legion of Super-Heroes",
+        "Genre": "Adult animated superhero",
+        "Status": "In development"
+      },
+      {
         "Title": "Lumberjanes",
         "Genre": "Animated coming-of-age fantasy",
         "Status": "In development"
@@ -2393,7 +2412,7 @@
       },
       {
         "Title": "Perfect Strangers",
-        "Genre": "comedy",
+        "Genre": "Comedy",
         "Status": "In development"
       },
       {
@@ -2453,7 +2472,7 @@
       },
       {
         "Title": "Slam!",
-        "Genre": "Animation",
+        "Genre": "Adult animated sports",
         "Status": "In development"
       },
       {
@@ -2540,6 +2559,13 @@
     ],
     "data": [
       {
+        "Title": "Batgirl",
+        "Genre": "Superhero",
+        "Release date": "2022",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "Evil Dead Rise",
         "Genre": "Supernatural horror",
         "Release date": "2022",
@@ -2554,25 +2580,32 @@
         "Status": "Filming"
       },
       {
-        "Title": "1000 Miles",
-        "Genre": "Biopic",
-        "Release date": "TBA",
+        "Title": "Scoob! Haunted Holiday",
+        "Genre": "Animation",
+        "Release date": "2022",
         "Runtime": "TBA",
-        "Status": "Filming"
+        "Status": "In Production"
       },
       {
-        "Title": "Batgirl",
-        "Genre": "Superhero",
+        "Title": "The Father of the Bride",
+        "Genre": "Comedy-drama",
         "Release date": "2022",
         "Runtime": "TBA",
         "Status": "Filming"
       },
       {
-        "Title": "Blue Beetle",
-        "Genre": "Superhero",
+        "Title": "House Party",
+        "Genre": "Comedy",
+        "Release date": "2022",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "1000 Miles",
+        "Genre": "Biopic",
         "Release date": "TBA",
         "Runtime": "TBA",
-        "Status": "Pre-production"
+        "Status": "Filming"
       },
       {
         "Title": "Bobbie Sue",
@@ -2582,46 +2615,11 @@
         "Status": "Pre-production"
       },
       {
-        "Title": "The Fallout",
-        "Genre": "High school drama",
-        "Release date": "TBA",
-        "Runtime": "1 hour, 32 min.",
-        "Status": "Completed"
-      },
-      {
-        "Title": "The Father of the Bride",
-        "Genre": "Comedy-drama",
-        "Release date": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Field Notes on Love",
         "Genre": "Young adult romance",
         "Release date": "TBA",
         "Runtime": "TBA",
         "Status": "Pre-production"
-      },
-      {
-        "Title": "House Party",
-        "Genre": "Comedy",
-        "Release date": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "KIMI",
-        "Genre": "Crime thriller",
-        "Release date": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Moonshot",
-        "Genre": "Science fiction romantic comedy",
-        "Release date": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
       }
     ]
   },
@@ -2669,11 +2667,6 @@
       },
       {
         "Title": "Untitled Marlon Wayans-hosted multi-act special",
-        "Release date": "TBA",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Untitled Moses Storm special",
         "Release date": "TBA",
         "Runtime": "TBA"
       },
@@ -2741,6 +2734,10 @@
       {
         "Title": "The Masters of Mini-Golf",
         "Genre": "Comedy"
+      },
+      {
+        "Title": "The Naughty One",
+        "Genre": "Action comedy"
       },
       {
         "Title": "Shell",
