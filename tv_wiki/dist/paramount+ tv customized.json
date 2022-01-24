@@ -19,7 +19,7 @@
         "Premiere": "September 24, 2017",
         "Seasons": "4 seasons, 49 episodes",
         "Runtime": "37–65 min.",
-        "Status": "Season 4 ongoing"
+        "Status": "Season 4 ongoing; Renewed"
       },
       {
         "Title": "Strange Angel",
@@ -67,7 +67,7 @@
         "Premiere": "January 23, 2020",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–46 min.",
-        "Status": "Season 2 due to premiere in February 2022; Renewed"
+        "Status": "Season 2 due to premiere on March 3, 2022;&#91;2&#93; Renewed"
       },
       {
         "Title": "Interrogation",
@@ -91,7 +91,7 @@
         "Premiere": "January 7, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–56 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Mayor of Kingstown",
@@ -99,15 +99,31 @@
         "Premiere": "November 14, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "47–66 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "1883",
         "Genre": "Neo-Western drama",
         "Premiere": "December 19, 2021",
-        "Seasons": "1 season, 3 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Runtime": "44–67 min.",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Offer",
+        "Genre": "Drama",
+        "Premiere": "April 28, 2022",
+        "Seasons": "10 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Star Trek: Strange New Worlds",
+        "Genre": "Science fiction",
+        "Premiere": "May 5, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Renewed"
       }
     ]
   },
@@ -244,31 +260,40 @@
         "Status": "Pending"
       },
       {
+        "Title": "Five Bedrooms (season 2)",
+        "Genre": "Comedy-drama",
+        "Prev. network(s)": "Network 10",
+        "Premiere": "August 11, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–46 min.",
+        "Status": "Renewed"
+      },
+      {
         "Title": "Inside the NFL (season 44)",
         "Genre": "Sports",
         "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
         "Premiere": "September 7, 2021",
         "Seasons": "1 season, 24 episodes",
-        "Runtime": "60–65 min.",
+        "Runtime": "60–67 min.",
         "Status": "Season 44 ongoing"
       },
       {
         "Title": "SEAL Team (season 5B)",
         "Genre": "Military action",
-        "Prev. network(s)": "CBS (seasons 1–5A)",
+        "Prev. network(s)": "CBS",
         "Premiere": "November 1, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–48 min.",
-        "Status": "Season 5 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Next Influencer (season 3)",
         "Genre": "Reality",
-        "Prev. network(s)": "AwesomenessTV (seasons 1–2)",
+        "Prev. network(s)": "AwesomenessTV",
         "Premiere": "January 13, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "37–46 min.",
+        "Status": "Season 3 ongoing"
       }
     ]
   },
@@ -310,33 +335,18 @@
   },
   {
     "category": [
+      "Original programming",
       "Regional original programming",
-      "Drama"
+      "English language"
     ],
     "data": [
-      {
-        "Title": "Los Enviados",
-        "Genre": "Action thriller",
-        "Premiere": "December 12, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "55 min.",
-        "Exclusive region(s)": "Brazil",
-        "Language": "Spanish",
-        "Status": "Season 1 ongoing"
-      }
     ]
   },
   {
     "category": [
+      "Original programming",
       "Regional original programming",
-      "Comedy"
-    ],
-    "data": []
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Reality"
+      "Non-English language"
     ],
     "data": [
       {
@@ -346,35 +356,26 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "50–52 min.",
         "Exclusive region(s)": "Latin America",
-        "Language": "Portuguese",
         "Status": "Pending"
       }
     ]
   },
   {
     "category": [
+      "Original programming",
       "Regional original programming",
-      "Continuations"
+      "Non-English language"
     ],
     "data": [
       {
-        "Title": "Five Bedrooms (season 2)",
-        "Genre": "Comedy-drama",
-        "Prev. network(s)": "Network 10",
-        "Premiere": "August 11, 2021",
+        "Title": "Los Enviados",
+        "Genre": "Action thriller",
+        "Premiere": "December 12, 2021&#91;b&#93;January 20, 2022&#91;c&#93;",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–46 min.",
-        "Exclusive region(s)": "Australia",
-        "Language": "English",
-        "Status": "Renewed"
+        "Runtime": "43–58 min.",
+        "Exclusive region(s)": "Selected territories",
+        "Status": "Pending"
       }
     ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Specials"
-    ],
-    "data": []
   }
 ]

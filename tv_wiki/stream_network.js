@@ -31,7 +31,7 @@ const STREAM_NETWORKS = [
           data: _.orderBy([
             ...(currentByCategory[key]?.data ?? []),
             ...(endedByCategory[key]?.data ?? []),
-          ], item => moment(item.Premiere).unix()),
+          ], item => moment(item.Premiere || item["Release date"]).unix()),
         });
       }
       return ret;

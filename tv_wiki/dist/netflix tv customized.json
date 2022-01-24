@@ -22,7 +22,7 @@
       },
       {
         "Title": "Ginny &amp; Georgia",
-        "Genre": "Coming of age drama",
+        "Genre": "Coming-of-age drama",
         "Premiere": "February 24, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "52–58 min",
@@ -125,15 +125,15 @@
         "Title": "Archive 81",
         "Genre": "Found footage horror",
         "Premiere": "January 14, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45–58 min",
         "Status": "Pending"
       },
       {
         "Title": "In From the Cold",
         "Genre": "Thriller",
         "Premiere": "January 28, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       },
@@ -149,7 +149,7 @@
         "Title": "Vikings: Valhalla",
         "Genre": "Historical period drama",
         "Premiere": "February 25, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -229,11 +229,19 @@
       },
       {
         "Title": "The Woman in the House Across the Street from the Girl in the Window",
-        "Genre": "Dark comedy thriller miniseries",
+        "Genre": "Dark comedy thriller",
         "Premiere": "January 28, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Murderville",
+        "Genre": "Crime comedy/Reality show",
+        "Premiere": "February 3, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -298,10 +306,10 @@
         "Status": "Pending"
       },
       {
-        "Title": "The House",
-        "Genre": "Stop motion/Dark comedy",
-        "Premiere": "January 14, 2022",
-        "Seasons": "1 season, 3 episodes",
+        "Title": "Human Resources",
+        "Genre": "Comedy",
+        "Premiere": "March 18, 2022",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Pending"
@@ -336,10 +344,10 @@
         "Title": "Dota: Dragon's Blood",
         "Genre": "Dark fantasy/Action",
         "Premiere": "March 25, 2021",
-        "Seasons": "1 book, 8 episodes",
+        "Seasons": "2 books, 16 episodes",
         "Runtime": "26–28 min",
         "Language": "English",
-        "Status": "Book 2 due to premiere on January 18, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Way of the Househusband",
@@ -431,6 +439,39 @@
         "Runtime": "TBA",
         "Language": "Japanese",
         "Status": "Season 1 due to premiere on January 28, 2022"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Arabic"
+    ],
+    "data": [
+      {
+        "Title": "Abla Fahita: Drama Queen",
+        "Genre": "Puppetry/live-action comedy",
+        "Premiere": "March 15, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "17–24 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "AlRawabi School for Girls",
+        "Genre": "Drama",
+        "Premiere": "August 12, 2021",
+        "Finale": "",
+        "Seasons": "6 episodes",
+        "Runtime": "44–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Finding Ola",
+        "Genre": "Comedy-drama",
+        "Premiere": "February 3, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -606,8 +647,8 @@
         "Title": "Yeh Kaali Kaali Ankhein",
         "Genre": "Romantic thriller",
         "Premiere": "January 14, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "31–51 min",
         "Status": "Pending"
       }
     ]
@@ -650,6 +691,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–38 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Devotion, a Story of Love and Desire",
+        "Genre": "Romantic drama",
+        "Premiere": "February 14, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -671,8 +720,8 @@
         "Title": "The Journalist",
         "Genre": "Drama",
         "Premiere": "January 13, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "45–58 min",
         "Status": "Pending"
       }
     ]
@@ -713,7 +762,7 @@
         "Premiere": "September 17, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "32–63 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "My Name",
@@ -765,7 +814,7 @@
       },
       {
         "Title": "Light the Night",
-        "Genre": "Romantic thriller",
+        "Genre": "Suspense thriller/Melodrama",
         "Premiere": "November 26, 2021",
         "Seasons": "2 parts, 16 episodes",
         "Runtime": "44–51 min",
@@ -839,8 +888,8 @@
         "Title": "Summer Heat",
         "Genre": "Drama",
         "Premiere": "January 21, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–52 min",
         "Status": "Pending"
       }
     ]
@@ -857,7 +906,7 @@
         "Premiere": "January 20, 2021",
         "Seasons": "2 seasons, 17 episodes",
         "Runtime": "34–44 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Sky Rojo",
@@ -944,17 +993,9 @@
         "Title": "Rebelde",
         "Genre": "Teen drama",
         "Premiere": "January 5, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Juanpis González – The Series",
-        "Genre": "Comedy",
-        "Premiere": "January 19, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "32–48 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Feria: The Darkest Light",
@@ -1018,9 +1059,10 @@
         "Title": "50M2",
         "Genre": "Dark comedy",
         "Premiere": "January 27, 2021",
+        "Finale": "January 27, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "44–64 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Fatma",
@@ -1034,9 +1076,9 @@
         "Title": "The Club",
         "Genre": "Period drama",
         "Premiere": "November 5, 2021",
-        "Seasons": "1 part, 6 episodes",
+        "Seasons": "2 parts, 10 episodes",
         "Runtime": "43–56 min",
-        "Status": "Part 2 due to premiere on January 6, 2022"
+        "Status": "Pending"
       }
     ]
   },
@@ -1053,15 +1095,6 @@
         "Premiere": "February 19, 2021",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "35–39 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Abla Fahita: Drama Queen",
-        "Language": "Arabic",
-        "Genre": "Puppetry/live-action comedy",
-        "Premiere": "March 15, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "17–24 min",
         "Status": "Pending"
       },
       {
@@ -1179,10 +1212,10 @@
         "Genre": "Reality show",
         "Premiere": "December 18, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "57–68 min",
+        "Runtime": "57–71 min",
         "Language": "Korean",
         "Netflix exclusive regions": "All other markets",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1206,10 +1239,11 @@
         "Genre": "Reality",
         "Prev. network(s)": "Makeful",
         "Premiere": "January 22, 2021",
+        "Finale": "January 22, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–30 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Girl from Nowhere (season 2)",
@@ -1242,29 +1276,19 @@
         "Status": "Pending"
       },
       {
-        "Title": "Sexy Beasts (seasons 2–3)",
-        "Genre": "Dating show",
-        "Prev. network(s)": "A&amp;E",
-        "Premiere": "July 21, 2021",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "22–24 min",
-        "Language": "English",
-        "Status": "Pending"
-      },
-      {
         "Title": "El Marginal (season 4)",
         "Genre": "Crime drama",
         "Prev. network(s)": "TV Pública",
         "Premiere": "January 19, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "48–82 min",
         "Language": "Spanish",
         "Status": "Pending"
       },
       {
         "Title": "Tiger &amp; Bunny (season 2)",
         "Genre": "Anime",
-        "Prev. network(s)": "BS11, MBS, Tokyo MX",
+        "Prev. network(s)": "BS11MBSTokyo MX",
         "Premiere": "April 8, 2022",
         "Seasons": "1 season, 25 episodes",
         "Runtime": "TBA",
@@ -1421,8 +1445,25 @@
         "Language": "English",
         "Netflix exclusive region": "Worldwide except China",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Juanpis González – The Series",
+        "Genre": "Comedy",
+        "Premiere": "January 19, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "25 min",
+        "Language": "Spanish",
+        "Netflix exclusive region": "Selected territories",
+        "Status": "Pending"
       }
     ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Continuations"
+    ],
+    "data": []
   },
   {
     "category": [
@@ -1432,7 +1473,7 @@
       {
         "Title": "Behind Her Eyes",
         "Genre": "Psychological thriller",
-        "Premiere": "February 17, 2021",
+        "Release date": "February 17, 2021",
         "Episodes": "6 episodes",
         "Runtime": "46–53 min",
         "Notes": ""
@@ -1440,15 +1481,15 @@
       {
         "Title": "Halston",
         "Genre": "Drama",
-        "Premiere": "May 14, 2021",
+        "Release date": "May 14, 2021",
         "Episodes": "5 episodes",
         "Runtime": "44–53 min",
         "Notes": ""
       },
       {
         "Title": "Brand New Cherry Flavor",
-        "Genre": "Horror thriller",
-        "Premiere": "August 13, 2021",
+        "Genre": "Horror-thriller",
+        "Release date": "August 13, 2021",
         "Episodes": "8 episodes",
         "Runtime": "36–51 min",
         "Notes": ""
@@ -1456,7 +1497,7 @@
       {
         "Title": "Clickbait",
         "Genre": "Thriller",
-        "Premiere": "August 25, 2021",
+        "Release date": "August 25, 2021",
         "Episodes": "8 episodes",
         "Runtime": "42–48 min",
         "Notes": ""
@@ -1464,7 +1505,7 @@
       {
         "Title": "Midnight Mass",
         "Genre": "Horror",
-        "Premiere": "September 24, 2021",
+        "Release date": "September 24, 2021",
         "Episodes": "7 episodes",
         "Runtime": "59–70 min",
         "Notes": ""
@@ -1472,7 +1513,7 @@
       {
         "Title": "Maid",
         "Genre": "Dramedy",
-        "Premiere": "October 1, 2021",
+        "Release date": "October 1, 2021",
         "Episodes": "10 episodes",
         "Runtime": "47–60 min",
         "Notes": ""
@@ -1480,7 +1521,7 @@
       {
         "Title": "Colin in Black &amp; White",
         "Genre": "Biopic",
-        "Premiere": "October 29, 2021",
+        "Release date": "October 29, 2021",
         "Episodes": "6 episodes",
         "Runtime": "27–35 min",
         "Notes": ""
@@ -1488,26 +1529,9 @@
       {
         "Title": "True Story",
         "Genre": "Drama",
-        "Premiere": "November 24, 2021",
+        "Release date": "November 24, 2021",
         "Episodes": "7 episodes",
         "Runtime": "27–58 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Arabic"
-    ],
-    "data": [
-      {
-        "Title": "AlRawabi School for Girls",
-        "Genre": "Drama",
-        "Premiere": "August 12, 2021",
-        "Finale": "",
-        "Seasons": "6 episodes",
-        "Runtime": "44–52 min",
         "Notes": ""
       }
     ]
@@ -1569,13 +1593,6 @@
       "Regional original programming",
       "Unscripted",
       "Docuseries"
-    ],
-    "data": []
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Continuations"
     ],
     "data": []
   },

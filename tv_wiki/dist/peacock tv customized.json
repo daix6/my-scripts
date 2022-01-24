@@ -43,7 +43,7 @@
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "46–49 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "The Girl in the Woods",
@@ -60,6 +60,14 @@
         "Seasons": "TBA",
         "Length": "60 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Joe vs. Carole",
+        "Genre": "Biographical drama",
+        "Premiere": "March 3, 2022",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -114,21 +122,53 @@
   {
     "category": [
       "Original programming",
+      "Animation"
+    ],
+    "data": [
+      {
+        "Title": "Cleopatra in Space",
+        "Genre": "Science fiction",
+        "Premiere": "July 15, 2020",
+        "Seasons": "3 seasons, 26 episodes",
+        "Length": "22 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Dragons Rescue Riders: Heroes of the Sky",
+        "Genre": "Family adventure",
+        "Premiere": "November 24, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "23 min.",
+        "Status": "Season 2 due to premiere on February 3, 2022"
+      },
+      {
+        "Title": "Supernatural Academy",
+        "Genre": "Fantasy",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 16 episodes",
+        "Length": "30 min.",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
       "Co-productions"
     ],
     "data": [
       {
         "Title": "Madagascar: A Little Wild",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "5 seasons, 31 episodes",
+        "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on January 13, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
         "Seasons": "2 seasons, 20 episodes",
@@ -137,16 +177,16 @@
       },
       {
         "Title": "Trolls: TrollsTopia",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
         "Seasons": "5 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on February 17, 2022"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
-        "Partner/Country": "Sky Documentaries/United Kingdom",
+        "Partner": "Sky Documentaries",
         "Genre": "Docuseries",
         "Premiere": "June 24, 2021",
         "Seasons": "3 episodes",
@@ -155,7 +195,7 @@
       },
       {
         "Title": "The Croods: Family Tree",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
@@ -163,8 +203,8 @@
         "Status": "Pending"
       },
       {
-        "Title": "Dragons: The Nine Realms",
-        "Partner/Country": "Hulu/United States",
+        "Title": "DreamWorks Dragons: The Nine Realms",
+        "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 6 episodes",
@@ -173,12 +213,12 @@
       },
       {
         "Title": "Wolf Like Me",
-        "Partner/Country": "Stan/Australia",
+        "Partner": "Stan",
         "Genre": "Dark romantic comedy",
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
-        "Status": "Series order"
+        "Status": "Pending"
       }
     ]
   },
@@ -232,6 +272,24 @@
         "Seasons": "1 season, 15 episodes",
         "Length": "42–45 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Home Sweet Home (season 1B)",
+        "Genre": "Reality/social experiment",
+        "Prev. network(s)": "NBC",
+        "Premiere": "November 12, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "43 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Real Housewives of Miami (season 4)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Bravo",
+        "Premiere": "December 16, 2021",
+        "Seasons": "1 season, 14 episodes",
+        "Length": "41–43 min.",
+        "Status": "Season 4 ongoing"
       }
     ]
   },
@@ -274,13 +332,6 @@
         "Genre": "Reality",
         "Premiere": "December 9, 2021",
         "Length": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
-        "Genre": "Comedy",
-        "Premiere": "December 28, 2021",
-        "Length": "75 min.",
         "Language": "English"
       }
     ]

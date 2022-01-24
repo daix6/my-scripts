@@ -31,7 +31,7 @@
       },
       {
         "Title": "The Falcon and the Winter Soldier",
-        "Genre": "Superhero action-adventure buddy",
+        "Genre": "Superhero buddy action-adventure",
         "Premiere": "March 19, 2021",
         "Seasons": "6 episodes",
         "Runtime": "50–60 min",
@@ -39,7 +39,7 @@
       },
       {
         "Title": "Loki",
-        "Genre": "Superhero action-adventure fantasy",
+        "Genre": "Superhero fantasy action-adventure",
         "Premiere": "June 9, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–55 min",
@@ -63,7 +63,7 @@
       },
       {
         "Title": "Hawkeye",
-        "Genre": "Superhero action-adventure crime",
+        "Genre": "Superhero action-adventure",
         "Premiere": "November 24, 2021",
         "Seasons": "6 episodes",
         "Runtime": "40–50 min",
@@ -74,8 +74,16 @@
         "Genre": "Space opera",
         "Premiere": "December 29, 2021",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "31-40 min",
+        "Runtime": "38–52 min",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Moon Knight",
+        "Genre": "Superhero psychological thriller",
+        "Premiere": "March 30, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "40–50 min",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -147,7 +155,7 @@
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 16 episodes",
         "Runtime": "24–74 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in Spring 2022"
       },
       {
         "Title": "Monsters at Work",
@@ -159,7 +167,7 @@
       },
       {
         "Title": "Chip 'n' Dale: Park Life",
-        "Genre": "Animation comedy",
+        "Genre": "Comedy",
         "Premiere": "July 28, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "22 min",
@@ -172,6 +180,14 @@
         "Seasons": "1 season, 9 episodes",
         "Runtime": "33–35 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "The Proud Family: Louder and Prouder",
+        "Genre": "Comedy",
+        "Premiere": "February 23, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -259,7 +275,7 @@
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "8 min",
-        "Status": "Renewed"
+        "Status": "Season 2, Episode 1 due to premiere February 18, 2022"
       },
       {
         "Title": "Marvel Studios: Legends",
@@ -367,15 +383,6 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "22 min",
         "Status": "Ended"
-      },
-      {
-        "Title": "The Proud Family: Louder and Prouder",
-        "Genre": "Animated comedy",
-        "Premiere": "February 22, 2022",
-        "Prev. network(s)": "Disney Channel",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
       }
     ]
   },
@@ -435,7 +442,17 @@
       "Regional original programming",
       "English language"
     ],
-    "data": []
+    "data": [
+      {
+        "Title": "Club Mickey Mouse Malaysia (season 4)",
+        "Genre": "Variety show",
+        "Premiere": "July 28, 2021&#91;c&#93;November 17, 2021&#91;d&#93;",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "22–24 min",
+        "Exclusive region": "Selected territories&#91;e&#93;",
+        "Status": "Pending"
+      }
+    ]
   },
   {
     "category": [
@@ -470,6 +487,24 @@
         "Runtime": "22–25 min",
         "Exclusive region": "Selected territories",
         "Status": "Ended"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "Testers (Brazil)",
+        "Genre": "Educational show",
+        "Premiere": "January 5, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "20 min",
+        "Exclusive region": "Brazil",
+        "Status": "Pending"
       }
     ]
   },
@@ -532,6 +567,24 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–53 min",
         "Exclusive region": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Testers (Argentina)",
+        "Genre": "Educational show",
+        "Premiere": "January 5, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "20 min",
+        "Exclusive region": "Latin America, except Brazil and Mexico",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Testers (Mexico)",
+        "Genre": "Educational show",
+        "Premiere": "January 5, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "20 min",
+        "Exclusive region": "Mexico",
         "Status": "Pending"
       }
     ]

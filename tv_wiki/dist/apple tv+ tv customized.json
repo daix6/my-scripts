@@ -19,7 +19,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "50–66 min.",
-        "Status": "Pending"
+        "Status": "Renewed; Season 3 due to premiere in 2022"
       },
       {
         "Title": "See",
@@ -33,9 +33,9 @@
         "Title": "Servant",
         "Genre": "Psychological horror/thriller",
         "Premiere": "November 28, 2019",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 21 episodes",
         "Runtime": "25–36 min.",
-        "Status": "Season 3 due to premiere on January 21, 2022; Renewed for final season"
+        "Status": "Season 3 ongoing; Renewed for fourth and final season"
       },
       {
         "Title": "Truth Be Told",
@@ -43,7 +43,7 @@
         "Premiere": "December 6, 2019",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "39–51 min.",
-        "Status": "Renewed"
+        "Status": "Renewed; Season 3 due to premiere in 2022"
       },
       {
         "Title": "Amazing Stories",
@@ -90,7 +90,7 @@
         "Genre": "Romance horror",
         "Premiere": "June 4, 2021",
         "Seasons": "8 episodes",
-        "Runtime": "46–52 min.",
+        "Runtime": "46–56 min.",
         "Status": "Miniseries"
       },
       {
@@ -98,7 +98,7 @@
         "Genre": "Science fiction",
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "55–69 min.",
+        "Runtime": "45–69 min.",
         "Status": "Renewed"
       },
       {
@@ -106,7 +106,7 @@
         "Genre": "Science fiction",
         "Premiere": "October 22, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "52–58 min.",
+        "Runtime": "33-58 min.",
         "Status": "Renewed"
       },
       {
@@ -140,6 +140,22 @@
         "Seasons": "1 season, 9 episodes",
         "Runtime": "60 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Last Days of Ptolemy Grey",
+        "Genre": "Drama miniseries",
+        "Premiere": "March 11, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "WeCrashed",
+        "Genre": "Drama miniseries",
+        "Premiere": "March 18, 2022",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -171,7 +187,7 @@
         "Premiere": "February 7, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "24–37 min.",
-        "Status": "Renewed for seasons 3 and 4"
+        "Status": "Renewed for seasons 3 and 4; Season 3 due to premiere in 2022"
       },
       {
         "Title": "Trying",
@@ -187,7 +203,7 @@
         "Premiere": "August 14, 2020",
         "Seasons": "2 seasons, 22 episodes",
         "Runtime": "29–49 min.",
-        "Status": "Renewed"
+        "Status": "Renewed; Season 3 due to premiere in 2022"
       },
       {
         "Title": "Physical",
@@ -195,7 +211,7 @@
         "Premiere": "June 18, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–34 min.",
-        "Status": "Renewed"
+        "Status": "Renewed; Season 2 due to premiere in 2022"
       },
       {
         "Title": "Schmigadoon!",
@@ -226,7 +242,7 @@
         "Genre": "Mystery comedy",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "34-48 min.",
         "Status": "Pending"
       }
     ]
@@ -291,7 +307,7 @@
         "Genre": "Science fiction thriller",
         "Premiere": "November 3, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "49–60 min.",
+        "Runtime": "49–68 min.",
         "Language": "Korean",
         "Status": "Pending"
       }
@@ -356,9 +372,9 @@
         "Title": "Becoming You",
         "Genre": "Docuseries",
         "Premiere": "November 13, 2020",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "6 episodes",
         "Runtime": "39–43 min.",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Earth At Night In Color",
@@ -398,6 +414,14 @@
         "Premiere": "November 19, 2021",
         "Seasons": "4 episodes&#91;a&#93;",
         "Runtime": "53–58 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Lincoln's Dilemma",
+        "Genre": "Biographical docuseries",
+        "Premiere": "February 18, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
         "Status": "Miniseries"
       }
     ]

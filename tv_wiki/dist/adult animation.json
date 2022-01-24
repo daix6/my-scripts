@@ -579,7 +579,7 @@
         "Network": "ABC",
         "Studio": "Miramax Television",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -591,7 +591,7 @@
         "Network": "MTV",
         "Studio": "MTV Animation",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -651,7 +651,7 @@
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -1371,7 +1371,7 @@
         "Network": "FX&#91;be&#93;",
         "Studio": "Floyd County Productions",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2365,7 +2365,7 @@
         "Show creator(s)": "Justin Roiland",
         "Original release": "May 8, 2020 – present",
         "Network": "Hulu",
-        "Studio": "20th Television",
+        "Studio": "20th Television Animation",
         "Age rating": "TV-MA",
         "Technique": "Flash",
         "Source": ""
@@ -2779,6 +2779,18 @@
         "Source": ""
       },
       {
+        "Title": "Blade Runner: Black Lotus",
+        "Genre": "Action",
+        "Seasons/episodes": "1 season, 13 episodes",
+        "Show creator(s)": "Philip K. Dick (Original Characters)",
+        "Original release": "November 14, 2021 – present",
+        "Network": "Adult Swim",
+        "Studio": "Alcon Entertainment",
+        "Age rating": "TV-14",
+        "Technique": "CGI",
+        "Source": ""
+      },
+      {
         "Title": "Hit-Monkey",
         "Genre": "Action",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -2812,6 +2824,30 @@
         "Studio": "Georgia Entertainment Industries",
         "Age rating": "TV-14",
         "Technique": "Flash/Live-Action",
+        "Source": ""
+      },
+      {
+        "Title": "Smiling Friends",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Michael Cusack",
+        "Original release": "January 9, 2022 – present",
+        "Network": "Adult Swim",
+        "Studio": "Williams Street",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Supernatural Academy",
+        "Genre": "Fantasy",
+        "Seasons/episodes": "1 season, 16 episodes",
+        "Show creator(s)": "TBA",
+        "Original release": "January 20, 2022 – present",
+        "Network": "Peacock",
+        "Studio": "41 Entertainment",
+        "Age rating": "TV-14",
+        "Technique": "CGI",
         "Source": ""
       }
     ]
@@ -2998,7 +3034,7 @@
         "Original release": "April 1,&#160;2001 – August 12, 2001",
         "Network": "Teletoon at Night",
         "Studio": "MTV Animation",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3638,15 +3674,15 @@
         "Source": ""
       },
       {
-        "Title": "The Boys: Diabolical",
+        "Title": "Entergalactic",
         "Genre": "Anthology series",
-        "Seasons, episodes": "1 season, 8 episodes",
-        "Show creator": "TBA",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Kid Cudi",
         "Release date": "2022",
-        "Original channel": "Amazon Prime Video",
-        "Studio": "Sony Pictures Television",
+        "Original channel": "Netflix",
+        "Studio": "Netflix Animation",
         "Age rating": "",
-        "Technique": "Traditional",
+        "Technique": "",
         "Source": ""
       },
       {
@@ -3662,27 +3698,39 @@
         "Source": ""
       },
       {
-        "Title": "The House",
-        "Genre": "Dark comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Paloma Baeza",
-        "Release date": "January 14, 2022",
-        "Original channel": "Netflix",
-        "Studio": "Netflix Animation",
-        "Age rating": "TV-MA",
-        "Technique": "Stop-Motion",
-        "Source": ""
-      },
-      {
         "Title": "The Legend of Vox Machina",
         "Genre": "Action",
         "Seasons, episodes": "2 seasons, 24 episodes",
         "Show creator": "Matthew Mercer",
-        "Release date": "February 4, 2022",
+        "Release date": "January 28, 2022",
         "Original channel": "Amazon Prime Video",
         "Studio": "Amazon Studios",
-        "Age rating": "",
+        "Age rating": "TV-MA",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "The Boys: Diabolical",
+        "Genre": "Anthology series",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "TBA",
+        "Release date": "March 4, 2022",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Sony Pictures Television",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Human Resources",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Nick Kroll",
+        "Release date": "March 18, 2022",
+        "Original channel": "Netflix",
+        "Studio": "Brutus Pink",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
         "Source": ""
       }
     ]

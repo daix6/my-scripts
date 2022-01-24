@@ -387,7 +387,7 @@
         "Premiere": "May 15, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "50–55 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Woke",
@@ -419,6 +419,14 @@
         "Premiere": "January 18, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Welcome to Flatch&#91;b&#93;",
+        "Genre": "Comedy",
+        "Premiere": "March 17, 2022",
+        "Seasons": "TBA",
+        "Length": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -548,7 +556,7 @@
         "Premiere": "November 16, 2018",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "25 min.",
-        "Status": "Ended&#91;b&#93;"
+        "Status": "Ended&#91;c&#93;"
       },
       {
         "Title": "Catch-22",
@@ -602,7 +610,7 @@
         "Premiere": "January 17, 2020",
         "Seasons": "2 seasons, 24 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Utopia Falls",
@@ -645,9 +653,9 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "5 seasons, 31 episodes",
+        "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on January 13, 2022."
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -674,7 +682,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "5 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on February 17, 2022"
       },
       {
         "Title": "The Hardy Boys",
@@ -765,14 +773,14 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;c&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;d&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;c&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;d&#93;",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "TBA",
