@@ -134,22 +134,30 @@
         "Genre": "Thriller",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "41–53 min",
         "Status": "Pending"
-      },
-      {
-        "Title": "Inventing Anna",
-        "Genre": "Drama miniseries",
-        "Premiere": "February 11, 2022",
-        "Seasons": "9 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
       },
       {
         "Title": "Vikings: Valhalla",
         "Genre": "Historical period drama",
         "Premiere": "February 25, 2022",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Pieces of Her",
+        "Genre": "Thriller",
+        "Premiere": "March 4, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Anatomy of a Scandal",
+        "Genre": "Anthology series",
+        "Premiere": "April 15, 2022",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -220,6 +228,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Saturday Morning All Star Hits!",
+        "Genre": "Animation/Live action comedy",
+        "Premiere": "December 10, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "19–28 min",
+        "Status": "Pending"
+      },
+      {
         "Title": "Decoupled",
         "Genre": "Comedy",
         "Premiere": "December 17, 2021",
@@ -232,7 +248,7 @@
         "Genre": "Dark comedy thriller",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "22–29 min",
         "Status": "Pending"
       },
       {
@@ -240,7 +256,7 @@
         "Genre": "Crime comedy/Reality show",
         "Premiere": "February 3, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "29–35 min",
         "Status": "Pending"
       }
     ]
@@ -326,10 +342,11 @@
         "Title": "High-Rise Invasion",
         "Genre": "Action horror",
         "Premiere": "February 25, 2021",
+        "Finale": "February 25, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "25–27 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Pacific Rim: The Black",
@@ -435,10 +452,29 @@
         "Title": "The Orbital Children",
         "Genre": "Science fiction/Adventure",
         "Premiere": "January 28, 2022",
-        "Seasons": "2 seasons, 6 episodes",
+        "Finale": "",
+        "Seasons": "6 episodes",
+        "Runtime": "30–38 min",
+        "Language": "Japanese",
+        "Notes": ""
+      },
+      {
+        "Title": "Kotaro Lives Alone",
+        "Genre": "Comedy",
+        "Premiere": "March 10, 2022",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "Japanese",
-        "Status": "Season 1 due to premiere on January 28, 2022"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Thermae Romae Novae",
+        "Genre": "Comedy",
+        "Premiere": "March 28, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
       }
     ]
   },
@@ -469,8 +505,8 @@
         "Title": "Finding Ola",
         "Genre": "Comedy-drama",
         "Premiere": "February 3, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "46–55 min",
         "Status": "Pending"
       }
     ]
@@ -501,8 +537,8 @@
         "Title": "Chosen",
         "Genre": "Coming-of-age  science fiction",
         "Premiere": "January 27, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "41–49 min",
         "Status": "Pending"
       }
     ]
@@ -566,9 +602,10 @@
         "Title": "Tribes of Europa",
         "Genre": "Science fiction",
         "Premiere": "February 19, 2021",
+        "Finale": "February 19, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–49 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Billion Dollar Code",
@@ -649,6 +686,14 @@
         "Premiere": "January 14, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "31–51 min",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Fame Game",
+        "Genre": "Drama",
+        "Premiere": "February 25, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -693,11 +738,19 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Framed! A Sicilian Murder Mystery",
+        "Genre": "Comedy",
+        "Premiere": "January 1, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "26–35 min",
+        "Status": "Renewed"
+      },
+      {
         "Title": "Devotion, a Story of Love and Desire",
         "Genre": "Romantic drama",
         "Premiere": "February 14, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "38–45 min",
         "Status": "Pending"
       }
     ]
@@ -792,8 +845,8 @@
         "Title": "All of Us Are Dead",
         "Genre": "Supernatural drama",
         "Premiere": "January 28, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "53–71 min",
         "Status": "Pending"
       }
     ]
@@ -818,7 +871,7 @@
         "Premiere": "November 26, 2021",
         "Seasons": "2 parts, 16 episodes",
         "Runtime": "44–51 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Part 3 due to premiere on March 18, 2022"
       }
     ]
   },
@@ -891,6 +944,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–52 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Back to 15",
+        "Genre": "Comedy",
+        "Premiere": "February 25, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -922,7 +983,7 @@
         "Premiere": "March 24, 2021",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "36–46 min",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on June 1, 2022"
       },
       {
         "Title": "The Innocent",
@@ -1001,8 +1062,8 @@
         "Title": "Feria: The Darkest Light",
         "Genre": "Fantasy",
         "Premiere": "January 28, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "41–60 min",
         "Status": "Pending"
       }
     ]
@@ -1079,6 +1140,14 @@
         "Seasons": "2 parts, 10 episodes",
         "Runtime": "43–56 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Midnight at Pera Palace",
+        "Genre": "Drama",
+        "Premiere": "March 3, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -1088,15 +1157,6 @@
       "Other"
     ],
     "data": [
-      {
-        "Title": "Pitta Kathalu",
-        "Language": "Telugu",
-        "Genre": "Anthology series",
-        "Premiere": "February 19, 2021",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "35–39 min",
-        "Status": "Pending"
-      },
       {
         "Title": "Katla",
         "Language": "Icelandic",
@@ -1216,6 +1276,17 @@
         "Language": "Korean",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Parisian Agency: Exclusive Properties (season 2)",
+        "Partner/Country": "TMC/France",
+        "Genre": "Reality",
+        "Premiere": "March 3, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "French",
+        "Netflix exclusive regions": "Selected territories",
+        "Status": "Pending"
       }
     ]
   },
@@ -1288,7 +1359,7 @@
       {
         "Title": "Tiger &amp; Bunny (season 2)",
         "Genre": "Anime",
-        "Prev. network(s)": "BS11MBSTokyo MX",
+        "Prev. network(s)": "Tokyo MX",
         "Premiere": "April 8, 2022",
         "Seasons": "1 season, 25 episodes",
         "Runtime": "TBA",
@@ -1304,10 +1375,241 @@
     ],
     "data": [
       {
+        "Title": "Cobra Kai - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "January 2, 2021",
+        "Runtime": "34 min",
+        "Notes": ""
+      },
+      {
         "Title": "Creating The Queen's Gambit",
         "Genre": "Making-of",
         "Premiere": "January 8, 2021",
         "Runtime": "14 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Bridgerton - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "January 23, 2021",
+        "Runtime": "38 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Bling Empire - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "January 30, 2021",
+        "Runtime": "35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "To All the Boys: Always and Forever - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "February 13, 2021",
+        "Runtime": "36 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Animals on the Loose: A You vs. Wild Interactive Movie",
+        "Genre": "Reality television/Interactive fiction",
+        "Premiere": "February 16, 2021",
+        "Runtime": "45 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Fate: The Winx Saga - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "February 20, 2021",
+        "Runtime": "35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Ginny &amp; Georgia - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "February 26, 2021",
+        "Runtime": "35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Last Kids on Earth: Happy Apocalypse to You",
+        "Genre": "Animation/Interactive fiction",
+        "Premiere": "April 6, 2021",
+        "Runtime": "27 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dad Stop Embarrassing Me! - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "April 16, 2021",
+        "Runtime": "37 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Shadow and Bone - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "April 24, 2021",
+        "Runtime": "32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Circle - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "May 7, 2021",
+        "Runtime": "35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Upshaws - The Afterparty",
+        "Genre": "Aftershow",
+        "Premiere": "May 14, 2021",
+        "Runtime": "32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Super Monsters: Once Upon a Rhyme",
+        "Genre": "Animation",
+        "Premiere": "June 1, 2021",
+        "Runtime": "25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Trese After Dark",
+        "Genre": "Aftershow",
+        "Premiere": "June 10, 2021",
+        "Runtime": "35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Headspace: Unwind Your Mind",
+        "Genre": "Documentary/Interactive fiction",
+        "Premiere": "June 15, 2021",
+        "Runtime": "15 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The House of Flowers: The Movie",
+        "Genre": "Comedy",
+        "Premiere": "June 23, 2021",
+        "Runtime": "1 h 27 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Kingdom: Ashin of the North",
+        "Genre": "Period horror thriller",
+        "Premiere": "July 23, 2021",
+        "Runtime": "1 h 33 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Witcher: Nightmare of the Wolf",
+        "Genre": "Animated dark fantasy",
+        "Premiere": "August 23, 2021",
+        "Runtime": "1 h 23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "You vs. Wild: Out Cold",
+        "Genre": "Interactive reality",
+        "Premiere": "September 14, 2021",
+        "Runtime": "25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "A StoryBots Space Adventure",
+        "Genre": "Animation",
+        "Premiere": "September 15, 2021",
+        "Runtime": "13 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Go! Go! Cory Carson: Chrissy Takes the Wheel",
+        "Genre": "Animation",
+        "Premiere": "September 21, 2021",
+        "Runtime": "1 h 1 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Making The Billion Dollar Code",
+        "Genre": "Making-of",
+        "Premiere": "October 10, 2021",
+        "Runtime": "28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Sharkdog's Fintastic Halloween",
+        "Genre": "Animation",
+        "Premiere": "October 15, 2021",
+        "Runtime": "24 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Johnny Test's Ultimate Meatloaf Quest",
+        "Genre": "Animation/Interactive",
+        "Premiere": "November 16, 2021",
+        "Runtime": "20 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Waffles + Mochi's Holiday Feast",
+        "Genre": "Cooking show",
+        "Premiere": "November 23, 2021",
+        "Runtime": "28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "StarBeam: Beaming in the New Year",
+        "Genre": "Animation",
+        "Premiere": "December 14, 2021",
+        "Runtime": "47 min.",
+        "Notes": ""
+      },
+      {
+        "Title": "Making The Witcher: Season 2",
+        "Genre": "Making-of",
+        "Premiere": "December 17, 2021",
+        "Runtime": "37 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Witcher Bestiary Season 1 Part 1",
+        "Genre": "Clipshow",
+        "Premiere": "December 17, 2021",
+        "Runtime": "11 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Witcher Bestiary Season 1 Part 2",
+        "Genre": "Clipshow",
+        "Premiere": "December 17, 2021",
+        "Runtime": "10 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Witcher: Fireplace",
+        "Genre": "Yule log",
+        "Premiere": "December 17, 2021",
+        "Runtime": "59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Witcher Season One Recap: From the Beginning",
+        "Genre": "Clipshow",
+        "Premiere": "December 17, 2021",
+        "Runtime": "15 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Witcher: Characters of the Continent",
+        "Genre": "Making-of",
+        "Premiere": "December 17, 2021",
+        "Runtime": "9 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Mighty Express: Train Trouble",
+        "Genre": "Animation",
+        "Premiere": "January 18, 2022",
+        "Runtime": "25 min",
         "Notes": ""
       }
     ]
@@ -1533,6 +1835,14 @@
         "Episodes": "7 episodes",
         "Runtime": "27–58 min",
         "Notes": ""
+      },
+      {
+        "Title": "Inventing Anna",
+        "Genre": "Drama",
+        "Release date": "February 11, 2022",
+        "Episodes": "9 episodes",
+        "Runtime": "59–82 min",
+        "Notes": ""
       }
     ]
   },
@@ -1549,6 +1859,23 @@
       "Tamil"
     ],
     "data": []
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Telugu"
+    ],
+    "data": [
+      {
+        "Title": "Pitta Kathalu",
+        "Genre": "Anthology series",
+        "Premiere": "February 19, 2021",
+        "Finale": "February 19, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "35–39 min",
+        "Notes": ""
+      }
+    ]
   },
   {
     "category": [

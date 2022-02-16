@@ -9,17 +9,9 @@
         "Title": "Raised by Wolves",
         "Genre": "Science fiction",
         "Premiere": "September 3, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "42–56 min.",
-        "Status": "Season 2 due to premiere on February 3, 2022"
-      },
-      {
-        "Title": "The Flight Attendant",
-        "Genre": "Mystery drama/Dark comedy",
-        "Premiere": "November 26, 2020",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–48 min.",
-        "Status": "Season 2 due to premiere in mid-2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Gossip Girl",
@@ -35,15 +27,31 @@
         "Premiere": "December 16, 2021",
         "Seasons": "10 episodes",
         "Runtime": "45–49 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Peacemaker",
-        "Genre": "Superhero action/Black comedy",
+        "Genre": "Superhero action",
         "Premiere": "January 13, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "39–46 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Julia",
+        "Genre": "Biographical drama",
+        "Premiere": "March 31, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Tokyo Vice",
+        "Genre": "Crime drama",
+        "Premiere": "April 7, 2022",
+        "Seasons": "10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -60,6 +68,14 @@
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–36 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Flight Attendant",
+        "Genre": "Mystery drama/Dark comedy",
+        "Premiere": "November 26, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–48 min.",
+        "Status": "Season 2 due to premiere in mid-2022"
       },
       {
         "Title": "Generation",
@@ -110,12 +126,20 @@
         "Status": "Renewed"
       },
       {
-        "Title": "And Just Like That...",
+        "Title": "And Just Like That…",
         "Genre": "Romantic comedy",
         "Premiere": "December 9, 2021",
         "Seasons": "10 episodes",
         "Runtime": "42–45 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Minx",
+        "Genre": "Comedy",
+        "Premiere": "March 17, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -156,7 +180,7 @@
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -168,12 +192,12 @@
     ],
     "data": [
       {
-        "Title": "Looney Tunes Cartoons&#91;a&#93;",
+        "Title": "Looney Tunes Cartoons",
         "Genre": "Slapstick comedy",
         "Premiere": "May 27, 2020",
-        "Seasons": "3 seasons, 51 episodes",
+        "Seasons": "5 seasons, 62 episodes",
         "Runtime": "9–29 min.",
-        "Status": "Season 4 due to premiere on January 20, 2022;&#91;16&#93; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Adventure Time: Distant Lands",
@@ -184,7 +208,7 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Tig n' Seek&#91;a&#93;",
+        "Title": "Tig n' Seek",
         "Genre": "Workplace comedy",
         "Premiere": "July 23, 2020",
         "Seasons": "3 seasons, 60 episodes",
@@ -192,7 +216,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "The Fungies!&#91;a&#93;",
+        "Title": "The Fungies!",
         "Genre": "Fantasy comedy",
         "Premiere": "August 20, 2020",
         "Seasons": "3 seasons, 80 episodes",
@@ -216,7 +240,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Jellystone!&#91;a&#93;",
+        "Title": "Jellystone!",
         "Genre": "Slapstick comedy",
         "Premiere": "July 29, 2021",
         "Seasons": "1 season, 11 episodes",
@@ -253,15 +277,164 @@
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "11 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on February 17, 2022"
       },
       {
-        "Title": "Aquaman: King of Atlantis&#91;b&#93;",
+        "Title": "Aquaman: King of Atlantis",
         "Genre": "Superhero",
         "Premiere": "October 14, 2021",
         "Seasons": "3 episodes",
         "Runtime": "45 min.",
         "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Danish"
+    ],
+    "data": [
+      {
+        "Title": "Kamikaze",
+        "Genre": "Young adult thriller drama",
+        "Premiere": "November 14, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "33 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Polish"
+    ],
+    "data": [
+      {
+        "Title": "The Thaw",
+        "Genre": "Crime drama",
+        "Premiere": "April 1, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Portuguese"
+    ],
+    "data": [
+      {
+        "Title": "The Missing",
+        "Genre": "Crime drama",
+        "Premiere": "July 22, 2021October 14, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Romanian"
+    ],
+    "data": [
+      {
+        "Title": "Ruxx",
+        "Genre": "Comedy-drama",
+        "Premiere": "March 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Spanish"
+    ],
+    "data": [
+      {
+        "Title": "Love Spells",
+        "Genre": "Romantic dramedy",
+        "Premiere": "August 12, 2021October 14, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "44–51 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Días de Gallos",
+        "Genre": "Coming-of-age music drama",
+        "Premiere": "September 16, 2021November 4, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "39–52 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Amongst Men",
+        "Genre": "Crime",
+        "Premiere": "September 26, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Asesino del Olvido",
+        "Genre": "Crime drama",
+        "Premiere": "October 7, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45–54 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Todo lo otro",
+        "Genre": "Comedy-drama",
+        "Premiere": "October 26, 2021December 10, 2021&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A Thousand Fangs",
+        "Genre": "Military action drama",
+        "Premiere": "October 28, 2021December 9, 2021&#91;c&#93;",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "44–54 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Frankelda's Book of Spooks",
+        "Genre": "Animated family horror anthology",
+        "Premiere": "October 29, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "12–16 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Venga Juan",
+        "Genre": "Political satire",
+        "Premiere": "November 28, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Búnker",
+        "Genre": "Action comedy",
+        "Premiere": "December 23, 2021January 27, 2022&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -278,6 +451,7 @@
         "Premiere": "July 9, 2020",
         "Seasons": "3 episodes",
         "Runtime": "52–64 min.",
+        "Language": "English",
         "Status": "Miniseries"
       },
       {
@@ -286,7 +460,8 @@
         "Premiere": "August 27, 2020",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "42 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "Equal",
@@ -294,6 +469,7 @@
         "Premiere": "October 22, 2020",
         "Seasons": "4 episodes",
         "Runtime": "39–41 min.",
+        "Language": "English",
         "Status": "Miniseries"
       },
       {
@@ -302,6 +478,7 @@
         "Premiere": "December 3, 2020",
         "Seasons": "4 episodes",
         "Runtime": "49–52 min.",
+        "Language": "English",
         "Status": "Miniseries"
       },
       {
@@ -310,7 +487,8 @@
         "Premiere": "December 10, 2020",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "29–36 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "The Event",
@@ -318,7 +496,8 @@
         "Premiere": "January 14, 2021",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "34–43 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "Wahl Street",
@@ -326,6 +505,7 @@
         "Premiere": "April 15, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "23–26 min.",
+        "Language": "English",
         "Status": "Renewed"
       },
       {
@@ -334,6 +514,7 @@
         "Premiere": "April 22, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–49 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -342,6 +523,7 @@
         "Premiere": "July 22, 2021",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "30–37 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -350,7 +532,8 @@
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "47–55 min.",
-        "Status": "Season 1 ongoing"
+        "Language": "English",
+        "Status": "Pending"
       },
       {
         "Title": "What Happened, Brittany Murphy?",
@@ -358,14 +541,34 @@
         "Premiere": "October 14, 2021",
         "Seasons": "2 episodes",
         "Runtime": "56–57 min.",
+        "Language": "English",
         "Status": "Miniseries"
       },
       {
-        "Title": "Take Out With Lisa Ling",
+        "Title": "The Truth of Dolores Vazquez",
+        "Genre": "True crime docuseries",
+        "Premiere": "October 26, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "49–54 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Onda Boa com Ivete",
+        "Genre": "Docuseries",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "TBA",
+        "Language": "Portuguese",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Take Out with Lisa Ling",
         "Genre": "Asian cuisine",
         "Premiere": "January 27, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "22–30 min.",
+        "Language": "English",
         "Status": "Pending"
       }
     ]
@@ -383,6 +586,7 @@
         "Premiere": "May 27, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–33 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -391,6 +595,7 @@
         "Premiere": "May 27, 2020",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "47–50 min.",
+        "Language": "English",
         "Status": "Renewed"
       },
       {
@@ -399,7 +604,8 @@
         "Premiere": "June 18, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "37–50 min.",
-        "Status": "Ended&#91;c&#93;"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "Selena + Chef",
@@ -407,6 +613,7 @@
         "Premiere": "August 13, 2020",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "21–33 min.",
+        "Language": "English",
         "Status": "Renewed"
       },
       {
@@ -415,7 +622,8 @@
         "Premiere": "September 24, 2020",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "28–29 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "A World of Calm",
@@ -423,7 +631,8 @@
         "Premiere": "October 1, 2020",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "Full Bloom",
@@ -431,6 +640,7 @@
         "Premiere": "November 12, 2020",
         "Seasons": "2 season, 16 episodes",
         "Runtime": "41–44 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -439,6 +649,7 @@
         "Premiere": "November 26, 2020",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "41–48 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -447,7 +658,8 @@
         "Premiere": "December 3, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–54 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "Baketopia",
@@ -455,6 +667,7 @@
         "Premiere": "March 25, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "30 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -463,6 +676,7 @@
         "Premiere": "April 22, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–45 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -471,6 +685,7 @@
         "Premiere": "April 29, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "38–44 min.",
+        "Language": "English",
         "Status": "Ended"
       },
       {
@@ -479,6 +694,7 @@
         "Premiere": "July 29, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–62 min.",
+        "Language": "English",
         "Status": "Renewed"
       },
       {
@@ -487,6 +703,7 @@
         "Premiere": "August 12, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "48 min.",
+        "Language": "English",
         "Status": "Renewed"
       },
       {
@@ -495,7 +712,44 @@
         "Premiere": "August 19, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "31–34 min.",
+        "Language": "English",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Juanpa + Chef",
+        "Genre": "Cooking show",
+        "Premiere": "November 11, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "29 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Sandy + Chef",
+        "Genre": "Cooking show",
+        "Premiere": "November 11, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "29 min.",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Cut",
+        "Genre": "Reality competition",
+        "Premiere": "November 25, 2021January 27, 2022&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–49 min.",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "40 Means Nothing",
+        "Genre": "Reality show",
+        "Premiere": "December 2, 2021February 3, 2022&#91;c&#93;",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "33–51 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
       },
       {
         "Title": "Finding Magic Mike",
@@ -503,14 +757,34 @@
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "39–46 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
         "Title": "My Mom, Your Dad",
         "Genre": "Dating show",
         "Premiere": "January 13, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "29–46 min.",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "About Last Night",
+        "Genre": "Game show",
+        "Premiere": "February 10, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "22–27 min.",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Queen Stars",
+        "Genre": "Reality competition",
+        "Premiere": "March 22, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
+        "Language": "Portuguese",
         "Status": "Pending"
       }
     ]
@@ -526,9 +800,10 @@
         "Title": "The Not-Too-Late Show with Elmo",
         "Genre": "Talk show",
         "Premiere": "May 27, 2020",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "2 seasons, 29 episodes",
         "Runtime": "14–16 min.",
-        "Status": "Season 2 ongoing"
+        "Language": "English",
+        "Status": "Pending"
       },
       {
         "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime Shorts!",
@@ -536,7 +811,8 @@
         "Premiere": "September 17, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "4–8 min.",
-        "Status": "Pending"
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "My Sesame Street Friends",
@@ -544,187 +820,16 @@
         "Premiere": "November 12, 2020",
         "Seasons": "7 seasons, 91 episodes",
         "Runtime": "11–12 min.",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language",
-      "Scripted"
-    ],
-    "data": [
-      {
-        "Title": "Kamikaze",
-        "Genre": "Young adult thriller drama",
-        "Premiere": "November 14, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "33 min.",
-        "Status": "Season 1 ongoing"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language",
-      "Scripted"
-    ],
-    "data": [
-      {
-        "Title": "The Missing",
-        "Genre": "Crime drama",
-        "Premiere": "October 14, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "45 min.",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language",
-      "Scripted"
-    ],
-    "data": [
-      {
-        "Title": "Amongst Men",
-        "Genre": "Crime",
-        "Premiere": "September 26, 2021",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "60 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
-        "Title": "Love Spells",
-        "Genre": "Romantic dramedy",
-        "Premiere": "October 14, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "44–51 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Días de Gallos",
-        "Genre": "Coming-of-age music drama",
-        "Premiere": "November 4, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "39–52 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Frankelda's Book of Spooks",
-        "Genre": "Animated family horror anthology",
-        "Premiere": "October 29, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "12–16 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Venga Juan",
-        "Genre": "Political satire",
-        "Premiere": "November 28, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "A Thousand Fangs",
-        "Genre": "Military action drama",
-        "Premiere": "December 9, 2021",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "44–54 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Todo lo otro",
-        "Genre": "Comedy-drama",
-        "Premiere": "December 10, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "40 Means Nothing",
-        "Genre": "Drama",
-        "Premiere": "December 23, 2021",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Búnker",
-        "Genre": "Action comedy",
-        "Premiere": "January 27, 2022",
-        "Seasons": "TBA",
-        "Runtime": "30 min.",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language",
-      "Unscripted"
-    ],
-    "data": [
-      {
-        "Title": "Sandy + Chef",
-        "Genre": "Cooking show",
-        "Premiere": "November 11, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "29 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Cut",
-        "Genre": "Reality competition",
-        "Premiere": "November 25, 2021&#91;d&#93;January 27, 2022&#91;e&#93;",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Jornada Astral",
+        "Title": "Astral Journey",
         "Genre": "Talk show",
-        "Premiere": "December 21, 2021&#91;d&#93;January 20, 2022&#91;e&#93;",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Queen Stars",
-        "Genre": "Reality competition",
-        "Premiere": "March 22, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language",
-      "Unscripted"
-    ],
-    "data": [
-      {
-        "Title": "The Truth of Dolores Vazquez",
-        "Genre": "True crime docuseries",
-        "Premiere": "October 26, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "49–54 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Juanpa + Chef",
-        "Genre": "Cooking show",
-        "Premiere": "November 11, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "29 min.",
+        "Premiere": "December 21, 2021January 20, 2022&#91;c&#93;",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "36–41 min.",
+        "Language": "Portuguese",
         "Status": "Pending"
       }
     ]
@@ -753,7 +858,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "47 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "It's a Sin",
@@ -794,6 +899,36 @@
         "Runtime": "30 min.",
         "Language": "Spanish",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Girl Before",
+        "Genre": "Psychological thriller",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "February 10, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "55–58 min.",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Tourist",
+        "Genre": "Mystery thriller",
+        "Partner/Country": "BBC One/United KingdomZDF/GermanyStan/Australia",
+        "Premiere": "March 3, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries; Post-production"
+      },
+      {
+        "Title": "Theodosia",
+        "Genre": "Family fantasy adventure",
+        "Partner/Country": "ZDF/GermanyGloboplay/Brazil",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "30 min.",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -819,7 +954,7 @@
         "Premiere": "June 25, 2020",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "45–56 min.",
-        "Status": "Renewed&#91;36&#93;&#91;f&#93;"
+        "Status": "Renewed"
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -828,16 +963,16 @@
         "Premiere": "June 25, 2020",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "24 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Search Party (seasons 3–4)",
+        "Title": "Search Party (seasons 3–5)",
         "Genre": "Satirical dark comedy",
         "Prev. network(s)": "TBS",
         "Premiere": "June 25, 2020",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "23–26 min.",
-        "Status": "Final Season due to premiere on January 7, 2022"
+        "Seasons": "3 seasons, 30 episodes",
+        "Runtime": "20–30 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Infinity Train (seasons 3–4)",
@@ -909,13 +1044,13 @@
         "Premiere": "November 11, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–33 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 23, 2021",
+        "Premiere": "December 5, 2021December 23, 2021&#91;c&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Pending"
@@ -981,6 +1116,12 @@
         "Genre": "Family comedy",
         "Premiere": "November 25, 2021",
         "Runtime": "24 min."
+      },
+      {
+        "Title": "And Just Like That… The Documentary",
+        "Genre": "Television show",
+        "Premiere": "February 3, 2022",
+        "Runtime": "1 hour, 13 min."
       }
     ]
   },
@@ -994,79 +1135,113 @@
         "Title": "An American Pickle",
         "Genre": "Comedy",
         "Release date": "August 6, 2020",
-        "Runtime": "1 hour, 29 min."
+        "Runtime": "1 hour, 29 min.",
+        "Language": "English"
       },
       {
         "Title": "Unpregnant",
         "Genre": "Drama",
         "Release date": "September 10, 2020",
-        "Runtime": "1 hour, 44 min."
+        "Runtime": "1 hour, 44 min.",
+        "Language": "English"
       },
       {
         "Title": "Charm City Kings",
         "Genre": "Drama",
         "Release date": "October 8, 2020",
-        "Runtime": "2 hours, 4 min."
+        "Runtime": "2 hours, 4 min.",
+        "Language": "English"
       },
       {
         "Title": "The Witches",
         "Genre": "Fantasy comedy",
         "Release date": "October 22, 2020",
-        "Runtime": "1 hour, 45 min."
+        "Runtime": "1 hour, 45 min.",
+        "Language": "English"
       },
       {
         "Title": "Superintelligence",
         "Genre": "Action comedy",
         "Release date": "November 26, 2020",
-        "Runtime": "1 hour, 46 min."
+        "Runtime": "1 hour, 46 min.",
+        "Language": "English"
       },
       {
         "Title": "Let Them All Talk",
         "Genre": "Comedy-drama",
         "Release date": "December 10, 2020",
-        "Runtime": "1 hour, 53 min."
+        "Runtime": "1 hour, 53 min.",
+        "Language": "English"
       },
       {
         "Title": "Locked Down",
         "Genre": "Romantic comedy heist",
         "Release date": "January 14, 2021",
-        "Runtime": "1 hour, 58 min."
+        "Runtime": "1 hour, 58 min.",
+        "Language": "English"
       },
       {
         "Title": "Zack Snyder's Justice League",
         "Genre": "Superhero",
         "Release date": "March 18, 2021",
-        "Runtime": "4 hours, 2 min."
+        "Runtime": "4 hours, 2 min.",
+        "Language": "English"
       },
       {
         "Title": "No Sudden Move",
         "Genre": "Crime thriller",
         "Release date": "July 1, 2021",
-        "Runtime": "1 hour, 55 min."
+        "Runtime": "1 hour, 55 min.",
+        "Language": "English"
       },
       {
         "Title": "8-Bit Christmas",
         "Genre": "Comedy",
         "Release date": "November 24, 2021",
-        "Runtime": "1 hour, 37 min."
+        "Runtime": "1 hour, 37 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Júpiter",
+        "Genre": "Drama",
+        "Release date": "January 21, 2022",
+        "Runtime": "1 hour, 37 min.",
+        "Language": "Portuguese"
       },
       {
         "Title": "The Fallout",
         "Genre": "High school drama",
         "Release date": "January 27, 2022",
-        "Runtime": "1 hour, 32 min."
+        "Runtime": "1 hour, 32 min.",
+        "Language": "English"
       },
       {
-        "Title": "KIMI",
+        "Title": "Kimi",
         "Genre": "Crime thriller",
         "Release date": "February 10, 2022",
-        "Runtime": "TBA"
+        "Runtime": "TBA",
+        "Language": "English"
       },
       {
         "Title": "Moonshot",
         "Genre": "Science fiction romantic comedy",
-        "Release date": "March 24, 2022",
-        "Runtime": "TBA"
+        "Release date": "March 31, 2022",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "The Father of the Bride",
+        "Genre": "Comedy-drama",
+        "Release date": "June 16, 2022",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "House Party",
+        "Genre": "Comedy",
+        "Release date": "July 28, 2022",
+        "Runtime": "TBA",
+        "Language": "English"
       }
     ]
   },
@@ -1125,22 +1300,22 @@
         "Runtime": "1 hour, 26 min."
       },
       {
-        "Title": "Reign of Superwomen",
-        "Subject": "TBA",
+        "Title": "Reign of the Superwomen",
+        "Subject": "Superhero",
         "Release date": "November 18, 2021",
         "Runtime": "1 hour, 21 min."
+      },
+      {
+        "Title": "Diego, The Last Goodbye",
+        "Subject": "Soccer",
+        "Release date": "November 25, 2021January 13, 2022&#91;c&#93;",
+        "Runtime": "1 hour, 29 min."
       },
       {
         "Title": "Beanie Mania",
         "Subject": "Business",
         "Release date": "December 23, 2021",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Diego, The Last Goodbye",
-        "Subject": "Soccer",
-        "Release date": "January 13, 2022",
-        "Runtime": "TBA"
+        "Runtime": "1 hour, 20 min."
       }
     ]
   },
@@ -1151,116 +1326,26 @@
     ],
     "data": [
       {
-        "Title": "Beth Stelling: Girl Daddy",
-        "Genre": "Stand-up comedy",
-        "Release date": "August 20, 2020",
-        "Runtime": "58 min."
-      },
-      {
-        "Title": "Conan O'Brien's Team Coco Presents: James Veitch: Straight to VHS&#91;c&#93;",
-        "Genre": "Stand-up comedy",
-        "Release date": "August 20, 2020",
-        "Runtime": "57 min."
-      },
-      {
-        "Title": "HA Comedy Festival: The Art of Comedy",
-        "Genre": "Stand-up comedy",
-        "Release date": "August 20, 2020",
-        "Runtime": "1 hour, 1 min."
-      },
-      {
-        "Title": "Rose Matafeo: Horndog",
-        "Genre": "Stand-up comedy",
-        "Release date": "August 20, 2020",
-        "Runtime": "58 min."
-      },
-      {
-        "Title": "Chelsea Handler: Evolution",
-        "Genre": "Stand-up comedy",
-        "Release date": "October 22, 2020",
-        "Runtime": "1 hour, 8 min."
-      },
-      {
-        "Title": "Colin Quinn &amp; Friends: A Parking Lot Comedy Show",
-        "Genre": "Stand-up comedy",
-        "Release date": "November 12, 2020",
-        "Runtime": "49 min."
-      },
-      {
         "Title": "My Gift: A Christmas Special From Carrie Underwood",
         "Genre": "Music",
         "Release date": "December 3, 2020",
-        "Runtime": "54 min."
+        "Runtime": "54 min.",
+        "Language": "English"
       },
       {
         "Title": "Homeschool Musical: Class of 2020",
         "Genre": "Musical",
         "Release date": "December 17, 2020",
-        "Runtime": "52 min."
+        "Runtime": "52 min.",
+        "Language": "English"
       },
       {
         "Title": "The Runaway Bunny",
         "Genre": "Animation",
         "Release date": "March 25, 2021",
-        "Runtime": "27 min."
+        "Runtime": "27 min.",
+        "Language": "English"
       },
-      {
-        "Title": "Marlon Wayans: You Know What It Is",
-        "Genre": "Stand-up comedy",
-        "Release date": "August 19, 2021",
-        "Runtime": "58 min."
-      },
-      {
-        "Title": "Ahir Shah: Dots",
-        "Genre": "Stand-up comedy",
-        "Release date": "September 23, 2021",
-        "Runtime": "1 hour"
-      },
-      {
-        "Title": "Halsey: If I Can't Have Love, I Want Power",
-        "Genre": "Visual concept album",
-        "Release date": "October 7, 2021",
-        "Runtime": "50 min."
-      },
-      {
-        "Title": "Phoebe Robinson: Sorry, Harriet Tubman",
-        "Genre": "Stand-up comedy",
-        "Release date": "October 14, 2021",
-        "Runtime": "55 min."
-      },
-      {
-        "Title": "Aida Rodriguez: Fighting Words",
-        "Genre": "Stand-up comedy",
-        "Release date": "November 4, 2021",
-        "Runtime": "1 hour, 3 min."
-      },
-      {
-        "Title": "2nd Annual HA Festival: The Art of Comedy",
-        "Genre": "Stand-up comedy",
-        "Release date": "December 16, 2021",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Harry Potter 20th Anniversary: Return to Hogwarts",
-        "Genre": "Unscripted reunion",
-        "Release date": "January 1, 2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Moses Storm: White Trash",
-        "Genre": "Stand-up comedy",
-        "Release date": "January 20, 2022",
-        "Runtime": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original films",
-      "Non-English language",
-      "Specials"
-    ],
-    "data": [
       {
         "Title": "Romeo Santos: Utopia Live from MetLife Stadium",
         "Genre": "Concert film",
@@ -1273,14 +1358,95 @@
         "Genre": "Concert film",
         "Release date": "July 30, 2021",
         "Runtime": "1 hour, 32 min.",
-        "Language": "EnglishSpanish"
+        "Language": "English/Spanish"
+      },
+      {
+        "Title": "Halsey: If I Can't Have Love, I Want Power",
+        "Genre": "Visual concept album",
+        "Release date": "October 7, 2021",
+        "Runtime": "50 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+        "Genre": "Unscripted reunion",
+        "Release date": "January 1, 2022",
+        "Runtime": "1 hour, 42 min.",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original films",
+      "Specials",
+      "Stand-up comedy"
+    ],
+    "data": [
+      {
+        "Title": "Beth Stelling: Girl Daddy",
+        "Release date": "August 20, 2020",
+        "Runtime": "58 min."
+      },
+      {
+        "Title": "Conan O'Brien's Team Coco Presents: James Veitch: Straight to VHS",
+        "Release date": "August 20, 2020",
+        "Runtime": "57 min."
+      },
+      {
+        "Title": "HA Comedy Festival: The Art of Comedy",
+        "Release date": "August 20, 2020",
+        "Runtime": "1 hour, 1 min."
+      },
+      {
+        "Title": "Rose Matafeo: Horndog",
+        "Release date": "August 20, 2020",
+        "Runtime": "58 min."
+      },
+      {
+        "Title": "Chelsea Handler: Evolution",
+        "Release date": "October 22, 2020",
+        "Runtime": "1 hour, 8 min."
+      },
+      {
+        "Title": "Colin Quinn &amp; Friends: A Parking Lot Comedy Show",
+        "Release date": "November 12, 2020",
+        "Runtime": "49 min."
+      },
+      {
+        "Title": "Marlon Wayans: You Know What It Is",
+        "Release date": "August 19, 2021",
+        "Runtime": "58 min."
+      },
+      {
+        "Title": "Ahir Shah: Dots",
+        "Release date": "September 23, 2021",
+        "Runtime": "1 hour"
       },
       {
         "Title": "Comedy Chingonas",
-        "Genre": "Stand-up comedy",
         "Release date": "November 18, 2021",
-        "Runtime": "58 min.",
-        "Language": "EnglishSpanish"
+        "Runtime": "58 min."
+      },
+      {
+        "Title": "Phoebe Robinson: Sorry, Harriet Tubman",
+        "Release date": "October 14, 2021",
+        "Runtime": "55 min."
+      },
+      {
+        "Title": "Aida Rodriguez: Fighting Words",
+        "Release date": "November 4, 2021",
+        "Runtime": "1 hour, 3 min."
+      },
+      {
+        "Title": "2nd Annual HA Festival: The Art of Comedy",
+        "Release date": "December 16, 2021",
+        "Runtime": "54 min."
+      },
+      {
+        "Title": "Moses Storm: White Trash",
+        "Release date": "January 20, 2022",
+        "Runtime": "1 hour"
       }
     ]
   },
@@ -1315,14 +1481,6 @@
         "Status": "Filming"
       },
       {
-        "Title": "Julia",
-        "Genre": "Biographical drama",
-        "Premiere": "2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "The Staircase",
         "Genre": "True crime drama",
         "Premiere": "2022",
@@ -1345,6 +1503,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
+      },
+      {
+        "Title": "Degrassi",
+        "Genre": "Teen drama",
+        "Premiere": "2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Series order"
       },
       {
         "Title": "Circe",
@@ -1453,10 +1619,10 @@
       {
         "Title": "Our Flag Means Death",
         "Genre": "Period comedy",
-        "Premiere": "2022",
+        "Premiere": "March 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30 min.",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "The Garcias",
@@ -1471,14 +1637,6 @@
         "Genre": "Coming-of-age comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Runtime": "30 min.",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Minx",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
         "Status": "Series order"
       },
@@ -1508,34 +1666,20 @@
     ],
     "data": [
       {
-        "Title": "The Boondocks",
-        "Genre": "Black sitcom",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "TBA",
-        "Status": "In production; Renewed"
-      },
-      {
         "Title": "Clone High",
         "Genre": "Satirical sitcom",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order; Renewed"
       },
       {
         "Title": "Fired on Mars",
         "Genre": "Science fiction workplace comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Velma",
         "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -1549,7 +1693,7 @@
     ],
     "data": [
       {
-        "Title": "Jade Armor&#91;g&#93;",
+        "Title": "Jade Armor",
         "Genre": "Comedy",
         "Premiere": "Early 2022",
         "Seasons": "TBA",
@@ -1557,7 +1701,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Gremlins: Secrets of the Mogwai&#91;b&#93;",
+        "Title": "Gremlins: Secrets of the Mogwai",
         "Genre": "Fantasy comedy",
         "Premiere": "2022",
         "Seasons": "1 season, 10 episodes",
@@ -1573,7 +1717,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Tiny Toons Looniversity&#91;g&#93;",
+        "Title": "Tiny Toons Looniversity",
         "Genre": "Slapstick comedy",
         "Premiere": "2022",
         "Seasons": "TBA",
@@ -1581,7 +1725,7 @@
         "Status": "Series order; Renewed"
       },
       {
-        "Title": "Batwheels&#91;h&#93;",
+        "Title": "Batwheels",
         "Genre": "Superhero",
         "Premiere": "2022",
         "Seasons": "TBA",
@@ -1589,7 +1733,7 @@
         "Status": "In production"
       },
       {
-        "Title": "Unicorn: Warriors Eternal&#91;b&#93;",
+        "Title": "Unicorn: Warriors Eternal",
         "Genre": "Supernatural fantasy anthology",
         "Premiere": "2022",
         "Seasons": "TBA",
@@ -1605,15 +1749,15 @@
         "Status": "TBA"
       },
       {
-        "Title": "Batman: Caped Crusader&#91;b&#93;",
+        "Title": "Batman: Caped Crusader",
         "Genre": "Superhero drama",
         "Premiere": "2023",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "TBA"
       },
       {
-        "Title": "My Adventures with Superman&#91;b&#93;",
+        "Title": "My Adventures with Superman",
         "Genre": "Superhero drama",
         "Premiere": "2023",
         "Seasons": "1 season, 10 episodes",
@@ -1645,7 +1789,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Amazing World of Gumball: The Series&#91;g&#93;",
+        "Title": "The Amazing World of Gumball: The Series",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1653,7 +1797,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Unlimited Squirrels!&#91;g&#93;",
+        "Title": "Unlimited Squirrels!",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1783,14 +1927,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "About Last Night",
-        "Genre": "Game show",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "First Dates Hotel",
         "Genre": "Reality",
         "Premiere": "TBA",
@@ -1869,12 +2005,12 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Odwilż",
+        "Title": "The Informant",
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Language": "Polish",
+        "Language": "Hungarian",
         "Status": "Post-production"
       },
       {
@@ -1903,6 +2039,15 @@
         "Runtime": "TBA",
         "Language": "Finnish",
         "Status": "Series order"
+      },
+      {
+        "Title": "Korean adaptation of The Mentalist",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Korean",
+        "Status": "Series order"
       }
     ]
   },
@@ -1913,6 +2058,15 @@
       "Unscripted"
     ],
     "data": [
+      {
+        "Title": "Untitled Latin-American K-Pop competition series",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "In development"
+      },
       {
         "Title": "Bilardo, El Doctor del Fútbol",
         "Genre": "Biographical soccer docuseries",
@@ -1940,44 +2094,14 @@
     ],
     "data": [
       {
-        "Title": "Tokyo Vice",
-        "Genre": "Crime drama",
-        "Partner/Country": "WOWOW/Japan",
-        "Premiere": "Early 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "60 min.",
-        "Language": "EnglishJapanese",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "The Girl Before",
-        "Genre": "Psychological thriller",
-        "Partner/Country": "BBC One/United Kingdom",
+        "Title": "We Baby Bears (season 2)",
+        "Genre": "Animated",
+        "Partner/Country": "Cartoon Network/United States",
         "Premiere": "TBA",
-        "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "11 min.",
         "Language": "English",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Theodosia",
-        "Genre": "Family fantasy adventure",
-        "Partner/Country": "ZDF/GermanyGloboplay/Brazil",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 26 episodes",
-        "Runtime": "30 min.",
-        "Language": "English",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Tourist",
-        "Genre": "Mystery thriller",
-        "Partner/Country": "BBC One/United KingdomZDF/GermanyStan/Australia",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
-        "Status": "Miniseries; Post-production"
+        "Status": "Season order"
       }
     ]
   },
@@ -2008,7 +2132,17 @@
         "Status": "Season order"
       },
       {
-        "Title": "Total Drama Island (season 2)&#91;g&#93;",
+        "Title": "30 Coins (season 2)",
+        "Genre": "Mystery horror",
+        "Prev. network(s)": "HBO Europe",
+        "Premiere": "2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min.",
+        "Language": "SpanishItalian",
+        "Status": "Season order"
+      },
+      {
+        "Title": "Total Drama Island (season 2)",
         "Genre": "Animated comedy",
         "Prev. network(s)": "Teletoon",
         "Premiere": "TBA",
@@ -2036,43 +2170,36 @@
     ],
     "data": [
       {
-        "Title": "Did I Do That to the Holidays? A Steve Urkel Story&#91;b&#93;",
+        "Title": "Naked Mole Rat Gets Dressed: The Underground Rock Experience",
+        "Genre": "Animated musical comedy",
+        "Premiere": "Mid-2022",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Did I Do That to the Holidays? A Steve Urkel Story",
         "Genre": "Animated musical comedy",
         "Premiere": "2022",
         "Runtime": "TBA",
         "Status": "Pre-production"
       },
       {
-        "Title": "Merry Little Batman&#91;b&#93;",
+        "Title": "Merry Little Batman",
         "Genre": "Animated action comedy",
         "Premiere": "2022",
         "Runtime": "TBA",
         "Status": "Pre-production"
       },
       {
-        "Title": "Untitled Looney Tunes Cartoons film&#91;b&#93;",
+        "Title": "Untitled Looney Tunes Cartoons film",
         "Genre": "Animated slapstick comedy",
         "Premiere": "2022",
         "Runtime": "TBA",
         "Status": "Pre-production"
       },
       {
-        "Title": "Untitled The Boondocks special",
-        "Genre": "Adult animated black sitcom",
-        "Premiere": "2022",
-        "Runtime": "50 min.",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "The Amazing World of Gumball: The Movie!&#91;g&#93;",
+        "Title": "The Amazing World of Gumball: The Movie!",
         "Genre": "Animated comedy",
-        "Premiere": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Naked Mole Rat Gets Dressed: The Rock Special&#91;g&#93;",
-        "Genre": "Animated musical comedy",
         "Premiere": "TBA",
         "Runtime": "TBA",
         "Status": "Pre-production"
@@ -2083,19 +2210,6 @@
         "Premiere": "TBA",
         "Runtime": "60 min.",
         "Status": "Pre-production"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming"
-    ],
-    "data": [
-      {
-        "Title": "Untitled Latin-American K-Pop competition series",
-        "Genre": "Reality competition",
-        "Status": "In development"
       }
     ]
   },
@@ -2191,7 +2305,7 @@
         "Status": "Pilot order"
       },
       {
-        "Title": "Cat the Cat's Show the Show Show with YOU the YOU!&#91;g&#93;",
+        "Title": "Cat the Cat's Show the Show Show with YOU the YOU!",
         "Genre": "Comedy",
         "Status": "Pilot order"
       },
@@ -2241,7 +2355,7 @@
         "Status": "In development"
       },
       {
-        "Title": "Family Mash-Up&#91;g&#93;",
+        "Title": "Family Mash-Up",
         "Genre": "Musical comedy",
         "Status": "In development"
       },
@@ -2281,7 +2395,7 @@
         "Status": "In development"
       },
       {
-        "Title": "Gross Girls&#91;g&#93;",
+        "Title": "Gross Girls",
         "Genre": "Animated comedy",
         "Status": "In development"
       },
@@ -2396,6 +2510,11 @@
         "Status": "Pilot filming"
       },
       {
+        "Title": "The Other Hamilton",
+        "Genre": "Historical drama",
+        "Status": "In development"
+      },
+      {
         "Title": "Outliers",
         "Genre": "Biographical anthology/Historical drama",
         "Status": "In development"
@@ -2473,6 +2592,11 @@
       {
         "Title": "Slam!",
         "Genre": "Adult animated sports",
+        "Status": "In development"
+      },
+      {
+        "Title": "Storytown",
+        "Genre": "Adult animated hip hop comedy",
         "Status": "In development"
       },
       {
@@ -2559,6 +2683,13 @@
     ],
     "data": [
       {
+        "Title": "Am I OK?",
+        "Genre": "Comedy drama",
+        "Release date": "TBA",
+        "Runtime": "1 hour, 26 min.",
+        "Status": "Completed"
+      },
+      {
         "Title": "Batgirl",
         "Genre": "Superhero",
         "Release date": "2022",
@@ -2587,20 +2718,6 @@
         "Status": "In Production"
       },
       {
-        "Title": "The Father of the Bride",
-        "Genre": "Comedy-drama",
-        "Release date": "2022",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "House Party",
-        "Genre": "Comedy",
-        "Release date": "2022",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "1000 Miles",
         "Genre": "Biopic",
         "Release date": "TBA",
@@ -2617,6 +2734,20 @@
       {
         "Title": "Field Notes on Love",
         "Genre": "Young adult romance",
+        "Release date": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Final Destination 6",
+        "Genre": "Supernatural horror",
+        "Release date": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Pretty Big",
+        "Genre": "Biographical drama",
         "Release date": "TBA",
         "Runtime": "TBA",
         "Status": "Pre-production"
@@ -2642,8 +2773,20 @@
         "Runtime": "1 hour, 35 min."
       },
       {
+        "Title": "Navalny",
+        "Subject": "True crime",
+        "Release date": "TBA",
+        "Runtime": "1 hour, 38 min."
+      },
+      {
         "Title": "The Scoop",
         "Subject": "Politics",
+        "Release date": "TBA",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "The Last Movie Stars",
+        "Subject": "Biography",
         "Release date": "TBA",
         "Runtime": "TBA"
       }
@@ -2683,6 +2826,10 @@
       "In development"
     ],
     "data": [
+      {
+        "Title": "A Christmas Story Christmas",
+        "Genre": "Christmas comedy"
+      },
       {
         "Title": "The Ancestor",
         "Genre": "Psychological thriller"
@@ -2770,6 +2917,10 @@
       {
         "Title": "The Wild",
         "Genre": "Thriller"
+      },
+      {
+        "Title": "Wonder Twins",
+        "Genre": "Superhero"
       }
     ]
   }

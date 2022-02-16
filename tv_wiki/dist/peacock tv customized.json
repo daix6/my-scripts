@@ -35,7 +35,7 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "42–47 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "One of Us Is Lying",
@@ -57,9 +57,9 @@
         "Title": "Bel-Air",
         "Genre": "Drama",
         "Premiere": "February 13, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Length": "60 min.",
-        "Status": "Renewed"
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
         "Title": "Joe vs. Carole",
@@ -114,7 +114,15 @@
         "Genre": "Action comedy",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bust Down",
+        "Genre": "Comedy",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -137,9 +145,9 @@
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
         "Genre": "Family adventure",
         "Premiere": "November 24, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "23 min.",
-        "Status": "Season 2 due to premiere on February 3, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Supernatural Academy",
@@ -147,7 +155,7 @@
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -278,9 +286,9 @@
         "Genre": "Reality/social experiment",
         "Prev. network(s)": "NBC",
         "Premiere": "November 12, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Length": "43 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Real Housewives of Miami (season 4)",
@@ -300,7 +308,7 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
@@ -321,17 +329,10 @@
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
-        "Language": "English"
-      },
-      {
-        "Title": "The Real Housewives of the North Pole",
-        "Genre": "Reality",
-        "Premiere": "December 9, 2021",
-        "Length": "TBA",
         "Language": "English"
       }
     ]

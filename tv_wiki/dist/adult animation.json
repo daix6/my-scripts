@@ -465,7 +465,7 @@
       {
         "Title": "Family Guy",
         "Genre": "Sitcom",
-        "Seasons/episodes": "20 seasons, 371 episodes",
+        "Seasons/episodes": "20 seasons, 381 episodes",
         "Show creator(s)": "Seth MacFarlane",
         "Original release": "January 31, 1999 – present",
         "Network": "Fox",
@@ -491,10 +491,10 @@
         "Genre": "Science fiction",
         "Seasons/episodes": "7 seasons, 140 episodes",
         "Show creator(s)": "Matt Groening",
-        "Original release": "March 28, 1999 – September 4, 2013",
-        "Network": "Fox&#91;am&#93;",
+        "Original release": "March 28, 1999 – present",
+        "Network": "Fox&#91;al&#93;",
         "Studio": "The Curiosity Company",
-        "Age rating": "TV-14&#91;an&#93;",
+        "Age rating": "TV-14&#91;am&#93;",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -504,7 +504,7 @@
         "Seasons/episodes": "4 seasons, 52 episodes",
         "Show creator(s)": "Loren Bouchard",
         "Original release": "April 26, 1999 – April 4, 2004",
-        "Network": "UPN&#91;ar&#93;",
+        "Network": "UPN&#91;aq&#93;",
         "Studio": "Burns &amp; Burns Productions",
         "Age rating": "TV-PG",
         "Technique": "Flash",
@@ -985,7 +985,7 @@
         "Show creator(s)": "Seth Green",
         "Original release": "February 20, 2005 – present",
         "Network": "Adult Swim",
-        "Studio": "ShadowMachine&#91;al&#93;",
+        "Studio": "ShadowMachine&#91;ak&#93;",
         "Age rating": "TV-MA",
         "Technique": "Stop-motion",
         "Source": ""
@@ -1022,7 +1022,7 @@
         "Original release": "Revival series: July 20, 2020 – July 31, 2020",
         "Network": "Adult Swim",
         "Studio": "Radical Axis",
-        "Age rating": "TV-MA&#91;aq&#93;",
+        "Age rating": "TV-MA&#91;ap&#93;",
         "Technique": "Flash",
         "Source": ""
       },
@@ -1323,7 +1323,7 @@
         "Network": "Fox",
         "Studio": "Tantamount Studios",
         "Age rating": "TV-14",
-        "Technique": "Flash",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -1368,7 +1368,7 @@
         "Seasons/episodes": "10 seasons, 110 episodes",
         "Show creator(s)": "Adam Reed",
         "Original release": "September 17, 2009 – present",
-        "Network": "FX&#91;be&#93;",
+        "Network": "FX&#91;bd&#93;",
         "Studio": "Floyd County Productions",
         "Age rating": "TV-MA",
         "Technique": "Flash",
@@ -1383,7 +1383,7 @@
         "Network": "Fox",
         "Studio": "Person Unknown Productions",
         "Age rating": "TV-14",
-        "Technique": "Flash&#91;bg&#93;",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -2337,7 +2337,7 @@
       {
         "Title": "Tooning Out The News",
         "Genre": "Variety",
-        "Seasons/episodes": "2 seasons, 134 episodes",
+        "Seasons/episodes": "2 seasons, 233 episodes",
         "Show creator(s)": "Stephen Colbert",
         "Original release": "April 7, 2020 – present",
         "Network": "Paramount+",
@@ -2348,7 +2348,7 @@
       },
       {
         "Title": "The Midnight Gospel",
-        "Genre": "Adventure",
+        "Genre": "Science fantasy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Pendleton Ward",
         "Original release": "April 20, 2020",
@@ -2397,7 +2397,7 @@
       {
         "Title": "Crossing Swords",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 seasons, 20 episodes",
         "Show creator(s)": "John Harvatine IV",
         "Original release": "June 12, 2020 – present",
         "Network": "Hulu",
@@ -2425,7 +2425,7 @@
         "Show creator(s)": "Mike McMahan",
         "Original release": "August 6, 2020 – present",
         "Network": "Paramount+",
-        "Studio": "CBS Television Studios",
+        "Studio": "CBS Eye Animation Productions",
         "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
@@ -2497,7 +2497,7 @@
         "Show creator(s)": "Jeb Stuart",
         "Original release": "November 11, 2020",
         "Network": "Netflix",
-        "Studio": "A+E Studios",
+        "Studio": "A&amp;E Studios",
         "Age rating": "TV-MA",
         "Technique": "Rotoscope",
         "Source": ""
@@ -2565,23 +2565,23 @@
       {
         "Title": "Dota: Dragon's Blood",
         "Genre": "Action",
-        "Seasons/episodes": "1 book, 8 episodes",
+        "Seasons/episodes": "2 books, 16 episodes",
         "Show creator(s)": "Ashley Miller",
         "Original release": "March 25, 2021 – present",
         "Network": "Netflix",
-        "Studio": "Valve Corporation",
+        "Studio": "Studio Mir",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
         "Source": ""
       },
       {
         "Title": "Invincible",
-        "Genre": "Action",
+        "Genre": "Superhero",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Robert Kirkman",
         "Original release": "March 26, 2021 – present",
         "Network": "Amazon Prime Video",
-        "Studio": "Skybound",
+        "Studio": "Skybound Entertainment",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
         "Source": ""
@@ -2648,7 +2648,7 @@
       },
       {
         "Title": "What If...?",
-        "Genre": "Anthology",
+        "Genre": "Action-adventure",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "A.C. Bradley",
         "Original release": "August 11, 2021 – present",
@@ -2675,7 +2675,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 4 episodes",
         "Show creator(s)": "Alyson Levy",
-        "Original release": "September 5, 2021 – present",
+        "Original release": "September 6, 2021 – present",
         "Network": "Adult Swim",
         "Studio": "PFFR",
         "Age rating": "TV-14",
@@ -2725,7 +2725,7 @@
         "Show creator(s)": "Mark Gravas",
         "Original release": "October 22, 2021 – present",
         "Network": "Netflix",
-        "Studio": "TBA",
+        "Studio": "Mission Control Media",
         "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
@@ -2828,14 +2828,14 @@
       },
       {
         "Title": "Smiling Friends",
-        "Genre": "Comedy",
+        "Genre": "Black comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Michael Cusack",
         "Original release": "January 9, 2022 – present",
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-MA",
-        "Technique": "Flash",
+        "Technique": "Flash/CGI/Stop-Motion/Live-Action",
         "Source": ""
       },
       {
@@ -2848,6 +2848,18 @@
         "Studio": "41 Entertainment",
         "Age rating": "TV-14",
         "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "The Legend of Vox Machina",
+        "Genre": "Action",
+        "Seasons/episodes": "1 season, 12 episodes",
+        "Show creator(s)": "Matthew Mercer",
+        "Original release": "January 28, 2022 – present",
+        "Network": "Amazon Prime Video",
+        "Studio": "Amazon Studios",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]
@@ -3185,7 +3197,7 @@
         "Source": ""
       },
       {
-        "Title": "Doomsday Brother",
+        "Title": "Doomsday Brothers",
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 18 episodes",
         "Show creator(s)": "Alain Dagenais",
@@ -3210,7 +3222,7 @@
         "Seasons/episodes": "5 seasons, 93 episodes",
         "Show creator(s)": "Santiago Moure",
         "Original release": "October 29, 1997 – September 1, 2000",
-        "Network": "Canal A&#91;ax&#93;",
+        "Network": "Canal A&#91;aw&#93;",
         "Studio": "Gaira",
         "Source": ""
       },
@@ -3221,7 +3233,7 @@
         "Seasons/episodes": "5 seasons, 93 episodes",
         "Show creator(s)": "Martín de Francisco",
         "Original release": "November 14, 2019 – Present",
-        "Network": "Canal A&#91;ax&#93;",
+        "Network": "Canal A&#91;aw&#93;",
         "Studio": "Conexión Creativa",
         "Source": ""
       },
@@ -3243,7 +3255,7 @@
         "Seasons/episodes": "6 seasons, 179 episodes",
         "Show creator(s)": "Thiago Martins",
         "Original release": "August 23, 2005&#160;– August 25, 2011",
-        "Network": "MTV Brasil&#91;bj&#93;",
+        "Network": "MTV Brasil&#91;bh&#93;",
         "Studio": "Estricnina Desenhos Animados",
         "Source": ""
       },
@@ -3606,7 +3618,7 @@
         "Source": ""
       },
       {
-        "Title": "Immigrants&#91;bl&#93;",
+        "Title": "Immigrants&#91;bj&#93;",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Gábor Csupó",
@@ -3662,18 +3674,6 @@
     ],
     "data": [
       {
-        "Title": "The Boondocks (2022)",
-        "Genre": "Black sitcom",
-        "Seasons, episodes": "2 seasons, TBA",
-        "Show creator": "Aaron McGruder",
-        "Release date": "2022",
-        "Original channel": "HBO Max",
-        "Studio": "Sony Pictures Animation",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
         "Title": "Entergalactic",
         "Genre": "Anthology series",
         "Seasons, episodes": "TBA",
@@ -3695,18 +3695,6 @@
         "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "The Legend of Vox Machina",
-        "Genre": "Action",
-        "Seasons, episodes": "2 seasons, 24 episodes",
-        "Show creator": "Matthew Mercer",
-        "Release date": "January 28, 2022",
-        "Original channel": "Amazon Prime Video",
-        "Studio": "Amazon Studios",
-        "Age rating": "TV-MA",
-        "Technique": "Traditional",
         "Source": ""
       },
       {

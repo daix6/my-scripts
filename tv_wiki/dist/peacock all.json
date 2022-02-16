@@ -35,7 +35,7 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "42–47 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "One of Us Is Lying",
@@ -43,7 +43,7 @@
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "46–49 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "The Girl in the Woods",
@@ -57,9 +57,17 @@
         "Title": "Bel-Air",
         "Genre": "Drama",
         "Premiere": "February 13, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Length": "60 min.",
-        "Status": "Renewed"
+        "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Joe vs. Carole",
+        "Genre": "Biographical drama",
+        "Premiere": "March 3, 2022",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -106,7 +114,15 @@
         "Genre": "Action comedy",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bust Down",
+        "Genre": "Comedy",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -114,8 +130,7 @@
   {
     "category": [
       "Original programming",
-      "Animation",
-      "Kids &amp; family"
+      "Animation"
     ],
     "data": [
       {
@@ -124,7 +139,7 @@
         "Premiere": "July 15, 2020",
         "Seasons": "3 seasons, 26 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Archibald's Next Big Thing Is Here!",
@@ -138,7 +153,7 @@
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
         "Genre": "Family adventure",
         "Premiere": "November 24, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "23 min.",
         "Status": "Pending"
       },
@@ -148,7 +163,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 72 episodes",
         "Length": "2 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
         "Title": "Supernatural Academy",
@@ -269,13 +284,29 @@
         "Premiere": "January 6, 2022",
         "Seasons": "6 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Miniseries ongoing"
       },
       {
-        "Title": "True Story with Ed and Randall&#91;a&#93;",
+        "Title": "Meddling",
+        "Genre": "Sports",
+        "Premiere": "January 6, 2022",
+        "Seasons": "4 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "True Story with Ed and Randall",
         "Genre": "Docu-comedy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "American Rock Stars",
+        "Genre": "Sports",
+        "Premiere": "January 26, 2022",
+        "Seasons": "4 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -435,16 +466,16 @@
     "data": [
       {
         "Title": "Madagascar: A Little Wild",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "5 seasons, 31 episodes",
+        "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on January 13, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
         "Seasons": "2 seasons, 20 episodes",
@@ -453,16 +484,16 @@
       },
       {
         "Title": "Trolls: TrollsTopia",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
         "Seasons": "5 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on February 17, 2022"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
-        "Partner/Country": "Sky Documentaries/United Kingdom",
+        "Partner": "Sky Documentaries",
         "Genre": "Docuseries",
         "Premiere": "June 24, 2021",
         "Seasons": "3 episodes",
@@ -471,7 +502,7 @@
       },
       {
         "Title": "The Croods: Family Tree",
-        "Partner/Country": "Hulu/United States",
+        "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
         "Seasons": "1 season, 6 episodes",
@@ -479,8 +510,8 @@
         "Status": "Pending"
       },
       {
-        "Title": "Dragons: The Nine Realms",
-        "Partner/Country": "Hulu/United States",
+        "Title": "DreamWorks Dragons: The Nine Realms",
+        "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 6 episodes",
@@ -489,12 +520,12 @@
       },
       {
         "Title": "Wolf Like Me",
-        "Partner/Country": "Stan/Australia",
+        "Partner": "Stan",
         "Genre": "Dark romantic comedy",
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
-        "Status": "Series order"
+        "Status": "Pending"
       }
     ]
   },
@@ -551,12 +582,12 @@
       },
       {
         "Title": "Home Sweet Home (season 1B)",
-        "Genre": "Reality competition",
+        "Genre": "Reality/social experiment",
         "Prev. network(s)": "NBC",
         "Premiere": "November 12, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Length": "43 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Real Housewives of Miami (season 4)",
@@ -576,7 +607,7 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
@@ -597,24 +628,10 @@
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;b&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
-        "Language": "English"
-      },
-      {
-        "Title": "The Real Housewives of the North Pole",
-        "Genre": "Reality",
-        "Premiere": "December 9, 2021",
-        "Length": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
-        "Genre": "Comedy",
-        "Premiere": "December 28, 2021",
-        "Length": "75 min.",
         "Language": "English"
       }
     ]
@@ -626,9 +643,18 @@
     ],
     "data": [
       {
+        "Title": "Five Bedrooms",
+        "Genre": "Comedy-drama",
+        "Partner": "Network 10 (season 1)Paramount+ Australia (season 2–present)",
+        "Premiere": "April 15, 2020",
+        "Seasons": "2 season, 16 episodes",
+        "Length": "44–46 min.",
+        "Status": "Renewed"
+      },
+      {
         "Title": "The Capture",
         "Genre": "Mystery crime drama",
-        "Partner/Region": "BBC One/United Kingdom",
+        "Partner": "BBC One",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "56–60 min.",
@@ -637,7 +663,7 @@
       {
         "Title": "Intelligence",
         "Genre": "Sitcom",
-        "Partner/Region": "Sky One/United Kingdom (season 1–2)",
+        "Partner": "Sky One",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "20–22 min.",
@@ -646,25 +672,16 @@
       {
         "Title": "Hitmen",
         "Genre": "Crime dramedy",
-        "Partner/Region": "Sky One/United Kingdom (season 1)Sky Comedy (season 2)",
+        "Partner": "Sky One (season 1)Sky Comedy (season 2–present)",
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min.",
         "Status": "Pending"
       },
       {
-        "Title": "Five Bedrooms",
-        "Genre": "Comedy-drama",
-        "Partner/Region": "Network 10 (season 1)Paramount+ (season 2–present)/Australia",
-        "Premiere": "April 15, 2020",
-        "Seasons": "2 season, 16 episodes",
-        "Length": "44–46 min.",
-        "Status": "Renewed"
-      },
-      {
         "Title": "Save Me",
         "Genre": "Crime drama",
-        "Partner/Region": "Sky Atlantic/United Kingdom",
+        "Partner": "Sky Atlantic",
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "46–50 min.",
@@ -673,7 +690,7 @@
       {
         "Title": "Noughts + Crosses",
         "Genre": "Alternative history drama",
-        "Partner/Region": "BBC One/United Kingdom",
+        "Partner": "BBC One",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–58 min.",
@@ -682,7 +699,7 @@
       {
         "Title": "Departure",
         "Genre": "Conspiracy thriller",
-        "Partner/Region": "Global/Canada",
+        "Partner": "Global",
         "Premiere": "September 17, 2020",
         "Seasons": "2 season, 12 episodes",
         "Length": "42–44 min.",
@@ -691,16 +708,16 @@
       {
         "Title": "Code 404",
         "Genre": "Police procedural dramedy",
-        "Partner/Region": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)/United Kingdom",
+        "Partner": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)",
         "Premiere": "October 8, 2020",
         "Seasons": "2 season, 12 episodes",
         "Length": "26–31 min.",
-        "Status": "Renewed; planned for third season"
+        "Status": "Renewed; Planned for third season"
       },
       {
         "Title": "Dime Quién Soy: Mistress of War",
-        "Genre": "Historical drama",
-        "Partner/Region": "Movistar+/Spain",
+        "Genre": "Historical drama miniseries",
+        "Partner": "Movistar+ Spain",
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
         "Length": "42–60 min.",
@@ -709,16 +726,16 @@
       {
         "Title": "Intergalactic",
         "Genre": "Science fiction",
-        "Partner/Region": "Sky One/United Kingdom",
+        "Partner": "Sky One",
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–47 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "We Are Lady Parts",
         "Genre": "Musical ensemble sitcom",
-        "Partner/Region": "Channel 4/United Kingdom",
+        "Partner": "Channel 4",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "24–25 min.",
@@ -727,7 +744,7 @@
       {
         "Title": "Smother",
         "Genre": "Crime thriller",
-        "Partner/Region": "RTÉ One/Ireland",
+        "Partner": "RTÉ One",
         "Premiere": "July 1, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "49–51 min.",
@@ -736,7 +753,7 @@
       {
         "Title": "Vigil",
         "Genre": "Crime thriller",
-        "Partner/Region": "BBC One/United Kingdom",
+        "Partner": "BBC One",
         "Premiere": "December 23, 2021",
         "Seasons": "6 episodes",
         "Length": "55–59 min.",
@@ -765,13 +782,6 @@
         "Language": "English"
       },
       {
-        "Title": "My Son&#91;c&#93;",
-        "Genre": "Mystery drama",
-        "Release": "September 15, 2021",
-        "Runtime": "1 hour, 35 min",
-        "Language": "English"
-      },
-      {
         "Title": "Curious George: Cape Ahoy",
         "Genre": "Family animation",
         "Release": "September 30, 2021",
@@ -782,7 +792,14 @@
         "Title": "Psych 3: This Is Gus",
         "Genre": "Detective comedy-drama",
         "Release": "November 18, 2021",
-        "Runtime": "1 hour, 36 min",
+        "Runtime": "1 hour, 36 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "The Real Housewives of the North Pole",
+        "Genre": "Comedy",
+        "Release": "December 9, 2021",
+        "Runtime": "1 hour, 24 min.",
         "Language": "English"
       },
       {
@@ -897,6 +914,13 @@
         "Release": "December 17, 2021",
         "Runtime": "1 hour, 25 min.",
         "Language": "English"
+      },
+      {
+        "Title": "Picabo",
+        "Genre": "Sports",
+        "Release": "January 21, 2022",
+        "Runtime": "TBA",
+        "Language": "English"
       }
     ]
   },
@@ -947,6 +971,13 @@
         "Release": "November 5, 2021",
         "Runtime": "53 min.",
         "Language": "English"
+      },
+      {
+        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
+        "Genre": "Comedy",
+        "Release": "December 28, 2021",
+        "Runtime": "1 hour, 15 min.",
+        "Language": "English"
       }
     ]
   },
@@ -972,12 +1003,12 @@
     ],
     "data": [
       {
-        "Title": "Law &amp; Order: Hate Crimes&#91;a&#93;",
+        "Title": "A Friend of the Family",
         "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Miniseries order"
       },
       {
         "Title": "Angelyne",
@@ -985,7 +1016,15 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Miniseries; Post-production&#91;d&#93;"
+        "Status": "Miniseries; Post-production"
+      },
+      {
+        "Title": "Apples Never Fall",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Miniseries order"
       },
       {
         "Title": "Battlestar Galactica",
@@ -996,24 +1035,32 @@
         "Status": "Series order"
       },
       {
-        "Title": "Field of Dreams",
-        "Genre": "Fantasy",
+        "Title": "Dead Day",
+        "Genre": "Supernatural",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "Joe Exotic",
-        "Genre": "Biographical drama",
+        "Title": "Field of Dreams",
+        "Genre": "Sports film fantasy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Miniseries; Filming"
+        "Status": "Series order"
       },
       {
         "Title": "Irreverent",
         "Genre": "Crime thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Law &amp; Order: Hate Crimes",
+        "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1028,7 +1075,7 @@
         "Status": "Miniseries order"
       },
       {
-        "Title": "New York Undercover&#91;e&#93;",
+        "Title": "New York Undercover",
         "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1068,7 +1115,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Queer as Folk&#91;f&#93;",
+        "Title": "Queer as Folk",
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1092,28 +1139,20 @@
     ],
     "data": [
       {
+        "Title": "Killing It",
+        "Genre": "Comedy",
+        "Premiere": "April 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "The Best Man: The Final Chapters",
         "Genre": "Dramedy",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "10 episodes",
+        "Seasons": "10 episodes",
+        "Length": "TBA",
         "Status": "Miniseries order"
-      },
-      {
-        "Title": "Bust Down",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "1 season, 6 episodes",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Killing It",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "1 season, 10 episodes",
-        "Status": "Series order"
       },
       {
         "Title": "Pitch Perfect",
@@ -1127,16 +1166,16 @@
         "Title": "Take Note",
         "Genre": "Musical comedy",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "1 season, 10 episodes",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Ted",
         "Genre": "Comedy",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "1 season, 10 episodes",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Series order"
       }
     ]
@@ -1144,16 +1183,47 @@
   {
     "category": [
       "Upcoming original programming",
-      "Non-English language scripted"
+      "Animation"
     ],
     "data": [
       {
-        "Title": "Armas de Mujer",
-        "Genre": "Dramedy",
+        "Title": "Abominable and the Invisible City",
+        "Genre": "Family comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Language": "Spanish",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Dino Pops",
+        "Genre": "Family comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 52 episodes",
+        "Length": "5 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Megamind's Guide to Defending Your City",
+        "Genre": "Family comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Press Start!",
+        "Genre": "Family comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 52 episodes",
+        "Length": "11 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Team Mekbots Animal Rescue",
+        "Genre": "Family comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 39 episodes",
+        "Length": "7 min.",
         "Status": "Series order"
       }
     ]
@@ -1237,14 +1307,6 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Pride &amp; Prejudice: An Experiment in Romance",
-        "Genre": "Historical period reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -1268,12 +1330,120 @@
   {
     "category": [
       "Upcoming original programming",
+      "Spanish-language programming under Telemundo's TPlus",
+      "Scripted"
+    ],
+    "data": [
+      {
+        "Title": "Pulsaciones ",
+        "Genre": "Medical drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Promesas de Campaña",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Cruzando Limites",
+        "Genre": "Medical drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      },
+      {
+        "Title": "La Formula",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Spanish-language programming under Telemundo's TPlus",
+      "Scripted"
+    ],
+    "data": [
+      {
+        "Title": "Armas de Mujer",
+        "Genre": "Dramedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Spanish-language programming under Telemundo's TPlus",
+      "Unscripted"
+    ],
+    "data": [
+      {
+        "Title": "Mysteries &amp; Scandals",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Gente Sana",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Miniseries order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Spanish-language programming under Telemundo's TPlus",
+      "Unscripted"
+    ],
+    "data": [
+      {
+        "Title": "Young at Heart",
+        "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
       "Co-productions"
     ],
     "data": [
       {
         "Title": "The Makery",
-        "Partner/Country": "Sky Kids/United Kingdom",
+        "Partner": "Sky Kids",
         "Genre": "Educational",
         "Premiere": "TBA",
         "Seasons": "1 season, 25 episodes",
@@ -1282,7 +1452,7 @@
       },
       {
         "Title": "The Undeclared War",
-        "Partner/Country": "Channel 4/United Kingdom",
+        "Partner": "Channel 4",
         "Genre": "Cyber-thriller",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
@@ -1297,6 +1467,11 @@
       "In development"
     ],
     "data": [
+      {
+        "Title": "Abominable and the Invisible City",
+        "Genre": "Animation",
+        "Status": "In development"
+      },
       {
         "Title": "The Adventure Zone",
         "Genre": "Animated fantasy comedy",
@@ -1325,6 +1500,11 @@
       {
         "Title": "Colony 2",
         "Genre": "Animated science-fiction",
+        "Status": "In development"
+      },
+      {
+        "Title": "Dino Pops",
+        "Genre": "Educational television Animation",
         "Status": "In development"
       },
       {
@@ -1373,8 +1553,23 @@
         "Status": "In development"
       },
       {
+        "Title": "Life Will Be The Death of Me",
+        "Genre": "Comedy",
+        "Status": "In development"
+      },
+      {
+        "Title": "Megamind's Guide to Defending Your City",
+        "Genre": "Superhero animation",
+        "Status": "In development"
+      },
+      {
         "Title": "Olympic Boulevard",
         "Genre": "Musical drama",
+        "Status": "In development"
+      },
+      {
+        "Title": "Press Start!",
+        "Genre": "Animation Comedy",
         "Status": "In development"
       },
       {
@@ -1391,6 +1586,11 @@
         "Title": "Straight Talk",
         "Genre": "Comedy",
         "Status": "Pilot order"
+      },
+      {
+        "Title": "Team Mekbots Animal Rescue",
+        "Genre": "Animation",
+        "Status": "In development"
       },
       {
         "Title": "Untitled Jenna Bans/Bill Krebs project",
@@ -1413,7 +1613,7 @@
         "Status": "In development"
       },
       {
-        "Title": "Wild Cards&#91;g&#93;",
+        "Title": "Wild Cards",
         "Genre": "Superhero science fiction",
         "Status": "In development"
       },
@@ -1458,6 +1658,13 @@
         "Release": "2022",
         "Runtime": "TBA",
         "Language": "English"
+      },
+      {
+        "Title": "Messi",
+        "Genre": "Documentary",
+        "Release": "2022",
+        "Runtime": "TBA",
+        "Language": "Spanish"
       }
     ]
   }

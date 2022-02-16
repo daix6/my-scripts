@@ -7,7 +7,7 @@
     "data": [
       {
         "Title": "The Mandalorian",
-        "Genre": "Space Western",
+        "Genre": "Space western",
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "31–54 min",
@@ -59,7 +59,7 @@
         "Premiere": "September 8, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–38 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Hawkeye",
@@ -71,11 +71,11 @@
       },
       {
         "Title": "The Book of Boba Fett",
-        "Genre": "Space opera",
+        "Genre": "Space western",
         "Premiere": "December 29, 2021",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "38–52 min",
-        "Status": "Season 1 ongoing"
+        "Runtime": "38–60 min",
+        "Status": "Pending"
       },
       {
         "Title": "Moon Knight",
@@ -83,6 +83,14 @@
         "Premiere": "March 30, 2022",
         "Seasons": "6 episodes",
         "Runtime": "40–50 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Obi-Wan Kenobi",
+        "Genre": "Space western",
+        "Premiere": "May 25, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
         "Status": "Miniseries"
       }
     ]
@@ -155,7 +163,7 @@
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 16 episodes",
         "Runtime": "24–74 min",
-        "Status": "Season 2 due to premiere in Spring 2022"
+        "Status": "Season 2 due to premiere in early 2022"
       },
       {
         "Title": "Monsters at Work",
@@ -209,7 +217,7 @@
         "Title": "Forky Asks a Question",
         "Genre": "Animation",
         "Premiere": "November 12, 2019",
-        "Seasons": "1 season, 10 episodes&#91;a&#93;",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "3–4 min",
         "Status": "Ended"
       },
@@ -225,7 +233,7 @@
         "Title": "SparkShorts",
         "Genre": "Animation anthology",
         "Premiere": "November 12, 2019",
-        "Seasons": "1 season, 10 episodes&#91;a&#93;",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "7–12 min",
         "Status": "Pending"
       },
@@ -258,7 +266,7 @@
         "Genre": "Animation/ASMR",
         "Premiere": "May 22, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "5–49 min&#91;b&#93;",
+        "Runtime": "5–49 min",
         "Status": "Pending"
       },
       {
@@ -275,7 +283,7 @@
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "8 min",
-        "Status": "Season 2, Episode 1 due to premiere February 18, 2022"
+        "Status": "Season 2 due to premiere February 18, 2022"
       },
       {
         "Title": "Marvel Studios: Legends",
@@ -289,8 +297,8 @@
         "Title": "Pixar Popcorn",
         "Genre": "Animation",
         "Premiere": "January 22, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "2–22 min&#91;b&#93;",
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "2–22 min",
         "Status": "Pending"
       },
       {
@@ -305,16 +313,16 @@
         "Title": "Disney's Launchpad",
         "Genre": "Anthology series",
         "Premiere": "May 28, 2021",
-        "Seasons": "1 season, 6 episodes&#91;a&#93;",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "14–21 min",
         "Status": "Renewed"
       },
       {
-        "Title": "Goofy in How to Stay at Home",
+        "Title": "How to Stay at Home",
         "Genre": "Animated short",
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "1–5 min&#91;b&#93;",
+        "Runtime": "1–5 min",
         "Status": "Pending"
       },
       {
@@ -346,7 +354,7 @@
         "Genre": "Animated comedy",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "3–11 min&#91;b&#93;",
+        "Runtime": "3–11 min",
         "Status": "Pending"
       }
     ]
@@ -361,27 +369,27 @@
         "Title": "Disney's Fairy Tale Weddings (season 2)",
         "Genre": "Docuseries",
         "Premiere": "February 14, 2020",
-        "Prev. network(s)": "Freeform",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "63 min",
+        "Prev. network(s)": "Freeform",
         "Status": "Ended"
       },
       {
         "Title": "Star Wars: The Clone Wars (season 7)",
         "Genre": "Animation/Space opera",
         "Premiere": "February 21, 2020",
-        "Prev. network(s)": "Cartoon Network &amp; Netflix",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "24 min",
+        "Prev. network(s)": "Cartoon Network and Netflix",
         "Status": "Ended"
       },
       {
         "Title": "Weird but True! (season 3)",
         "Genre": "Docuseries",
         "Premiere": "August 14, 2020",
-        "Prev. network(s)": "National Geographic",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "22 min",
+        "Prev. network(s)": "National Geographic",
         "Status": "Ended"
       }
     ]
@@ -389,8 +397,7 @@
   {
     "category": [
       "Original programming",
-      "Specials",
-      "One-time"
+      "Specials"
     ],
     "data": [
       {
@@ -422,43 +429,8 @@
   {
     "category": [
       "Original programming",
-      "Specials",
-      "Episodic"
-    ],
-    "data": [
-      {
-        "Title": "Disney Gallery: The Mandalorian",
-        "Genre": "Docuseries",
-        "Premiere": "May 4, 2020",
-        "Seasons": "2 seasons, 10 episodes",
-        "Runtime": "29–69 min",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
       "Regional original programming",
-      "English language"
-    ],
-    "data": [
-      {
-        "Title": "Club Mickey Mouse Malaysia (season 4)",
-        "Genre": "Variety show",
-        "Premiere": "July 28, 2021&#91;c&#93;November 17, 2021&#91;d&#93;",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "22–24 min",
-        "Exclusive region": "Selected territories&#91;e&#93;",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Regional original programming",
-      "Non-English language"
+      "French"
     ],
     "data": [
       {
@@ -467,7 +439,7 @@
         "Premiere": "February 23, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min",
-        "Exclusive region": "Selected territories",
+        "Exclusive region(s)": "Selected territories",
         "Status": "Pending"
       }
     ]
@@ -476,7 +448,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "Italian"
     ],
     "data": [
       {
@@ -485,7 +457,7 @@
         "Premiere": "November 6, 2020",
         "Seasons": "15 episodes",
         "Runtime": "22–25 min",
-        "Exclusive region": "Selected territories",
+        "Exclusive region(s)": "Selected territories",
         "Status": "Ended"
       }
     ]
@@ -494,7 +466,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "Portuguese"
     ],
     "data": [
       {
@@ -503,7 +475,16 @@
         "Premiere": "January 5, 2022",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "20 min",
-        "Exclusive region": "Brazil",
+        "Exclusive region(s)": "Brazil",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Testers [Shorts] (Brazil)",
+        "Genre": "Educational show",
+        "Premiere": "January 26, 2022",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Brazil",
         "Status": "Pending"
       }
     ]
@@ -512,7 +493,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "Spanish"
     ],
     "data": [
       {
@@ -521,7 +502,7 @@
         "Premiere": "November 17, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "27 min",
-        "Exclusive region": "Latin America",
+        "Exclusive region(s)": "Latin America",
         "Status": "Ended"
       },
       {
@@ -530,7 +511,7 @@
         "Premiere": "January 29, 2021",
         "Seasons": "1 season, 18 episodes",
         "Runtime": "24 min",
-        "Exclusive region": "Latin America",
+        "Exclusive region(s)": "Latin America",
         "Status": "Pending"
       },
       {
@@ -539,7 +520,7 @@
         "Premiere": "February 12, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "38–54 min",
-        "Exclusive region": "Latin America, except Brazil",
+        "Exclusive region(s)": "Latin America, except Brazil",
         "Status": "Ended"
       },
       {
@@ -548,7 +529,7 @@
         "Premiere": "May 21, 2021",
         "Seasons": "6 episodes",
         "Runtime": "26–28 min",
-        "Exclusive region": "Latin America, except Brazil",
+        "Exclusive region(s)": "Latin America, except Brazil",
         "Status": "Ended"
       },
       {
@@ -557,7 +538,7 @@
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "22 min",
-        "Exclusive region": "Latin America",
+        "Exclusive region(s)": "Latin America",
         "Status": "Pending"
       },
       {
@@ -566,7 +547,7 @@
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–53 min",
-        "Exclusive region": "Selected territories",
+        "Exclusive region(s)": "Selected territories",
         "Status": "Pending"
       },
       {
@@ -575,7 +556,7 @@
         "Premiere": "January 5, 2022",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "20 min",
-        "Exclusive region": "Latin America, except Brazil and Mexico",
+        "Exclusive region(s)": "Latin America, except Brazil and Mexico",
         "Status": "Pending"
       },
       {
@@ -584,8 +565,56 @@
         "Premiere": "January 5, 2022",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "20 min",
-        "Exclusive region": "Mexico",
+        "Exclusive region(s)": "Mexico",
         "Status": "Pending"
+      },
+      {
+        "Title": "Testers [Shorts] (Argentina)",
+        "Genre": "Educational show",
+        "Premiere": "January 19, 2022",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Latin America, except Brazil and Mexico",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Testers [Shorts] (Mexico)",
+        "Genre": "Educational show",
+        "Premiere": "January 19, 2022",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Mexico",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Exclusive international distributions"
+    ],
+    "data": [
+      {
+        "Title": "Club Mickey Mouse Malaysia (season 4)",
+        "Genre": "Variety",
+        "Original network": "Disney+ Hotstar",
+        "Premiere": "November 12, 2021December 29, 2021&#91;d&#93;",
+        "Seasons": "13 episodes",
+        "Runtime": "22–24 min",
+        "Language(s)": "English Malay",
+        "Exclusive region(s)": "Singapore, United Kingdom",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Snowdrop",
+        "Genre": "Romantic dark comedy",
+        "Original network": "JTBC",
+        "Premiere": "February 9, 2022",
+        "Seasons": "16 episodes",
+        "Runtime": "90 min",
+        "Language(s)": "Korean",
+        "Exclusive region(s)": "United States",
+        "Status": "Miniseries"
       }
     ]
   }

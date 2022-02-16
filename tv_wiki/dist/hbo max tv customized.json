@@ -9,17 +9,9 @@
         "Title": "Raised by Wolves",
         "Genre": "Science fiction",
         "Premiere": "September 3, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "42–56 min.",
-        "Status": "Season 2 due to premiere on February 3, 2022"
-      },
-      {
-        "Title": "The Flight Attendant",
-        "Genre": "Mystery drama/Dark comedy",
-        "Premiere": "November 26, 2020",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–48 min.",
-        "Status": "Season 2 due to premiere in mid-2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Gossip Girl",
@@ -39,11 +31,27 @@
       },
       {
         "Title": "Peacemaker",
-        "Genre": "Superhero action/Black comedy",
+        "Genre": "Superhero action",
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "39–46 min.",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Julia",
+        "Genre": "Biographical drama",
+        "Premiere": "March 31, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Tokyo Vice",
+        "Genre": "Crime drama",
+        "Premiere": "April 7, 2022",
+        "Seasons": "10 episodes",
+        "Runtime": "60 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -60,6 +68,14 @@
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–36 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Flight Attendant",
+        "Genre": "Mystery drama/Dark comedy",
+        "Premiere": "November 26, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–48 min.",
+        "Status": "Season 2 due to premiere in mid-2022"
       },
       {
         "Title": "Generation",
@@ -110,12 +126,20 @@
         "Status": "Renewed"
       },
       {
-        "Title": "And Just Like That...",
+        "Title": "And Just Like That…",
         "Genre": "Romantic comedy",
         "Premiere": "December 9, 2021",
         "Seasons": "10 episodes",
         "Runtime": "42–45 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Minx",
+        "Genre": "Comedy",
+        "Premiere": "March 17, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -156,15 +180,15 @@
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
   {
     "category": [
       "Original programming",
-      "Non-English language",
-      "Scripted"
+      "Non-English language scripted",
+      "Danish"
     ],
     "data": [
       {
@@ -173,21 +197,21 @@
         "Premiere": "November 14, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "33 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
   {
     "category": [
       "Original programming",
-      "Non-English language",
-      "Scripted"
+      "Non-English language scripted",
+      "Portuguese"
     ],
     "data": [
       {
         "Title": "The Missing",
         "Genre": "Crime drama",
-        "Premiere": "October 14, 2021",
+        "Premiere": "July 22, 2021October 14, 2021&#91;c&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45 min.",
         "Status": "Pending"
@@ -197,10 +221,35 @@
   {
     "category": [
       "Original programming",
-      "Non-English language",
-      "Scripted"
+      "Non-English language scripted",
+      "Romanian"
     ],
     "data": [
+      {
+        "Title": "Ruxx",
+        "Genre": "Comedy-drama",
+        "Premiere": "March 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Spanish"
+    ],
+    "data": [
+      {
+        "Title": "Días de Gallos",
+        "Genre": "Coming-of-age music drama",
+        "Premiere": "September 16, 2021November 4, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "39–52 min.",
+        "Status": "Pending"
+      },
       {
         "Title": "Amongst Men",
         "Genre": "Crime",
@@ -210,11 +259,27 @@
         "Status": "Pending"
       },
       {
-        "Title": "Días de Gallos",
-        "Genre": "Coming-of-age music drama",
-        "Premiere": "November 4, 2021",
+        "Title": "Asesino del Olvido",
+        "Genre": "Crime drama",
+        "Premiere": "October 7, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "39–52 min.",
+        "Runtime": "45–54 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Todo lo otro",
+        "Genre": "Comedy-drama",
+        "Premiere": "October 26, 2021December 10, 2021&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A Thousand Fangs",
+        "Genre": "Military action drama",
+        "Premiere": "October 28, 2021December 9, 2021&#91;c&#93;",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "44–54 min.",
         "Status": "Pending"
       },
       {
@@ -230,30 +295,14 @@
         "Genre": "Political satire",
         "Premiere": "November 28, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "A Thousand Fangs",
-        "Genre": "Military action drama",
-        "Premiere": "December 9, 2021",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "44–54 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Todo lo otro",
-        "Genre": "Comedy-drama",
-        "Premiere": "December 10, 2021",
-        "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
       },
       {
         "Title": "Búnker",
         "Genre": "Action comedy",
-        "Premiere": "January 27, 2022",
-        "Seasons": "TBA",
+        "Premiere": "December 23, 2021January 27, 2022&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
       }
@@ -283,7 +332,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "47 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "It's a Sin",
@@ -331,9 +380,29 @@
         "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "February 10, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "55–58 min.",
         "Language": "English",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Tourist",
+        "Genre": "Mystery thriller",
+        "Partner/Country": "BBC One/United KingdomZDF/GermanyStan/Australia",
+        "Premiere": "March 3, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries; Post-production"
+      },
+      {
+        "Title": "Theodosia",
+        "Genre": "Family fantasy adventure",
+        "Partner/Country": "ZDF/GermanyGloboplay/Brazil",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "30 min.",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -359,7 +428,7 @@
         "Premiere": "June 25, 2020",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "45–56 min.",
-        "Status": "Renewed&#91;37&#93;&#91;f&#93;"
+        "Status": "Renewed"
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -368,7 +437,7 @@
         "Premiere": "June 25, 2020",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "24 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Search Party (seasons 3–5)",
@@ -449,13 +518,13 @@
         "Premiere": "November 11, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–33 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 23, 2021",
+        "Premiere": "December 5, 2021December 23, 2021&#91;c&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Pending"
@@ -521,6 +590,12 @@
         "Genre": "Family comedy",
         "Premiere": "November 25, 2021",
         "Runtime": "24 min."
+      },
+      {
+        "Title": "And Just Like That… The Documentary",
+        "Genre": "Television show",
+        "Premiere": "February 3, 2022",
+        "Runtime": "1 hour, 13 min."
       }
     ]
   }

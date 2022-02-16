@@ -142,7 +142,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "Devs&#91;a&#93;",
+        "Title": "Devs",
         "Genre": "Drama",
         "Premiere": "March 5, 2020",
         "Seasons": "8 episodes",
@@ -158,7 +158,7 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Mrs. America&#91;a&#93;",
+        "Title": "Mrs. America",
         "Genre": "Drama",
         "Premiere": "April 15, 2020",
         "Seasons": "9 episodes",
@@ -171,7 +171,7 @@
         "Premiere": "June 17, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "24–33 min.",
-        "Status": "Renewed"
+        "Status": "Third and final season due to premiere on June 15, 2022"
       },
       {
         "Title": "Monsterland",
@@ -190,7 +190,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "A Teacher&#91;a&#93;",
+        "Title": "A Teacher",
         "Genre": "Drama",
         "Premiere": "November 10, 2020",
         "Seasons": "10 episodes",
@@ -198,7 +198,7 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "American Horror Stories&#91;a&#93;",
+        "Title": "American Horror Stories",
         "Genre": "Horror anthology",
         "Premiere": "July 15, 2021",
         "Seasons": "1 season, 7 episodes",
@@ -214,7 +214,7 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Y: The Last Man&#91;a&#93;",
+        "Title": "Y: The Last Man",
         "Genre": "Science fiction drama",
         "Premiere": "September 13, 2021",
         "Seasons": "1 season, 10 episodes",
@@ -222,7 +222,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Premise&#91;a&#93;",
+        "Title": "The Premise",
         "Genre": "Anthology",
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 5 episodes",
@@ -242,14 +242,22 @@
         "Genre": "Biographical drama",
         "Premiere": "February 2, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "43-51 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "The Dropout",
         "Genre": "Drama",
         "Premiere": "March 3, 2022",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Girl from Plainville",
+        "Genre": "Crime drama",
+        "Premiere": "March 29, 2022",
+        "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -369,9 +377,9 @@
         "Title": "Dollface",
         "Genre": "Comedy",
         "Premiere": "November 15, 2019",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "22–32 min.",
-        "Status": "Season 2 due to premiere on February 11, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "High Fidelity",
@@ -395,11 +403,11 @@
         "Premiere": "September 9, 2020",
         "Seasons": "1 season, 8 episodes",
         "Length": "25–34 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 8, 2022."
       },
       {
-        "Title": "Reservation Dogs&#91;a&#93;",
-        "Genre": "Comedy",
+        "Title": "Reservation Dogs",
+        "Genre": "Teen drama/Comedy-drama",
         "Premiere": "August 9, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "30 min.",
@@ -407,7 +415,7 @@
       },
       {
         "Title": "Only Murders in the Building",
-        "Genre": "Comedy",
+        "Genre": "Comedy/Mystery",
         "Premiere": "August 31, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "26–35 min.",
@@ -415,18 +423,18 @@
       },
       {
         "Title": "How I Met Your Father",
-        "Genre": "Comedy",
+        "Genre": "Sitcom",
         "Premiere": "January 18, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Season 1 ongoing"
+        "Length": "22-25 min.",
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
-        "Title": "Welcome to Flatch&#91;b&#93;",
+        "Title": "Life &amp; Beth",
         "Genre": "Comedy",
-        "Premiere": "March 17, 2022",
-        "Seasons": "TBA",
-        "Length": "30 min.",
+        "Premiere": "March 18, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -556,7 +564,7 @@
         "Premiere": "November 16, 2018",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "25 min.",
-        "Status": "Ended&#91;c&#93;"
+        "Status": "Ended"
       },
       {
         "Title": "Catch-22",
@@ -568,7 +576,7 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "The Weekly&#91;a&#93;",
+        "Title": "The Weekly",
         "Partner/Country": "FX/United States",
         "Genre": "Docuseries",
         "Premiere": "June 3, 2019",
@@ -759,7 +767,7 @@
         "Title": "The Orville (season 3)",
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
-        "Premiere": "March 10, 2022",
+        "Premiere": "June 2, 2022",
         "Seasons": "1 season, 11 episodes",
         "Length": "TBA",
         "Status": "Pending"
@@ -773,17 +781,17 @@
     ],
     "data": [
       {
-        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween&#91;d&#93;",
+        "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
         "Length": "23 min.",
         "Language": "English"
       },
       {
-        "Title": "Madagascar: A Little Wild – Holiday Goose Chase&#91;d&#93;",
+        "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
-        "Length": "TBA",
+        "Length": "23 min.",
         "Language": "English"
       }
     ]
