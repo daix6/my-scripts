@@ -17,7 +17,7 @@
         "Title": "Star Trek: Discovery",
         "Genre": "Science fiction",
         "Premiere": "September 24, 2017",
-        "Seasons": "4 seasons, 50 episodes",
+        "Seasons": "4 seasons, 55 episodes",
         "Runtime": "37–65 min.",
         "Status": "Season 4 ongoing; Renewed"
       },
@@ -65,9 +65,9 @@
         "Title": "Star Trek: Picard",
         "Genre": "Science fiction",
         "Premiere": "January 23, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "43–46 min.",
-        "Status": "Season 2 due to premiere on March 3, 2022; Renewed"
+        "Status": "Season 2 ongoing; Renewed"
       },
       {
         "Title": "Interrogation",
@@ -105,9 +105,9 @@
         "Title": "1883",
         "Genre": "Neo-Western drama",
         "Premiere": "December 19, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "44–67 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Miniseries"
       },
       {
         "Title": "Halo",
@@ -129,7 +129,7 @@
         "Title": "Star Trek: Strange New Worlds",
         "Genre": "Science fiction",
         "Premiere": "May 5, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Renewed"
       }
@@ -163,7 +163,7 @@
         "Premiere": "June 17, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 8, 2022"
       },
       {
         "Title": "Guilty Party",
@@ -180,6 +180,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "29–37 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "The Fairly OddParents: Fairly Odder",
+        "Genre": "Sitcom",
+        "Premiere": "March 31, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -252,8 +260,8 @@
         "Genre": "Comedy",
         "Premiere": "February 17, 2022",
         "Seasons": "1 season, 26 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "23 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -309,6 +317,14 @@
         "Genre": "Docuseries",
         "Premiere": "February 24, 2022",
         "Seasons": "4 episodes",
+        "Runtime": "27–30 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Clive Davis: Most Iconic Performances",
+        "Genre": "Music",
+        "Premiere": "March 23, 2022",
+        "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
       }
@@ -359,7 +375,7 @@
         "Premiere": "July 12, 2021",
         "Seasons": "5 episodes",
         "Runtime": "42–43 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Love Island: The Drop",
@@ -367,7 +383,7 @@
         "Premiere": "July 13, 2021",
         "Seasons": "5 episodes",
         "Runtime": "43–44 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Love Island: Laid Bare",
@@ -375,7 +391,7 @@
         "Premiere": "July 16, 2021",
         "Seasons": "5 episodes",
         "Runtime": "43–45 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Queen of the Universe",
@@ -417,24 +433,6 @@
         "Seasons": "1 season, 30 episodes",
         "Runtime": "15–25 min.",
         "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Unscripted",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "The Envoys (Los Enviados)",
-        "Genre": "Horror thriller",
-        "Premiere": "December 12, 2021January 20, 2022&#91;d&#93;",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–58 min.",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Renewed"
       }
     ]
   },
@@ -520,9 +518,9 @@
         "Genre": "Reality",
         "Prev. network(s)": "AwesomenessTV",
         "Premiere": "January 13, 2022",
-        "Seasons": "1 season, 11 episodes",
-        "Runtime": "37–48 min.",
-        "Status": "Season 3 ongoing"
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "35–48 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -577,17 +575,17 @@
     ],
     "data": [
       {
-        "Title": "Five Bedrooms (season 2)",
+        "Title": "Five Bedrooms (seasons 2–3)",
         "Genre": "Comedy-drama",
         "Premiere": "August 11, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Spreadsheet",
-        "Genre": "Sex comedy",
+        "Genre": "Comedy",
         "Premiere": "October 27, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "23–27 min.",
@@ -599,7 +597,7 @@
         "Genre": "Teen drama",
         "Premiere": "March 4, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "25 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
@@ -631,13 +629,31 @@
     ],
     "data": [
       {
-        "Title": "Asesino del Olvido",
-        "Genre": "Drama",
+        "Title": "Parot",
+        "Genre": "Crime thriller",
+        "Premiere": "October 20, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "47–55 min.",
+        "Exclusive region(s)": "United States",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Before I Forget",
+        "Genre": "Crime drama",
         "Premiere": "November 3, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–54 min.",
         "Exclusive region(s)": "United States",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Envoys",
+        "Genre": "Horror thriller",
+        "Premiere": "December 12, 2021January 20, 2022&#91;d&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–58 min.",
+        "Exclusive region(s)": "All markets",
+        "Status": "Renewed"
       },
       {
         "Title": "Cecilia",
@@ -666,7 +682,7 @@
       {
         "Title": "Infinite",
         "Genre": "Science fiction action thriller",
-        "Release date": "June 10, 2021August 11, 2021&#91;h&#93;",
+        "Release date": "June 10, 2021August 11, 2021&#91;g&#93;",
         "Runtime": "1 hour, 46 min.",
         "Language": "English"
       },
@@ -716,7 +732,7 @@
         "Title": "Three Months",
         "Genre": "Comedy-drama",
         "Release date": "February 23, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 44 min.",
         "Language": "English"
       }
     ]
@@ -728,7 +744,7 @@
     ],
     "data": [
       {
-        "Title": "Paw Patrol: The Movie",
+        "Title": "PAW Patrol: The Movie",
         "Genre": "Animation comedy",
         "Release date": "August 20, 2021",
         "Runtime": "1 hour, 26 min.",
@@ -879,7 +895,7 @@
       {
         "Title": "Love, Tom",
         "Release date": "February 24, 2022",
-        "Runtime": "TBA",
+        "Runtime": "56 min.",
         "Language": "English"
       }
     ]
@@ -962,8 +978,8 @@
       {
         "Title": "Criminal Minds",
         "Genre": "Crime drama",
-        "Premiere": "1 season, 10 episodes",
-        "Seasons": "TBA",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1040,14 +1056,6 @@
     ],
     "data": [
       {
-        "Title": "The Fairly OddParents",
-        "Genre": "Sitcom",
-        "Premiere": "March 2022",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
         "Title": "Frasier",
         "Genre": "Sitcom",
         "Premiere": "2022",
@@ -1064,7 +1072,7 @@
         "Status": "Filming"
       },
       {
-        "Title": "Sonic the Series",
+        "Title": "Untitled Sonic the Hedgehog spin-off",
         "Genre": "Action-adventure comedy",
         "Premiere": "2023",
         "Seasons": "TBA",
@@ -1100,147 +1108,6 @@
         "Title": "Dora the Explorer",
         "Genre": "Educational children's comedy",
         "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "English language"
-    ],
-    "data": [
-      {
-        "Title": "The Bridge Australia",
-        "Genre": "Reality competition",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Couples Therapy Australia",
-        "Genre": "Docuseries",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Last King of the Cross",
-        "Genre": "Drama miniseries",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Miniseries order"
-      },
-      {
-        "Title": "NCIS: Sydney",
-        "Genre": "Military action",
-        "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Challenge: Australia",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "A Gentleman in Moscow",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Sexy Beast",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "Simon Beckett's The Chemistry of Death",
-        "Genre": "Psychological crime drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "Miss Fallaci Takes America",
-        "Genre": "Biopic",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "As Seguidoras",
-        "Genre": "Comedy thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "Bosé",
-        "Genre": "Biopic",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Challenge: Argentina",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
@@ -1421,6 +1288,15 @@
         "Status": "Season order"
       },
       {
+        "Title": "Are You the One? (season 9)",
+        "Genre": "Dating show",
+        "Prev. network(s)": "MTV",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Season order"
+      },
+      {
         "Title": "Dating Naked (season 4)",
         "Genre": "Dating show",
         "Prev. network(s)": "VH1",
@@ -1446,6 +1322,203 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Season order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "English language"
+    ],
+    "data": [
+      {
+        "Title": "The Bridge Australia",
+        "Genre": "Reality competition",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Couples Therapy Australia",
+        "Genre": "Docuseries",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Flatshare",
+        "Genre": "Drama",
+        "Premiere": "2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Last King of the Cross",
+        "Genre": "Drama miniseries",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries order"
+      },
+      {
+        "Title": "NCIS: Sydney",
+        "Genre": "Military action",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Blue",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Box",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Challenge: Australia",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Chalet Girls",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "A Gentleman in Moscow",
+        "Genre": "Historical fiction",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Haunted",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "MH370: The Lost Flight",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Rise of the Tech Titans",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Sexy Beast",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "Simon Beckett's The Chemistry of Death",
+        "Genre": "Psychological crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "Miss Fallaci Takes America",
+        "Genre": "Biopic",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "As Seguidoras",
+        "Genre": "Comedy thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "Bosé",
+        "Genre": "Biopic",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Challenge: Argentina",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -1577,6 +1650,13 @@
         "Language": "English"
       },
       {
+        "Title": "Corazonada",
+        "Genre": "Drama",
+        "Release date": "2022",
+        "Runtime": "TBA",
+        "Language": "Spanish"
+      },
+      {
         "Title": "Fantasy Football",
         "Genre": "Sports comedy",
         "Release date": "2022",
@@ -1592,7 +1672,14 @@
       },
       {
         "Title": "Hush, Hush",
-        "Genre": "Supernatural romance",
+        "Genre": "Drama",
+        "Release date": "2022",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Snow Day",
+        "Genre": "Children's musical comedy",
         "Release date": "2022",
         "Runtime": "TBA",
         "Language": "English"

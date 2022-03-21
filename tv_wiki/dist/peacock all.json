@@ -58,7 +58,7 @@
         "Genre": "Drama",
         "Premiere": "February 13, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "60 min.",
+        "Length": "46–60 min.",
         "Status": "Season 1 ongoing; Renewed"
       },
       {
@@ -66,6 +66,14 @@
         "Genre": "Biographical drama",
         "Premiere": "March 3, 2022",
         "Seasons": "8 episodes",
+        "Length": "46–54 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Angelyne",
+        "Genre": "Biographical drama",
+        "Premiere": "May 19, 2022",
+        "Seasons": "6 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -107,7 +115,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "26–32 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 5, 2022"
       },
       {
         "Title": "MacGruber",
@@ -275,31 +283,31 @@
         "Genre": "Docu-reality",
         "Premiere": "November 11, 2021",
         "Seasons": "1 season, 13 episodes",
-        "Length": "31–43 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "31–58 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Joe Montana: Cool Under Pressure",
         "Genre": "Sports",
         "Premiere": "January 6, 2022",
         "Seasons": "6 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries ongoing"
+        "Length": "43–60 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Meddling",
         "Genre": "Sports",
         "Premiere": "January 6, 2022",
         "Seasons": "4 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries ongoing"
+        "Length": "33–43 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "True Story with Ed and Randall",
         "Genre": "Docu-comedy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
+        "Length": "29–42 min.",
         "Status": "Pending"
       },
       {
@@ -307,8 +315,24 @@
         "Genre": "Sports",
         "Premiere": "January 26, 2022",
         "Seasons": "4 episodes",
+        "Length": "26–34 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Perfect World: A Deadly Game",
+        "Genre": "Docuseries",
+        "Premiere": "March 8, 2022",
+        "Seasons": "2 episodes",
         "Length": "TBA",
-        "Status": "Pending"
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "WWE Evil",
+        "Genre": "Sports",
+        "Premiere": "March 24, 2022",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -390,6 +414,14 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "41–49 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Below Deck Down Under",
+        "Genre": "Reality",
+        "Premiere": "March 17, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -420,7 +452,7 @@
         "Title": "The Amber Ruffin Show",
         "Genre": "Late-night talk show",
         "Premiere": "September 25, 2020",
-        "Seasons": "2 season, 36 episodes",
+        "Seasons": "2 seasons, 36 episodes",
         "Length": "19–39 min.",
         "Status": "Season 2 ongoing"
       },
@@ -471,7 +503,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on April 4, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -487,9 +519,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "5 seasons, 39 episodes",
+        "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on February 17, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -510,7 +542,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "DreamWorks Dragons: The Nine Realms",
+        "Title": "Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
@@ -647,7 +679,7 @@
         "Genre": "Comedy-drama",
         "Partner": "Network 10 (season 1)Paramount+ Australia (season 2–present)",
         "Premiere": "April 15, 2020",
-        "Seasons": "2 season, 16 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Length": "44–46 min.",
         "Status": "Renewed"
       },
@@ -701,7 +733,7 @@
         "Genre": "Conspiracy thriller",
         "Partner": "Global",
         "Premiere": "September 17, 2020",
-        "Seasons": "2 season, 12 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "42–44 min.",
         "Status": "Renewed"
       },
@@ -710,7 +742,7 @@
         "Genre": "Police procedural dramedy",
         "Partner": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)",
         "Premiere": "October 8, 2020",
-        "Seasons": "2 season, 12 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "26–31 min.",
         "Status": "Renewed; Planned for third season"
       },
@@ -919,7 +951,7 @@
         "Title": "Picabo",
         "Genre": "Sports",
         "Release": "January 21, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 30 min.",
         "Language": "English"
       }
     ]
@@ -1009,14 +1041,6 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Miniseries order"
-      },
-      {
-        "Title": "Angelyne",
-        "Genre": "Biographical drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Miniseries; Post-production"
       },
       {
         "Title": "Apples Never Fall",
@@ -1148,14 +1172,14 @@
       },
       {
         "Title": "The Best Man: The Final Chapters",
-        "Genre": "Dramedy",
+        "Genre": "Comedy-drama",
         "Premiere": "TBA",
         "Seasons": "10 episodes",
         "Length": "TBA",
         "Status": "Miniseries order"
       },
       {
-        "Title": "Pitch Perfect",
+        "Title": "Pitch Perfect: The Series",
         "Genre": "Musical comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1175,6 +1199,14 @@
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Twisted Metal",
+        "Genre": "Action comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1260,14 +1292,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Perfect World: The Gamer Murders",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Run Through the Line",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -1276,33 +1300,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "WWE Evil",
-        "Genre": "Sports",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Who Wrote That?",
         "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Unscripted",
-      "Reality"
-    ],
-    "data": [
-      {
-        "Title": "Below Deck Down Under",
-        "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1324,6 +1323,23 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Love Island (season 4)",
+        "Genre": "Reality",
+        "Prev. network": "CBS",
+        "Premiere": "Summer 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Renewed"
       }
     ]
   },
@@ -1442,6 +1458,15 @@
     ],
     "data": [
       {
+        "Title": "Lockerbie",
+        "Partner": "Sky",
+        "Genre": "Drama",
+        "Premiere": "2023",
+        "Seasons": "5 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries order"
+      },
+      {
         "Title": "The Makery",
         "Partner": "Sky Kids",
         "Genre": "Educational",
@@ -1490,6 +1515,11 @@
       {
         "Title": "American Assassin",
         "Genre": "Anthology series",
+        "Status": "In development"
+      },
+      {
+        "Title": "Avenger Field",
+        "Genre": "War drama",
         "Status": "In development"
       },
       {

@@ -58,7 +58,7 @@
         "Genre": "Drama",
         "Premiere": "February 13, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "60 min.",
+        "Length": "46–60 min.",
         "Status": "Season 1 ongoing; Renewed"
       },
       {
@@ -66,6 +66,14 @@
         "Genre": "Biographical drama",
         "Premiere": "March 3, 2022",
         "Seasons": "8 episodes",
+        "Length": "46–54 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Angelyne",
+        "Genre": "Biographical drama",
+        "Premiere": "May 19, 2022",
+        "Seasons": "6 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -107,7 +115,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "26–32 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 5, 2022"
       },
       {
         "Title": "MacGruber",
@@ -172,7 +180,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on April 4, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -188,9 +196,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "5 seasons, 39 episodes",
+        "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on February 17, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -211,7 +219,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "DreamWorks Dragons: The Nine Realms",
+        "Title": "Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",

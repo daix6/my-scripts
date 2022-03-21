@@ -159,7 +159,7 @@
       },
       {
         "Title": "Mrs. America",
-        "Genre": "Drama",
+        "Genre": "Historical drama",
         "Premiere": "April 15, 2020",
         "Seasons": "9 episodes",
         "Length": "43–48 min.",
@@ -171,7 +171,7 @@
         "Premiere": "June 17, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "24–33 min.",
-        "Status": "Third and final season due to premiere on June 15, 2022"
+        "Status": "Final season due to premiere on June 15, 2022"
       },
       {
         "Title": "Monsterland",
@@ -242,8 +242,8 @@
         "Genre": "Biographical drama",
         "Premiere": "February 2, 2022",
         "Seasons": "8 episodes",
-        "Length": "43-51 min.",
-        "Status": "Miniseries ongoing"
+        "Length": "43–51 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "The Dropout",
@@ -251,13 +251,29 @@
         "Premiere": "March 3, 2022",
         "Seasons": "8 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "The Girl from Plainville",
         "Genre": "Crime drama",
         "Premiere": "March 29, 2022",
         "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Under the Banner of Heaven",
+        "Genre": "Crime drama",
+        "Premiere": "April 28, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Candy",
+        "Genre": "True crime drama",
+        "Premiere": "May 9, 2022",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -426,7 +442,7 @@
         "Genre": "Sitcom",
         "Premiere": "January 18, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "22-25 min.",
+        "Length": "22–25 min.",
         "Status": "Season 1 ongoing; Renewed"
       },
       {
@@ -686,7 +702,7 @@
         "Genre": "Cooking competition",
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "47-51 min.",
+        "Length": "47–51 min.",
         "Status": "Pending"
       },
       {
@@ -694,7 +710,7 @@
         "Genre": "Food",
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "29-36 min.",
+        "Length": "29–36 min.",
         "Status": "Pending"
       },
       {
@@ -931,7 +947,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on April 4, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -956,9 +972,9 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "5 seasons, 39 episodes",
+        "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on February 17, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Hardy Boys",
@@ -967,7 +983,7 @@
         "Premiere": "December 4, 2020",
         "Seasons": "1 season, 13 episodes",
         "Length": "40–46 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 6, 2022"
       },
       {
         "Title": "The Sister",
@@ -1032,6 +1048,15 @@
         "Status": "Ended"
       },
       {
+        "Title": "Promised Land (season 1B)",
+        "Genre": "Drama",
+        "Prev. network(s)": "ABC",
+        "Premiere": "March 1, 2022",
+        "Seasons": "1 season, 5 episodes",
+        "Length": "42–43 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Orville (season 3)",
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
@@ -1085,7 +1110,7 @@
       {
         "Title": "Big Time Adolescence",
         "Genre": "Comedy",
-        "Release date": "March 20, 2020",
+        "Release date": "March 13, 2020",
         "Runtime": "1 hour, 31 min."
       },
       {
@@ -1176,18 +1201,36 @@
         "Title": "No Exit",
         "Genre": "Thriller",
         "Release date": "February 25, 2022",
-        "Runtime": "TBA"
+        "Runtime": "1 hour, 35 min."
       },
       {
         "Title": "Fresh",
         "Genre": "Thriller",
         "Release date": "March 4, 2022",
-        "Runtime": "TBA"
+        "Runtime": "1 hour, 54 min."
       },
       {
         "Title": "Deep Water",
         "Genre": "Psychological thriller",
         "Release date": "March 18, 2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Fire Island",
+        "Genre": "Romantic comedy",
+        "Release date": "June 3, 2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Good Luck to You, Leo Grande",
+        "Genre": "Romantic comedy",
+        "Release date": "June 17, 2022",
+        "Runtime": "TBA"
+      },
+      {
+        "Title": "Not Okay",
+        "Genre": "Comedy",
+        "Release date": "August 5, 2022",
         "Runtime": "TBA"
       }
     ]
@@ -1294,29 +1337,9 @@
         "Runtime": "1 hour, 42 min."
       },
       {
-        "Title": "24 Hours: Assault On The Capital",
-        "Release date": "January 11, 2021",
-        "Runtime": "1 hour, 9 min."
-      },
-      {
-        "Title": "OnlyFans: Selling Sexy",
-        "Release date": "February 10, 2021",
-        "Runtime": "58 min."
-      },
-      {
-        "Title": "Trump: The Reckoning",
-        "Release date": "February 16, 2021",
-        "Runtime": "TBA"
-      },
-      {
         "Title": "Kid 90",
         "Release date": "March 12, 2021",
         "Runtime": "1 hour, 11 min."
-      },
-      {
-        "Title": "Gamestopped",
-        "Release date": "March 15, 2021",
-        "Runtime": "1 hour, 12 min."
       },
       {
         "Title": "WeWork: Or The Making and Breaking of a $47 Billion Unicorn",
@@ -1324,39 +1347,14 @@
         "Runtime": "1 hour, 44 min."
       },
       {
-        "Title": "It’s Not Too Late: Earth Day Special",
-        "Release date": "April 21, 2021",
-        "Runtime": "50 min."
-      },
-      {
         "Title": "Changing the Game",
         "Release date": "June 1, 2021",
         "Runtime": "1 hour, 28 min."
       },
       {
-        "Title": "The American Royal Baby",
-        "Release date": "June 7, 2021",
-        "Runtime": "47 min."
-      },
-      {
-        "Title": "The Housewife and the Hustler",
-        "Release date": "June 14, 2021",
-        "Runtime": "1 hour, 9 min."
-      },
-      {
         "Title": "Homeroom",
         "Release date": "August 12, 2021",
         "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "Final Hours, America’s Longest War",
-        "Release date": "August 31, 2021",
-        "Runtime": "35 min."
-      },
-      {
-        "Title": "Asylum",
-        "Release date": "October 1, 2021",
-        "Runtime": "39 min."
       },
       {
         "Title": "Jacinta",
@@ -1367,11 +1365,6 @@
         "Title": "The Informant: Fear and Faith in the Heartland",
         "Release date": "November 1, 2021",
         "Runtime": "1 hour, 16 min."
-      },
-      {
-        "Title": "3212: Un-Redacted",
-        "Release date": "November 19, 2021",
-        "Runtime": "1 hour, 38 min."
       },
       {
         "Title": "The Housewife &amp; the Shah Shocker",
@@ -1433,14 +1426,6 @@
     ],
     "data": [
       {
-        "Title": "The Old Man",
-        "Genre": "Drama",
-        "Seasons": "TBA",
-        "Premiere": "2022",
-        "Length": "TBA",
-        "Status": "TBA"
-      },
-      {
         "Title": "Black Cake",
         "Genre": "Drama",
         "Seasons": "TBA",
@@ -1449,8 +1434,8 @@
         "Status": "TBA"
       },
       {
-        "Title": "Candy",
-        "Genre": "True crime drama miniseries",
+        "Title": "Career Opportunities in Murder &amp; Mayhem",
+        "Genre": "Drama",
         "Seasons": "TBA",
         "Premiere": "TBA",
         "Length": "TBA",
@@ -1531,14 +1516,6 @@
       {
         "Title": "Tell Me Lies",
         "Genre": "Drama",
-        "Seasons": "TBA",
-        "Premiere": "TBA",
-        "Length": "TBA",
-        "Status": "TBA"
-      },
-      {
-        "Title": "Under the Banner of Heaven",
-        "Genre": "Crime drama miniseries",
         "Seasons": "TBA",
         "Premiere": "TBA",
         "Length": "TBA",
@@ -1764,10 +1741,6 @@
         "Genre": "Science fiction"
       },
       {
-        "Title": "Career Opportunities in Murder &amp; Mayhem",
-        "Genre": "Drama"
-      },
-      {
         "Title": "Demons",
         "Genre": "Drama"
       },
@@ -1860,6 +1833,10 @@
         "Genre": "Drama"
       },
       {
+        "Title": "The Island",
+        "Genre": "Drama miniseries"
+      },
+      {
         "Title": "The Other Typist",
         "Genre": "Suspense thriller miniseries"
       },
@@ -1926,12 +1903,6 @@
         "Runtime": "TBA"
       },
       {
-        "Title": "Good Luck to You, Leo Grande",
-        "Genre": "Romantic comedy",
-        "Release date": "2022",
-        "Runtime": "TBA"
-      },
-      {
         "Title": "Hellraiser",
         "Genre": "Horror",
         "Release date": "2022",
@@ -1962,42 +1933,26 @@
         "Runtime": "TBA"
       },
       {
-        "Title": "Honeymoon Friends",
-        "Genre": "Comedy",
-        "Release date": "TBA",
-        "Runtime": "TBA"
-      },
-      {
         "Title": "The Boogeyman",
-        "Genre": "Comedy",
-        "Release date": "TBA",
+        "Genre": "Horror",
+        "Release date": "2023",
         "Runtime": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming co-distributed films"
-    ],
-    "data": [
+      },
       {
-        "Title": "Fire Island",
-        "Genre": "Romantic comedy",
-        "Co-distributed with": "Searchlight Pictures",
+        "Title": "Boston Strangler",
+        "Genre": "Drama",
         "Release date": "TBA",
         "Runtime": "TBA"
       },
       {
-        "Title": "Not Okay",
-        "Genre": "Comedy",
-        "Co-distributed with": "Searchlight Pictures",
+        "Title": "Honeymoon Friends",
+        "Genre": "Drama",
         "Release date": "TBA",
         "Runtime": "TBA"
       },
       {
         "Title": "Quasi",
         "Genre": "Drama",
-        "Co-distributed with": "Searchlight Pictures",
         "Release date": "TBA",
         "Runtime": "TBA"
       }
@@ -2150,7 +2105,7 @@
         "Original region": "New Zealand",
         "Seasons": "1 season, 5 episodes",
         "Run": "2021",
-        "Language": "English/Maori"
+        "Language": "English/te reo Māori"
       },
       {
         "Title": "Bad Habits, Holy Orders",

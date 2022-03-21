@@ -164,7 +164,7 @@
         "Genre": "Young adult drama",
         "Premiere": "December 11, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 6, 2022"
       },
       {
         "Title": "Them",
@@ -214,6 +214,20 @@
         "Premiere": "February 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Outer Range",
+        "Genre": "Mystery thriller",
+        "Premiere": "April 15, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Terminal List",
+        "Genre": "Conspiracy thriller",
+        "Premiere": "July 1, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Lord of the Rings: The Rings of Power",
@@ -346,8 +360,8 @@
         "Title": "The Marvelous Mrs. Maisel",
         "Genre": "Comedy-drama",
         "Premiere": "November 29, 2017",
-        "Seasons/episodes": "3 seasons, 26 episodes",
-        "Status": "Season 4 due to premiere on February 18, 2022"
+        "Seasons/episodes": "4 seasons, 34 episodes",
+        "Status": "Renewed for final season"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -374,8 +388,8 @@
         "Title": "Upload",
         "Genre": "Science fiction",
         "Premiere": "May 1, 2020",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Season 2 due to premiere on March 11, 2022"
+        "Seasons/episodes": "2 seasons, 17 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Gary Busey: Pet Judge",
@@ -417,7 +431,7 @@
         "Genre": "Comedy",
         "Premiere": "December 3, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "With Love",
@@ -454,7 +468,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "September 13, 2019",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 29, 2022"
       },
       {
         "Title": "Invincible",
@@ -472,14 +486,14 @@
       },
       {
         "Title": "The Legend of Vox Machina",
-        "Genre": "Fantasy/Action comedy",
+        "Genre": "Fantasy",
         "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
-        "Title": "The Boys: Diabolical",
-        "Genre": "Anthology",
+        "Title": "The Boys Presents: Diabolical",
+        "Genre": "Superhero Anthology",
         "Premiere": "March 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
@@ -604,8 +618,8 @@
         "Title": "Pete the Cat",
         "Genre": "Comedy",
         "Premiere": "September 21, 2018",
-        "Seasons/episodes": "2 seasons, 44 episodes",
-        "Status": "The last part of season 2 coming May 1, 2022"
+        "Seasons/episodes": "2 seasons, 41 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "Kung Fu Panda: The Paws of Destiny",
@@ -876,6 +890,13 @@
         "Premiere": "November 3, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Bestseller",
+        "Genre": "Thriller",
+        "Premiere": "February 18, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1033,6 +1054,27 @@
         "Genre": "Sitcom",
         "Premiere": "September 18, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "No Activity",
+        "Genre": "Detective fiction",
+        "Premiere": "December 17, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "My Love from the Stars",
+        "Genre": "Romance drama",
+        "Premiere": "February 23, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Short Program",
+        "Genre": "Anthology drama",
+        "Premiere": "March 1, 2022",
+        "Seasons/episodes": "1 season, 11 episodes",
         "Status": "Ended"
       }
     ]
@@ -1773,14 +1815,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "LOL: Last One Laughing",
-        "Genre": "Comedy competition",
-        "Premiere": "December 14, 2018",
-        "Seasons/episodes": "3 seasons, 18 episodes",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
         "Title": "Skulls and Roses",
         "Genre": "Reality competition",
         "Premiere": "August 29, 2019",
@@ -1872,9 +1906,9 @@
         "Title": "LOL - Chi ride è fuori",
         "Genre": "Comedy competition",
         "Premiere": "April 1, 2021",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "2 seasons, 13 episodes",
         "Language": "Italian",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "LOL: Last One Laughing Germany",
@@ -1954,6 +1988,14 @@
         "Premiere": "December 16, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "LOL: Last One Laughing: Canada",
+        "Genre": "Comedy competition",
+        "Premiere": "February 18, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "English",
         "Status": "Pending"
       }
     ]
@@ -2239,15 +2281,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "The Pursuit of Love",
-        "Partner": "BBC One",
-        "Genre": "Romantic drama",
-        "Premiere": "July 30, 2021",
-        "Seasons/episodes": "3 episodes",
-        "Language": "English",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Stories to Stay Awake",
         "Partner": "RTVE",
         "Genre": "Horror anthology",
@@ -2310,7 +2343,7 @@
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Availability": "United States, Canada, Australia, and New Zealand",
+        "Prime Video exclusive region": "United States, Canada, Australia, and New Zealand",
         "Status": "Pending"
       }
     ]
@@ -2321,12 +2354,6 @@
       "Ordered"
     ],
     "data": [
-      {
-        "Title": "The Terminal List",
-        "Genre": "Conspiracy thriller",
-        "Seasons": "TBA",
-        "Premiere": "Early 2022"
-      },
       {
         "Title": "The Bad Guy",
         "Genre": "Italian crime comedy",
@@ -2368,6 +2395,12 @@
         "Genre": "German mystery thriller",
         "Seasons": "1 season, 6 episodes",
         "Premiere": "2022"
+      },
+      {
+        "Title": "Deadloch",
+        "Genre": "Comedy",
+        "Seasons": "1 season, 8 episodes",
+        "Premiere": "2023"
       },
       {
         "Title": "Everybody Loves Diamonds",
@@ -2550,12 +2583,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Outer Range",
-        "Genre": "Mystery",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Paper Girls",
         "Genre": "Science fiction",
         "Seasons": "TBA",
@@ -2592,6 +2619,12 @@
         "Premiere": "TBA"
       },
       {
+        "Title": "Shelter",
+        "Genre": "Thriller",
+        "Seasons": "TBA",
+        "Premiere": "TBA"
+      },
+      {
         "Title": "Sin Limites",
         "Genre": "Spanish historical drama",
         "Seasons": "1 season, 4 episodes",
@@ -2622,10 +2655,22 @@
         "Premiere": "TBA"
       },
       {
+        "Title": "Untitled Phoebe Waller-Bridge series",
+        "Genre": "TBA",
+        "Seasons": "TBA",
+        "Premiere": "TBA"
+      },
+      {
         "Title": "Untitled Priyanka Chopra/Nick Jonas unscripted sangeet series",
         "Genre": "Reality",
         "Seasons": "TBA",
         "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Ramy Youssef animated series",
+        "Genre": "Adult animated comedy",
+        "Seasons": "TBA",
+        "Premiere": "TBA; Renewed"
       },
       {
         "Title": "Untitled The Boys spin-off",
@@ -2731,7 +2776,7 @@
       },
       {
         "Title": "The Departed",
-        "Genre": "Drama"
+        "Genre": "Crime drama"
       },
       {
         "Title": "Dirty",
@@ -2747,7 +2792,7 @@
       },
       {
         "Title": "Event Horizon",
-        "Genre": "Science fiction"
+        "Genre": "Science fiction horror"
       },
       {
         "Title": "Exciting Times",
@@ -2774,12 +2819,16 @@
         "Genre": "Drama"
       },
       {
+        "Title": "The Girl with the Dragon Tattoo",
+        "Genre": "Psychological thriller drama"
+      },
+      {
         "Title": "Glowing Up",
         "Genre": "Adult animated musical"
       },
       {
-        "Title": "The Girl with the Dragon Tattoo",
-        "Genre": "Psychological thriller drama"
+        "Title": "God of War",
+        "Genre": "Action-adventure"
       },
       {
         "Title": "The Greatest",

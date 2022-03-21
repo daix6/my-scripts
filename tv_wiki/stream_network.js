@@ -43,7 +43,9 @@ const STREAM_NETWORKS = [
 
         table.data = table.data.filter(item => {
           try {
-            return moment(item.Premiere).isSameOrAfter('2021-01-01', 'd') && moment(item.Premiere).isSameOrBefore('2025-12-31', 'd')
+            const time = item.Premiere || item["Release date"];
+
+            return moment(time).isSameOrAfter('2021-01-01', 'd') && moment(time).isSameOrBefore('2025-12-31', 'd')
           } catch {}
           return true;
         });

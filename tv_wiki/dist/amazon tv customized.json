@@ -164,7 +164,7 @@
         "Genre": "Young adult drama",
         "Premiere": "December 11, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 6, 2022"
       },
       {
         "Title": "Them",
@@ -214,6 +214,20 @@
         "Premiere": "February 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Outer Range",
+        "Genre": "Mystery thriller",
+        "Premiere": "April 15, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Terminal List",
+        "Genre": "Conspiracy thriller",
+        "Premiere": "July 1, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Lord of the Rings: The Rings of Power",
@@ -346,8 +360,8 @@
         "Title": "The Marvelous Mrs. Maisel",
         "Genre": "Comedy-drama",
         "Premiere": "November 29, 2017",
-        "Seasons/episodes": "3 seasons, 26 episodes",
-        "Status": "Season 4 due to premiere on February 18, 2022"
+        "Seasons/episodes": "4 seasons, 34 episodes",
+        "Status": "Renewed for final season"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -374,8 +388,8 @@
         "Title": "Upload",
         "Genre": "Science fiction",
         "Premiere": "May 1, 2020",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Season 2 due to premiere on March 11, 2022"
+        "Seasons/episodes": "2 seasons, 17 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Gary Busey: Pet Judge",
@@ -417,7 +431,7 @@
         "Genre": "Comedy",
         "Premiere": "December 3, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "With Love",
@@ -454,7 +468,7 @@
         "Genre": "Comedy-drama",
         "Premiere": "September 13, 2019",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 29, 2022"
       },
       {
         "Title": "Invincible",
@@ -472,14 +486,14 @@
       },
       {
         "Title": "The Legend of Vox Machina",
-        "Genre": "Fantasy/Action comedy",
+        "Genre": "Fantasy",
         "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
-        "Title": "The Boys: Diabolical",
-        "Genre": "Anthology",
+        "Title": "The Boys Presents: Diabolical",
+        "Genre": "Superhero Anthology",
         "Premiere": "March 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
@@ -734,6 +748,20 @@
         "Premiere": "September 9, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Akkad Bakkad Rafu Chakkar",
+        "Genre": "Crime drama",
+        "Premiere": "November 3, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bestseller",
+        "Genre": "Thriller",
+        "Premiere": "February 18, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -891,6 +919,27 @@
         "Genre": "Sitcom",
         "Premiere": "September 18, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "No Activity",
+        "Genre": "Detective fiction",
+        "Premiere": "December 17, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "My Love from the Stars",
+        "Genre": "Romance drama",
+        "Premiere": "February 23, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Short Program",
+        "Genre": "Anthology drama",
+        "Premiere": "March 1, 2022",
+        "Seasons/episodes": "1 season, 11 episodes",
         "Status": "Ended"
       }
     ]
@@ -1326,15 +1375,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "The Pursuit of Love",
-        "Partner": "BBC One",
-        "Genre": "Romantic drama",
-        "Premiere": "July 30, 2021",
-        "Seasons/episodes": "3 episodes",
-        "Language": "English",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Stories to Stay Awake",
         "Partner": "RTVE",
         "Genre": "Horror anthology",
@@ -1397,7 +1437,7 @@
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Availability": "United States, Canada, Australia, and New Zealand",
+        "Prime Video exclusive region": "United States, Canada, Australia, and New Zealand",
         "Status": "Pending"
       }
     ]

@@ -33,9 +33,9 @@
         "Title": "Servant",
         "Genre": "Psychological horror/thriller",
         "Premiere": "November 28, 2019",
-        "Seasons": "3 seasons, 24 episodes",
+        "Seasons": "3 seasons, 28 episodes",
         "Runtime": "25–36 min.",
-        "Status": "Season 3 ongoing; Renewed for fourth and final season"
+        "Status": "Season 3 ongoing; Renewed for Season 4 (final)"
       },
       {
         "Title": "Truth Be Told",
@@ -129,32 +129,32 @@
         "Title": "Suspicion",
         "Genre": "Political thriller",
         "Premiere": "February 4, 2022",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "44–45 min.",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "44–52 min.",
         "Status": "Season 1 ongoing"
       },
       {
         "Title": "Severance",
         "Genre": "Workplace thriller",
         "Premiere": "February 18, 2022",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "60 min.",
-        "Status": "Pending"
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "43–57 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Last Days of Ptolemy Grey",
-        "Genre": "Drama miniseries",
+        "Genre": "Drama",
         "Premiere": "March 11, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Seasons": "2 episodes",
+        "Runtime": "49–57 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "WeCrashed",
-        "Genre": "Drama miniseries",
+        "Genre": "Drama",
         "Premiere": "March 18, 2022",
         "Seasons": "8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "61 min.",
         "Status": "Miniseries"
       },
       {
@@ -246,20 +246,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Acapulco",
-        "Genre": "Comedy",
-        "Premiere": "October 8, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "27–36 min.",
-        "Status": "Pending"
-      },
-      {
         "Title": "The Afterparty",
         "Genre": "Mystery comedy",
         "Premiere": "January 28, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "33–48 min.",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "31–48 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "Roar",
@@ -314,9 +306,9 @@
         "Title": "Central Park",
         "Genre": "Musical sitcom",
         "Premiere": "May 29, 2020",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "22–31 min.",
-        "Status": "Season 2 ongoing, second half due to premiere on March 4, 2022; Renewed"
+        "Seasons": "2 seasons, 22 episodes",
+        "Runtime": "21–31 min.",
+        "Status": "Season 2 ongoing; Renewed"
       }
     ]
   },
@@ -341,7 +333,7 @@
         "Premiere": "November 13, 2020",
         "Seasons": "2 season, 20 episodes",
         "Runtime": "23 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Second half of Season 2 due to premiere on April 1, 2022"
       },
       {
         "Title": "Stillwater",
@@ -349,15 +341,15 @@
         "Premiere": "December 4, 2020",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "23–25 min.",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on March 18, 2022"
       },
       {
         "Title": "The Snoopy Show",
         "Genre": "Comedy",
         "Premiere": "February 5, 2021",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "2 season, 19 episodes",
         "Runtime": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Wolfboy and the Everything Factory",
@@ -381,7 +373,7 @@
         "Premiere": "November 19, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "23–24 min.",
-        "Status": "Second half of season 1 due to premiere in early 2022"
+        "Status": "Second half of season 1 due to premiere on May 20, 2022"
       },
       {
         "Title": "El Deafo",
@@ -407,6 +399,15 @@
       "Non-English language scripted"
     ],
     "data": [
+      {
+        "Title": "Acapulco",
+        "Genre": "Comedy",
+        "Premiere": "October 8, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "27–36 min.",
+        "Language": "Spanish/English",
+        "Status": "Renewed"
+      },
       {
         "Title": "Dr. Brain",
         "Genre": "Science fiction thriller",
@@ -463,9 +464,9 @@
         "Title": "Dear...",
         "Genre": "Docuseries",
         "Premiere": "June 5, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 season, 19 episodes",
         "Runtime": "23–38 min.",
-        "Status": "Season 2 due to premiere on March 4, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Greatness Code",
@@ -544,13 +545,21 @@
         "Genre": "Biographical docuseries",
         "Premiere": "February 18, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "52–58 min.",
         "Status": "Miniseries"
       },
       {
         "Title": "They Call Me Magic",
         "Genre": "Sports docuseries",
         "Premiere": "April 22, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Big Conn",
+        "Genre": "True crime",
+        "Premiere": "May 5, 2022",
         "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
@@ -616,8 +625,8 @@
         "Title": "The Problem with Jon Stewart",
         "Genre": "News/talk show",
         "Premiere": "September 30, 2021",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "41–43 min.",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "41–52 min.",
         "Status": "Season 1 ongoing"
       },
       {
@@ -679,14 +688,6 @@
         "Genre": "Period drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "60 min.",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Echo 3",
-        "Genre": "Thriller",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
         "Runtime": "60 min.",
         "Status": "Post-production"
       },
@@ -843,6 +844,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Metropolis",
+        "Genre": "Science fiction miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "My Glory Was I Had Such Friends",
         "Genre": "Drama miniseries",
         "Premiere": "TBA",
@@ -863,6 +872,14 @@
         "Genre": "Courtroom drama miniseries",
         "Premiere": "TBA",
         "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled Benjamin Franklin series",
+        "Genre": "Biographical drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -899,6 +916,22 @@
     ],
     "data": [
       {
+        "Title": "Hello Tomorrow!",
+        "Genre": "Comedy-drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "High Desert",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Loot",
         "Genre": "Comedy",
         "Premiere": "TBA",
@@ -907,26 +940,18 @@
         "Status": "Post-production"
       },
       {
+        "Title": "Untitled Sharon Horgan series",
+        "Genre": "Black comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
         "Title": "The Big Door Prize",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Hello Tomorrow!",
-        "Genre": "Comedy-drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Filming"
-      },
-      {
-        "Title": "High Desert",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Status": "Filming"
       },
@@ -960,14 +985,6 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Untitled Sharon Horgan series",
-        "Genre": "Black comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
         "Status": "Series order"
       }
     ]
@@ -1064,6 +1081,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Language": "Russian"
+      },
+      {
+        "Title": "Echo 3",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min.",
+        "Language": "Spanish/English"
       },
       {
         "Title": "Liaison",

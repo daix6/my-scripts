@@ -159,7 +159,7 @@
       },
       {
         "Title": "Mrs. America",
-        "Genre": "Drama",
+        "Genre": "Historical drama",
         "Premiere": "April 15, 2020",
         "Seasons": "9 episodes",
         "Length": "43–48 min.",
@@ -171,7 +171,7 @@
         "Premiere": "June 17, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "24–33 min.",
-        "Status": "Third and final season due to premiere on June 15, 2022"
+        "Status": "Final season due to premiere on June 15, 2022"
       },
       {
         "Title": "Monsterland",
@@ -242,8 +242,8 @@
         "Genre": "Biographical drama",
         "Premiere": "February 2, 2022",
         "Seasons": "8 episodes",
-        "Length": "43-51 min.",
-        "Status": "Miniseries ongoing"
+        "Length": "43–51 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "The Dropout",
@@ -251,13 +251,29 @@
         "Premiere": "March 3, 2022",
         "Seasons": "8 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "The Girl from Plainville",
         "Genre": "Crime drama",
         "Premiere": "March 29, 2022",
         "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Under the Banner of Heaven",
+        "Genre": "Crime drama",
+        "Premiere": "April 28, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Candy",
+        "Genre": "True crime drama",
+        "Premiere": "May 9, 2022",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -426,7 +442,7 @@
         "Genre": "Sitcom",
         "Premiere": "January 18, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "22-25 min.",
+        "Length": "22–25 min.",
         "Status": "Season 1 ongoing; Renewed"
       },
       {
@@ -663,7 +679,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "6 seasons, 37 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on April 4, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -688,9 +704,9 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
-        "Seasons": "5 seasons, 39 episodes",
+        "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on February 17, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Hardy Boys",
@@ -699,7 +715,7 @@
         "Premiere": "December 4, 2020",
         "Seasons": "1 season, 13 episodes",
         "Length": "40–46 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 6, 2022"
       },
       {
         "Title": "The Sister",
