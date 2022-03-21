@@ -26,8 +26,6 @@ async function run() {
 
   const result = [];
   for (const key of allKeys) {
-    // console.log(keyBySources[0][key],keyBySources[1][key]);
-
     result.push({
       category: key.split('~'),
       data: _.orderBy(

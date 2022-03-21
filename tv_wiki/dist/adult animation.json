@@ -16,9 +16,10 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "8 seasons, 222 episodes",
         "Show creator(s)": "Mike Judge",
-        "Original release": "2nd Revival series&#91;e&#93;",
-        "Network": "MTV Animation",
-        "Studio": "TV-PG&#91;d&#93;",
+        "Original release": "2nd Revival series",
+        "Network": "Paramount+",
+        "Studio": "Judgemental Films",
+        "Age rating": "",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -27,7 +28,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "Steven Bochco",
-        "Original release": "1995&#91;b&#93;",
+        "Original release": "1995",
         "Network": "Cartoon Network",
         "Studio": "Steven Bochco Productions",
         "Age rating": "TV-PG",
@@ -111,7 +112,7 @@
         "Genre": "Studio B Productions",
         "Show creator(s)": "Jeffrey G. Olsen",
         "Studio": "Turner Studios",
-        "Age rating": "TV-14&#91;t&#93;",
+        "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
       },
@@ -204,7 +205,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "Nat Mauldin",
-        "Original release": "January 28, 1992 – March 14, 1992&#91;a&#93;",
+        "Original release": "January 28, 1992 – March 14, 1992",
         "Network": "ABC",
         "Studio": "Hanna-Barbera",
         "Age rating": "TV-PG",
@@ -230,7 +231,7 @@
         "Show creator(s)": "Mike Judge",
         "Original release": "Original series: March 8, 1993&#160;– November 28, 1997",
         "Network": "MTV",
-        "Studio": "J.J. Sedelmaier Productions&#91;c&#93;",
+        "Studio": "J.J. Sedelmaier Productions",
         "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
@@ -241,8 +242,9 @@
         "Seasons/episodes": "8 seasons, 222 episodes",
         "Show creator(s)": "Mike Judge",
         "Original release": "Revival series: October 27 – December 29, 2011",
-        "Network": "",
-        "Studio": "TV-PG&#91;d&#93;",
+        "Network": "Comedy Central",
+        "Studio": "Film Roman",
+        "Age rating": "TV-PG",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -252,7 +254,7 @@
         "Seasons/episodes": "2 seasons, 23 episodes",
         "Show creator(s)": "Al Jean",
         "Original release": "January 26, 1994 – May 21, 1995",
-        "Network": "ABC&#91;g&#93;",
+        "Network": "ABC",
         "Studio": "Gracie Films",
         "Age rating": "TV-PG",
         "Technique": "Traditional",
@@ -276,10 +278,10 @@
         "Seasons/episodes": "11 seasons, 110 episodes",
         "Show creator(s)": "Mike Lazzo",
         "Original release": "April 15, 1994 – May 31, 2008",
-        "Network": "Cartoon Network&#91;j&#93;",
-        "Studio": "Ghost Planet Industries&#91;k&#93;",
+        "Network": "Cartoon Network",
+        "Studio": "Ghost Planet Industries",
         "Age rating": "TV-PG",
-        "Technique": "Traditional&#91;l&#93;",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -362,7 +364,7 @@
         "Original release": "March 3, 1997 – January 21, 2002",
         "Network": "MTV",
         "Studio": "Tenth Annual Industries",
-        "Age rating": "TV-PG&#91;u&#93;",
+        "Age rating": "TV-PG",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -393,11 +395,11 @@
       {
         "Title": "South Park",
         "Genre": "Sitcom",
-        "Seasons/episodes": "23 seasons, 307 episodes",
+        "Seasons/episodes": "25 seasons, 316 episodes",
         "Show creator(s)": "Trey Parker",
         "Original release": "August 13, 1997 – present",
         "Network": "Comedy Central",
-        "Studio": "Celluoid Studios&#91;w&#93;",
+        "Studio": "Celluoid Studios",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
         "Source": ""
@@ -420,7 +422,7 @@
         "Seasons/episodes": "6 seasons, 93 episodes",
         "Show creator(s)": "Eric Fogel",
         "Original release": "Original series: May&#160;14,&#160;1998&#160;–June&#160;6,&#160;2002",
-        "Network": "MTV&#91;aa&#93;",
+        "Network": "MTV",
         "Studio": "MTV Animation",
         "Age rating": "TV-14",
         "Technique": "Stop-Motion",
@@ -432,8 +434,8 @@
         "Seasons/episodes": "6 seasons, 93 episodes",
         "Show creator(s)": "Eric Fogel",
         "Original release": "Revival series: June 10, 2006 – March 30, 2007",
-        "Network": "MTV2&#91;ab&#93;",
-        "Studio": "The Comedy Network&#91;ac&#93;",
+        "Network": "MTV2",
+        "Studio": "The Comedy Network",
         "Age rating": "TV-14",
         "Technique": "Stop-Motion",
         "Source": ""
@@ -444,7 +446,7 @@
         "Seasons/episodes": "3 seasons, 44 episodes",
         "Show creator(s)": "Eddie Murphy",
         "Original release": "January 10, 1999 – May 20, 2001",
-        "Network": "Fox&#91;ae&#93;",
+        "Network": "Fox",
         "Studio": "Imagine Television",
         "Age rating": "TV-14",
         "Technique": "Stop-Motion",
@@ -471,7 +473,7 @@
         "Network": "Fox",
         "Studio": "Fuzzy Door Productions",
         "Age rating": "TV-14",
-        "Technique": "Traditional&#91;aj&#93;",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -492,9 +494,9 @@
         "Seasons/episodes": "7 seasons, 140 episodes",
         "Show creator(s)": "Matt Groening",
         "Original release": "March 28, 1999 – present",
-        "Network": "Fox&#91;al&#93;",
+        "Network": "Fox",
         "Studio": "The Curiosity Company",
-        "Age rating": "TV-14&#91;am&#93;",
+        "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -504,7 +506,7 @@
         "Seasons/episodes": "4 seasons, 52 episodes",
         "Show creator(s)": "Loren Bouchard",
         "Original release": "April 26, 1999 – April 4, 2004",
-        "Network": "UPN&#91;aq&#93;",
+        "Network": "UPN",
         "Studio": "Burns &amp; Burns Productions",
         "Age rating": "TV-PG",
         "Technique": "Flash",
@@ -663,7 +665,7 @@
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-MA",
-        "Technique": "Flash&#91;d&#93;",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -673,9 +675,9 @@
         "Show creator(s)": "Michael Ouweleen",
         "Original release": "December 30, 2000 –July 22, 2007",
         "Network": "Adult Swim",
-        "Studio": "J. J. Sedelmaier Productions, Inc.&#91;h&#93;",
+        "Studio": "J. J. Sedelmaier Productions, Inc.",
         "Age rating": "TV-14",
-        "Technique": "Traditional&#91;i&#93;",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -703,14 +705,14 @@
         "Source": ""
       },
       {
-        "Title": "Samurai Jack&#91;p&#93;",
+        "Title": "Samurai Jack",
         "Genre": "Action-Adventure",
-        "Seasons/episodes": "10 episodes&#91;q&#93;",
+        "Seasons/episodes": "10 episodes",
         "Show creator(s)": "Genndy Tartakovsky",
         "Original release": "March 11, 2017 – May 20, 2017",
         "Network": "Cartoon Network",
         "Studio": "Williams Street",
-        "Age rating": "TV-14&#91;r&#93;",
+        "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -913,7 +915,7 @@
         "Show creator(s)": "Jackson Publick",
         "Original release": "August 7, 2004 – October 7, 2018",
         "Network": "Adult Swim",
-        "Studio": "NoodleSoup Productions&#91;u&#93;",
+        "Studio": "NoodleSoup Productions",
         "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
@@ -961,7 +963,7 @@
         "Show creator(s)": "Tim Heidecker",
         "Original release": "November 14, 2004 – September 25, 2006",
         "Network": "Adult Swim",
-        "Studio": "Dipshot Films&#91;ac&#93;",
+        "Studio": "Dipshot Films",
         "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
@@ -972,10 +974,10 @@
         "Seasons/episodes": "18 seasons, 321 episodes",
         "Show creator(s)": "Seth MacFarlane",
         "Original release": "February 6, 2005 – present",
-        "Network": "Fox&#91;ag&#93;",
+        "Network": "Fox",
         "Studio": "Fuzzy Door Productions",
         "Age rating": "TV-14",
-        "Technique": "Traditional&#91;ah&#93;",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -985,7 +987,7 @@
         "Show creator(s)": "Seth Green",
         "Original release": "February 20, 2005 – present",
         "Network": "Adult Swim",
-        "Studio": "ShadowMachine&#91;ak&#93;",
+        "Studio": "ShadowMachine",
         "Age rating": "TV-MA",
         "Technique": "Stop-motion",
         "Source": ""
@@ -1022,7 +1024,7 @@
         "Original release": "Revival series: July 20, 2020 – July 31, 2020",
         "Network": "Adult Swim",
         "Studio": "Radical Axis",
-        "Age rating": "TV-MA&#91;ap&#93;",
+        "Age rating": "TV-MA",
         "Technique": "Flash",
         "Source": ""
       },
@@ -1088,7 +1090,7 @@
       },
       {
         "Title": "Moral Orel",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Seasons/episodes": "3 seasons, 44 episodes",
         "Show creator(s)": "Dino Stamatopoulos",
         "Original release": "December 13, 2005 – December 18, 2008",
@@ -1368,7 +1370,7 @@
         "Seasons/episodes": "10 seasons, 110 episodes",
         "Show creator(s)": "Adam Reed",
         "Original release": "September 17, 2009 – present",
-        "Network": "FX&#91;bd&#93;",
+        "Network": "FX",
         "Studio": "Floyd County Productions",
         "Age rating": "TV-MA",
         "Technique": "Flash",
@@ -1580,7 +1582,7 @@
       },
       {
         "Title": "Out There",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Ryan Quincy",
         "Original release": "February 22, 2013 – April 19, 2013",
@@ -1700,7 +1702,7 @@
       },
       {
         "Title": "BoJack Horseman",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Seasons/episodes": "6 seasons, 77 episodes",
         "Show creator(s)": "Raphael Bob-Waksberg",
         "Original release": "August 22, 2014 – January 31, 2020",
@@ -2121,7 +2123,7 @@
       {
         "Title": "Love, Death &amp; Robots",
         "Genre": "Anthology",
-        "Seasons/episodes": "1 season, 18 episodes",
+        "Seasons/episodes": "2 season, 26 episodes",
         "Show creator(s)": "Tim Miller",
         "Original release": "March 15, 2019 – present",
         "Network": "Netflix",
@@ -2157,9 +2159,9 @@
       {
         "Title": "Tuca &amp; Bertie",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 season, 20 episodes",
         "Show creator(s)": "Lisa Hanawalt",
-        "Original release": "May 3, 2019 – April 27, 2022",
+        "Original release": "May 3, 2019 – present",
         "Network": "Netflix (season 1)",
         "Studio": "The Tornante Company",
         "Age rating": "TV-MA (Season 1 only)",
@@ -2169,7 +2171,7 @@
       {
         "Title": "Tuca &amp; Bertie",
         "Genre": "Surreal humor",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 season, 20 episodes",
         "Show creator(s)": "Lisa Hanawalt",
         "Original release": "",
         "Network": "",
@@ -2204,7 +2206,7 @@
       },
       {
         "Title": "Undone",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Raphael Bob-Waksberg",
         "Original release": "September 13, 2019 – present",
@@ -2624,7 +2626,7 @@
       },
       {
         "Title": "Ultra City Smiths",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Steve Conrad",
         "Original release": "July 22, 2021 – present",
@@ -2639,7 +2641,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 12 episodes",
         "Show creator(s)": "Gary Janetti",
-        "Original release": "July 29, 2021 – present",
+        "Original release": "July 29, 2021",
         "Network": "HBO Max",
         "Studio": "20th Television Animation",
         "Age rating": "TV-MA",
@@ -2851,6 +2853,18 @@
         "Source": ""
       },
       {
+        "Title": "Doomlands",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Josh O’Keefe",
+        "Original release": "January 28, 2022 – present",
+        "Network": "Roku",
+        "Studio": "Look Mom! Productions",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "The Legend of Vox Machina",
         "Genre": "Action",
         "Seasons/episodes": "1 season, 12 episodes",
@@ -2860,6 +2874,42 @@
         "Studio": "Amazon Studios",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "The Guardians of Justice",
+        "Genre": "Superhero",
+        "Seasons/episodes": "1 season, 7 episodes",
+        "Show creator(s)": "Adi Shankar",
+        "Original release": "March 1, 2022 – present",
+        "Network": "Netflix",
+        "Studio": "Bootleg Universe",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional/Live-Action",
+        "Source": ""
+      },
+      {
+        "Title": "The Boys Presents: Diabolical",
+        "Genre": "Anthology series",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "TBA",
+        "Original release": "March 4, 2022 – present",
+        "Network": "Amazon Prime Video",
+        "Studio": "Sony Pictures Television",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Human Resources",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Nick Kroll",
+        "Original release": "March 18, 2022 – present",
+        "Network": "Netflix",
+        "Studio": "Brutus Pink",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
         "Source": ""
       }
     ]
@@ -3162,7 +3212,7 @@
         "Seasons/episodes": "3 seasons, 46 episodes",
         "Show creator(s)": "Nicholas Tabarrok",
         "Original release": "September 7, 2012 – April 1, 2016",
-        "Network": "Teletoon at Night&#91;a&#93;",
+        "Network": "Teletoon at Night",
         "Studio": "Darius Films",
         "Source": ""
       },
@@ -3222,7 +3272,7 @@
         "Seasons/episodes": "5 seasons, 93 episodes",
         "Show creator(s)": "Santiago Moure",
         "Original release": "October 29, 1997 – September 1, 2000",
-        "Network": "Canal A&#91;aw&#93;",
+        "Network": "Canal A",
         "Studio": "Gaira",
         "Source": ""
       },
@@ -3233,7 +3283,7 @@
         "Seasons/episodes": "5 seasons, 93 episodes",
         "Show creator(s)": "Martín de Francisco",
         "Original release": "November 14, 2019 – Present",
-        "Network": "Canal A&#91;aw&#93;",
+        "Network": "Canal A",
         "Studio": "Conexión Creativa",
         "Source": ""
       },
@@ -3255,7 +3305,7 @@
         "Seasons/episodes": "6 seasons, 179 episodes",
         "Show creator(s)": "Thiago Martins",
         "Original release": "August 23, 2005&#160;– August 25, 2011",
-        "Network": "MTV Brasil&#91;bh&#93;",
+        "Network": "MTV Brasil",
         "Studio": "Estricnina Desenhos Animados",
         "Source": ""
       },
@@ -3436,7 +3486,7 @@
         "Seasons/episodes": "1 season, 26 episodes",
         "Show creator(s)": "Jérémie Périn",
         "Original release": "November 22, 2016 – present",
-        "Network": "France 4&#91;c&#93;",
+        "Network": "France 4",
         "Studio": "Everybody On Deck",
         "Source": ""
       }
@@ -3618,7 +3668,7 @@
         "Source": ""
       },
       {
-        "Title": "Immigrants&#91;bj&#93;",
+        "Title": "Immigrants",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Gábor Csupó",
@@ -3656,7 +3706,7 @@
     "data": [
       {
         "Title": "Tear Along the Dotted Line",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Zerocalcare",
         "Original release": "November 17, 2021",
@@ -3695,30 +3745,6 @@
         "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "The Boys: Diabolical",
-        "Genre": "Anthology series",
-        "Seasons, episodes": "1 season, 8 episodes",
-        "Show creator": "TBA",
-        "Release date": "March 4, 2022",
-        "Original channel": "Amazon Prime Video",
-        "Studio": "Sony Pictures Television",
-        "Age rating": "TV-MA",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "Human Resources",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Nick Kroll",
-        "Release date": "March 18, 2022",
-        "Original channel": "Netflix",
-        "Studio": "Brutus Pink",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
         "Source": ""
       }
     ]

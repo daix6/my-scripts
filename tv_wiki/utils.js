@@ -10,7 +10,7 @@ function parseTable(tableEl) {
 
   const headers = thead.querySelectorAll('th').map(el => removeUnicode(el.rawText.trim()));
   rows = rows.filter(row => {
-    return row.querySelectorAll('th,td').length > 1;
+    return row.querySelectorAll('th,td').length >= 1;
   });
 
   const result = rows.map(row => Array(headers.length));
@@ -33,7 +33,6 @@ function parseTable(tableEl) {
       }
     });
   });
-
 
   const ret = [];
   result.forEach(row => {
