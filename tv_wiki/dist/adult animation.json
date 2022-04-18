@@ -2411,7 +2411,7 @@
       {
         "Title": "Close Enough",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 season, 16 episodes",
+        "Seasons/episodes": "3 seasons, 24 episodes",
         "Show creator(s)": "J.G. Quintel",
         "Original release": "July 9, 2020 – present",
         "Network": "HBO Max",
@@ -2675,7 +2675,7 @@
       {
         "Title": "Teenage Euthanasia",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 4 episodes",
+        "Seasons/episodes": "1 season, 7 episodes",
         "Show creator(s)": "Alyson Levy",
         "Original release": "September 6, 2021 – present",
         "Network": "Adult Swim",
@@ -2850,18 +2850,6 @@
         "Studio": "41 Entertainment",
         "Age rating": "TV-14",
         "Technique": "CGI",
-        "Source": ""
-      },
-      {
-        "Title": "Doomlands",
-        "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Show creator(s)": "Josh O’Keefe",
-        "Original release": "January 28, 2022 – present",
-        "Network": "Roku",
-        "Studio": "Look Mom! Productions",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3251,11 +3239,24 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 18 episodes",
         "Show creator(s)": "Alain Dagenais",
-        "Original release": "September 17, 2020 – present",
+        "Original release": "September 17, 2020 – March 4, 2021",
         "Network": "Adult Swim",
         "Studio": "Portfolio Entertainment",
         "Technique": "Flash",
-        "Source": "&#91;citation needed&#93;"
+        "Source": "",
+        "": ""
+      },
+      {
+        "Title": "Doomlands",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Josh O’Keefe",
+        "Original release": "January 28, 2022 – present",
+        "Network": "Roku",
+        "Studio": "Look Mom! Productions",
+        "Technique": "TV-MA",
+        "Source": "Flash",
+        "": ""
       }
     ]
   },

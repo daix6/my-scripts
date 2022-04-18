@@ -119,7 +119,7 @@
       },
       {
         "Title": "The Boys",
-        "Genre": "Superhero",
+        "Genre": "Superhero drama",
         "Premiere": "July 26, 2019",
         "Seasons/episodes": "2 seasons, 16 episodes",
         "Status": "Season 3 due to premiere on June 3, 2022"
@@ -196,7 +196,7 @@
       },
       {
         "Title": "I Know What You Did Last Summer",
-        "Genre": "Young adult horror drama",
+        "Genre": "Young adult horror",
         "Premiere": "October 15, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
@@ -210,7 +210,7 @@
       },
       {
         "Title": "Reacher",
-        "Genre": "Drama",
+        "Genre": "Crime drama",
         "Premiere": "February 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Renewed"
@@ -220,7 +220,7 @@
         "Genre": "Mystery thriller",
         "Premiere": "April 15, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Terminal List",
@@ -274,21 +274,21 @@
       },
       {
         "Title": "Red Oaks",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 28, 2014",
         "Seasons/episodes": "3 seasons, 26 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Transparent",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "September 26, 2014",
         "Seasons/episodes": "5 seasons, 41 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Mozart in the Jungle",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "December 23, 2014",
         "Seasons/episodes": "4 seasons, 40 episodes",
         "Status": "Ended"
@@ -309,7 +309,7 @@
       },
       {
         "Title": "One Mississippi",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "November 5, 2015",
         "Seasons/episodes": "2 seasons, 12 episodes",
         "Status": "Ended"
@@ -330,14 +330,14 @@
       },
       {
         "Title": "I Love Dick",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 19, 2016",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Jean-Claude Van Johnson",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 19, 2016",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Ended"
@@ -351,28 +351,28 @@
       },
       {
         "Title": "Comrade Detective",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 4, 2017",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Ended"
       },
       {
         "Title": "The Marvelous Mrs. Maisel",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "November 29, 2017",
         "Seasons/episodes": "4 seasons, 34 episodes",
         "Status": "Renewed for final season"
       },
       {
         "Title": "The Dangerous Book for Boys",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "March 30, 2018",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Forever",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "September 14, 2018",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
@@ -421,7 +421,7 @@
       },
       {
         "Title": "Back to the Rafters",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "September 17, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Ended"
@@ -438,12 +438,19 @@
         "Genre": "Romantic comedy",
         "Premiere": "December 17, 2021",
         "Seasons/episodes": "1 season, 5 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "As We See It",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "January 21, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Ten Percent",
+        "Genre": "Comedy drama",
+        "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       }
@@ -458,14 +465,14 @@
     "data": [
       {
         "Title": "Baahubali: The Lost Legends",
-        "Genre": "Action/Historical",
+        "Genre": "Historical action",
         "Premiere": "April 19, 2017",
         "Seasons/episodes": "5 seasons, 71 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Undone",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "September 13, 2019",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Season 2 due to premiere on April 29, 2022"
@@ -482,7 +489,7 @@
         "Genre": "Comedy",
         "Premiere": "October 29, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on June 10, 2022"
       },
       {
         "Title": "The Legend of Vox Machina",
@@ -493,7 +500,7 @@
       },
       {
         "Title": "The Boys Presents: Diabolical",
-        "Genre": "Superhero Anthology",
+        "Genre": "Superhero anthology",
         "Premiere": "March 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
@@ -604,7 +611,7 @@
       },
       {
         "Title": "Pushpavalli",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "December 15, 2017",
         "Seasons/episodes": "2 seasons, 16 episodes",
         "Status": "Ended"
@@ -667,7 +674,7 @@
       },
       {
         "Title": "Hostel Daze",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "December 13, 2019",
         "Seasons/episodes": "2 seasons, 9 episodes",
         "Status": "Ended"
@@ -681,14 +688,14 @@
       },
       {
         "Title": "Afsos",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "February 6, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Panchayat",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "April 3, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
@@ -702,7 +709,7 @@
       },
       {
         "Title": "Rasbhari",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "June 25, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
@@ -774,14 +781,14 @@
     "data": [
       {
         "Title": "Scatola Nera",
-        "Genre": "Comedy crime",
+        "Genre": "Crime comedy",
         "Premiere": "November 25, 2019",
         "Seasons/episodes": "2 seasons, 16 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Made in Italy",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "September 23, 2019",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Ended"
@@ -853,7 +860,7 @@
       },
       {
         "Title": "Gaki Rock: sakusa roku-ku ninjo monogatari",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "April 14, 2017",
         "Seasons/episodes": "1 season, 12 episodes",
         "Status": "Ended"
@@ -874,7 +881,7 @@
       },
       {
         "Title": "Tokyo Alice",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 25, 2017",
         "Seasons/episodes": "1 season, 12 episodes",
         "Status": "Ended"
@@ -1027,12 +1034,12 @@
         "Title": "How to Survive Being Single",
         "Genre": "Comedy",
         "Premiere": "June 26, 2020",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Renewed for seasons 2 and 3"
+        "Seasons/episodes": "2 seasons, 18 episodes",
+        "Status": "Renewed"
       },
       {
         "Title": "Relatos con-fin-a-dos&#160;",
-        "Genre": "Comedy-drama anthology",
+        "Genre": "Comedy drama anthology",
         "Premiere": "July 3, 2020",
         "Seasons/episodes": "5 episodes",
         "Status": "Miniseries"
@@ -1076,8 +1083,8 @@
         "Title": "El Internado: Las Cumbres",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Vineyard",
@@ -1242,7 +1249,7 @@
       {
         "Title": "El juego de las llaves",
         "Partner": "Pantaya",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 16, 2019",
         "Seasons/episodes": "2 seasons, 18 episodes",
         "Language": "Spanish",
@@ -1305,7 +1312,7 @@
       {
         "Title": "Ana",
         "Partner": "Comedy Central",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "April 21, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
         "Language": "Spanish",
@@ -1375,6 +1382,15 @@
         "Status": "Pending"
       },
       {
+        "Title": "The Outlaws",
+        "Partner": "BBC One",
+        "Genre": "Comedy drama",
+        "Premiere": "October 25, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
         "Title": "Stories to Stay Awake",
         "Partner": "RTVE",
         "Genre": "Horror anthology",
@@ -1397,7 +1413,6 @@
         "Prev. network(s)": "Syfy",
         "Premiere": "December 13, 2019",
         "Seasons/episodes": "3 seasons, 26 episodes",
-        "Prime Video exclusive region": "Worldwide",
         "Language": "English",
         "Status": "Ended"
       },
@@ -1407,9 +1422,17 @@
         "Prev. network(s)": "AXN",
         "Premiere": "July 17, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Prime Video exclusive region": "Worldwide",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Kids in the Hall (season 6)",
+        "Genre": "Sketch comedy",
+        "Prev. network(s)": "HBOCBSCBC Television",
+        "Premiere": "May 13, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -1548,7 +1571,7 @@
       {
         "Title": "The Cosmopolitans",
         "Pilot season": "3",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 28, 2014",
         "Notes": ""
       },

@@ -250,22 +250,30 @@
         "Genre": "Drama",
         "Premiere": "March 3, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries ongoing"
-      },
-      {
-        "Title": "The Girl from Plainville",
-        "Genre": "Crime drama",
-        "Premiere": "March 29, 2022",
-        "Seasons": "8 episodes",
-        "Length": "TBA",
+        "Length": "45–55 min.",
         "Status": "Miniseries"
       },
       {
+        "Title": "The Girl from Plainville",
+        "Genre": "True crime drama",
+        "Premiere": "March 29, 2022",
+        "Seasons": "8 episodes",
+        "Length": "43–49 min.",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
         "Title": "Under the Banner of Heaven",
-        "Genre": "Crime drama",
+        "Genre": "True crime drama",
         "Premiere": "April 28, 2022",
-        "Seasons": "TBA",
+        "Seasons": "7 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       },
@@ -273,7 +281,15 @@
         "Title": "Candy",
         "Genre": "True crime drama",
         "Premiere": "May 9, 2022",
-        "Seasons": "TBA",
+        "Seasons": "5 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Pistol",
+        "Genre": "Biographical drama",
+        "Premiere": "May 31, 2022",
+        "Seasons": "6 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -375,7 +391,7 @@
       },
       {
         "Title": "Ramy",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "April 19, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "23–31 min.",
@@ -399,7 +415,7 @@
       },
       {
         "Title": "High Fidelity",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "February 14, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "26–34 min.",
@@ -417,13 +433,13 @@
         "Title": "Woke",
         "Genre": "Comedy",
         "Premiere": "September 9, 2020",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Length": "25–34 min.",
-        "Status": "Season 2 due to premiere on April 8, 2022."
+        "Status": "Pending"
       },
       {
         "Title": "Reservation Dogs",
-        "Genre": "Teen drama/Comedy-drama",
+        "Genre": "Teen drama/Comedy drama",
         "Premiere": "August 9, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "30 min.",
@@ -435,7 +451,7 @@
         "Premiere": "August 31, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "26–35 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on June 28, 2022"
       },
       {
         "Title": "How I Met Your Father",
@@ -443,15 +459,15 @@
         "Premiere": "January 18, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–25 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Life &amp; Beth",
         "Genre": "Comedy",
         "Premiere": "March 18, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "24–32 min.",
+        "Status": "Renewed"
       }
     ]
   },
@@ -647,6 +663,22 @@
         "Seasons": "6 episodes",
         "Length": "40–46 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Captive Audience: A Real American Horror Story",
+        "Genre": "Docuseries",
+        "Premiere": "April 21, 2022",
+        "Seasons": "3 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -687,7 +719,7 @@
         "Premiere": "April 26, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "49–59 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The D'Amelio Show",
@@ -725,7 +757,7 @@
         "Title": "The Kardashians",
         "Genre": "Reality",
         "Premiere": "April 14, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -768,7 +800,7 @@
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 4 episodes",
         "Length": "22–30 min",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -799,7 +831,7 @@
       {
         "Title": "The Wrong Mans",
         "Partner/Country": "BBC Two/United Kingdom",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "November 11, 2013",
         "Seasons": "2 seasons, 10 episodes",
         "Length": "29 min.",
@@ -835,7 +867,7 @@
       {
         "Title": "The Bisexual",
         "Partner/Country": "Channel 4/United Kingdom",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "November 16, 2018",
         "Seasons": "1 season, 6 episodes",
         "Length": "27–30 min.",
@@ -871,16 +903,16 @@
       {
         "Title": "This Way Up",
         "Partner/Country": "Channel 4/United Kingdom",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 21, 2019",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "29 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Zomboat!",
         "Partner/Country": "ITV2/United Kingdom",
-        "Genre": "Comedy-drama thriller",
+        "Genre": "Comedy drama thriller",
         "Premiere": "October 25, 2019",
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
@@ -936,7 +968,7 @@
         "Partner/Country": "FX/United States",
         "Genre": "Docuseries",
         "Premiere": "July 10, 2020",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 11 episodes",
         "Length": "60 min.",
         "Status": "Pending"
       },
@@ -945,9 +977,9 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "6 seasons, 37 episodes",
+        "Seasons": "7 seasons, 43 episodes",
         "Length": "23 min.",
-        "Status": "Season 7 due to premiere on April 4, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -981,9 +1013,9 @@
         "Partner/Country": "YTV/Canada",
         "Genre": "Mystery teen drama",
         "Premiere": "December 4, 2020",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "2 seasons, 23 episodes",
         "Length": "40–46 min.",
-        "Status": "Season 2 due to premiere on April 6, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Sister",
@@ -999,7 +1031,7 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Length": "22 min.",
         "Status": "Pending"
       },
@@ -1010,7 +1042,25 @@
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Partner/Country": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Conversations with Friends",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Genre": "Drama",
+        "Premiere": "May 15, 2022",
+        "Seasons": "12 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1057,13 +1107,22 @@
         "Status": "Pending"
       },
       {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Prev. network(s)": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
         "Title": "The Orville (season 3)",
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
         "Premiere": "June 2, 2022",
         "Seasons": "1 season, 11 episodes",
         "Length": "TBA",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1086,336 +1145,6 @@
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
         "Language": "English"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original films",
-      "Feature films"
-    ],
-    "data": [
-      {
-        "Title": "Little Monsters",
-        "Genre": "Comedy horror",
-        "Release date": "October 11, 2019",
-        "Runtime": "1 hour, 34 min."
-      },
-      {
-        "Title": "Wounds",
-        "Genre": "Horror",
-        "Release date": "October 18, 2019",
-        "Runtime": "1 hour, 34 min."
-      },
-      {
-        "Title": "Big Time Adolescence",
-        "Genre": "Comedy",
-        "Release date": "March 13, 2020",
-        "Runtime": "1 hour, 31 min."
-      },
-      {
-        "Title": "Palm Springs",
-        "Genre": "Romantic comedy",
-        "Release date": "July 10, 2020",
-        "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "The Binge",
-        "Genre": "Comedy",
-        "Release date": "August 28, 2020",
-        "Runtime": "1 hour, 38 min."
-      },
-      {
-        "Title": "Books of Blood",
-        "Genre": "Horror anthology",
-        "Release date": "October 7, 2020",
-        "Runtime": "1 hour, 47 min."
-      },
-      {
-        "Title": "Bad Hair",
-        "Genre": "Comedy horror",
-        "Release date": "October 23, 2020",
-        "Runtime": "1 hour, 55 min."
-      },
-      {
-        "Title": "Run",
-        "Genre": "Horror",
-        "Release date": "November 20, 2020",
-        "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "Happiest Season",
-        "Genre": "Romantic comedy",
-        "Release date": "November 25, 2020",
-        "Runtime": "1 hour, 42 min."
-      },
-      {
-        "Title": "The Ultimate Playlist of Noise",
-        "Genre": "Musical comedy-drama",
-        "Release date": "January 15, 2021",
-        "Runtime": "1 hour, 39 min."
-      },
-      {
-        "Title": "The United States vs. Billie Holiday",
-        "Genre": "Biographical drama",
-        "Release date": "February 26, 2021",
-        "Runtime": "2 hours, 10 min."
-      },
-      {
-        "Title": "Boss Level",
-        "Genre": "Science fiction action",
-        "Release date": "March 5, 2021",
-        "Runtime": "1 hour, 40 min."
-      },
-      {
-        "Title": "Plan B",
-        "Genre": "Comedy",
-        "Release date": "May 28, 2021",
-        "Runtime": "1 hour, 48 min."
-      },
-      {
-        "Title": "False Positive",
-        "Genre": "Horror",
-        "Release date": "June 25, 2021",
-        "Runtime": "1 hour, 32 min."
-      },
-      {
-        "Title": "Vacation Friends",
-        "Genre": "Comedy",
-        "Release date": "August 27, 2021",
-        "Runtime": "1 hour, 45 min."
-      },
-      {
-        "Title": "Mother/Android",
-        "Genre": "Science fiction thriller",
-        "Release date": "December 17, 2021",
-        "Runtime": "1 hour, 50 min."
-      },
-      {
-        "Title": "Sex Appeal",
-        "Genre": "Teen romantic comedy",
-        "Release date": "January 14, 2022",
-        "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "No Exit",
-        "Genre": "Thriller",
-        "Release date": "February 25, 2022",
-        "Runtime": "1 hour, 35 min."
-      },
-      {
-        "Title": "Fresh",
-        "Genre": "Thriller",
-        "Release date": "March 4, 2022",
-        "Runtime": "1 hour, 54 min."
-      },
-      {
-        "Title": "Deep Water",
-        "Genre": "Psychological thriller",
-        "Release date": "March 18, 2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Fire Island",
-        "Genre": "Romantic comedy",
-        "Release date": "June 3, 2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Good Luck to You, Leo Grande",
-        "Genre": "Romantic comedy",
-        "Release date": "June 17, 2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Not Okay",
-        "Genre": "Comedy",
-        "Release date": "August 5, 2022",
-        "Runtime": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original films",
-      "Documentaries"
-    ],
-    "data": [
-      {
-        "Title": "Batman &amp; Bill",
-        "Release date": "May 6, 2017",
-        "Runtime": "1 hour, 32 min."
-      },
-      {
-        "Title": "Becoming Bond",
-        "Release date": "May 20, 2017",
-        "Runtime": "1 hour, 35 min."
-      },
-      {
-        "Title": "Dumb: The Story of Big Brother Magazine",
-        "Release date": "June 3, 2017",
-        "Runtime": "1 hour, 19 min."
-      },
-      {
-        "Title": "Too Funny to Fail",
-        "Release date": "October 21, 2017",
-        "Runtime": "1 hour, 35 min."
-      },
-      {
-        "Title": "Obey Giant",
-        "Release date": "November 11, 2017",
-        "Runtime": "1 hour, 32 min."
-      },
-      {
-        "Title": "March of the Penguins 2: The Next Step",
-        "Release date": "March 23, 2018",
-        "Runtime": "1 hour, 24 min."
-      },
-      {
-        "Title": "Tiny Shoulders: Rethinking Barbie",
-        "Release date": "April 27, 2018",
-        "Runtime": "1 hour, 32 min."
-      },
-      {
-        "Title": "Ballet Now",
-        "Release date": "July 20, 2018",
-        "Runtime": "1 hour, 13 min."
-      },
-      {
-        "Title": "Minding the Gap",
-        "Release date": "August 17, 2018",
-        "Runtime": "1 hour, 33 min."
-      },
-      {
-        "Title": "Crime + Punishment",
-        "Release date": "August 24, 2018",
-        "Runtime": "1 hour, 52 min."
-      },
-      {
-        "Title": "Fyre Fraud",
-        "Release date": "January 14, 2019",
-        "Runtime": "1 hour, 36 min."
-      },
-      {
-        "Title": "Ask Dr. Ruth",
-        "Release date": "June 1, 2019",
-        "Runtime": "1 hour, 40 min."
-      },
-      {
-        "Title": "The Amazing Johnathan Documentary",
-        "Release date": "August 16, 2019",
-        "Runtime": "1 hour, 31 min."
-      },
-      {
-        "Title": "Jawline",
-        "Release date": "August 23, 2019",
-        "Runtime": "1 hour, 39 min."
-      },
-      {
-        "Title": "Untouchable",
-        "Release date": "September 2, 2019",
-        "Runtime": "1 hour, 38 min."
-      },
-      {
-        "Title": "Margaret Atwood: A Word after a Word after a Word is Power",
-        "Release date": "March 20, 2020",
-        "Runtime": "1 hour, 33 min."
-      },
-      {
-        "Title": "We Are Freestyle Love Supreme",
-        "Release date": "July 17, 2020",
-        "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "I Am Greta",
-        "Release date": "November 13, 2020",
-        "Runtime": "1 hour, 37 min."
-      },
-      {
-        "Title": "69: The Saga of Danny Hernandez",
-        "Release date": "November 16, 2020",
-        "Runtime": "1 hour, 42 min."
-      },
-      {
-        "Title": "Kid 90",
-        "Release date": "March 12, 2021",
-        "Runtime": "1 hour, 11 min."
-      },
-      {
-        "Title": "WeWork: Or The Making and Breaking of a $47 Billion Unicorn",
-        "Release date": "April 2, 2021",
-        "Runtime": "1 hour, 44 min."
-      },
-      {
-        "Title": "Changing the Game",
-        "Release date": "June 1, 2021",
-        "Runtime": "1 hour, 28 min."
-      },
-      {
-        "Title": "Homeroom",
-        "Release date": "August 12, 2021",
-        "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "Jacinta",
-        "Release date": "October 8, 2021",
-        "Runtime": "1 hour, 45 min."
-      },
-      {
-        "Title": "The Informant: Fear and Faith in the Heartland",
-        "Release date": "November 1, 2021",
-        "Runtime": "1 hour, 16 min."
-      },
-      {
-        "Title": "The Housewife &amp; the Shah Shocker",
-        "Release date": "November 29, 2021",
-        "Runtime": "48 min."
-      },
-      {
-        "Title": "Dead Asleep",
-        "Release date": "December 16, 2021",
-        "Runtime": "1 hour, 26 min."
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original films",
-      "Specials"
-    ],
-    "data": [
-      {
-        "Title": "Derek DelGaudio's In &amp; of Itself",
-        "Genre": "Mentalism",
-        "Release date": "January 22, 2021",
-        "Runtime": "1 hour, 30 min."
-      },
-      {
-        "Title": "Out of the Shadows: The Man Behind The Steele Dossier",
-        "Genre": "Interview",
-        "Release date": "October 18, 2021",
-        "Runtime": "1 hour, 6 min."
-      }
-    ]
-  },
-  {
-    "category": [
-      "Co-distributed films"
-    ],
-    "data": [
-      {
-        "Title": "Nomadland",
-        "Genre": "Drama",
-        "Co-distributed with": "Searchlight Pictures",
-        "Release date": "February 19, 2021",
-        "Runtime": "1 hour, 48 min."
-      },
-      {
-        "Title": "Summer of Soul",
-        "Genre": "Documentary",
-        "Co-distributed with": "Searchlight Pictures",
-        "Release date": "July 2, 2021",
-        "Runtime": "1 hour, 57 min."
       }
     ]
   },
@@ -1467,14 +1196,6 @@
       },
       {
         "Title": "Iron Mike",
-        "Genre": "Biographical drama miniseries",
-        "Seasons": "8 episodes",
-        "Premiere": "TBA",
-        "Length": "TBA",
-        "Status": "TBA"
-      },
-      {
-        "Title": "Pistol",
         "Genre": "Biographical drama miniseries",
         "Seasons": "8 episodes",
         "Premiere": "TBA",
@@ -1552,6 +1273,14 @@
         "Premiere": "TBA",
         "Length": "TBA",
         "Status": "Series order"
+      },
+      {
+        "Title": "The Full Monty",
+        "Genre": "Comedy drama",
+        "Seasons": "TBA",
+        "Premiere": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
       },
       {
         "Title": "Maggie",
@@ -1652,15 +1381,6 @@
       "Co-productions"
     ],
     "data": [
-      {
-        "Title": "Conversations with Friends",
-        "Genre": "Drama",
-        "Partner/Country": "BBC Three/United Kingdom",
-        "Seasons": "1 season, 12 episodes",
-        "Premiere": "May 2022",
-        "Length": "TBA",
-        "Status": "TBA"
-      },
       {
         "Title": "Planet Sex",
         "Genre": "Docuseries",
@@ -1892,75 +1612,7 @@
   },
   {
     "category": [
-      "Upcoming original films",
-      "Feature films"
-    ],
-    "data": [
-      {
-        "Title": "The Valet",
-        "Genre": "Romantic comedy",
-        "Release date": "Mid-2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Hellraiser",
-        "Genre": "Horror",
-        "Release date": "2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Prey",
-        "Genre": "Science fiction horror",
-        "Release date": "2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "The Princess",
-        "Genre": "Action-thriller",
-        "Release date": "2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Rosaline",
-        "Genre": "Romantic comedy",
-        "Release date": "2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Look at Me",
-        "Genre": "Documentary",
-        "Release date": "Mid-2022",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "The Boogeyman",
-        "Genre": "Horror",
-        "Release date": "2023",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Boston Strangler",
-        "Genre": "Drama",
-        "Release date": "TBA",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Honeymoon Friends",
-        "Genre": "Drama",
-        "Release date": "TBA",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Quasi",
-        "Genre": "Drama",
-        "Release date": "TBA",
-        "Runtime": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international television distribution"
+      "Exclusive international distribution"
     ],
     "data": [
       {
@@ -2105,7 +1757,7 @@
         "Original region": "New Zealand",
         "Seasons": "1 season, 5 episodes",
         "Run": "2021",
-        "Language": "English/te reo Māori"
+        "Language": "English/Māori"
       },
       {
         "Title": "Bad Habits, Holy Orders",

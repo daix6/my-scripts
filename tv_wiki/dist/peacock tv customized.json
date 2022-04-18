@@ -59,7 +59,7 @@
         "Premiere": "February 13, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "46–60 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Joe vs. Carole",
@@ -132,6 +132,14 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Killing It",
+        "Genre": "Comedy",
+        "Premiere": "April 14, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -178,9 +186,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "6 seasons, 37 episodes",
+        "Seasons": "7 seasons, 43 episodes",
         "Length": "23 min.",
-        "Status": "Season 7 due to premiere on April 4, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Mighty Ones",
@@ -214,7 +222,7 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Length": "22 min.",
         "Status": "Pending"
       },
@@ -245,11 +253,11 @@
     ],
     "data": [
       {
-        "Title": "Curious George (seasons 13–14)",
+        "Title": "Curious George (seasons 13–15)",
         "Genre": "Family animation",
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
-        "Seasons": "2 seasons, 30 episodes",
+        "Seasons": "3 seasons, 45 episodes",
         "Length": "23 min.",
         "Status": "Pending"
       },
@@ -305,7 +313,7 @@
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 14 episodes",
         "Length": "41–43 min.",
-        "Status": "Season 4 ongoing"
+        "Status": "Pending"
       }
     ]
   },

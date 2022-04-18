@@ -11,7 +11,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "48–76 min.",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on June 10, 2022"
       },
       {
         "Title": "The Morning Show",
@@ -33,9 +33,9 @@
         "Title": "Servant",
         "Genre": "Psychological horror/thriller",
         "Premiere": "November 28, 2019",
-        "Seasons": "3 seasons, 28 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–36 min.",
-        "Status": "Season 3 ongoing; Renewed for Season 4 (final)"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Truth Be Told",
@@ -63,7 +63,7 @@
       },
       {
         "Title": "Defending Jacob",
-        "Genre": "Legal drama",
+        "Genre": "Crime drama",
         "Premiere": "April 24, 2020",
         "Seasons": "8 episodes",
         "Runtime": "45–65 min.",
@@ -119,7 +119,7 @@
       },
       {
         "Title": "The Shrink Next Door",
-        "Genre": "Psychological black comedy-drama",
+        "Genre": "Psychological black comedy drama",
         "Premiere": "November 12, 2021",
         "Seasons": "8 episodes",
         "Runtime": "35–49 min.",
@@ -129,41 +129,57 @@
         "Title": "Suspicion",
         "Genre": "Political thriller",
         "Premiere": "February 4, 2022",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "44–52 min.",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–52 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Severance",
         "Genre": "Workplace thriller",
         "Premiere": "February 18, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "43–57 min.",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "40–57 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "The Last Days of Ptolemy Grey",
         "Genre": "Drama",
         "Premiere": "March 11, 2022",
-        "Seasons": "2 episodes",
+        "Seasons": "6 episodes",
         "Runtime": "49–57 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "WeCrashed",
         "Genre": "Drama",
         "Premiere": "March 18, 2022",
-        "Seasons": "8 episodes",
-        "Runtime": "61 min.",
-        "Status": "Miniseries"
+        "Seasons": "7 episodes",
+        "Runtime": "48–61 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Slow Horses",
-        "Genre": "Spy drama",
+        "Genre": "Spy thriller",
         "Premiere": "April 1, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Renewed"
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "41–53 min.",
+        "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Roar",
+        "Genre": "Feminist drama anthology",
+        "Premiere": "April 15, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "29–37 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Shining Girls",
@@ -172,6 +188,22 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Essex Serpent",
+        "Genre": "Period drama",
+        "Premiere": "May 13, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Black Bird",
+        "Genre": "True crime drama",
+        "Premiere": "July 8, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "60 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -183,7 +215,7 @@
     "data": [
       {
         "Title": "Dickinson",
-        "Genre": "Period comedy",
+        "Genre": "Comedy",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–34 min.",
@@ -191,7 +223,7 @@
       },
       {
         "Title": "Little America",
-        "Genre": "Comedy-drama anthology",
+        "Genre": "Comedy drama anthology",
         "Premiere": "January 17, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "29–34 min.",
@@ -227,7 +259,7 @@
         "Premiere": "June 18, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–34 min.",
-        "Status": "Renewed; Season 2 due to premiere in 2022"
+        "Status": "Season 2 due to premiere on June 3, 2022"
       },
       {
         "Title": "Schmigadoon!",
@@ -239,11 +271,19 @@
       },
       {
         "Title": "Mr. Corman",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "August 6, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–34 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Acapulco",
+        "Genre": "Comedy",
+        "Premiere": "October 8, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "27–36 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "The Afterparty",
@@ -254,10 +294,18 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Roar",
-        "Genre": "Dark comedy anthology",
-        "Premiere": "April 15, 2022",
-        "Seasons": "1 season, 8 episodes",
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Loot",
+        "Genre": "Comedy",
+        "Premiere": "June 24, 2022",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
       }
@@ -275,7 +323,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 26 episodes",
         "Runtime": "22–26 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Puppy Place",
@@ -306,9 +354,9 @@
         "Title": "Central Park",
         "Genre": "Musical sitcom",
         "Premiere": "May 29, 2020",
-        "Seasons": "2 seasons, 22 episodes",
+        "Seasons": "2 seasons, 26 episodes",
         "Runtime": "21–31 min.",
-        "Status": "Season 2 ongoing; Renewed"
+        "Status": "Renewed"
       }
     ]
   },
@@ -331,25 +379,25 @@
         "Title": "Doug Unplugs",
         "Genre": "Adventure",
         "Premiere": "November 13, 2020",
-        "Seasons": "2 season, 20 episodes",
+        "Seasons": "2 season, 26 episodes",
         "Runtime": "23 min.",
-        "Status": "Second half of Season 2 due to premiere on April 1, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Stillwater",
         "Genre": "Comedy",
         "Premiere": "December 4, 2020",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "23–25 min.",
-        "Status": "Season 2 due to premiere on March 18, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Snoopy Show",
         "Genre": "Comedy",
         "Premiere": "February 5, 2021",
-        "Seasons": "2 season, 19 episodes",
+        "Seasons": "2 seasons, 19 episodes",
         "Runtime": "22 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Wolfboy and the Everything Factory",
@@ -361,7 +409,7 @@
       },
       {
         "Title": "Get Rolling with Otis",
-        "Genre": "Animated adventure",
+        "Genre": "Adventure",
         "Premiere": "October 8, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "23 min.",
@@ -390,6 +438,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "23 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Pinecone &amp; Pony",
+        "Genre": "Animation",
+        "Premiere": "April 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "23 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -400,31 +456,31 @@
     ],
     "data": [
       {
-        "Title": "Acapulco",
-        "Genre": "Comedy",
-        "Premiere": "October 8, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "27–36 min.",
-        "Language": "Spanish/English",
-        "Status": "Renewed"
-      },
-      {
         "Title": "Dr. Brain",
         "Genre": "Science fiction thriller",
         "Premiere": "November 3, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "49–68 min.",
         "Language": "Korean",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Pachinko",
         "Genre": "Drama",
         "Premiere": "March 25, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "52–60 min.",
         "Language": "Korean/Japanese/English",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Now and Then",
@@ -474,7 +530,7 @@
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "5–7 min.",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on May 13"
       },
       {
         "Title": "Long Way Up",
@@ -549,6 +605,22 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The Long Game: Bigger Than Basketball",
+        "Genre": "Sport",
+        "Premiere": "April 22, 2022",
+        "Seasons": "5 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "They Call Me Magic",
         "Genre": "Sports docuseries",
         "Premiere": "April 22, 2022",
@@ -557,12 +629,53 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Make or Break",
+        "Genre": "Sport",
+        "Premiere": "April 29, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "TBA",
+        "Status": "Renewed"
+      },
+      {
         "Title": "The Big Conn",
         "Genre": "True crime",
-        "Premiere": "May 5, 2022",
+        "Premiere": "May 6, 2022 ",
         "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Prehistoric Planet",
+        "Genre": "Natural history",
+        "Premiere": "May 23, 2022",
+        "Seasons": "5 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Unscripted",
+      "Specialty programming"
+    ],
+    "data": [
+      {
+        "Title": "Friday Night Baseball: Countdown to First Pitch",
+        "Genre": "Sports broadcast",
+        "Premiere": "April 7, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "MLB Daily Recap",
+        "Genre": "Sports broadcast",
+        "Premiere": "April 7, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -579,7 +692,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "1 season, 14 episodes",
         "Runtime": "8–66 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Helpsters",
@@ -619,15 +732,15 @@
         "Premiere": "July 30, 2020",
         "Seasons": "1 season, 15 episodes",
         "Runtime": "32–79 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Problem with Jon Stewart",
         "Genre": "News/talk show",
         "Premiere": "September 30, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "41–52 min.",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "41–57 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "Fraggle Rock: Back to the Rock",
@@ -652,7 +765,7 @@
         "Premiere": "September 25, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "44–50 min.",
-        "Language": "Hebrew",
+        "Language": "HebrewPersianEnglish",
         "Status": "Season 2 due to premiere on May 6, 2022"
       },
       {
@@ -684,26 +797,26 @@
     ],
     "data": [
       {
-        "Title": "The Essex Serpent",
-        "Genre": "Period drama",
+        "Title": "Echo 3",
+        "Genre": "Drama",
         "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "60 min.",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Extrapolations",
+        "Genre": "Drama anthology",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
         "Status": "Post-production"
       },
       {
         "Title": "Five Days at Memorial",
         "Genre": "Medical drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "8 episodes",
-        "Runtime": "60 min.",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "In with the Devil",
-        "Genre": "True crime drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
+        "Seasons": "TBA",
         "Runtime": "60 min.",
         "Status": "Post-production"
       },
@@ -740,10 +853,26 @@
         "Status": "Filming"
       },
       {
-        "Title": "Extrapolations",
-        "Genre": "Drama anthology",
+        "Title": "City on Fire",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Crowded Room",
+        "Genre": "Drama anthology",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Dear Edward",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -756,6 +885,14 @@
         "Status": "Filming"
       },
       {
+        "Title": "The Big Cigar",
+        "Genre": "Biographical drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "The Changeling",
         "Genre": "Horror",
         "Premiere": "TBA",
@@ -764,26 +901,26 @@
         "Status": "Series order"
       },
       {
-        "Title": "City on Fire",
-        "Genre": "Drama",
+        "Title": "Chief of War",
+        "Genre": "Historical drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "The Crowded Room",
-        "Genre": "Drama anthology",
+        "Title": "Constellation",
+        "Genre": "Psychological thriller",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "Dear Edward",
-        "Genre": "Drama",
+        "Title": "Dark Matter",
+        "Genre": "Science fiction",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 9 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -861,7 +998,7 @@
       },
       {
         "Title": "The New Look",
-        "Genre": "Epic Historical drama",
+        "Genre": "Epic historical drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -906,6 +1043,14 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
+      },
+      {
+        "Title": "The White Darkness",
+        "Genre": "Adventure drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -916,8 +1061,16 @@
     ],
     "data": [
       {
+        "Title": "Bad Sisters",
+        "Genre": "Black comedy thriller",
+        "Premiere": "2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Hello Tomorrow!",
-        "Genre": "Comedy-drama",
+        "Genre": "Comedy drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
@@ -932,27 +1085,19 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Loot",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "30 min.",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Untitled Sharon Horgan series",
-        "Genre": "Black comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
         "Title": "The Big Door Prize",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Untitled Dick Turpin series",
+        "Genre": "Historical comedy adventure",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -1083,20 +1228,20 @@
         "Language": "Russian"
       },
       {
-        "Title": "Echo 3",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "60 min.",
-        "Language": "Spanish/English"
-      },
-      {
         "Title": "Liaison",
         "Genre": "Thriller",
         "Premiere": "TBA",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Language": "French/English"
+      },
+      {
+        "Title": "Midnight Family",
+        "Genre": "Medical drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Language": "Spanish"
       }
     ]
   },
@@ -1108,10 +1253,10 @@
     ],
     "data": [
       {
-        "Title": "Big Man on Campus",
+        "Title": "The Dynasty",
         "Genre": "Sport",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "10 episodes",
         "Runtime": "TBA"
       },
       {
@@ -1136,11 +1281,11 @@
         "Runtime": "TBA"
       },
       {
-        "Title": "Prehistoric Planet",
-        "Genre": "Natural history",
+        "Title": "Omnivore",
+        "Genre": "Travel",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min."
       },
       {
         "Title": "The Reluctant Traveler",
@@ -1175,13 +1320,6 @@
         "Genre": "Docuseries",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
-        "Runtime": "TBA"
-      },
-      {
-        "Title": "Untitled World Surf League docuseries",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA"
       }
     ]
@@ -1290,7 +1428,7 @@
       },
       {
         "Title": "Untitled Ramy Youssef/Stephen Way series",
-        "Genre": "Comedy-drama"
+        "Genre": "Comedy drama"
       },
       {
         "Title": "Untitled Young Lords project",
