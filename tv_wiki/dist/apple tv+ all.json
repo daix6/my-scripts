@@ -31,7 +31,7 @@
       },
       {
         "Title": "Servant",
-        "Genre": "Psychological horror/thriller",
+        "Genre": "Psychological horror",
         "Premiere": "November 28, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–36 min.",
@@ -79,7 +79,7 @@
       },
       {
         "Title": "The Mosquito Coast",
-        "Genre": "Thriller drama",
+        "Genre": "Action thriller",
         "Premiere": "April 30, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "42–57 min.",
@@ -119,7 +119,7 @@
       },
       {
         "Title": "The Shrink Next Door",
-        "Genre": "Psychological black comedy drama",
+        "Genre": "Psychological drama",
         "Premiere": "November 12, 2021",
         "Seasons": "8 episodes",
         "Runtime": "35–49 min.",
@@ -153,17 +153,17 @@
         "Title": "WeCrashed",
         "Genre": "Drama",
         "Premiere": "March 18, 2022",
-        "Seasons": "7 episodes",
+        "Seasons": "8 episodes",
         "Runtime": "48–61 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Slow Horses",
         "Genre": "Spy thriller",
         "Premiere": "April 1, 2022",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "41–53 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Roar",
@@ -174,6 +174,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Shining Girls",
+        "Genre": "Supernatural thriller",
+        "Premiere": "April 29, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "41–59 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -182,20 +190,12 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Shining Girls",
-        "Genre": "Thriller",
-        "Premiere": "April 29, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "60 min.",
-        "Status": "Pending"
-      },
-      {
         "Title": "The Essex Serpent",
         "Genre": "Period drama",
         "Premiere": "May 13, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "6 episodes",
         "Runtime": "60 min.",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Black Bird",
@@ -215,7 +215,7 @@
     "data": [
       {
         "Title": "Dickinson",
-        "Genre": "Comedy",
+        "Genre": "Period comedy",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–34 min.",
@@ -287,7 +287,7 @@
       },
       {
         "Title": "The Afterparty",
-        "Genre": "Mystery comedy",
+        "Genre": "Murder mystery comedy",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "31–48 min.",
@@ -339,6 +339,22 @@
         "Premiere": "November 5, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "21–22 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Lovely Little Farm",
+        "Genre": "Live-action animated family comedy",
+        "Premiere": "June 10, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -468,10 +484,10 @@
         "Title": "Pachinko",
         "Genre": "Drama",
         "Premiere": "March 25, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "52–60 min.",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47–63 min.",
         "Language": "Korean/Japanese/English",
-        "Status": "Season 1 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "Awaiting release",
@@ -530,7 +546,7 @@
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "5–7 min.",
-        "Status": "Season 2 due to premiere on May 13"
+        "Status": "Season 2 due to premiere on May 13, 2022"
       },
       {
         "Title": "Long Way Up",
@@ -605,19 +621,11 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Long Game: Bigger Than Basketball",
         "Genre": "Sport",
         "Premiere": "April 22, 2022",
         "Seasons": "5 episodes",
-        "Runtime": "TBA",
+        "Runtime": "48–53 min.",
         "Status": "Miniseries"
       },
       {
@@ -625,7 +633,7 @@
         "Genre": "Sports docuseries",
         "Premiere": "April 22, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "56–61 min.",
         "Status": "Miniseries"
       },
       {
@@ -633,7 +641,7 @@
         "Genre": "Sport",
         "Premiere": "April 29, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "TBA",
+        "Runtime": "33–48 min.",
         "Status": "Renewed"
       },
       {
@@ -641,8 +649,16 @@
         "Genre": "True crime",
         "Premiere": "May 6, 2022 ",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "54–59 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Prehistoric Planet",
@@ -696,11 +712,11 @@
       },
       {
         "Title": "Helpsters",
-        "Genre": "Educational",
+        "Genre": "Educational/puppetry",
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 26 episodes",
         "Runtime": "22–28 min.",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere May 27, 2022"
       },
       {
         "Title": "Oprah Talks COVID-19",
@@ -720,7 +736,7 @@
       },
       {
         "Title": "Helpsters Help You",
-        "Genre": "Educational",
+        "Genre": "Educational/puppetry",
         "Premiere": "April 24, 2020",
         "Seasons": "6 episodes",
         "Runtime": "1–3 min.",
@@ -763,10 +779,10 @@
         "Genre": "Spy thriller",
         "Partner/Country": "Kan 11/Israel",
         "Premiere": "September 25, 2020",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–50 min.",
+        "Seasons": "2 season, 10 episodes",
+        "Runtime": "44–51 min.",
         "Language": "HebrewPersianEnglish",
-        "Status": "Season 2 due to premiere on May 6, 2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Losing Alice",
@@ -853,6 +869,14 @@
         "Status": "Filming"
       },
       {
+        "Title": "The Changeling",
+        "Genre": "Horror",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "City on Fire",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -877,6 +901,38 @@
         "Status": "Filming"
       },
       {
+        "Title": "Hijack",
+        "Genre": "Thriller miniseries",
+        "Premiere": "TBA",
+        "Seasons": "7 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Lady in the Lake",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Last Thing He Told Me",
+        "Genre": "Thriller miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The New Look",
+        "Genre": "Epic historical drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "Wool",
         "Genre": "Science fiction",
         "Premiere": "TBA",
@@ -889,14 +945,6 @@
         "Genre": "Biographical drama miniseries",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Changeling",
-        "Genre": "Horror",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -949,22 +997,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Lady in the Lake",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Last Thing He Told Me",
-        "Genre": "Thriller miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Lessons in Chemistry",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -984,7 +1016,7 @@
         "Title": "Metropolis",
         "Genre": "Science fiction miniseries",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -994,14 +1026,6 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "60 min.",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The New Look",
-        "Genre": "Epic historical drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
         "Status": "Series order"
       },
       {
@@ -1069,6 +1093,14 @@
         "Status": "Post-production"
       },
       {
+        "Title": "The Big Door Prize",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Hello Tomorrow!",
         "Genre": "Comedy drama",
         "Premiere": "TBA",
@@ -1085,11 +1117,19 @@
         "Status": "Post-production"
       },
       {
-        "Title": "The Big Door Prize",
+        "Title": "Platonic",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Shrinking",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -1103,22 +1143,6 @@
       {
         "Title": "Mrs. American Pie",
         "Genre": "Period comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Platonic",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Shrinking",
-        "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
@@ -1143,14 +1167,6 @@
       {
         "Title": "Amber Brown",
         "Genre": "Family comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Lovely Little Farm",
-        "Genre": "Live-action animated family comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1197,6 +1213,13 @@
       "Kids &amp; family"
     ],
     "data": [
+      {
+        "Title": "Sago Mini Friends",
+        "Genre": "Animation",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
       {
         "Title": "The Search for WondLa",
         "Genre": "Animation",
@@ -1383,10 +1406,6 @@
         "Genre": "Drama miniseries"
       },
       {
-        "Title": "Dark Matter",
-        "Genre": "Science fiction thriller"
-      },
-      {
         "Title": "El Gato Negro",
         "Genre": "Superhero crime thriller"
       },
@@ -1405,6 +1424,10 @@
       {
         "Title": "My Ex-Life",
         "Genre": "Drama"
+      },
+      {
+        "Title": "The Prince of Tides",
+        "Genre": "Romantic drama"
       },
       {
         "Title": "Sugar",

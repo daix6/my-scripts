@@ -99,7 +99,7 @@
         "Premiere": "November 25, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "24–33 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Punky Brewster",
@@ -121,9 +121,9 @@
         "Title": "Girls5eva",
         "Genre": "Musical comedy",
         "Premiere": "May 6, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 season, 11 episodes",
         "Length": "26–32 min.",
-        "Status": "Season 2 due to premiere on May 5, 2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "MacGruber",
@@ -146,7 +146,7 @@
         "Genre": "Comedy",
         "Premiere": "April 14, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Length": "28−32 min.",
         "Status": "Pending"
       }
     ]
@@ -179,7 +179,7 @@
         "Premiere": "November 24, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 3 due to premiere on May 19, 2022"
       },
       {
         "Title": "Babble Bop!",
@@ -503,6 +503,22 @@
         "Seasons": "1 season, 20 episodes",
         "Length": "11–18 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Dateline: The Last Day",
+        "Genre": "News",
+        "Premiere": "June 14, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -519,7 +535,7 @@
         "Premiere": "September 7, 2020",
         "Seasons": "7 seasons, 43 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Final season due to premiere on June 30, 2022"
       },
       {
         "Title": "The Mighty Ones",
@@ -537,7 +553,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on August 11, 2022"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -555,14 +571,14 @@
         "Premiere": "September 23, 2021",
         "Seasons": "2 seasons, 13 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 3 due to premiere June 9, 2022"
       },
       {
         "Title": "Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Length": "22 min.",
         "Status": "Pending"
       },
@@ -573,7 +589,7 @@
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -693,7 +709,8 @@
       {
         "Title": "Five Bedrooms",
         "Genre": "Comedy drama",
-        "Original broadcaster": "Network 10 (season 1)Paramount+ Australia (season 2–present)",
+        "Original network": "Network 10 (season 1)Paramount+ Australia (season 2–present)",
+        "Original country": "Australia",
         "Premiere": "April 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "44–46 min.",
@@ -702,7 +719,8 @@
       {
         "Title": "The Capture",
         "Genre": "Mystery crime drama",
-        "Original broadcaster": "BBC One",
+        "Original network": "BBC One",
+        "Original country": "United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "56–60 min.",
@@ -711,7 +729,8 @@
       {
         "Title": "Intelligence",
         "Genre": "Sitcom",
-        "Original broadcaster": "Sky One",
+        "Original network": "Sky One",
+        "Original country": "United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "20–22 min.",
@@ -720,7 +739,8 @@
       {
         "Title": "Hitmen",
         "Genre": "Crime dramedy",
-        "Original broadcaster": "Sky One (season 1)Sky Comedy (season 2–present)",
+        "Original network": "Sky One (season 1)Sky Comedy (season 2–present)",
+        "Original country": "United Kingdom",
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min.",
@@ -729,7 +749,8 @@
       {
         "Title": "Save Me",
         "Genre": "Crime drama",
-        "Original broadcaster": "Sky Atlantic",
+        "Original network": "Sky Atlantic",
+        "Original country": "United Kingdom",
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "46–50 min.",
@@ -738,7 +759,8 @@
       {
         "Title": "Noughts + Crosses",
         "Genre": "Alternative history drama",
-        "Original broadcaster": "BBC One",
+        "Original network": "BBC One",
+        "Original country": "United Kingdom",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–58 min.",
@@ -747,7 +769,8 @@
       {
         "Title": "Departure",
         "Genre": "Conspiracy thriller",
-        "Original broadcaster": "Global",
+        "Original network": "Global",
+        "Original country": "Canada",
         "Premiere": "September 17, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "42–44 min.",
@@ -756,16 +779,18 @@
       {
         "Title": "Code 404",
         "Genre": "Police procedural dramedy",
-        "Original broadcaster": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)",
+        "Original network": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)",
+        "Original country": "United Kingdom",
         "Premiere": "October 8, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "26–31 min.",
-        "Status": "Renewed; Planned for third season"
+        "Status": "Renewed; Planned third season"
       },
       {
         "Title": "Dime Quién Soy: Mistress of War",
         "Genre": "Historical drama miniseries",
-        "Original broadcaster": "Movistar+ Spain",
+        "Original network": "Movistar+ Spain",
+        "Original country": "Spain",
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
         "Length": "42–60 min.",
@@ -774,7 +799,8 @@
       {
         "Title": "Intergalactic",
         "Genre": "Science fiction",
-        "Original broadcaster": "Sky One",
+        "Original network": "Sky One",
+        "Original country": "United Kingdom",
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–47 min.",
@@ -783,7 +809,8 @@
       {
         "Title": "We Are Lady Parts",
         "Genre": "Musical ensemble sitcom",
-        "Original broadcaster": "Channel 4",
+        "Original network": "Channel 4",
+        "Original country": "United Kingdom",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "24–25 min.",
@@ -792,20 +819,22 @@
       {
         "Title": "Smother",
         "Genre": "Crime thriller",
-        "Original broadcaster": "RTÉ One",
+        "Original network": "RTÉ One",
+        "Original country": "Ireland",
         "Premiere": "July 1, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "49–51 min.",
         "Status": "Renewed"
       },
       {
         "Title": "Vigil",
         "Genre": "Crime thriller",
-        "Original broadcaster": "BBC One",
+        "Original network": "BBC One",
+        "Original country": "United Kingdom",
         "Premiere": "December 23, 2021",
-        "Seasons": "6 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Length": "55–59 min.",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       }
     ]
   },
@@ -855,6 +884,20 @@
         "Genre": "Soap opera",
         "Release": "December 16, 2021",
         "Runtime": "1 hour, 18 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Release": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Language": "Awaiting release"
+      },
+      {
+        "Title": "They/Them",
+        "Genre": "Horror",
+        "Release": "August 5, 2022",
+        "Runtime": "TBA",
         "Language": "English"
       }
     ]
@@ -1052,17 +1095,57 @@
     "data": [
       {
         "Title": "A Friend of the Family",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "1 season",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Poker Face",
+        "Genre": "Mystery drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Resort",
         "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Vampire Academy",
+        "Genre": "Supernatural",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Field of Dreams",
+        "Genre": "Sports fantasy miniseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Miniseries order"
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "The Missing",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pre-production"
       },
       {
         "Title": "Apples Never Fall",
         "Genre": "Drama",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season",
         "Length": "TBA",
         "Status": "Miniseries order"
       },
@@ -1083,26 +1166,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "Field of Dreams",
-        "Genre": "Sports fantasy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Irreverent",
         "Genre": "Crime thriller",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Missing",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -1115,34 +1182,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "Poker Face",
-        "Genre": "Mystery drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Resort",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Queer as Folk",
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Vampire Academy",
-        "Genre": "Supernatural",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1155,36 +1198,52 @@
     ],
     "data": [
       {
-        "Title": "Based on a True Story",
-        "Genre": "Comedic thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "The Best Man: The Final Chapters",
-        "Genre": "Comedy drama",
+        "Genre": "Comedy drama miniseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "10 episodes",
-        "Status": "Miniseries order"
+        "Status": "Filming"
       },
       {
-        "Title": "Pitch Perfect: The Series",
+        "Title": "Pitch Perfect: Bumper in Berlin",
         "Genre": "Musical comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Ted",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "1 season, 10 episodes",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Twisted Metal",
+        "Genre": "Action comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Based on a True Story",
+        "Genre": "Comedy thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "Straight Talk",
+        "Title": "Bupkis",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Pilot order"
+        "Status": "Series order"
       },
       {
         "Title": "Take Note",
@@ -1195,16 +1254,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "Ted",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "1 season, 10 episodes",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Twisted Metal",
-        "Genre": "Action comedy",
+        "Title": "Untitled Jason Woliner project",
+        "Genre": "Mystery comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1218,6 +1269,14 @@
       "Animation"
     ],
     "data": [
+      {
+        "Title": "Press Start!",
+        "Genre": "Family comedy",
+        "Premiere": "2023",
+        "Seasons": "1 season, 52 episodes",
+        "Length": "11 min.",
+        "Status": "Series order"
+      },
       {
         "Title": "Abominable and the Invisible City",
         "Genre": "Family comedy",
@@ -1240,14 +1299,6 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Press Start!",
-        "Genre": "Family comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 52 episodes",
-        "Length": "11 min.",
         "Status": "Series order"
       },
       {
@@ -1292,6 +1343,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Rainn Wilson and the Geography of Bliss",
+        "Genre": "Travel docuseries",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Run Through the Line",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -1319,6 +1378,14 @@
       {
         "Title": "The Gentle Art of Swedish Death Cleaning",
         "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Traitors",
+        "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1549,11 +1616,6 @@
         "Status": "In development"
       },
       {
-        "Title": "Casper",
-        "Genre": "Horror adventure",
-        "Status": "In development"
-      },
-      {
         "Title": "Cheeky",
         "Genre": "Comedy",
         "Status": "In development"
@@ -1644,6 +1706,11 @@
         "Status": "In development"
       },
       {
+        "Title": "Untitled Casper the Friendly Ghost series",
+        "Genre": "Horror adventure",
+        "Status": "In development"
+      },
+      {
         "Title": "Untitled Jenna Bans/Bill Krebs project",
         "Genre": "Anthology",
         "Status": "In development"
@@ -1677,15 +1744,29 @@
     ],
     "data": [
       {
-        "Title": "The Munsters",
-        "Genre": "Horror comedy",
-        "Release": "2022",
+        "Title": "Shooting Stars",
+        "Genre": "Biopic",
+        "Release": "2023",
         "Runtime": "TBA",
         "Language": "English"
       },
       {
-        "Title": "Untitled John Logan film",
-        "Genre": "Horror",
+        "Title": "Praise This",
+        "Genre": "Musical",
+        "Release": "2023",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "The Killer",
+        "Genre": "Thriller",
+        "Release": "2023",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "The Munsters",
+        "Genre": "Horror comedy",
         "Release": "TBA",
         "Runtime": "TBA",
         "Language": "English"

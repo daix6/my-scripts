@@ -163,8 +163,8 @@
         "Title": "The Wilds",
         "Genre": "Young adult drama",
         "Premiere": "December 11, 2020",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Season 2 due to premiere on May 6, 2022"
+        "Seasons/episodes": "2 seasons, 18 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Them",
@@ -220,7 +220,21 @@
         "Genre": "Mystery thriller",
         "Premiere": "April 15, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Night Sky",
+        "Genre": "Science fiction drama",
+        "Premiere": "May 20, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Summer I Turned Pretty",
+        "Genre": "Young adult romantic drama",
+        "Premiere": "June 17, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Terminal List",
@@ -474,8 +488,8 @@
         "Title": "Undone",
         "Genre": "Comedy drama",
         "Premiere": "September 13, 2019",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 2 due to premiere on April 29, 2022"
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Invincible",
@@ -493,7 +507,7 @@
       },
       {
         "Title": "The Legend of Vox Machina",
-        "Genre": "Fantasy",
+        "Genre": "Fantasy action",
         "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
         "Status": "Renewed"
@@ -705,7 +719,7 @@
         "Genre": "Crime thriller",
         "Premiere": "May 15, 2020",
         "Seasons/episodes": "1 season, 9 episodes",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Rasbhari",
@@ -797,6 +811,13 @@
         "Title": "Vita da Carlo",
         "Genre": "Comedy",
         "Premiere": "November 5, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bang Bang Baby",
+        "Genre": "Crime drama",
+        "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
       }
@@ -1106,6 +1127,13 @@
         "Premiere": "October 29, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Yosi, the Regretful Spy&#160;",
+        "Genre": "Thriller",
+        "Premiere": "April 28, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },

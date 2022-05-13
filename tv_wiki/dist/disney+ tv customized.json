@@ -1,9 +1,11 @@
-[{
+[
+  {
     "category": [
       "Original programming",
       "Drama"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "The Mandalorian",
         "Genre": "Space western",
         "Premiere": "November 12, 2019",
@@ -80,8 +82,8 @@
         "Genre": "Superhero fantasy action-adventure",
         "Premiere": "March 30, 2022",
         "Seasons": "6 episodes",
-        "Runtime": "40–50 min",
-        "Status": "Miniseries ongoing"
+        "Runtime": "44–53 min",
+        "Status": "Miniseries"
       },
       {
         "Title": "Obi-Wan Kenobi",
@@ -106,7 +108,8 @@
       "Original programming",
       "Comedy"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "High School Musical: The Musical: The Series",
         "Genre": "Musical/Mockumentary",
         "Premiere": "November 12, 2019",
@@ -161,7 +164,8 @@
       "Original programming",
       "Animation"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "Star Wars: The Bad Batch",
         "Genre": "Space opera",
         "Premiere": "May 4, 2021",
@@ -199,7 +203,7 @@
         "Premiere": "February 23, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–30 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Renewed"
       }
     ]
   },
@@ -209,7 +213,8 @@
       "Non-English language",
       "French"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "Weekend Family",
         "Genre": "Comedy",
         "Premiere": "February 23, 2022March 9, 2022&#91;b&#93;",
@@ -243,7 +248,8 @@
       "Non-English language",
       "Portuguese"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "Testers (Brazil)",
         "Genre": "Educational show",
         "Premiere": "January 5, 2022",
@@ -269,14 +275,15 @@
       "Non-English language",
       "Spanish"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "Intertwined",
         "Genre": "Musical/Fantasy comedy-drama",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–53 min",
         "Exclusive region(s)": "All markets",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Testers (Argentina)",
@@ -319,51 +326,10 @@
   {
     "category": [
       "Original programming",
-      "Exclusive international distribution",
-      "Malay"
-    ],
-    "data": [{
-      "Title": "Club Mickey Mouse Malaysia (season 4)",
-      "Genre": "Variety",
-      "Original network": "Disney+ Hotstar",
-      "Premiere": "July 28, 2021November 17, 2021&#91;e&#93;",
-      "Seasons": "1 season, 13 episodes",
-      "Runtime": "22–24 min.",
-      "Exclusive region(s)": "Southeast Asia",
-      "Status": "Pending"
-    }]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Star Original crossover",
-      "Korean"
-    ],
-    "data": [{
-      "Title": "Snowdrop",
-      "Genre": "Romantic dark comedy",
-      "Original network": "JTBC",
-      "Premiere date": "February 9, 2022",
-      "Seasons": "16 episodes",
-      "Runtime": "90 min",
-      "Exclusive region(s)": "United States",
-      "Status": "Miniseries"
-    }]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Star Original crossover",
-      "Mandarin"
-    ],
-    "data": []
-  },
-  {
-    "category": [
-      "Original programming",
       "Shorts"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "Disney Family Sundays",
         "Genre": "DIY",
         "Premiere": "November 12, 2019",
@@ -433,7 +399,7 @@
         "Premiere": "November 13, 2020",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "9–11 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Wonderful World of Mickey Mouse",
@@ -441,13 +407,13 @@
         "Premiere": "November 18, 2020",
         "Seasons": "2 seasons, 22 episodes",
         "Runtime": "8–24 min",
-        "Status": "New episode is due to premiere on May 20, 2022"
+        "Status": "New episode due to premiere on May 20, 2022"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 14 episodes",
+        "Seasons": "1 season, 17 episodes",
         "Runtime": "7–8 min",
         "Status": "Pending"
       },
@@ -521,7 +487,7 @@
         "Premiere": "April 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "3–4 min",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -530,7 +496,8 @@
       "Original programming",
       "Continuations"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "Disney's Fairy Tale Weddings (season 2)",
         "Genre": "Docuseries",
         "Premiere": "February 14, 2020",
@@ -559,10 +526,10 @@
       },
       {
         "Title": "The Quest (season 2)",
-        "Genre": "Reality/Game Show",
+        "Genre": "Fantasy/Reality competition",
         "Premiere": "May 11, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "39–46 min",
         "Prev. network(s)": "ABC",
         "Status": "Pending"
       }
@@ -573,7 +540,8 @@
       "Original programming",
       "Specials"
     ],
-    "data": [{
+    "data": [
+      {
         "Title": "High School Musical: The Musical: The Series: The Special",
         "Genre": "Musical/Making-of",
         "Premiere": "December 14, 2019",
@@ -596,6 +564,68 @@
         "Genre": "Documentary",
         "Premiere": "September 24, 2021",
         "Runtime": "1 h 27 min"
+      },
+      {
+        "Title": "Assembled: The Making of Hawkeye",
+        "Genre": "Making-of documentary",
+        "Premiere": "February 9, 2022",
+        "Runtime": "60 min"
+      },
+      {
+        "Title": "Assembled: The Making of Eternals",
+        "Genre": "Making-of documentary",
+        "Premiere": "February 16, 2022",
+        "Runtime": "57 min"
+      },
+      {
+        "Title": "Disney Gallery: The Book of Boba Fett",
+        "Genre": "Making-of documentary",
+        "Premiere": "May 4, 2022",
+        "Runtime": "60 min"
+      },
+      {
+        "Title": "Assembled: The Making of Moon Knight",
+        "Genre": "Making-of documentary",
+        "Premiere": "May 25, 2022",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Star Original crossover",
+      "Korean"
+    ],
+    "data": [
+      {
+        "Title": "Snowdrop",
+        "Genre": "Romantic dark comedy",
+        "Original network": "JTBC",
+        "Premiere date": "February 9, 2022",
+        "Seasons": "16 episodes",
+        "Runtime": "90 min",
+        "Exclusive region(s)": "United States",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Star Original crossover",
+      "Mandarin"
+    ],
+    "data": [
+      {
+        "Title": "Delicacies Destiny",
+        "Genre": "Period romantic comedy",
+        "Original network": "Bilibili",
+        "Premiere date": "April 7, 2022",
+        "Seasons": "1 season, 16 episodes",
+        "Runtime": "44–48 min",
+        "Exclusive region(s)": "Asia-Pacific",
+        "Status": "Pending"
       }
     ]
   }

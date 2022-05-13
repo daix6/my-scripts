@@ -31,7 +31,7 @@
       },
       {
         "Title": "Servant",
-        "Genre": "Psychological horror/thriller",
+        "Genre": "Psychological horror",
         "Premiere": "November 28, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–36 min.",
@@ -79,7 +79,7 @@
       },
       {
         "Title": "The Mosquito Coast",
-        "Genre": "Thriller drama",
+        "Genre": "Action thriller",
         "Premiere": "April 30, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "42–57 min.",
@@ -119,7 +119,7 @@
       },
       {
         "Title": "The Shrink Next Door",
-        "Genre": "Psychological black comedy drama",
+        "Genre": "Psychological drama",
         "Premiere": "November 12, 2021",
         "Seasons": "8 episodes",
         "Runtime": "35–49 min.",
@@ -153,17 +153,17 @@
         "Title": "WeCrashed",
         "Genre": "Drama",
         "Premiere": "March 18, 2022",
-        "Seasons": "7 episodes",
+        "Seasons": "8 episodes",
         "Runtime": "48–61 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Slow Horses",
         "Genre": "Spy thriller",
         "Premiere": "April 1, 2022",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "41–53 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Roar",
@@ -175,19 +175,19 @@
       },
       {
         "Title": "Shining Girls",
-        "Genre": "Thriller",
+        "Genre": "Supernatural thriller",
         "Premiere": "April 29, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "60 min.",
-        "Status": "Pending"
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "41–59 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Essex Serpent",
         "Genre": "Period drama",
         "Premiere": "May 13, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "6 episodes",
         "Runtime": "60 min.",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Black Bird",
@@ -207,7 +207,7 @@
     "data": [
       {
         "Title": "Dickinson",
-        "Genre": "Comedy",
+        "Genre": "Period comedy",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–34 min.",
@@ -279,7 +279,7 @@
       },
       {
         "Title": "The Afterparty",
-        "Genre": "Mystery comedy",
+        "Genre": "Murder mystery comedy",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "31–48 min.",
@@ -324,6 +324,14 @@
         "Seasons": "1 season, 7 episodes",
         "Runtime": "21–22 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Lovely Little Farm",
+        "Genre": "Live-action animated family comedy",
+        "Premiere": "June 10, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -363,10 +371,10 @@
         "Title": "Pachinko",
         "Genre": "Drama",
         "Premiere": "March 25, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "52–60 min.",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47–63 min.",
         "Language": "Korean/Japanese/English",
-        "Status": "Season 1 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "Now and Then",
@@ -416,7 +424,7 @@
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "5–7 min.",
-        "Status": "Season 2 due to premiere on May 13"
+        "Status": "Season 2 due to premiere on May 13, 2022"
       },
       {
         "Title": "Long Way Up",
@@ -495,7 +503,7 @@
         "Genre": "Sport",
         "Premiere": "April 22, 2022",
         "Seasons": "5 episodes",
-        "Runtime": "TBA",
+        "Runtime": "48–53 min.",
         "Status": "Miniseries"
       },
       {
@@ -503,7 +511,7 @@
         "Genre": "Sports docuseries",
         "Premiere": "April 22, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "56–61 min.",
         "Status": "Miniseries"
       },
       {
@@ -511,7 +519,7 @@
         "Genre": "Sport",
         "Premiere": "April 29, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "TBA",
+        "Runtime": "33–48 min.",
         "Status": "Renewed"
       },
       {
@@ -519,7 +527,7 @@
         "Genre": "True crime",
         "Premiere": "May 6, 2022 ",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "54–59 min.",
         "Status": "Miniseries"
       },
       {
@@ -543,10 +551,10 @@
         "Genre": "Spy thriller",
         "Partner/Country": "Kan 11/Israel",
         "Premiere": "September 25, 2020",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–50 min.",
+        "Seasons": "2 season, 10 episodes",
+        "Runtime": "44–51 min.",
         "Language": "HebrewPersianEnglish",
-        "Status": "Season 2 due to premiere on May 6, 2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Losing Alice",

@@ -82,8 +82,8 @@
         "Genre": "Superhero fantasy action-adventure",
         "Premiere": "March 30, 2022",
         "Seasons": "6 episodes",
-        "Runtime": "40–50 min",
-        "Status": "Miniseries ongoing"
+        "Runtime": "44–53 min",
+        "Status": "Miniseries"
       },
       {
         "Title": "Awaiting release",
@@ -211,7 +211,7 @@
         "Premiere": "February 23, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–30 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Renewed"
       }
     ]
   },
@@ -252,7 +252,7 @@
       {
         "Title": "The Knights of Castelcorvo",
         "Genre": "Fantasy comedy-drama",
-        "Premiere": "November 6, 2020",
+        "Premiere": "November 6, 2020May 18, 2022&#91;d&#93;",
         "Seasons": "15 episodes",
         "Runtime": "22–25 min",
         "Exclusive region(s)": "Selected territories",
@@ -282,6 +282,24 @@
         "Premiere": "January 26, 2022",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "TBA",
+        "Exclusive region(s)": "Brazil",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Tudo Igual... SQN",
+        "Genre": "Comedy drama",
+        "Premiere": "May 25, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min",
         "Exclusive region(s)": "Brazil",
         "Status": "Pending"
       }
@@ -346,7 +364,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–53 min",
         "Exclusive region(s)": "All markets",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Testers (Argentina)",
@@ -383,63 +401,24 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Mexico",
         "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Exclusive international distribution",
-      "Malay"
-    ],
-    "data": [
+      },
       {
-        "Title": "Club Mickey Mouse Malaysia (season 4)",
-        "Genre": "Variety",
-        "Original network": "Disney+ Hotstar",
-        "Premiere": "July 28, 2021November 17, 2021&#91;e&#93;",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "22–24 min.",
-        "Exclusive region(s)": "Southeast Asia",
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Siempre fui yo",
+        "Genre": "Drama/Musical",
+        "Premiere": "June 15, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40 min",
+        "Exclusive region(s)": "All markets",
         "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Star Original crossover",
-      "Korean"
-    ],
-    "data": [
-      {
-        "Title": "Snowdrop",
-        "Genre": "Romantic dark comedy",
-        "Original network": "JTBC",
-        "Premiere date": "February 9, 2022",
-        "Seasons": "16 episodes",
-        "Runtime": "90 min",
-        "Exclusive region(s)": "United States",
-        "Status": "Miniseries"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Star Original crossover",
-      "Mandarin"
-    ],
-    "data": [
-      {
-        "Title": "Delicacies Destiny",
-        "Genre": "Period romantic comedy",
-        "Original network": "Bilibili",
-        "Premiere date": "April 7, 2022",
-        "Seasons": "1 season, 16 episodes",
-        "Runtime": "44–48 min",
-        "Exclusive region(s)": "Asia-Pacific",
-        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -566,9 +545,9 @@
         "Title": "Marvel Studios: Assembled",
         "Genre": "Docuseries",
         "Premiere": "March 12, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "58–59 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Earth Moods",
@@ -627,6 +606,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Sketchbook",
+        "Genre": "Docuseries",
+        "Premiere": "April 27, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "21–22 min",
+        "Status": "Pending"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -635,12 +622,12 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Sketchbook",
+        "Title": "Light &amp; Magic",
         "Genre": "Docuseries",
-        "Premiere": "April 27, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Premiere": "July 27, 2022",
+        "Seasons": "6 episodes",
         "Runtime": "TBA",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -689,6 +676,22 @@
         "Premiere": "December 15, 2021",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "42–45 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Family Reboot",
+        "Genre": "Reality show",
+        "Premiere": "June 15, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -802,7 +805,7 @@
         "Premiere": "November 13, 2020",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "9–11 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Wonderful World of Mickey Mouse",
@@ -810,13 +813,13 @@
         "Premiere": "November 18, 2020",
         "Seasons": "2 seasons, 22 episodes",
         "Runtime": "8–24 min",
-        "Status": "New episode is due to premiere on May 20, 2022"
+        "Status": "New episode due to premiere on May 20, 2022"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 14 episodes",
+        "Seasons": "1 season, 17 episodes",
         "Runtime": "7–8 min",
         "Status": "Pending"
       },
@@ -890,7 +893,7 @@
         "Premiere": "April 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "3–4 min",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -928,20 +931,11 @@
         "Status": "Ended"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Prev. network(s)": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Quest (season 2)",
-        "Genre": "Reality/Game Show",
+        "Genre": "Fantasy/Reality competition",
         "Premiere": "May 11, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "39–46 min",
         "Prev. network(s)": "ABC",
         "Status": "Pending"
       }
@@ -976,6 +970,74 @@
         "Genre": "Documentary",
         "Premiere": "September 24, 2021",
         "Runtime": "1 h 27 min"
+      },
+      {
+        "Title": "Assembled: The Making of Hawkeye",
+        "Genre": "Making-of documentary",
+        "Premiere": "February 9, 2022",
+        "Runtime": "60 min"
+      },
+      {
+        "Title": "Assembled: The Making of Eternals",
+        "Genre": "Making-of documentary",
+        "Premiere": "February 16, 2022",
+        "Runtime": "57 min"
+      },
+      {
+        "Title": "Disney Gallery: The Book of Boba Fett",
+        "Genre": "Making-of documentary",
+        "Premiere": "May 4, 2022",
+        "Runtime": "60 min"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Runtime": "Awaiting release"
+      },
+      {
+        "Title": "Assembled: The Making of Moon Knight",
+        "Genre": "Making-of documentary",
+        "Premiere": "May 25, 2022",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Star Original crossover",
+      "Korean"
+    ],
+    "data": [
+      {
+        "Title": "Snowdrop",
+        "Genre": "Romantic dark comedy",
+        "Original network": "JTBC",
+        "Premiere date": "February 9, 2022",
+        "Seasons": "16 episodes",
+        "Runtime": "90 min",
+        "Exclusive region(s)": "United States",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Star Original crossover",
+      "Mandarin"
+    ],
+    "data": [
+      {
+        "Title": "Delicacies Destiny",
+        "Genre": "Period romantic comedy",
+        "Original network": "Bilibili",
+        "Premiere date": "April 7, 2022",
+        "Seasons": "1 season, 16 episodes",
+        "Runtime": "44–48 min",
+        "Exclusive region(s)": "Asia-Pacific",
+        "Status": "Pending"
       }
     ]
   },
@@ -1007,6 +1069,22 @@
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Runtime": "40–50 min",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Ahsoka",
+        "Genre": "Space opera",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Echo",
+        "Genre": "Superhero action",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -1034,34 +1112,10 @@
         "Status": "Filming"
       },
       {
-        "Title": "Ahsoka",
-        "Genre": "Space opera",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Echo",
-        "Genre": "Superhero action",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Percy Jackson &amp; the Olympians",
-        "Genre": "Fantasy adventure",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
         "Title": "The Acolyte",
         "Genre": "Space opera/Mystery-thriller",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pre-production"
       },
@@ -1086,6 +1140,14 @@
         "Genre": "Superhero action",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Percy Jackson &amp; the Olympians",
+        "Genre": "Fantasy adventure",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pre-production"
       },
@@ -1154,14 +1216,6 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Villains of Valley View",
-        "Genre": "Superhero comedy sitcom",
-        "Premiere": "Mid-2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "The Clauses",
         "Genre": "Fantasy comedy miniseries",
         "Premiere": "Late 2022",
@@ -1183,6 +1237,14 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "30 min",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Little Town",
+        "Genre": "Musical comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
         "Status": "Series order"
       }
     ]
@@ -1212,7 +1274,7 @@
       {
         "Title": "Firebuds",
         "Genre": "Comedy",
-        "Premiere": "2022",
+        "Premiere": "Late 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "In production"
@@ -1343,15 +1405,6 @@
     ],
     "data": [
       {
-        "Title": "Tudo Igual… SQN",
-        "Genre": "Comedy drama",
-        "Premiere": "First half of 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min",
-        "Exclusive region(s)": "Latin America",
-        "Status": "Post-production"
-      },
-      {
         "Title": "Art Attack: Modo Desafio (Brasil)",
         "Genre": "DIY",
         "Premiere": "Second half of 2022",
@@ -1371,7 +1424,7 @@
       },
       {
         "Title": "Mila no Multiverso",
-        "Genre": "Science-fiction/Mystery/Comedy drama",
+        "Genre": "Sci-fi/mystery/Comedy drama",
         "Premiere": "Second half of 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min",
@@ -1388,13 +1441,13 @@
         "Status": "Post-production"
       },
       {
-        "Title": "O que você não sabia sobre o humor",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
+        "Title": "A Magia de Aruna",
+        "Genre": "Fantasy/Comedy drama",
+        "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Exclusive region(s)": "Latin America",
-        "Status": "Series order"
+        "Status": "Filming"
       }
     ]
   },
@@ -1406,28 +1459,10 @@
     ],
     "data": [
       {
-        "Title": "Papás por encargo",
-        "Genre": "Comedy drama/Musical",
-        "Premiere": "Early 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24 min",
-        "Exclusive region(s)": "Latin America",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Siempre fui yo",
-        "Genre": "Drama/Mystery/Musical",
-        "Premiere": "Early 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "40 min",
-        "Exclusive region(s)": "Latin America",
-        "Status": "Post-production"
-      },
-      {
         "Title": "4 Ever",
         "Genre": "Drama/Musical",
         "Premiere": "2022",
-        "Seasons": "5 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Runtime": "30 min",
         "Exclusive region(s)": "Latin America",
         "Status": "Filming"
@@ -1460,6 +1495,15 @@
         "Status": "Post-production"
       },
       {
+        "Title": "El Repatriado",
+        "Genre": "Drama",
+        "Premiere": "2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45 min",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Post-production"
+      },
+      {
         "Title": "FreeKs",
         "Genre": "Drama/Mystery/Musical",
         "Premiere": "2022",
@@ -1469,11 +1513,11 @@
         "Status": "Post-production"
       },
       {
-        "Title": "El Repatriado",
-        "Genre": "Drama",
+        "Title": "Papás por encargo",
+        "Genre": "Comedy drama/Musical",
         "Premiere": "2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "45 min",
+        "Runtime": "24 min",
         "Exclusive region(s)": "Latin America",
         "Status": "Post-production"
       },
@@ -1491,6 +1535,24 @@
         "Genre": "Sitcom",
         "Premiere": "2023",
         "Seasons": "1 season, 13 episodes",
+        "Runtime": "30 min",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Filming"
+      },
+      {
+        "Title": "La partitura secreta: el enigma de plomo",
+        "Genre": "Fantasy/Mystery",
+        "Premiere": "2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Lucha!: Despierta Tu Naturaleza",
+        "Genre": "Musical/Fiction",
+        "Premiere": "2023",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min",
         "Exclusive region(s)": "Latin America",
         "Status": "Filming"
@@ -1514,13 +1576,22 @@
         "Status": "Post-production"
       },
       {
+        "Title": "Los MacAnimals",
+        "Genre": "Comedy/Fantasy",
+        "Premiere": "2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Filming"
+      },
+      {
         "Title": "La Última",
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Selected territories",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "Balenciaga",
@@ -1530,15 +1601,6 @@
         "Runtime": "50 min.",
         "Exclusive region(s)": "Selected territories",
         "Status": "Series order"
-      },
-      {
-        "Title": "Lo que no sabías del humor",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Latin America",
-        "Status": "TBA"
       },
       {
         "Title": "Mi música, mi tierra",
@@ -1557,105 +1619,6 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Latin America",
         "Status": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language",
-      "Turkish"
-    ],
-    "data": [
-      {
-        "Title": "Kaçış",
-        "Genre": "TBA",
-        "Premiere": "2022",
-        "Seasons": "8 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Untitled Mustafa Kemal Atatürk series",
-        "Genre": "TBA",
-        "Premiere": "2023",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Siyaha Bulaşan Kadınlar",
-        "Genre": "TBA",
-        "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Organize İşler",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "3 seasons, TBA episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Dünyayla Benim Aramda",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Filming"
-      },
-      {
-        "Title": "El Turco",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Gri",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Nomen",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Ru",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Star",
-        "Genre": "TBA",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
       }
     ]
   },
@@ -1884,14 +1847,6 @@
     ],
     "data": [
       {
-        "Title": "Family Reboot - fka (Re)Connect",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "The Maze",
         "Genre": "Reality competition",
         "Premiere": "TBA",
@@ -1916,6 +1871,14 @@
     ],
     "data": [
       {
+        "Title": "Kizazi Moto: Generation Fire",
+        "Genre": "Science fiction anthology",
+        "Premiere": "Late 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "10 min",
+        "Status": "In production"
+      },
+      {
         "Title": "I Am Groot",
         "Genre": "CGI-animated comedy-action",
         "Premiere": "2022",
@@ -1929,14 +1892,6 @@
         "Premiere": "2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "In production"
-      },
-      {
-        "Title": "Kizazi Moto: Generation Fire",
-        "Genre": "Science fiction anthology",
-        "Premiere": "Late 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "10 min",
         "Status": "In production"
       }
     ]
@@ -1973,10 +1928,6 @@
       "In development"
     ],
     "data": [
-      {
-        "Title": "Beauty and the Beast",
-        "Genre": "Musical comedy"
-      },
       {
         "Title": "The Biggest Star in Appleton",
         "Genre": "Comedy"
@@ -2058,19 +2009,15 @@
         "Genre": "Superhero action"
       },
       {
-        "Title": "Untitled Star Wars animated series",
-        "Genre": "Animated space opera"
-      },
-      {
-        "Title": "Untitled Star Wars live-action series",
-        "Genre": "Space opera"
-      },
-      {
         "Title": "Untitled The Sandlot series",
         "Genre": "Sports comedy"
       },
       {
         "Title": "Untitled Wakanda series",
+        "Genre": "Superhero action"
+      },
+      {
+        "Title": "Untitled Zorro series",
         "Genre": "Superhero action"
       }
     ]
