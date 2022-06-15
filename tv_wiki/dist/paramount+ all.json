@@ -11,7 +11,7 @@
         "Premiere": "February 19, 2017",
         "Seasons": "5 seasons, 50 episodes",
         "Runtime": "49–53 min.",
-        "Status": "Renewed"
+        "Status": "Final season due to premiere on September 8, 2022"
       },
       {
         "Title": "Star Trek: Discovery",
@@ -115,14 +115,14 @@
         "Premiere": "March 24, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "40–59 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "The Offer",
         "Genre": "Drama",
         "Premiere": "April 28, 2022",
         "Seasons": "10 episodes",
-        "Runtime": "51–68 min.",
+        "Runtime": "51–69 min.",
         "Status": "Miniseries ongoing"
       },
       {
@@ -130,8 +130,24 @@
         "Genre": "Science fiction",
         "Premiere": "May 5, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "52–54 min.",
+        "Runtime": "46–54 min.",
         "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Tulsa King",
+        "Genre": "Drama",
+        "Premiere": "November 13, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
       }
     ]
   },
@@ -147,7 +163,7 @@
         "Premiere": "November 12, 2017",
         "Seasons": "4 seasons, 32 episodes",
         "Runtime": "25–33 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Why Women Kill",
@@ -163,7 +179,7 @@
         "Premiere": "June 17, 2021",
         "Seasons": "2 seasons, 23 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Guilty Party",
@@ -220,7 +236,7 @@
         "Premiere": "April 7, 2020",
         "Seasons": "2 seasons, 233 episodes",
         "Runtime": "5–44 min.",
-        "Status": "Pending"
+        "Status": "Moved to Comedy Central"
       },
       {
         "Title": "Star Trek: Lower Decks",
@@ -310,7 +326,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–54 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Behind the Music",
@@ -361,19 +377,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Black Gold",
         "Genre": "Docuseries",
         "Premiere": "May 17, 2022",
         "Seasons": "3 episodes",
-        "Runtime": "TBA",
+        "Runtime": "49–55 min.",
         "Status": "Miniseries"
       }
     ]
@@ -405,15 +413,15 @@
         "Title": "The Real World Homecoming",
         "Genre": "Reality",
         "Premiere": "March 4, 2021",
-        "Seasons": "3 seasons, 18 episodes",
-        "Runtime": "41–49 min.",
-        "Status": "Season 3 ongoing"
+        "Seasons": "3 seasons, 22 episodes",
+        "Runtime": "41–50 min.",
+        "Status": "Pending"
       },
       {
         "Title": "The Challenge: All Stars",
         "Genre": "Reality competition",
         "Premiere": "April 1, 2021",
-        "Seasons": "3 seasons, 21 episodes",
+        "Seasons": "3 seasons, 25 episodes",
         "Runtime": "43–48 min.",
         "Status": "Season 3 ongoing"
       },
@@ -448,6 +456,30 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Hip Hop My House",
+        "Genre": "Reality",
+        "Premiere": "June 21, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "All Star Shore",
+        "Genre": "Reality competition",
+        "Premiere": "June 29, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -470,9 +502,9 @@
         "Title": "The Ready Room",
         "Genre": "Aftershow",
         "Premiere": "January 26, 2019",
-        "Seasons": "4 seasons, 40 episodes",
-        "Runtime": "30–35 min.",
-        "Status": "Pending"
+        "Seasons": "68 episodes",
+        "Runtime": "14–56 min.",
+        "Status": "Ongoing"
       },
       {
         "Title": "60 Minutes+",
@@ -483,20 +515,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Yo! MTV Raps",
         "Genre": "Music",
         "Premiere": "May 24, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "22–24 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -509,7 +533,7 @@
       {
         "Title": "For Heaven's Sake",
         "Genre": "True crime docu-comedy",
-        "Partner/Country": "CBC/Canada",
+        "Partner/Country": "CBC Gem/Canada",
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–32 min.",
@@ -525,7 +549,7 @@
     "data": [
       {
         "Title": "Younger (season 7)",
-        "Genre": "Dramedy",
+        "Genre": "Comedy drama",
         "Prev. network(s)": "TV Land",
         "Premiere": "April 15, 2021",
         "Seasons": "1 season, 12 episodes",
@@ -533,31 +557,31 @@
         "Status": "Ended"
       },
       {
-        "Title": "Evil (season 2)",
+        "Title": "Evil (season 2–3)",
         "Genre": "Supernatural drama",
         "Prev. network(s)": "CBS",
         "Premiere": "June 20, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "47 min.",
-        "Status": "Season 3 due to premiere on June 12, 2022"
+        "Seasons": "2 seasons, 14 episodes",
+        "Runtime": "47–48 min.",
+        "Status": "Season 3 ongoing"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars (season 6)",
+        "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "61 min.",
-        "Status": "Season 7 due to premiere on May 20, 2022"
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "61–83 min.",
+        "Status": "Season 7 ongoing"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars: Untucked (season 3)",
+        "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (season 1)VH1 (season 2)",
         "Premiere": "June 24, 2021",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "2 seasons, 17 episodes",
         "Runtime": "21 min.",
-        "Status": "Season 4 due to premiere on May 20, 2022"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "Inside the NFL (season 44)",
@@ -584,6 +608,24 @@
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "35–48 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Prev. network(s)": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Blood &amp; Treasure (season 2)",
+        "Genre": "Action-adventure",
+        "Prev. network(s)": "CBS",
+        "Premiere": "July 17, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -661,7 +703,7 @@
         "Genre": "Teen drama",
         "Premiere": "March 4, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "25 min.",
+        "Runtime": "24 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
@@ -737,40 +779,32 @@
     ],
     "data": [
       {
+        "Title": "1932",
+        "Genre": "Neo-Western drama",
+        "Premiere": "December 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Rabbit Hole",
         "Genre": "Spy drama",
         "Premiere": "2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Tulsa King",
-        "Genre": "Drama",
-        "Premiere": "2022",
         "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Runtime": "1 season, 8 episodes",
         "Status": "Filming"
       },
       {
         "Title": "The Turkish Detective",
         "Genre": "Crime thriller",
         "Premiere": "2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "1 season, 8 episodes",
         "Status": "Filming"
       },
       {
-        "Title": "1932",
-        "Genre": "Neo-Western drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "6666",
-        "Genre": "Neo-Western drama",
+        "Title": "1883: The Bass Reeves Story",
+        "Genre": "Western drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -788,8 +822,8 @@
         "Title": "Criminal Minds",
         "Genre": "Crime drama",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "1 season, 10 episodes",
         "Status": "Series order"
       },
       {
@@ -886,7 +920,7 @@
         "Premiere": "2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
-        "Status": "Pre-production"
+        "Status": "Filming"
       },
       {
         "Title": "Untitled Sonic the Hedgehog spin-off",
@@ -894,7 +928,7 @@
         "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Miniseries order"
       },
       {
         "Title": "Dora the Explorer",
@@ -977,14 +1011,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Watergate",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -996,15 +1022,7 @@
     ],
     "data": [
       {
-        "Title": "All Star Shore",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Challenge: War of the Worlds",
+        "Title": "The Challenge: Global Championship",
         "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1053,7 +1071,16 @@
     ],
     "data": [
       {
-        "Title": "Skymed",
+        "Title": "The Gymnasts",
+        "Genre": "Teen thriller drama",
+        "Partner/Country": "RAI/ItalyZDFneo/Germany",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "SkyMed",
         "Genre": "Medical drama",
         "Partner/Country": "CBC/Canada",
         "Premiere": "TBA",
@@ -1445,10 +1472,6 @@
       {
         "Title": "Arlington Road",
         "Genre": "Neo-noir thriller"
-      },
-      {
-        "Title": "Bass Reeves",
-        "Genre": "Western drama"
       },
       {
         "Title": "Call Me God",

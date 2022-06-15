@@ -2327,7 +2327,7 @@
       {
         "Title": "Duncanville",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 seasons, 23 episodes",
+        "Seasons/episodes": "3 seasons, 24 episodes",
         "Show creator(s)": "Mike Scully",
         "Original release": "February 16, 2020 – present",
         "Network": "Fox",
@@ -2401,7 +2401,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "2 seasons, 20 episodes",
         "Show creator(s)": "John Harvatine IV",
-        "Original release": "June 12, 2020 – present",
+        "Original release": "June 12, 2020 – December 10, 2021",
         "Network": "Hulu",
         "Studio": "Sony Pictures Television",
         "Age rating": "TV-MA",
@@ -2605,7 +2605,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Jordan Blum",
-        "Original release": "May 21, 2021 – present",
+        "Original release": "May 21, 2021",
         "Network": "Hulu",
         "Studio": "10k",
         "Age rating": "TV-MA",
@@ -2665,7 +2665,7 @@
         "Genre": "Spy-fi",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Gabe Liedman",
-        "Original release": "September 2, 2021 – present",
+        "Original release": "September 2, 2021",
         "Network": "Netflix",
         "Studio": "Universal Television",
         "Age rating": "TV-MA",
@@ -3733,7 +3733,7 @@
         "Original channel": "Netflix",
         "Studio": "Netflix Animation",
         "Age rating": "",
-        "Technique": "",
+        "Technique": "CGI",
         "Source": ""
       },
       {
@@ -3746,6 +3746,42 @@
         "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "Farzar",
+        "Genre": "Comedy",
+        "Seasons, episodes": "1 season, 10 episodes",
+        "Show creator": "Waco O'Guin",
+        "Release date": "July 15, 2022",
+        "Original channel": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Little Demon",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Darcy Fowler",
+        "Release date": "August 25, 2022",
+        "Original channel": "FXX",
+        "Studio": "FX Productions",
+        "Age rating": "",
+        "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "Dragon Age: Absolution",
+        "Genre": "Fantasy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Mairghread Scott",
+        "Release date": "December 2022",
+        "Original channel": "Netflix",
+        "Studio": "BioWare",
+        "Age rating": "",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]

@@ -11,7 +11,7 @@
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "39–54 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Gossip Girl",
@@ -26,7 +26,7 @@
         "Genre": "Post-apocalyptic drama",
         "Premiere": "December 16, 2021",
         "Seasons": "10 episodes",
-        "Runtime": "42–57 min.",
+        "Runtime": "44–59 min.",
         "Status": "Miniseries"
       },
       {
@@ -38,20 +38,28 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Julia",
+        "Genre": "Biographical drama",
+        "Premiere": "March 31, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–49 min.",
+        "Status": "Renewed"
+      },
+      {
         "Title": "Tokyo Vice",
         "Genre": "Crime drama",
         "Premiere": "April 7, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "53–64 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "The Staircase",
         "Genre": "True crime drama",
         "Premiere": "May 5, 2022",
         "Seasons": "8 episodes",
-        "Runtime": "60 min.",
-        "Status": "Miniseries ongoing"
+        "Runtime": "59–73 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -74,8 +82,8 @@
         "Genre": "Mystery drama/Dark comedy",
         "Premiere": "November 26, 2020",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "39–45 min.",
-        "Status": "Season 2 ongoing"
+        "Runtime": "37–48 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Generation",
@@ -90,24 +98,24 @@
         "Genre": "Dark comedy",
         "Premiere": "April 1, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "24–28 min.",
-        "Status": "Season 2 ongoing"
+        "Runtime": "24–32 min.",
+        "Status": "Ended"
       },
       {
         "Title": "That Damn Michael Che",
         "Genre": "Sketch comedy",
         "Premiere": "May 6, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "19–23 min.",
-        "Status": "Season 2 due to premiere on May 26, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Hacks",
         "Genre": "Dark comedy",
         "Premiere": "May 13, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–33 min.",
-        "Status": "Season 2 ongoing"
+        "Seasons": "2 season, 18 episodes",
+        "Runtime": "24–35 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Head of the Class",
@@ -126,7 +134,7 @@
         "Status": "Renewed"
       },
       {
-        "Title": "And Just Like That…",
+        "Title": "And Just Like That...",
         "Genre": "Romantic comedy",
         "Premiere": "December 9, 2021",
         "Seasons": "1 season, 10 episodes",
@@ -147,22 +155,14 @@
         "Premiere": "March 3, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–31 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Minx",
         "Genre": "Comedy",
         "Premiere": "March 17, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Julia",
-        "Genre": "Biographical comedy",
-        "Premiere": "March 31, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–49 min.",
+        "Runtime": "24–35 min.",
         "Status": "Renewed"
       },
       {
@@ -170,7 +170,23 @@
         "Genre": "Sitcom",
         "Premiere": "April 14, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "26 min.",
+        "Runtime": "24–28 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Gordita Chronicles",
+        "Genre": "Coming-of-age comedy",
+        "Premiere": "June 23, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Rap Sh!t",
+        "Genre": "Music comedy",
+        "Premiere": "July 21, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
         "Status": "Pending"
       }
     ]
@@ -228,7 +244,7 @@
         "Genre": "Young adult thriller drama",
         "Premiere": "November 14, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "33 min.",
+        "Runtime": "22–35 min.",
         "Status": "Pending"
       }
     ]
@@ -242,11 +258,11 @@
     "data": [
       {
         "Title": "The Informant",
-        "Genre": "Crime drama",
+        "Genre": "Spy thriller",
         "Premiere": "April 1, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "59 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "40–46 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -262,7 +278,7 @@
         "Genre": "Crime drama",
         "Premiere": "April 1, 2022",
         "Seasons": "6 episodes",
-        "Runtime": "59 min.",
+        "Runtime": "46–55 min.",
         "Status": "Miniseries"
       }
     ]
@@ -472,13 +488,13 @@
     ],
     "data": [
       {
-        "Title": "Summer Camp Island (seasons 2–5)",
+        "Title": "Summer Camp Island (seasons 2–6)",
         "Genre": "Animated fantasy comedy",
         "Prev. network(s)": "Cartoon Network",
         "Premiere": "June 18, 2020",
         "Seasons": "4 seasons, 60 episodes",
         "Runtime": "12 min.",
-        "Status": "Renewed"
+        "Status": "Final season due to premiere in 2023"
       },
       {
         "Title": "Doom Patrol (seasons 2–3)",
@@ -519,7 +535,7 @@
       {
         "Title": "Sesame Street (seasons 51–52)",
         "Genre": "Education",
-        "Prev. network(s)": "HBO",
+        "Prev. network(s)": "PBS (seasons 1–45)HBO (seasons 46–50)",
         "Premiere": "November 12, 2020",
         "Seasons": "2 seasons, 70 episodes",
         "Runtime": "26 min.",
@@ -559,7 +575,7 @@
         "Premiere": "October 16, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "21–25 min.",
-        "Status": "Season 4 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Gen:Lock (season 2)",
@@ -586,6 +602,15 @@
         "Premiere": "December 5, 2021December 23, 2021&#91;b&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "SupermodelMe Revolution (season 2)",
+        "Genre": "Reality",
+        "Prev. network(s)": "AXN Asia",
+        "Premiere": "September 6, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "136 min",
         "Status": "Pending"
       }
     ]
@@ -703,6 +728,16 @@
         "Exclusive region(s)": "Spain",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "Onda Boa com Ivete",
+        "Genre": "Docuseries",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Latin America",
+        "Language": "Portuguese",
+        "Status": "Season 1 ongoing"
       }
     ]
   }

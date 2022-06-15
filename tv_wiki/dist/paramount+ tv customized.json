@@ -11,7 +11,7 @@
         "Premiere": "February 19, 2017",
         "Seasons": "5 seasons, 50 episodes",
         "Runtime": "49–53 min.",
-        "Status": "Renewed"
+        "Status": "Final season due to premiere on September 8, 2022"
       },
       {
         "Title": "Star Trek: Discovery",
@@ -115,14 +115,14 @@
         "Premiere": "March 24, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "40–59 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
         "Title": "The Offer",
         "Genre": "Drama",
         "Premiere": "April 28, 2022",
         "Seasons": "10 episodes",
-        "Runtime": "51–68 min.",
+        "Runtime": "51–69 min.",
         "Status": "Miniseries ongoing"
       },
       {
@@ -130,8 +130,16 @@
         "Genre": "Science fiction",
         "Premiere": "May 5, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "52–54 min.",
+        "Runtime": "46–54 min.",
         "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Tulsa King",
+        "Genre": "Drama",
+        "Premiere": "November 13, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
       }
     ]
   },
@@ -147,7 +155,7 @@
         "Premiere": "November 12, 2017",
         "Seasons": "4 seasons, 32 episodes",
         "Runtime": "25–33 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Why Women Kill",
@@ -163,7 +171,7 @@
         "Premiere": "June 17, 2021",
         "Seasons": "2 seasons, 23 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Guilty Party",
@@ -179,6 +187,14 @@
         "Premiere": "March 31, 2022",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "24–25 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Players",
+        "Genre": "Mockumentary",
+        "Premiere": "June 16, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -196,7 +212,7 @@
         "Premiere": "April 7, 2020",
         "Seasons": "2 seasons, 233 episodes",
         "Runtime": "5–44 min.",
-        "Status": "Pending"
+        "Status": "Moved to Comedy Central"
       },
       {
         "Title": "Star Trek: Lower Decks",
@@ -225,7 +241,7 @@
       {
         "Title": "For Heaven's Sake",
         "Genre": "True crime docu-comedy",
-        "Partner/Country": "CBC/Canada",
+        "Partner/Country": "CBC Gem/Canada",
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–32 min.",
@@ -241,7 +257,7 @@
     "data": [
       {
         "Title": "Younger (season 7)",
-        "Genre": "Dramedy",
+        "Genre": "Comedy drama",
         "Prev. network(s)": "TV Land",
         "Premiere": "April 15, 2021",
         "Seasons": "1 season, 12 episodes",
@@ -249,31 +265,31 @@
         "Status": "Ended"
       },
       {
-        "Title": "Evil (season 2)",
+        "Title": "Evil (season 2–3)",
         "Genre": "Supernatural drama",
         "Prev. network(s)": "CBS",
         "Premiere": "June 20, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "47 min.",
-        "Status": "Season 3 due to premiere on June 12, 2022"
+        "Seasons": "2 seasons, 14 episodes",
+        "Runtime": "47–48 min.",
+        "Status": "Season 3 ongoing"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars (season 6)",
+        "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "61 min.",
-        "Status": "Season 7 due to premiere on May 20, 2022"
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "61–83 min.",
+        "Status": "Season 7 ongoing"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars: Untucked (season 3)",
+        "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (season 1)VH1 (season 2)",
         "Premiere": "June 24, 2021",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "2 seasons, 17 episodes",
         "Runtime": "21 min.",
-        "Status": "Season 4 due to premiere on May 20, 2022"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "Inside the NFL (season 44)",
@@ -300,6 +316,15 @@
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "35–48 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Blood &amp; Treasure (season 2)",
+        "Genre": "Action-adventure",
+        "Prev. network(s)": "CBS",
+        "Premiere": "July 17, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -332,6 +357,13 @@
         "Language": "English"
       },
       {
+        "Title": "Porta dos Fundos: Te Prego Lá Fora",
+        "Genre": "Animated comedy",
+        "Premiere": "December 15, 2021",
+        "Runtime": "31 min.",
+        "Language": "Portuguese"
+      },
+      {
         "Title": "Reno 911! The Hunt for QAnon",
         "Genre": "Comedy",
         "Premiere": "December 23, 2021",
@@ -361,7 +393,7 @@
         "Genre": "Teen drama",
         "Premiere": "March 4, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "25 min.",
+        "Runtime": "24 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
@@ -400,6 +432,15 @@
         "Runtime": "45–54 min.",
         "Exclusive region(s)": "United States",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Envoys",
+        "Genre": "Horror thriller",
+        "Premiere": "December 12, 2021January 20, 2022&#91;d&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–58 min.",
+        "Exclusive region(s)": "All markets",
+        "Status": "Renewed"
       }
     ]
   }

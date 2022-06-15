@@ -10,7 +10,7 @@
         "Premiere": "January 22, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "47–53 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in fall 2022"
       },
       {
         "Title": "Firefly Lane",
@@ -170,7 +170,7 @@
         "Premiere": "April 22, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–33 min",
-        "Status": "Pending"
+        "Status": "Renewed for seasons 2 and 3"
       },
       {
         "Title": "Savage Beauty",
@@ -185,15 +185,15 @@
         "Genre": "Legal thriller",
         "Premiere": "May 13, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "45–55 min",
+        "Status": "Renewed"
       },
       {
         "Title": "First Kill",
         "Genre": "Horror drama",
         "Premiere": "June 10, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "42–59 min",
         "Status": "Pending"
       },
       {
@@ -201,6 +201,22 @@
         "Genre": "Horror",
         "Premiere": "July 14, 2022",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Sandman",
+        "Genre": "Fantasy",
+        "Premiere": "August 5, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Midnight Club",
+        "Genre": "Teen horror drama",
+        "Premiere": "October 7, 2022",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -334,10 +350,10 @@
         "Premiere": "June 15, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
-        "Title": "Man Vs Bee",
+        "Title": "Man vs. Bee",
         "Genre": "Comedy",
         "Premiere": "June 24, 2022",
         "Seasons": "1 season, 10 episodes",
@@ -383,16 +399,17 @@
         "Seasons": "2 parts, 10 episodes",
         "Runtime": "22–32 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Q-Force",
         "Genre": "Comedy",
         "Premiere": "September 2, 2021",
+        "Finale": "September 2, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "26 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Chicago Party Aunt",
@@ -404,22 +421,23 @@
         "Status": "Season 1 ongoing"
       },
       {
-        "Title": "Adventure Beast",
-        "Genre": "Educational/Comedy",
-        "Premiere": "October 22, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "16–20 min",
-        "Language": "English",
-        "Status": "Pending"
-      },
-      {
         "Title": "Inside Job",
         "Genre": "Workplace comedy",
         "Premiere": "October 22, 2021",
         "Seasons": "1 part, 10 episodes",
         "Runtime": "26–31 min",
         "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Status": "Season 1 ongoingRenewed"
+      },
+      {
+        "Title": "Adventure Beast",
+        "Genre": "Educational/Comedy",
+        "Premiere": "October 22, 2021",
+        "Finale": "October 22, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "16–20 min",
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Tear Along the Dotted Line",
@@ -456,6 +474,15 @@
         "Runtime": "25–28 min",
         "Language": "English",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Farzar",
+        "Genre": "Science-fiction comedy",
+        "Premiere": "July 15, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -487,12 +514,12 @@
       },
       {
         "Title": "Dota: Dragon's Blood",
-        "Genre": "Dark fantasy/Action",
+        "Genre": "Dark fantasy action",
         "Premiere": "March 25, 2021",
         "Seasons": "2 books, 16 episodes",
         "Runtime": "26–28 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Book 3 due to premiere on August 11, 2022"
       },
       {
         "Title": "The Way of the Househusband",
@@ -582,7 +609,7 @@
       },
       {
         "Title": "The Orbital Children",
-        "Genre": "Science fiction/Adventure",
+        "Genre": "Science fiction adventure",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–38 min",
@@ -611,8 +638,8 @@
         "Title": "Vampire in the Garden",
         "Genre": "Action drama",
         "Premiere": "May 16, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "24–30 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -620,8 +647,8 @@
         "Title": "Spriggan",
         "Genre": "Science fiction",
         "Premiere": "June 18, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "45 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -633,6 +660,24 @@
         "Runtime": "TBA",
         "Language": "Japanese",
         "Status": "First 13 episodes due to premiere on June 30, 2022, with the rest due to premiere later in 2022"
+      },
+      {
+        "Title": "Kakegurui Twin",
+        "Genre": "Drama",
+        "Premiere": "August 4, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Rilakkuma's Theme Park Adventure",
+        "Genre": "Slice of life",
+        "Premiere": "August 25, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
       }
     ]
   },
@@ -655,10 +700,9 @@
         "Title": "AlRawabi School for Girls",
         "Genre": "Drama",
         "Premiere": "August 12, 2021",
-        "Finale": "",
-        "Seasons": "6 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "44–52 min",
-        "Notes": ""
+        "Status": "Renewed"
       },
       {
         "Title": "Finding Ola",
@@ -666,7 +710,7 @@
         "Premiere": "February 3, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–55 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Love, Life &amp; Everything in Between",
@@ -688,9 +732,10 @@
         "Title": "The Chestnut Man",
         "Genre": "Crime drama",
         "Premiere": "September 29, 2021",
+        "Finale": "September 29, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "51–59 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Elves",
@@ -706,6 +751,14 @@
         "Premiere": "January 27, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "41–49 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Baby Fever",
+        "Genre": "Romantic comedy drama",
+        "Premiere": "June 8, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "27–33 min",
         "Status": "Pending"
       }
     ]
@@ -840,6 +893,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "41–45 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "King of Stonks",
+        "Genre": "Comedy drama",
+        "Premiere": "July 6, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -907,6 +968,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–54 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Mai: A Mother's Rage",
+        "Genre": "Crime thriller",
+        "Premiere": "April 15, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "42–54 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -938,9 +1007,10 @@
         "Title": "Luna Park",
         "Genre": "Drama",
         "Premiere": "September 30, 2021",
+        "Finale": "September 30, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–54 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "An Astrological Guide for Broken Hearts",
@@ -997,6 +1067,14 @@
         "Premiere": "February 14, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "38–51 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "First Love",
+        "Genre": "Drama",
+        "Premiere": "November 24, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1071,7 +1149,7 @@
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "53–71 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Juvenile Justice",
@@ -1091,8 +1169,16 @@
       },
       {
         "Title": "Money Heist: Korea – Joint Economic Area",
-        "Genre": "Thriller",
+        "Genre": "Heist crime drama",
         "Premiere": "June 24, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Remarriage &amp; Desires",
+        "Genre": "Drama",
+        "Premiere": "July 15, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -1162,6 +1248,14 @@
         "Seasons": "6 episodes",
         "Runtime": "41–53 min",
         "Notes": ""
+      },
+      {
+        "Title": "Queen",
+        "Genre": "Drama",
+        "Premiere": "June 23, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -1247,9 +1341,10 @@
         "Title": "Who Killed Sara?",
         "Genre": "Crime drama",
         "Premiere": "March 24, 2021",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "36–46 min",
-        "Status": "Final season due to premiere on May 18, 2022"
+        "Finale": "May 18, 2022",
+        "Seasons": "3 seasons, 25 episodes",
+        "Runtime": "36–47 min",
+        "Notes": ""
       },
       {
         "Title": "The Innocent",
@@ -1275,7 +1370,7 @@
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "29–32 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on June 17, 2022"
       },
       {
         "Title": "The Kingdom",
@@ -1298,9 +1393,10 @@
         "Title": "Jaguar",
         "Genre": "Historical drama",
         "Premiere": "September 22, 2021",
+        "Finale": "September 22, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "37–51 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Five Juanas",
@@ -1330,9 +1426,10 @@
         "Title": "Feria: The Darkest Light",
         "Genre": "Fantasy",
         "Premiere": "January 28, 2022",
+        "Finale": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–60 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Secrets of Summer",
@@ -1380,7 +1477,7 @@
         "Premiere": "May 6, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "36–46 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "42 Days of Darkness",
@@ -1388,6 +1485,22 @@
         "Premiere": "May 11, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "40–59 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Intimacy",
+        "Genre": "Drama",
+        "Premiere": "June 10, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–51 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Longest Night",
+        "Genre": "Crime drama",
+        "Premiere": "July 8, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1505,8 +1618,16 @@
         "Title": "The Life and Movies of Erşan Kuneri",
         "Genre": "Sitcom",
         "Premiere": "May 13, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "38–56 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "As the Crow Flies",
+        "Genre": "Drama",
+        "Premiere": "June 3, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "41–51 min",
         "Status": "Pending"
       }
     ]
@@ -1516,17 +1637,7 @@
       "Non-English language scripted",
       "Other"
     ],
-    "data": [
-      {
-        "Title": "Bangkok Breaking",
-        "Language": "Thai",
-        "Genre": "Thriller",
-        "Premiere": "September 23, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "54–64 min",
-        "Status": "Pending"
-      }
-    ]
+    "data": []
   },
   {
     "category": [
@@ -1571,11 +1682,11 @@
         "Partner/Country": "Network 10/Australia",
         "Genre": "Mystery teen drama",
         "Premiere": "September 3, 2021",
+        "Finale": "September 3, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "26–27 min",
         "Language": "English",
-        "Netflix exclusive regions": "All other markets",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "On the Verge",
@@ -1593,11 +1704,11 @@
         "Partner/Country": "TVFPlay/India",
         "Genre": "Comedy drama",
         "Premiere": "September 24, 2021",
+        "Finale": "September 24, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "31–44 min",
         "Language": "Hindi",
-        "Netflix exclusive regions": "All other markets",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Single's Inferno",
@@ -1652,6 +1763,39 @@
         "Runtime": "25 min",
         "Language": "Japanese",
         "Netflix exclusive regions": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Surviving Summer",
+        "Partner/Country": "ZDF/Germany",
+        "Genre": "Teen drama",
+        "Premiere": "June 3, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "26–30 min",
+        "Language": "English",
+        "Netflix exclusive regions": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Perfect Mother",
+        "Partner/Country": "TF1/FranceRTBF/BelgiumZDF/Germany",
+        "Genre": "Crime drama",
+        "Premiere": "June 3, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "46–50 min",
+        "Language": "French",
+        "Netflix exclusive regions": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "You Don't Know Me",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Genre": "Crime drama",
+        "Premiere": "June 17, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
       }
     ]
@@ -1739,7 +1883,7 @@
       {
         "Title": "Tiger &amp; Bunny (season 2)",
         "Genre": "Anime",
-        "Prev. network(s)": "Tokyo MX",
+        "Prev. network(s)": "Tokyo MX, BS11, MBS",
         "Premiere": "April 8, 2022",
         "Seasons": "1 season, 25 episodes",
         "Runtime": "25 min",
@@ -1759,6 +1903,7 @@
         "Genre": "Aftershow",
         "Premiere": "January 2, 2021",
         "Runtime": "34 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1766,6 +1911,7 @@
         "Genre": "Making-of",
         "Premiere": "January 8, 2021",
         "Runtime": "14 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1773,6 +1919,7 @@
         "Genre": "Aftershow",
         "Premiere": "January 23, 2021",
         "Runtime": "38 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1780,13 +1927,7 @@
         "Genre": "Aftershow",
         "Premiere": "January 30, 2021",
         "Runtime": "35 min",
-        "Notes": ""
-      },
-      {
-        "Title": "To All the Boys: Always and Forever - The Afterparty",
-        "Genre": "Aftershow",
-        "Premiere": "February 13, 2021",
-        "Runtime": "36 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1794,6 +1935,7 @@
         "Genre": "Reality television/Interactive fiction",
         "Premiere": "February 16, 2021",
         "Runtime": "45 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1801,6 +1943,7 @@
         "Genre": "Aftershow",
         "Premiere": "February 20, 2021",
         "Runtime": "35 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1808,6 +1951,7 @@
         "Genre": "Aftershow",
         "Premiere": "February 26, 2021",
         "Runtime": "35 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1815,6 +1959,7 @@
         "Genre": "Animation/Interactive fiction",
         "Premiere": "April 6, 2021",
         "Runtime": "27 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1822,6 +1967,7 @@
         "Genre": "Aftershow",
         "Premiere": "April 16, 2021",
         "Runtime": "37 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1829,6 +1975,7 @@
         "Genre": "Aftershow",
         "Premiere": "April 24, 2021",
         "Runtime": "32 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1836,6 +1983,7 @@
         "Genre": "Aftershow",
         "Premiere": "May 7, 2021",
         "Runtime": "35 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1843,6 +1991,7 @@
         "Genre": "Crime drama",
         "Premiere": "May 14, 2021",
         "Runtime": "1 h 47 min",
+        "Language": "Dutch",
         "Notes": ""
       },
       {
@@ -1850,6 +1999,7 @@
         "Genre": "Aftershow",
         "Premiere": "May 14, 2021",
         "Runtime": "32 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1857,6 +2007,7 @@
         "Genre": "Animation",
         "Premiere": "June 1, 2021",
         "Runtime": "25 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1864,6 +2015,7 @@
         "Genre": "Aftershow",
         "Premiere": "June 10, 2021",
         "Runtime": "35 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1871,6 +2023,7 @@
         "Genre": "Documentary/Interactive fiction",
         "Premiere": "June 15, 2021",
         "Runtime": "15 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1878,6 +2031,7 @@
         "Genre": "Comedy",
         "Premiere": "June 23, 2021",
         "Runtime": "1 h 27 min",
+        "Language": "Spanish",
         "Notes": ""
       },
       {
@@ -1885,6 +2039,7 @@
         "Genre": "Period horror thriller",
         "Premiere": "July 23, 2021",
         "Runtime": "1 h 33 min",
+        "Language": "Korean",
         "Notes": ""
       },
       {
@@ -1892,6 +2047,7 @@
         "Genre": "Animated dark fantasy",
         "Premiere": "August 23, 2021",
         "Runtime": "1 h 23 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1899,6 +2055,7 @@
         "Genre": "Interactive reality",
         "Premiere": "September 14, 2021",
         "Runtime": "25 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1906,6 +2063,7 @@
         "Genre": "Animation",
         "Premiere": "September 15, 2021",
         "Runtime": "13 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1913,6 +2071,7 @@
         "Genre": "Animation",
         "Premiere": "September 21, 2021",
         "Runtime": "1 h 1 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1920,6 +2079,7 @@
         "Genre": "Making-of",
         "Premiere": "October 10, 2021",
         "Runtime": "28 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1927,6 +2087,7 @@
         "Genre": "Animation",
         "Premiere": "October 15, 2021",
         "Runtime": "24 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1934,6 +2095,7 @@
         "Genre": "Animation/Interactive",
         "Premiere": "November 16, 2021",
         "Runtime": "20 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1941,6 +2103,7 @@
         "Genre": "Cooking show",
         "Premiere": "November 23, 2021",
         "Runtime": "28 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1948,6 +2111,7 @@
         "Genre": "Animation",
         "Premiere": "December 14, 2021",
         "Runtime": "47 min.",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1955,6 +2119,7 @@
         "Genre": "Making-of",
         "Premiere": "December 17, 2021",
         "Runtime": "37 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1962,6 +2127,7 @@
         "Genre": "Clipshow",
         "Premiere": "December 17, 2021",
         "Runtime": "11 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1969,6 +2135,7 @@
         "Genre": "Clipshow",
         "Premiere": "December 17, 2021",
         "Runtime": "10 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1976,6 +2143,7 @@
         "Genre": "Yule log",
         "Premiere": "December 17, 2021",
         "Runtime": "59 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1983,6 +2151,7 @@
         "Genre": "Clipshow",
         "Premiere": "December 17, 2021",
         "Runtime": "15 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1990,6 +2159,7 @@
         "Genre": "Making-of",
         "Premiere": "December 17, 2021",
         "Runtime": "9 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -1997,6 +2167,7 @@
         "Genre": "Animation",
         "Premiere": "January 18, 2022",
         "Runtime": "25 min",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -2004,19 +2175,31 @@
         "Genre": "Making-of",
         "Premiere": "April 22, 2022",
         "Runtime": "30 min",
+        "Language": "English",
         "Notes": ""
       },
       {
-        "Title": "My Little Pony: Make Your Mark",
+        "Title": "Larva Pendant",
+        "Genre": "Animation/interactive fiction",
+        "Premiere": "May 25, 2022",
+        "Runtime": "33 min",
+        "Language": "No spoken language",
+        "Notes": ""
+      },
+      {
+        "Title": "Mighty Little Bheem: I Love Taj Mahal",
         "Genre": "Animation",
-        "Premiere": "May 26, 2022",
-        "Runtime": "44 min"
+        "Premiere": "May 30, 2022",
+        "Runtime": "20 min",
+        "Language": "No spoken language",
+        "Notes": ""
       },
       {
         "Title": "My Little Pony: Winter Wishday",
         "Genre": "Animation",
         "Premiere": "November 21, 2022",
-        "Runtime": "44 min"
+        "Runtime": "44 min",
+        "Language": "English"
       }
     ]
   },
@@ -2157,7 +2340,7 @@
         "Seasons": "1 season, 5 episodes",
         "Runtime": "4–6 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Volume 2 due to premiere on June 16, 2022"
       }
     ]
   },
@@ -2385,7 +2568,17 @@
       "Non-English language scripted",
       "Thai"
     ],
-    "data": []
+    "data": [
+      {
+        "Title": "Bangkok Breaking",
+        "Genre": "Thriller",
+        "Premiere": "September 23, 2021",
+        "Finale": "September 23, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "54–64 min",
+        "Notes": ""
+      }
+    ]
   },
   {
     "category": [
@@ -2404,7 +2597,16 @@
   {
     "category": [
       "Regional original programming",
-      "Animation"
+      "Animation",
+      "Adult animation"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Animation",
+      "Kids &amp; family"
     ],
     "data": [
       {
