@@ -6,14 +6,6 @@
     ],
     "data": [
       {
-        "Title": "The Confession",
-        "Genre": "Drama",
-        "Premiere": "March 28, 2011",
-        "Seasons": "10 episodes",
-        "Length": "5–7 min.",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "East Los High",
         "Genre": "Teen drama",
         "Premiere": "June 3, 2013",
@@ -51,14 +43,6 @@
         "Premiere": "December 7, 2016",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "40–42 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dimension 404",
-        "Genre": "Science fiction anthology",
-        "Premiere": "April 4, 2017",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "40 min.",
         "Status": "Ended"
       },
       {
@@ -169,9 +153,9 @@
         "Title": "Love, Victor",
         "Genre": "Romantic drama",
         "Premiere": "June 17, 2020",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "24–33 min.",
-        "Status": "Final season due to premiere on June 15, 2022"
+        "Seasons": "3 seasons, 28 episodes",
+        "Length": "24–34 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Monsterland",
@@ -211,7 +195,7 @@
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–55 min.",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Y: The Last Man",
@@ -350,14 +334,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Neighbors",
-        "Genre": "Sitcom",
-        "Premiere": "March 14, 2015",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "22–32 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Difficult People",
         "Genre": "Dark comedy",
         "Premiere": "August 5, 2015",
@@ -451,7 +427,7 @@
         "Premiere": "September 9, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "25–34 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Reservation Dogs",
@@ -465,9 +441,9 @@
         "Title": "Only Murders in the Building",
         "Genre": "Comedy/Mystery",
         "Premiere": "August 31, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "26–35 min.",
-        "Status": "Season 2 due to premiere on June 28, 2022"
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "28–37 min.",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "How I Met Your Father",
@@ -486,20 +462,20 @@
         "Status": "Renewed"
       },
       {
+        "Title": "The Bear",
+        "Genre": "Comedy",
+        "Premiere": "June 23, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "20-47 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
         "Seasons": "Awaiting release",
         "Length": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "The Bear",
-        "Genre": "Comedy",
-        "Premiere": "June 23, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
       },
       {
         "Title": "Maggie",
@@ -641,12 +617,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Triumph's Election Watch 2016",
+        "Title": "Triumph",
         "Genre": "Political comedy",
         "Premiere": "February 8, 2016",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "6 episodes",
         "Length": "30–85 min.",
-        "Status": "Ended"
+        "Status": "Miniseries"
       },
       {
         "Title": "Vice Investigates",
@@ -697,6 +673,14 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "The Next Thing You Eat",
+        "Genre": "Food",
+        "Premiere": "October 21, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "29–36 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Curse of Von Dutch: A Brand to Die For",
         "Genre": "Docuseries",
         "Premiere": "November 18, 2021",
@@ -713,11 +697,35 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Have You Seen This Man?",
+        "Genre": "Docuseries",
+        "Premiere": "March 24, 2022",
+        "Seasons": "3 episodes",
+        "Length": "37–41 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Captive Audience: A Real American Horror Story",
         "Genre": "Docuseries",
         "Premiere": "April 21, 2022",
         "Seasons": "3 episodes",
-        "Length": "42-49 min.",
+        "Length": "42–49 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Keeper of the Ashes: The Oklahoma Girl Scout Murders",
+        "Genre": "Docuseries",
+        "Premiere": "May 24, 2022",
+        "Seasons": "4 episodes",
+        "Length": "40–45 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Mormon No More",
+        "Genre": "Docuseries",
+        "Premiere": "June 24, 2022",
+        "Seasons": "4 episodes",
+        "Length": "49–51 min.",
         "Status": "Miniseries"
       },
       {
@@ -746,14 +754,6 @@
     ],
     "data": [
       {
-        "Title": "If I Can Dream",
-        "Genre": "Reality",
-        "Premiere": "March 2, 2010",
-        "Seasons": "1 season, 32 episodes",
-        "Length": "25 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Taste the Nation with Padma Lakshmi",
         "Genre": "Cooking show",
         "Premiere": "June 18, 2020",
@@ -767,14 +767,6 @@
         "Premiere": "November 11, 2020",
         "Seasons": "1 season, 7 episodes",
         "Length": "25 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Exposure",
-        "Genre": "Reality",
-        "Premiere": "April 26, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "49–59 min.",
         "Status": "Ended"
       },
       {
@@ -794,14 +786,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "The Next Thing You Eat",
-        "Genre": "Food",
-        "Premiere": "October 21, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "29–36 min.",
-        "Status": "Pending"
-      },
-      {
         "Title": "Candified: Home for the Holidays",
         "Genre": "Reality",
         "Premiere": "December 1, 2021",
@@ -813,9 +797,9 @@
         "Title": "The Kardashians",
         "Genre": "Reality",
         "Premiere": "April 14, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "45–48 min.",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 10 episodes",
+        "Length": "40–48 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -826,14 +810,6 @@
       "Variety"
     ],
     "data": [
-      {
-        "Title": "The Morning After",
-        "Genre": "Pop culture",
-        "Premiere": "January 17, 2011",
-        "Seasons": "3 seasons, 800 episodes",
-        "Length": "5 min.",
-        "Status": "Ended"
-      },
       {
         "Title": "Spoilers with Kevin Smith",
         "Genre": "Film criticism",
@@ -849,14 +825,6 @@
         "Seasons": "2 seasons, 21 episodes",
         "Length": "26–33 min.",
         "Status": "Ended"
-      },
-      {
-        "Title": "The Choe Show",
-        "Genre": "Lifestyle",
-        "Premiere": "June 25, 2021",
-        "Seasons": "1 season, 4 episodes",
-        "Length": "22–30 min",
-        "Status": "Ended"
       }
     ]
   },
@@ -866,24 +834,6 @@
       "Co-productions"
     ],
     "data": [
-      {
-        "Title": "The Thick of It (series 4)",
-        "Partner/Country": "BBC Two/United Kingdom",
-        "Genre": "Comedy",
-        "Premiere": "September 9, 2012",
-        "Seasons": "1 season, 7 episodes",
-        "Length": "28–59 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Mother Up!",
-        "Partner/Country": "Citytv/Canada",
-        "Genre": "Adult animation",
-        "Premiere": "November 6, 2013",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "22–23 min.",
-        "Status": "Ended"
-      },
       {
         "Title": "The Wrong Mans",
         "Partner/Country": "BBC Two/United Kingdom",
@@ -948,30 +898,12 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "The Weekly",
-        "Partner/Country": "FX/United States",
-        "Genre": "Docuseries",
-        "Premiere": "June 3, 2019",
-        "Seasons": "1 season, 30 episodes",
-        "Length": "60 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "This Way Up",
         "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Comedy drama",
         "Premiere": "August 21, 2019",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "29 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Zomboat!",
-        "Partner/Country": "ITV2/United Kingdom",
-        "Genre": "Comedy drama thriller",
-        "Premiere": "October 25, 2019",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "30 min.",
         "Status": "Ended"
       },
       {
@@ -1002,15 +934,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Baghdad Central",
-        "Partner/Country": "Channel 4/United Kingdom",
-        "Genre": "Drama",
-        "Premiere": "March 27, 2020",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "46 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Normal People",
         "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
@@ -1020,22 +943,13 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "The New York Times Presents",
-        "Partner/Country": "FX/United States",
-        "Genre": "Docuseries",
-        "Premiere": "July 10, 2020",
-        "Seasons": "2 seasons, 12 episodes",
-        "Length": "60 min.",
-        "Status": "Season 2 ongoing"
-      },
-      {
         "Title": "Madagascar: A Little Wild",
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "7 seasons, 43 episodes",
+        "Seasons": "8 seasons, 50 episodes",
         "Length": "23 min.",
-        "Status": "Final season due to premiere on June 30, 2022"
+        "Status": "Ended"
       },
       {
         "Title": "The Mighty Ones",
@@ -1044,7 +958,7 @@
         "Premiere": "November 9, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "No Man's Land",
@@ -1105,9 +1019,9 @@
         "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
         "Premiere": "May 15, 2022",
-        "Seasons": "12 episodes",
+        "Seasons": "1 season, 12 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -1145,21 +1059,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Promised Land (season 1B)",
-        "Genre": "Drama",
-        "Prev. network(s)": "ABC",
-        "Premiere": "March 1, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Length": "42–43 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "The Orville (season 3)",
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
         "Premiere": "June 2, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "60-71 min.",
+        "Length": "60–71 min.",
         "Status": "Final season ongoing"
       }
     ]
@@ -1227,6 +1132,7 @@
       {
         "Title": "Immigrant",
         "Genre": "Biographical drama miniseries",
+        "Seasons": "8 episodes",
         "Premiere": "TBA",
         "Length": "TBA",
         "Status": "TBA"
@@ -1351,14 +1257,6 @@
         "Premiere": "TBA",
         "Length": "TBA",
         "Status": "TBA"
-      },
-      {
-        "Title": "Standing By",
-        "Genre": "Comedy",
-        "Seasons": "TBA",
-        "Premiere": "TBA",
-        "Length": "TBA",
-        "Status": "TBA"
       }
     ]
   },
@@ -1438,7 +1336,7 @@
     "data": [
       {
         "Title": "Futurama (season 8)",
-        "Genre": "Animated sitcom science-fiction",
+        "Genre": "Animated science-fiction sitcom",
         "Prev. network(s)": "Fox (seasons 1–4)Comedy Central (seasons 5–7)",
         "Seasons": "1 season, 20 episodes",
         "Premiere": "2023",
@@ -1487,7 +1385,7 @@
       },
       {
         "Title": "The Golden Spoon",
-        "Genre": "Comedy Mystery miniseries"
+        "Genre": "Comedy mystery miniseries"
       },
       {
         "Title": "The Island",
@@ -1508,6 +1406,10 @@
       {
         "Title": "Take Out",
         "Genre": "Action comedy"
+      },
+      {
+        "Title": "Untitled Formula 1 project",
+        "Genre": "TBA"
       }
     ]
   },

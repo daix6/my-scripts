@@ -150,7 +150,7 @@
         "Genre": "Spy thriller",
         "Premiere": "June 4, 2020",
         "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Status": "Pending; only available in other territories"
       },
       {
         "Title": "Utopia",
@@ -233,8 +233,15 @@
         "Title": "The Summer I Turned Pretty",
         "Genre": "Young adult romantic drama",
         "Premiere": "June 17, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "1 season, 7 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Chloe",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 24, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Terminal List",
@@ -473,13 +480,13 @@
         "Genre": "Comedy drama",
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Pending; available in the UK"
       },
       {
         "Title": "The Lake",
         "Genre": "Comedy",
         "Premiere": "June 17, 2022",
-        "Seasons/episodes": "TBA",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       },
       {
@@ -833,7 +840,7 @@
         "Genre": "Crime drama",
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": ""
+        "Status": "Pending"
       }
     ]
   },
@@ -988,8 +995,8 @@
         "Title": "Game of Spy",
         "Genre": "Spy thriller",
         "Premiere": "June 24, 2022",
-        "Seasons/episodes": "TBA",
-        "Status": "Pending"
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1162,6 +1169,13 @@
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Boundless",
+        "Genre": "Historical drama",
+        "Premiere": "June 10, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1211,6 +1225,14 @@
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "French",
         "Status": "Ended"
+      },
+      {
+        "Title": "Modern Love Hyderabad",
+        "Genre": "Anthology",
+        "Premiere": "July 8, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "Telugu",
+        "Status": "Pending"
       }
     ]
   },
@@ -1473,7 +1495,7 @@
     "data": [
       {
         "Title": "The Expanse (seasons 4–6)",
-        "Genre": "Hard science-fiction",
+        "Genre": "Hard science fiction",
         "Prev. network(s)": "Syfy",
         "Premiere": "December 13, 2019",
         "Seasons/episodes": "3 seasons, 26 episodes",

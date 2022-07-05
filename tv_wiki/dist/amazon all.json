@@ -150,7 +150,7 @@
         "Genre": "Spy thriller",
         "Premiere": "June 4, 2020",
         "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Status": "Pending; only available in other territories"
       },
       {
         "Title": "Utopia",
@@ -230,18 +230,18 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons/episodes": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Summer I Turned Pretty",
         "Genre": "Young adult romantic drama",
         "Premiere": "June 17, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "1 season, 7 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Chloe",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 24, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Terminal List",
@@ -249,6 +249,13 @@
         "Premiere": "July 1, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Paper Girls",
@@ -480,6 +487,13 @@
         "Genre": "Comedy drama",
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending; available in the UK"
+      },
+      {
+        "Title": "The Lake",
+        "Genre": "Comedy",
+        "Premiere": "June 17, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       },
       {
@@ -488,13 +502,6 @@
         "Premiere": "Awaiting release",
         "Seasons/episodes": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "The Lake",
-        "Genre": "Comedy",
-        "Premiere": "June 17, 2022",
-        "Seasons/episodes": "TBA",
-        "Status": "Pending"
       },
       {
         "Title": "A League of Their Own",
@@ -996,7 +1003,7 @@
         "Genre": "Crime drama",
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": ""
+        "Status": "Pending"
       }
     ]
   },
@@ -1148,18 +1155,11 @@
         "Status": "Ended"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons/episodes": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Game of Spy",
         "Genre": "Spy thriller",
         "Premiere": "June 24, 2022",
-        "Seasons/episodes": "TBA",
-        "Status": "Pending"
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1332,6 +1332,13 @@
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Boundless",
+        "Genre": "Historical drama",
+        "Premiere": "June 10, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1381,6 +1388,30 @@
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "French",
         "Status": "Ended"
+      },
+      {
+        "Title": "Suzhal: The Vortex",
+        "Genre": "Thriller",
+        "Premiere": "June 17, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "Tamil",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Modern Love Hyderabad",
+        "Genre": "Anthology",
+        "Premiere": "July 8, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "Telugu",
+        "Status": "Pending"
       }
     ]
   },
@@ -1539,7 +1570,7 @@
         "Title": "The Gymkhana Files",
         "Genre": "Sports documentary",
         "Premiere": "November 16, 2018",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "1 season, 6 episodes",
         "Language": "English",
         "Status": "Ended"
       },
@@ -1568,7 +1599,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "This Giant Beast That is the Global Economy",
+        "Title": "This Giant Beast That Is the Global Economy",
         "Genre": "Docuseries",
         "Premiere": "February 22, 2019",
         "Seasons/episodes": "1 season, 8 episodes",
@@ -1608,7 +1639,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "El Corazón de Sergio Ramos",
+        "Title": "El corazón de Sergio Ramos",
         "Genre": "Sports documentary",
         "Premiere": "September 13, 2019",
         "Seasons/episodes": "2 seasons, 14 episodes",
@@ -1860,6 +1891,22 @@
         "Genre": "Docuseries",
         "Premiere": "May 20, 2022",
         "Seasons/episodes": "1 season, 2 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "All or Nothing: Arsenal",
+        "Genre": "Sports documentary",
+        "Premiere": "August 4, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Language": "English",
         "Status": "Pending"
       }
@@ -2157,6 +2204,30 @@
         "Genre": "Reality",
         "Premiere": "May 18, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The One That Got Away",
+        "Genre": "Dating show",
+        "Premiere": "June 24, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Forever Summer: Hamptons",
+        "Genre": "Docusoap",
+        "Premiere": "July 15, 2022",
+        "Seasons/episodes": "TBA",
         "Language": "English",
         "Status": "Pending"
       }
@@ -2478,7 +2549,7 @@
     "data": [
       {
         "Title": "The Expanse (seasons 4–6)",
-        "Genre": "Hard science-fiction",
+        "Genre": "Hard science fiction",
         "Prev. network(s)": "Syfy",
         "Premiere": "December 13, 2019",
         "Seasons/episodes": "3 seasons, 26 episodes",
@@ -2502,24 +2573,6 @@
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "English",
         "Status": "Pending"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Prev. network(s)": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons/episodes": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "The Red Road (season 3)",
-        "Genre": "Drama",
-        "Prev. network(s)": "Sundance TV",
-        "Premiere": "October 5, 2022",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Language": "English",
-        "Status": "Renewed"
       }
     ]
   },
@@ -2593,57 +2646,9 @@
   {
     "category": [
       "Upcoming original programming",
-      "Ordered"
+      "Drama"
     ],
     "data": [
-      {
-        "Title": "The One That Got Away",
-        "Genre": "Dating show",
-        "Seasons": "TBA",
-        "Premiere": "Summer 2022"
-      },
-      {
-        "Title": "Forever Summer: Hamptons",
-        "Genre": "Dating show",
-        "Seasons": "TBA",
-        "Premiere": "Summer 2022"
-      },
-      {
-        "Title": "Cosmic Love",
-        "Genre": "Dating show",
-        "Seasons": "TBA",
-        "Premiere": "Summer 2022"
-      },
-      {
-        "Title": "Modern Love Tokyo",
-        "Genre": "Japanese romantic comedy anthology",
-        "Seasons": "TBA",
-        "Premiere": "Late 2022"
-      },
-      {
-        "Title": "The Bad Guy",
-        "Genre": "Italian crime comedy",
-        "Seasons": "TBA",
-        "Premiere": "2022"
-      },
-      {
-        "Title": "Love Addicts",
-        "Genre": "German comedy",
-        "Seasons": "1 season, 8 episodes",
-        "Premiere": "2022"
-      },
-      {
-        "Title": "Mr. &amp; Mrs. Smith",
-        "Genre": "Spy comedy",
-        "Seasons": "TBA",
-        "Premiere": "2022"
-      },
-      {
-        "Title": "Prisma",
-        "Genre": "Italian teen drama",
-        "Seasons": "TBA",
-        "Premiere": "2022"
-      },
       {
         "Title": "The Rig",
         "Genre": "Supernatural thriller",
@@ -2651,43 +2656,7 @@
         "Premiere": "2022"
       },
       {
-        "Title": "The Therapy",
-        "Genre": "German mystery thriller",
-        "Seasons": "1 season, 6 episodes",
-        "Premiere": "2022"
-      },
-      {
-        "Title": "Angel Flight",
-        "Genre": "Japanese drama",
-        "Seasons": "TBA",
-        "Premiere": "2023"
-      },
-      {
-        "Title": "Deadloch",
-        "Genre": "Comedy",
-        "Seasons": "1 season, 8 episodes",
-        "Premiere": "2023"
-      },
-      {
-        "Title": "Everybody Loves Diamonds",
-        "Genre": "Italian heist drama",
-        "Seasons": "TBA",
-        "Premiere": "2023"
-      },
-      {
-        "Title": "My Lovely Yokai Girlfriend",
-        "Genre": "Japanese horror romantic comedy",
-        "Seasons": "TBA",
-        "Premiere": "2023"
-      },
-      {
-        "Title": "Untitled Takeshi's Castle reboot",
-        "Genre": "Japanese game show",
-        "Seasons": "TBA",
-        "Premiere": "2023"
-      },
-      {
-        "Title": "Untitled The Boys spin-off",
+        "Title": "The Boys Presents: Varsity",
         "Genre": "Superhero teen drama",
         "Seasons": "TBA",
         "Premiere": "2023"
@@ -2707,18 +2676,6 @@
       {
         "Title": "Citadel",
         "Genre": "Spy thriller",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Chloe",
-        "Genre": "Psychological thriller",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Consultant",
-        "Genre": "Workplace comedy",
         "Seasons": "TBA",
         "Premiere": "TBA"
       },
@@ -2777,18 +2734,6 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "The Hospital",
-        "Genre": "Adult animated black comedy",
-        "Seasons": "TBA",
-        "Premiere": "TBA; Renewed"
-      },
-      {
-        "Title": "I'm a Virgo",
-        "Genre": "Dark comedy",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Los Farad",
         "Genre": "Crime thriller",
         "Seasons": "TBA",
@@ -2801,39 +2746,9 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Luden",
-        "Genre": "Drama",
-        "Seasons": "1 season, 6 episodes",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Noticia de un secuestro",
-        "Genre": "Spanish drama",
-        "Seasons": "1 season, 6 episodes",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Mammals",
-        "Genre": "Comedy drama",
-        "Seasons": "1 season, 6 episodes",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Missing One",
-        "Genre": "French reality competition",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "The Peripheral",
         "Genre": "Drama",
         "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Porno y Helado",
-        "Genre": "Spanish comedy",
-        "Seasons": "1 season, 8 episodes",
         "Premiere": "TBA"
       },
       {
@@ -2849,26 +2764,8 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Rihanna: Volume 1",
-        "Genre": "Documentary",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Shelter",
         "Genre": "Thriller",
-        "Seasons": "TBA",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Sin Limites",
-        "Genre": "Spanish historical drama",
-        "Seasons": "1 season, 4 episodes",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Sticky",
-        "Genre": "Heist comedy",
         "Seasons": "TBA",
         "Premiere": "TBA"
       },
@@ -2879,34 +2776,237 @@
         "Premiere": "TBA"
       },
       {
-        "Title": "Un Asunto Privado",
-        "Genre": "Spanish thriller comedy",
-        "Seasons": "1 season, 8 episodes",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Paris Saint-Germain F.C. docuseries",
-        "Genre": "Sports docuseries",
-        "Seasons": "1 season, 4 episodes",
-        "Premiere": "TBA"
-      },
-      {
         "Title": "Untitled Phoebe Waller-Bridge series",
         "Genre": "TBA",
         "Seasons": "TBA",
         "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Mr. &amp; Mrs. Smith",
+        "Genre": "Spy comedy",
+        "Seasons": "TBA",
+        "Premiere": "2022"
       },
       {
-        "Title": "Untitled Priyanka Chopra/Nick Jonas unscripted sangeet series",
-        "Genre": "Reality",
+        "Title": "Deadloch",
+        "Genre": "Comedy",
+        "Seasons": "1 season, 8 episodes",
+        "Premiere": "2023"
+      },
+      {
+        "Title": "The Consultant",
+        "Genre": "Workplace comedy",
         "Seasons": "TBA",
         "Premiere": "TBA"
+      },
+      {
+        "Title": "I'm a Virgo",
+        "Genre": "Dark comedy",
+        "Seasons": "TBA",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Mammals",
+        "Genre": "Comedy drama",
+        "Seasons": "1 season, 6 episodes",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Sticky",
+        "Genre": "Heist comedy",
+        "Seasons": "TBA",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "The Hospital",
+        "Genre": "Adult animated black comedy",
+        "Seasons": "TBA",
+        "Premiere": "TBA; Renewed"
       },
       {
         "Title": "Untitled Ramy Youssef animated series",
         "Genre": "Adult animated comedy",
         "Seasons": "TBA",
         "Premiere": "TBA; Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "German"
+    ],
+    "data": [
+      {
+        "Title": "Love Addicts",
+        "Genre": "German comedy",
+        "Premiere": "1 season, 8 episodes",
+        "Seasons/episodes": "2022"
+      },
+      {
+        "Title": "The Therapy",
+        "Genre": "German mystery thriller",
+        "Premiere": "1 season, 6 episodes",
+        "Seasons/episodes": "2022"
+      },
+      {
+        "Title": "Luden",
+        "Genre": "Drama",
+        "Premiere": "1 season, 6 episodes",
+        "Seasons/episodes": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Italian"
+    ],
+    "data": [
+      {
+        "Title": "The Bad Guy",
+        "Genre": "Italian crime comedy",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2022"
+      },
+      {
+        "Title": "Prisma",
+        "Genre": "Italian teen drama",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2022"
+      },
+      {
+        "Title": "Everybody Loves Diamonds",
+        "Genre": "Italian heist drama",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2023"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Japanese"
+    ],
+    "data": [
+      {
+        "Title": "Modern Love Tokyo",
+        "Genre": "Japanese romantic comedy anthology",
+        "Premiere": "TBA",
+        "Seasons/episodes": "Late 2022"
+      },
+      {
+        "Title": "Angel Flight",
+        "Genre": "Japanese drama",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2023"
+      },
+      {
+        "Title": "My Lovely Yokai Girlfriend",
+        "Genre": "Japanese horror romantic comedy",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2023"
+      },
+      {
+        "Title": "Untitled Takeshi's Castle reboot",
+        "Genre": "Japanese game show",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2023"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Spanish"
+    ],
+    "data": [
+      {
+        "Title": "Noticia de un secuestro",
+        "Genre": "Spanish drama",
+        "Premiere": "1 season, 6 episodes",
+        "Seasons/episodes": "TBA"
+      },
+      {
+        "Title": "Porno y Helado",
+        "Genre": "Spanish comedy",
+        "Premiere": "1 season, 8 episodes",
+        "Seasons/episodes": "TBA"
+      },
+      {
+        "Title": "Un Asunto Privado",
+        "Genre": "Spanish thriller comedy",
+        "Premiere": "1 season, 8 episodes",
+        "Seasons/episodes": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Rihanna: Volume 1",
+        "Genre": "Documentary",
+        "Premiere": "TBA",
+        "Seasons/episodes": "TBA"
+      },
+      {
+        "Title": "Untitled Paris Saint-Germain F.C. docuseries",
+        "Genre": "Sports docuseries",
+        "Premiere": "1 season, 4 episodes",
+        "Seasons/episodes": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "Cosmic Love",
+        "Genre": "Dating show",
+        "Premiere": "TBA",
+        "Seasons/episodes": "August 2022"
+      },
+      {
+        "Title": "The Missing One",
+        "Genre": "French reality competition",
+        "Premiere": "TBA",
+        "Seasons/episodes": "TBA"
+      },
+      {
+        "Title": "Untitled Priyanka Chopra/Nick Jonas unscripted sangeet series",
+        "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons/episodes": "TBA"
       }
     ]
   },

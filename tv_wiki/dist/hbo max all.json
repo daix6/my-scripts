@@ -60,6 +60,22 @@
         "Seasons": "8 episodes",
         "Runtime": "59–73 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Pretty Little Liars: Original Sin",
+        "Genre": "Teen mystery crime thriller",
+        "Premiere": "July 28, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -115,7 +131,7 @@
         "Premiere": "May 13, 2021",
         "Seasons": "2 season, 18 episodes",
         "Runtime": "24–35 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Head of the Class",
@@ -174,20 +190,20 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Gordita Chronicles",
         "Genre": "Coming-of-age comedy",
         "Premiere": "June 23, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Rap Sh!t",
@@ -228,7 +244,7 @@
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–26 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Santa Inc.",
@@ -317,7 +333,7 @@
         "Premiere": "September 13, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "11 min.",
-        "Status": "Season 3 due to premiere on June 23, 2022"
+        "Status": "Renewed"
       },
       {
         "Title": "Lucas the Spider Shorts: Meet the Boop Troop",
@@ -328,7 +344,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Yabba-Dabba Dinosaurs",
+        "Title": "Yabba Dabba Dinosaurs",
         "Genre": "Comedy",
         "Premiere": "September 30, 2021",
         "Seasons": "2 seasons, 26 episodes",
@@ -358,7 +374,7 @@
         "Premiere": "November 14, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "22–35 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -375,7 +391,7 @@
         "Premiere": "April 1, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "40–46 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -426,7 +442,7 @@
         "Premiere": "March 8, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "44–50 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -484,6 +500,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "How to Screw It All Up",
+        "Genre": "Teen drama",
+        "Premiere": "July 1, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "16–22 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -500,7 +524,7 @@
         "Premiere": "March 18, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–29 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -629,6 +653,15 @@
         "Status": "Pending"
       },
       {
+        "Title": "Bilardo, the Soccer Doctor",
+        "Genre": "Biographical soccer docuseries",
+        "Premiere": "February 24, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "48–55 min.",
+        "Language": "Spanish",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Gaming Wall Street",
         "Genre": "Docuseries",
         "Premiere": "March 3, 2022",
@@ -674,29 +707,29 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "PCC, Secret Power",
+        "Genre": "Docuseries",
+        "Premiere": "May 26, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "46–51 min.",
+        "Language": "Portuguese",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "On My Way with Irina Rimes",
         "Genre": "Music",
         "Premiere": "June 3, 2022",
         "Seasons": "7 episodes",
-        "Runtime": "TBA",
+        "Runtime": "22–36 min.",
         "Language": "Romanian",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
       },
       {
         "Title": "Menudo: Forever Young",
         "Genre": "Music",
         "Premiere": "June 23, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "37–47 min.",
         "Language": "Spanish",
         "Status": "Miniseries"
       }
@@ -770,7 +803,7 @@
         "Seasons": "2 season, 16 episodes",
         "Runtime": "41–44 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "12 Dates of Christmas",
@@ -797,7 +830,7 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "30 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Ellen's Next Great Designer",
@@ -824,7 +857,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–62 min.",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on July 14, 2022"
       },
       {
         "Title": "The Hype",
@@ -905,6 +938,15 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "59 min.",
         "Language": "Romanian",
+        "Status": "Ended"
+      },
+      {
+        "Title": "The Bridge Brazil",
+        "Genre": "Reality competition",
+        "Premiere": "June 9, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45 min.",
+        "Language": "Portuguese",
         "Status": "Pending"
       }
     ]
@@ -923,7 +965,7 @@
         "Seasons": "2 seasons, 29 episodes",
         "Runtime": "14–16 min.",
         "Language": "English",
-        "Status": "Ended"
+        "Status": "Pending"
       },
       {
         "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime Shorts!",
@@ -1007,7 +1049,7 @@
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "30 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Sort Of",
@@ -1194,12 +1236,12 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "SupermodelMe Revolution (season 2)",
-        "Genre": "Reality",
-        "Prev. network(s)": "AXN Asia",
-        "Premiere": "September 6, 2022",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "136 min",
+        "Title": "Harley Quinn (season 3)",
+        "Genre": "Adult animated superhero comedy",
+        "Prev. network(s)": "DC Universe",
+        "Premiere": "July 28, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23 min.",
         "Status": "Pending"
       }
     ]
@@ -1319,6 +1361,16 @@
         "Status": "Pending"
       },
       {
+        "Title": "Sin novedad",
+        "Genre": "Comedy",
+        "Premiere": "December 19, 2021",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Spain",
+        "Language": "Spanish",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Onda Boa com Ivete",
         "Genre": "Docuseries",
         "Premiere": "January 20, 2022",
@@ -1357,14 +1409,6 @@
         "Genre": "True crime drama",
         "Premiere": "2022",
         "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Pretty Little Liars: Original Sin",
-        "Genre": "Teen mystery crime thriller",
-        "Premiere": "2022",
-        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Post-production"
       },
@@ -1505,14 +1549,6 @@
     ],
     "data": [
       {
-        "Title": "Rap Sh*t",
-        "Genre": "Music comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Status": "Series order"
-      },
-      {
         "Title": "Tooned Out",
         "Genre": "Live-action animated comedy",
         "Premiere": "TBA",
@@ -1529,6 +1565,14 @@
       "Adult animation"
     ],
     "data": [
+      {
+        "Title": "Scavengers Reign",
+        "Genre": "Science fiction drama",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
       {
         "Title": "Clone High",
         "Genre": "Satirical sitcom",
@@ -1616,7 +1660,7 @@
         "Premiere": "2022",
         "Seasons": "TBA",
         "Runtime": "30 min.",
-        "Status": "Series order; Renewed"
+        "Status": "In production; Renewed"
       },
       {
         "Title": "Unicorn: Warriors Eternal",
@@ -1875,28 +1919,10 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Sin novedad",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Series order"
-      },
-      {
         "Title": "Poor Devil",
         "Genre": "Animation",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Series order"
-      },
-      {
-        "Title": "How to Screw It All Up",
-        "Genre": "Teen drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Language": "Spanish",
         "Status": "Series order"
@@ -1929,24 +1955,6 @@
     ],
     "data": [
       {
-        "Title": "Untitled Latin-American K-Pop competition series",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "In development"
-      },
-      {
-        "Title": "Bilardo, El Doctor del Fútbol",
-        "Genre": "Biographical soccer docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Filming"
-      },
-      {
         "Title": "Untitled Brazilian docuseries about the murder of Daniella Perez",
         "Genre": "Docuseries",
         "Premiere": "2022",
@@ -1954,6 +1962,15 @@
         "Runtime": "TBA",
         "Language": "Portuguese",
         "Status": "Pre-production"
+      },
+      {
+        "Title": "Untitled Latin-American K-Pop competition series",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Spanish",
+        "Status": "In development"
       }
     ]
   },
@@ -1963,16 +1980,6 @@
       "Co-productions"
     ],
     "data": [
-      {
-        "Title": "Who's Talking With Chris Wallace?",
-        "Genre": "Talk show",
-        "Partner/Country": "CNN/United States",
-        "Premiere": "2022",
-        "Seasons": "1 Season",
-        "Runtime": "TBA",
-        "Language": "English",
-        "Status": "Filming"
-      },
       {
         "Title": "We Baby Bears (season 2)",
         "Genre": "Animated",
@@ -1991,16 +1998,6 @@
       "Continuations"
     ],
     "data": [
-      {
-        "Title": "Harley Quinn (season 3)",
-        "Genre": "Adult animated superhero comedy",
-        "Prev. network(s)": "DC Universe",
-        "Premiere": "Late Summer 2022",
-        "Seasons": "TBA",
-        "Runtime": "23 min.",
-        "Language": "English",
-        "Status": "Season order"
-      },
       {
         "Title": "Pennyworth (season 3)",
         "Genre": "Action crime thriller",
@@ -2064,8 +2061,15 @@
         "Status": "Pre-production"
       },
       {
-        "Title": "Untitled Looney Tunes Cartoons film",
+        "Title": "Untitled Looney Toons Cartoons film",
         "Genre": "Animated slapstick comedy",
+        "Premiere": "2022",
+        "Runtime": "TBA",
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Bye, Bye Bunny: A Looney Toons Musical",
+        "Genre": "Animated musical comedy",
         "Premiere": "2022",
         "Runtime": "TBA",
         "Status": "Pre-production"
@@ -2174,6 +2178,11 @@
         "Title": "Chinos",
         "Genre": "Adult animated comedy",
         "Status": "Put pilot"
+      },
+      {
+        "Title": "Church Girls",
+        "Genre": "Comedy",
+        "Status": "In development"
       },
       {
         "Title": "Classified",

@@ -1,7 +1,7 @@
 [
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Drama"
     ],
     "data": [
@@ -9,7 +9,7 @@
         "Title": "For All Mankind",
         "Genre": "Alternate history",
         "Premiere": "November 1, 2019",
-        "Seasons": "3 seasons, 21 episodes",
+        "Seasons": "3 seasons, 24 episodes",
         "Runtime": "48–76 min.",
         "Status": "Season 3 ongoing"
       },
@@ -27,7 +27,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "49–62 min.",
-        "Status": "Renewed"
+        "Status": "Final season due to premiere on August 26, 2022"
       },
       {
         "Title": "Servant",
@@ -62,12 +62,36 @@
         "Status": "Pending"
       },
       {
+        "Title": "Defending Jacob",
+        "Genre": "Crime drama",
+        "Premiere": "April 24, 2020",
+        "Seasons": "8 episodes",
+        "Runtime": "45–65 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "The Mosquito Coast",
         "Genre": "Action thriller",
         "Premiere": "April 30, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "42–57 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Lisey's Story",
+        "Genre": "Romance horror",
+        "Premiere": "June 4, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "46–56 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Little Voice",
+        "Genre": "Musical drama",
+        "Premiere": "July 10, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Foundation",
@@ -91,7 +115,15 @@
         "Premiere": "October 29, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–59 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Shrink Next Door",
+        "Genre": "Psychological drama",
+        "Premiere": "November 12, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "35–49 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Suspicion",
@@ -107,6 +139,30 @@
         "Premiere": "February 18, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "40–57 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Last Days of Ptolemy Grey",
+        "Genre": "Drama",
+        "Premiere": "March 11, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "49–57 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "WeCrashed",
+        "Genre": "Drama",
+        "Premiere": "March 18, 2022",
+        "Seasons": "8 episodes",
+        "Runtime": "48–61 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Pachinko",
+        "Genre": "Drama",
+        "Premiere": "March 25, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47–63 min.",
         "Status": "Renewed"
       },
       {
@@ -134,6 +190,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "The Essex Serpent",
+        "Genre": "Period drama",
+        "Premiere": "May 13, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "42–50 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -156,15 +220,31 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Five Days at Memorial",
+        "Genre": "Medical drama",
+        "Premiere": "August 12, 2022",
+        "Seasons": "8 episodes",
+        "Runtime": "60 min.",
+        "Status": "Miniseries"
       }
     ]
   },
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Comedy"
     ],
     "data": [
+      {
+        "Title": "Dickinson",
+        "Genre": "Period comedy",
+        "Premiere": "November 1, 2019",
+        "Seasons": "3 seasons, 30 episodes",
+        "Runtime": "25–34 min.",
+        "Status": "Ended"
+      },
       {
         "Title": "Little America",
         "Genre": "Comedy drama anthology",
@@ -201,7 +281,7 @@
         "Title": "Physical",
         "Genre": "Dark comedy",
         "Premiere": "June 18, 2021",
-        "Seasons": "2 season, 12 episodes",
+        "Seasons": "2 season, 15 episodes",
         "Runtime": "27–34 min.",
         "Status": "Season 2 ongoing"
       },
@@ -212,6 +292,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "25–34 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Mr. Corman",
+        "Genre": "Comedy drama",
+        "Premiere": "August 6, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23–34 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Acapulco",
@@ -230,6 +318,14 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Loot",
+        "Genre": "Comedy",
+        "Premiere": "June 24, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "24–30 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -238,18 +334,18 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Loot",
-        "Genre": "Comedy",
-        "Premiere": "June 24, 2022",
+        "Title": "Bad Sisters",
+        "Genre": "Black comedy thriller",
+        "Premiere": "August 19, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Kids &amp; family (live-action)"
     ],
     "data": [
@@ -273,9 +369,9 @@
         "Title": "Hello, Jack! The Kindness Show",
         "Genre": "Children's educational",
         "Premiere": "November 5, 2021",
-        "Seasons": "1 season, 7 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "21–22 min.",
-        "Status": "Special and shorts due to premiere on June 24, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Lovely Little Farm",
@@ -329,7 +425,7 @@
   },
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Animation",
       "Adult animation"
     ],
@@ -346,7 +442,7 @@
   },
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Animation",
       "Kids &amp; family"
     ],
@@ -408,6 +504,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "El Deafo",
+        "Genre": "Family",
+        "Premiere": "January 7, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "24–28 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Pretzel and the Puppies",
         "Genre": "Animation",
         "Premiere": "February 11, 2022",
@@ -443,7 +547,7 @@
   },
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Non-English language scripted"
     ],
     "data": [
@@ -457,39 +561,38 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Pachinko",
-        "Genre": "Drama",
-        "Premiere": "March 25, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "47–63 min.",
-        "Language": "Korean/Japanese/English",
-        "Status": "Renewed"
-      },
-      {
         "Title": "Now and Then",
         "Genre": "Thriller",
         "Premiere": "May 20, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "47–56 min.",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47–65 min.",
         "Language": "Spanish/English",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Current original programming",
+      "Original programming",
       "Unscripted",
       "Docuseries"
     ],
     "data": [
       {
+        "Title": "Visible: Out on Television",
+        "Genre": "Docuseries",
+        "Premiere": "February 14, 2020",
+        "Seasons": "5 episodes",
+        "Runtime": "50–72 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Home",
         "Genre": "Docuseries",
         "Premiere": "April 17, 2020",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "27–37 min.",
-        "Status": "Season 2 due to premiere on June 17, 2022"
+        "Seasons": "2 season, 19 episodes",
+        "Runtime": "27–39 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Dear...",
@@ -508,273 +611,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "Tiny World",
-        "Genre": "Nature docuseries",
-        "Premiere": "October 2, 2020",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "25–32 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Earth At Night In Color",
-        "Genre": "Nature docuseries",
-        "Premiere": "December 4, 2020",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "27–29 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Make or Break",
-        "Genre": "Sports docuseries",
-        "Premiere": "April 29, 2022",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "33–48 min.",
-        "Status": "Renewed"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Current original programming",
-      "Unscripted",
-      "Specialty programming"
-    ],
-    "data": [
-      {
-        "Title": "Friday Night Baseball: Countdown to First Pitch",
-        "Genre": "Sports broadcast",
-        "Premiere": "April 7, 2022",
-        "Seasons": "TBA",
-        "Runtime": "6 hours.(approximate)",
-        "Status": "Pending"
-      },
-      {
-        "Title": "MLB Daily Recap",
-        "Genre": "Sports broadcast",
-        "Premiere": "April 7, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Current original programming",
-      "Unscripted",
-      "Variety"
-    ],
-    "data": [
-      {
-        "Title": "Helpsters",
-        "Genre": "Educational/puppetry",
-        "Premiere": "November 1, 2019",
-        "Seasons": "3 seasons, 33 episodes",
-        "Runtime": "22–29 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Oprah Conversation",
-        "Genre": "Talk show",
-        "Premiere": "July 30, 2020",
-        "Seasons": "1 season, 15 episodes",
-        "Runtime": "32–79 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Problem with Jon Stewart",
-        "Genre": "News/talk show",
-        "Premiere": "September 30, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "41–57 min.",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Fraggle Rock: Back to the Rock",
-        "Genre": "Children's puppetry",
-        "Premiere": "January 21, 2022",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "25–29 min.",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Current original programming",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "Tehran",
-        "Genre": "Spy thriller",
-        "Partner/Country": "Kan 11/Israel",
-        "Premiere": "September 25, 2020",
-        "Seasons": "2 seasons, 15 episodes",
-        "Runtime": "37–51 min.",
-        "Language": "HebrewPersianEnglish",
-        "Status": "Season 2 ongoing"
-      },
-      {
-        "Title": "Losing Alice",
-        "Genre": "Erotic thriller",
-        "Partner/Country": "Hot/Israel",
-        "Premiere": "January 22, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–55 min.",
-        "Language": "Hebrew",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Calls",
-        "Genre": "Mystery thriller",
-        "Partner/Country": "Canal+/France",
-        "Premiere": "March 19, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "13–20 min.",
-        "Language": "English",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Current original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "Carpool Karaoke: The Series (season 5)",
-        "Genre": "Reality",
-        "Prev. network(s)": "Apple Music/Apple TV",
-        "Premiere": "May 27, 2022",
-        "Seasons": "5 season, 59 episodes",
-        "Runtime": "12–23 min.",
-        "Status": "Season 5 ongoing"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Ended original programming",
-      "Drama"
-    ],
-    "data": [
-      {
-        "Title": "Defending Jacob",
-        "Genre": "Crime drama",
-        "Premiere": "April 24, 2020",
-        "Seasons": "8 episodes",
-        "Runtime": "45–65 min.",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Little Voice",
-        "Genre": "Musical drama",
-        "Premiere": "July 10, 2020",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "25–34 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Lisey's Story",
-        "Genre": "Romance horror",
-        "Premiere": "June 4, 2021",
-        "Seasons": "8 episodes",
-        "Runtime": "46–56 min.",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Shrink Next Door",
-        "Genre": "Psychological drama",
-        "Premiere": "November 12, 2021",
-        "Seasons": "8 episodes",
-        "Runtime": "35–49 min.",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Last Days of Ptolemy Grey",
-        "Genre": "Drama",
-        "Premiere": "March 11, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "49–57 min.",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "WeCrashed",
-        "Genre": "Drama",
-        "Premiere": "March 18, 2022",
-        "Seasons": "8 episodes",
-        "Runtime": "48–61 min.",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Essex Serpent",
-        "Genre": "Period drama",
-        "Premiere": "May 13, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "42–50 min.",
-        "Status": "Miniseries"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Ended original programming",
-      "Comedy"
-    ],
-    "data": [
-      {
-        "Title": "Dickinson",
-        "Genre": "Period comedy",
-        "Premiere": "November 1, 2019",
-        "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "25–34 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Mr. Corman",
-        "Genre": "Comedy drama",
-        "Premiere": "August 6, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "23–34 min.",
-        "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Ended original programming",
-      "Animation",
-      "Kids &amp; family"
-    ],
-    "data": [
-      {
-        "Title": "El Deafo",
-        "Genre": "Family",
-        "Premiere": "January 7, 2022",
-        "Seasons": "3 episodes",
-        "Runtime": "24–28 min.",
-        "Status": "Miniseries"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Ended original programming",
-      "Unscripted",
-      "Docuseries"
-    ],
-    "data": [
-      {
-        "Title": "Visible: Out on Television",
-        "Genre": "Docuseries",
-        "Premiere": "February 14, 2020",
-        "Seasons": "5 episodes",
-        "Runtime": "50–72 min.",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Long Way Up",
         "Genre": "Travel show",
         "Premiere": "September 18, 2020",
@@ -783,12 +619,28 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Tiny World",
+        "Genre": "Nature docuseries",
+        "Premiere": "October 2, 2020",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "25–32 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Becoming You",
         "Genre": "Docuseries",
         "Premiere": "November 13, 2020",
         "Seasons": "6 episodes",
         "Runtime": "39–43 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Earth At Night In Color",
+        "Genre": "Nature docuseries",
+        "Premiere": "December 4, 2020",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "27–29 min.",
+        "Status": "Pending"
       },
       {
         "Title": "1971: The Year That Music Changed Everything",
@@ -847,6 +699,14 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Make or Break",
+        "Genre": "Sports docuseries",
+        "Premiere": "April 29, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "33–48 min.",
+        "Status": "Renewed"
+      },
+      {
         "Title": "The Big Conn",
         "Genre": "True crime",
         "Premiere": "May 6, 2022",
@@ -866,11 +726,44 @@
   },
   {
     "category": [
-      "Ended original programming",
+      "Original programming",
+      "Unscripted",
+      "Specialty programming"
+    ],
+    "data": [
+      {
+        "Title": "Friday Night Baseball: Countdown to First Pitch",
+        "Genre": "Sports broadcast",
+        "Premiere": "April 7, 2022",
+        "Seasons": "TBA",
+        "Runtime": "6 hours.(approximate)",
+        "Status": "Pending"
+      },
+      {
+        "Title": "MLB Daily Recap",
+        "Genre": "Sports broadcast",
+        "Premiere": "April 7, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
       "Unscripted",
       "Variety"
     ],
     "data": [
+      {
+        "Title": "Helpsters",
+        "Genre": "Educational/puppetry",
+        "Premiere": "November 1, 2019",
+        "Seasons": "3 seasons, 33 episodes",
+        "Runtime": "22–29 min.",
+        "Status": "Pending"
+      },
       {
         "Title": "Oprah's Book Club",
         "Genre": "Book club",
@@ -902,6 +795,85 @@
         "Seasons": "6 episodes",
         "Runtime": "1–3 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Oprah Conversation",
+        "Genre": "Talk show",
+        "Premiere": "July 30, 2020",
+        "Seasons": "1 season, 15 episodes",
+        "Runtime": "32–79 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Problem with Jon Stewart",
+        "Genre": "News/talk show",
+        "Premiere": "September 30, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "41–57 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Fraggle Rock: Back to the Rock",
+        "Genre": "Children's puppetry",
+        "Premiere": "January 21, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "25–29 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Tehran",
+        "Genre": "Spy thriller",
+        "Partner/Country": "Kan 11/Israel",
+        "Premiere": "September 25, 2020",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "37–51 min.",
+        "Language": "HebrewPersianEnglish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Losing Alice",
+        "Genre": "Erotic thriller",
+        "Partner/Country": "Hot/Israel",
+        "Premiere": "January 22, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–55 min.",
+        "Language": "Hebrew",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Calls",
+        "Genre": "Mystery thriller",
+        "Partner/Country": "Canal+/France",
+        "Premiere": "March 19, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "13–20 min.",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Carpool Karaoke: The Series (season 5)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Apple Music/Apple TV",
+        "Premiere": "May 27, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "12–23 min.",
+        "Status": "Season 5 ongoing"
       }
     ]
   },
@@ -913,7 +885,7 @@
     "data": [
       {
         "Title": "Echo 3",
-        "Genre": "Drama",
+        "Genre": "Period drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "60 min.",
@@ -925,14 +897,6 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Five Days at Memorial",
-        "Genre": "Medical drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "60 min.",
         "Status": "Post-production"
       },
       {
@@ -952,10 +916,26 @@
         "Status": "Post-production"
       },
       {
+        "Title": "Wool",
+        "Genre": "Science fiction",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Bad Monkey",
         "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Big Cigar",
+        "Genre": "Biographical drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -973,6 +953,14 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Criminal Record",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min.",
         "Status": "Filming"
       },
       {
@@ -996,6 +984,14 @@
         "Genre": "Thriller",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Franklin",
+        "Genre": "Biographical drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -1040,26 +1036,18 @@
         "Status": "Filming"
       },
       {
-        "Title": "Untitled Benjamin Franklin miniseries",
-        "Genre": "Biographical drama miniseries",
+        "Title": "Untitled The Buccaneers series",
+        "Genre": "Drama",
         "Premiere": "TBA",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
       {
-        "Title": "Wool",
-        "Genre": "Science fiction",
+        "Title": "Before",
+        "Genre": "Drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Big Cigar",
-        "Genre": "Biographical drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1085,14 +1073,6 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Hannibal",
-        "Genre": "Period drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "60 min.",
         "Status": "Series order"
       },
       {
@@ -1191,14 +1171,6 @@
       "Comedy"
     ],
     "data": [
-      {
-        "Title": "Bad Sisters",
-        "Genre": "Black comedy thriller",
-        "Premiere": "2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
       {
         "Title": "The Big Door Prize",
         "Genre": "Comedy",
@@ -1345,7 +1317,7 @@
         "Genre": "Thriller",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "45 min.",
         "Language": "Russian"
       },
       {
@@ -1500,8 +1472,16 @@
         "Genre": "Superhero crime thriller"
       },
       {
+        "Title": "Government Cheese",
+        "Genre": "Comedy-drama"
+      },
+      {
         "Title": "The Guru",
         "Genre": "Drama"
+      },
+      {
+        "Title": "Hannibal",
+        "Genre": "Period drama"
       },
       {
         "Title": "Little Rock Nine",
@@ -1521,7 +1501,7 @@
       },
       {
         "Title": "Time Bandits",
-        "Genre": "Fantasy"
+        "Genre": "Fantasy adventure"
       },
       {
         "Title": "Untitled Colleen McGuinness series",

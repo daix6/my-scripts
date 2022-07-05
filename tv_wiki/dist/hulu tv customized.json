@@ -6,14 +6,6 @@
     ],
     "data": [
       {
-        "Title": "The Confession",
-        "Genre": "Drama",
-        "Premiere": "March 28, 2011",
-        "Seasons": "10 episodes",
-        "Length": "5–7 min.",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "East Los High",
         "Genre": "Teen drama",
         "Premiere": "June 3, 2013",
@@ -51,14 +43,6 @@
         "Premiere": "December 7, 2016",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "40–42 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dimension 404",
-        "Genre": "Science fiction anthology",
-        "Premiere": "April 4, 2017",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "40 min.",
         "Status": "Ended"
       },
       {
@@ -169,9 +153,9 @@
         "Title": "Love, Victor",
         "Genre": "Romantic drama",
         "Premiere": "June 17, 2020",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "24–33 min.",
-        "Status": "Final season due to premiere on June 15, 2022"
+        "Seasons": "3 seasons, 28 episodes",
+        "Length": "24–34 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Monsterland",
@@ -211,7 +195,7 @@
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–55 min.",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Y: The Last Man",
@@ -342,14 +326,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Neighbors",
-        "Genre": "Sitcom",
-        "Premiere": "March 14, 2015",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "22–32 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Difficult People",
         "Genre": "Dark comedy",
         "Premiere": "August 5, 2015",
@@ -443,7 +419,7 @@
         "Premiere": "September 9, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "25–34 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Reservation Dogs",
@@ -457,9 +433,9 @@
         "Title": "Only Murders in the Building",
         "Genre": "Comedy/Mystery",
         "Premiere": "August 31, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "26–35 min.",
-        "Status": "Season 2 due to premiere on June 28, 2022"
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "28–37 min.",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "How I Met Your Father",
@@ -482,7 +458,7 @@
         "Genre": "Comedy",
         "Premiere": "June 23, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "20-47 min.",
         "Status": "Pending"
       },
       {
@@ -559,24 +535,6 @@
     ],
     "data": [
       {
-        "Title": "The Thick of It (series 4)",
-        "Partner/Country": "BBC Two/United Kingdom",
-        "Genre": "Comedy",
-        "Premiere": "September 9, 2012",
-        "Seasons": "1 season, 7 episodes",
-        "Length": "28–59 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Mother Up!",
-        "Partner/Country": "Citytv/Canada",
-        "Genre": "Adult animation",
-        "Premiere": "November 6, 2013",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "22–23 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "The Wrong Mans",
         "Partner/Country": "BBC Two/United Kingdom",
         "Genre": "Comedy drama",
@@ -640,30 +598,12 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "The Weekly",
-        "Partner/Country": "FX/United States",
-        "Genre": "Docuseries",
-        "Premiere": "June 3, 2019",
-        "Seasons": "1 season, 30 episodes",
-        "Length": "60 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "This Way Up",
         "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Comedy drama",
         "Premiere": "August 21, 2019",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "29 min.",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Zomboat!",
-        "Partner/Country": "ITV2/United Kingdom",
-        "Genre": "Comedy drama thriller",
-        "Premiere": "October 25, 2019",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "30 min.",
         "Status": "Ended"
       },
       {
@@ -694,15 +634,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Baghdad Central",
-        "Partner/Country": "Channel 4/United Kingdom",
-        "Genre": "Drama",
-        "Premiere": "March 27, 2020",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "46 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "Normal People",
         "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
@@ -712,22 +643,13 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "The New York Times Presents",
-        "Partner/Country": "FX/United States",
-        "Genre": "Docuseries",
-        "Premiere": "July 10, 2020",
-        "Seasons": "2 seasons, 12 episodes",
-        "Length": "60 min.",
-        "Status": "Season 2 ongoing"
-      },
-      {
         "Title": "Madagascar: A Little Wild",
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "7 seasons, 43 episodes",
+        "Seasons": "8 seasons, 50 episodes",
         "Length": "23 min.",
-        "Status": "Final season due to premiere on June 30, 2022"
+        "Status": "Ended"
       },
       {
         "Title": "The Mighty Ones",
@@ -736,7 +658,7 @@
         "Premiere": "November 9, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "No Man's Land",
@@ -797,9 +719,9 @@
         "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
         "Premiere": "May 15, 2022",
-        "Seasons": "12 episodes",
+        "Seasons": "1 season, 12 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -837,21 +759,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Promised Land (season 1B)",
-        "Genre": "Drama",
-        "Prev. network(s)": "ABC",
-        "Premiere": "March 1, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Length": "42–43 min.",
-        "Status": "Ended"
-      },
-      {
         "Title": "The Orville (season 3)",
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
         "Premiere": "June 2, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "60-71 min.",
+        "Length": "60–71 min.",
         "Status": "Final season ongoing"
       }
     ]

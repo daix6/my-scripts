@@ -25,7 +25,7 @@
         "Title": "Days of Our Lives: Beyond Salem",
         "Genre": "Soap opera",
         "Premiere": "September 6, 2021",
-        "Seasons": "5 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Length": "38–50 min.",
         "Status": "Season 2 due to premiere on July 11, 2022"
       },
@@ -43,7 +43,7 @@
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "46–49 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on October 20, 2022"
       },
       {
         "Title": "The Girl in the Woods",
@@ -74,7 +74,7 @@
         "Genre": "Biographical drama",
         "Premiere": "May 19, 2022",
         "Seasons": "5 episodes",
-        "Length": "42-52 min.",
+        "Length": "42–52 min.",
         "Status": "Miniseries"
       },
       {
@@ -82,7 +82,47 @@
         "Genre": "Drama",
         "Premiere": "June 9, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "42-56 min.",
+        "Length": "42–56 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Vampire Academy",
+        "Genre": "Supernatural",
+        "Premiere": "September 15, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A Friend of the Family",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "October 6, 2022",
+        "Seasons": "9 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Missing",
+        "Genre": "Crime drama",
+        "Premiere": "November 10, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Irreverent",
+        "Genre": "Crime thriller",
+        "Premiere": "November 30, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -113,15 +153,15 @@
         "Title": "Rutherford Falls",
         "Genre": "Sitcom",
         "Premiere": "April 22, 2021",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Length": "23–30 min.",
-        "Status": "Season 2 due to premiere on June 16, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Girls5eva",
         "Genre": "Musical comedy",
         "Premiere": "May 6, 2021",
-        "Seasons": "2 seasons, 15 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Length": "26–32 min.",
         "Status": "Pending"
       },
@@ -131,6 +171,14 @@
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "30 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Take Note",
+        "Genre": "Musical comedy",
+        "Premiere": "February 24, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "23-25 min.",
         "Status": "Pending"
       },
       {
@@ -144,10 +192,42 @@
       {
         "Title": "Killing It",
         "Genre": "Comedy",
-        "Premiere": "April 14, 2022",
+        "Premiere": "March 31, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "28−32 min.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The Resort",
+        "Genre": "Dark comedy",
+        "Premiere": "July 28, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Pitch Perfect: Bumper in Berlin",
+        "Genre": "Musical comedy",
+        "Premiere": "November 23, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Best Man: The Final Chapters",
+        "Genre": "Comedy drama miniseries",
+        "Premiere": "December 22, 2022",
+        "Seasons": "10 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -160,7 +240,7 @@
       {
         "Title": "Cleopatra in Space",
         "Genre": "Science fiction",
-        "Premiere": "July 15, 2020",
+        "Premiere": "April 15, 2020",
         "Seasons": "3 seasons, 26 episodes",
         "Length": "22 min.",
         "Status": "Ended"
@@ -171,7 +251,7 @@
         "Premiere": "February 18, 2021",
         "Seasons": "4 seasons, 24 episodes",
         "Length": "22 min.",
-        "Status": "Season 5 due to premiere on July 11, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
@@ -179,7 +259,7 @@
         "Premiere": "November 24, 2021",
         "Seasons": "3 seasons, 18 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 4 due to premiere on September 29, 2022"
       },
       {
         "Title": "Babble Bop!",
@@ -228,7 +308,7 @@
         "Premiere": "March 25, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "48–55 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Michael Phelps: Medals, Memories, and More",
@@ -365,7 +445,7 @@
         "Premiere": "June 9, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "21 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Ex-Rated",
@@ -421,7 +501,7 @@
         "Premiere": "November 15, 2021",
         "Seasons": "1 season, 7 episodes",
         "Length": "21–49 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Baking It",
@@ -435,9 +515,9 @@
         "Title": "Below Deck Down Under",
         "Genre": "Reality",
         "Premiere": "March 17, 2022",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "1 season, 17 episodes",
         "Length": "43–54 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -478,7 +558,7 @@
         "Premiere": "January 16, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "15–21 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Olympic Highlights with Kevin Hart and Snoop Dogg",
@@ -509,6 +589,22 @@
         "Genre": "News",
         "Premiere": "June 14, 2022",
         "Seasons": "1 season, 8 episodes",
+        "Length": "43–54 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The End is Nye",
+        "Genre": "Science",
+        "Premiere": "August 25, 2022",
+        "Seasons": "1 season, 6 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -525,9 +621,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
-        "Seasons": "7 seasons, 43 episodes",
+        "Seasons": "8 seasons, 50 episodes",
         "Length": "23 min.",
-        "Status": "Final season due to premiere on June 30, 2022"
+        "Status": "Ended"
       },
       {
         "Title": "The Mighty Ones",
@@ -536,7 +632,7 @@
         "Premiere": "November 9, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Trolls: TrollsTopia",
@@ -572,7 +668,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "2 seasons, 13 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 3 due to premiere on August 18, 2022"
       },
       {
         "Title": "Wolf Like Me",
@@ -582,6 +678,33 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Partner": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The Undeclared War",
+        "Partner": "Channel 4",
+        "Genre": "Cyber-thriller",
+        "Premiere": "August 18, 2022",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Last Light",
+        "Partner": "StanViaplayMBC Group",
+        "Genre": "Thriller",
+        "Premiere": "September 8, 2022",
+        "Seasons": "5 episodes",
+        "Length": "60 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -668,7 +791,7 @@
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 40 episodes",
         "Length": "TBA",
         "Status": "Renewed"
       }
@@ -713,14 +836,13 @@
   {
     "category": [
       "Original programming",
-      "Exclusive international distribution"
+      "Exclusive international distribution/Co-productions"
     ],
     "data": [
       {
         "Title": "Five Bedrooms",
         "Genre": "Comedy drama",
-        "Original network": "Network 10 (season 1)Paramount+ Australia (season 2–present)",
-        "Original country": "Australia",
+        "Partner/Country": "Network 10 (season 1)Paramount+ Australia (season 2–present)/Australia",
         "Premiere": "April 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "44–46 min.",
@@ -729,18 +851,16 @@
       {
         "Title": "The Capture",
         "Genre": "Mystery crime drama",
-        "Original network": "BBC One",
-        "Original country": "United Kingdom",
+        "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "56–60 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on November 3, 2022"
       },
       {
         "Title": "Intelligence",
         "Genre": "Sitcom",
-        "Original network": "Sky One",
-        "Original country": "United Kingdom",
+        "Partner/Country": "Sky One/United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "20–22 min.",
@@ -749,8 +869,7 @@
       {
         "Title": "Hitmen",
         "Genre": "Crime dramedy",
-        "Original network": "Sky One (season 1)Sky Comedy (season 2–present)",
-        "Original country": "United Kingdom",
+        "Partner/Country": "Sky One (season 1)Sky Comedy (season 2–present)/United Kingdom",
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min.",
@@ -759,8 +878,7 @@
       {
         "Title": "Save Me",
         "Genre": "Crime drama",
-        "Original network": "Sky Atlantic",
-        "Original country": "United Kingdom",
+        "Partner/Country": "Sky Atlantic/United Kingdom",
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "46–50 min.",
@@ -769,8 +887,7 @@
       {
         "Title": "Noughts + Crosses",
         "Genre": "Alternative history drama",
-        "Original network": "BBC One",
-        "Original country": "United Kingdom",
+        "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–58 min.",
@@ -779,8 +896,7 @@
       {
         "Title": "Departure",
         "Genre": "Conspiracy thriller",
-        "Original network": "Global",
-        "Original country": "Canada",
+        "Partner/Country": "Global/Canada",
         "Premiere": "September 17, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "42–44 min.",
@@ -789,8 +905,7 @@
       {
         "Title": "Code 404",
         "Genre": "Police procedural dramedy",
-        "Original network": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)",
-        "Original country": "United Kingdom",
+        "Partner/Country": "Sky One (season 1)Sky Comedy/Sky Showcase (season 2–present)/United Kingdom",
         "Premiere": "October 8, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "26–31 min.",
@@ -799,8 +914,7 @@
       {
         "Title": "Dime Quién Soy: Mistress of War",
         "Genre": "Historical drama",
-        "Original network": "Movistar+ Spain",
-        "Original country": "Spain",
+        "Partner/Country": "Movistar+ Spain/Spain",
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
         "Length": "42–60 min.",
@@ -809,8 +923,7 @@
       {
         "Title": "Intergalactic",
         "Genre": "Science fiction",
-        "Original network": "Sky One",
-        "Original country": "United Kingdom",
+        "Partner/Country": "Sky One/United Kingdom",
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–47 min.",
@@ -819,8 +932,7 @@
       {
         "Title": "We Are Lady Parts",
         "Genre": "Musical ensemble sitcom",
-        "Original network": "Channel 4",
-        "Original country": "United Kingdom",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "24–25 min.",
@@ -829,8 +941,7 @@
       {
         "Title": "Smother",
         "Genre": "Crime thriller",
-        "Original network": "RTÉ One",
-        "Original country": "Ireland",
+        "Partner/Country": "RTÉ One/Ireland",
         "Premiere": "July 1, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "49–51 min.",
@@ -839,12 +950,38 @@
       {
         "Title": "Vigil",
         "Genre": "Crime thriller",
-        "Original network": "BBC One",
-        "Original country": "United Kingdom",
+        "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–59 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Partner/Country": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Trigger Point",
+        "Genre": "Crime thriller",
+        "Partner/Country": "ITV/United Kingdom",
+        "Premiere": "July 8, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "60 mins.",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Everything I Know About Love",
+        "Genre": "Drama",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "August 25, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -1104,52 +1241,12 @@
     ],
     "data": [
       {
-        "Title": "A Friend of the Family",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Poker Face",
         "Genre": "Mystery drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
         "Status": "Filming"
-      },
-      {
-        "Title": "The Resort",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Vampire Academy",
-        "Genre": "Supernatural",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Post-Production"
-      },
-      {
-        "Title": "Field of Dreams",
-        "Genre": "Sports fantasy miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "The Missing",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pre-production"
       },
       {
         "Title": "Apples Never Fall",
@@ -1176,14 +1273,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Irreverent",
-        "Genre": "Crime thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Mrs. Davis",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -1199,22 +1288,6 @@
       "Comedy"
     ],
     "data": [
-      {
-        "Title": "The Best Man: The Final Chapters",
-        "Genre": "Comedy drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "10 episodes",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Pitch Perfect: Bumper in Berlin",
-        "Genre": "Musical comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
       {
         "Title": "Twisted Metal",
         "Genre": "Action comedy",
@@ -1248,14 +1321,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Take Note",
-        "Genre": "Musical comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "1 season, 10 episodes",
-        "Status": "Series order"
-      },
-      {
         "Title": "Untitled Jason Woliner project",
         "Genre": "Mystery comedy",
         "Premiere": "TBA",
@@ -1280,18 +1345,34 @@
         "Status": "Series order"
       },
       {
-        "Title": "Abominable and the Invisible City",
+        "Title": "Dino Pops",
         "Genre": "Family comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Premiere": "2023",
+        "Seasons": "1 season, 52 episodes",
+        "Length": "5 min.",
         "Status": "Series order"
       },
       {
-        "Title": "Dino Pops",
+        "Title": "Team Mekbots Animal Rescue",
         "Genre": "Family comedy",
-        "Premiere": "TBA",
+        "Premiere": "2023",
+        "Seasons": "1 season, 39 episodes",
+        "Length": "7 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Caillou",
+        "Genre": "Family comedy",
+        "Premiere": "2023",
         "Seasons": "1 season, 52 episodes",
+        "Length": "11 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Lil' Stompers",
+        "Genre": "Family comedy",
+        "Premiere": "2023",
+        "Seasons": "1 season, 65 episodes",
         "Length": "5 min.",
         "Status": "Series order"
       },
@@ -1304,11 +1385,11 @@
         "Status": "Series order"
       },
       {
-        "Title": "Team Mekbots Animal Rescue",
-        "Genre": "Family comedy",
+        "Title": "Abominable and the Invisible City",
+        "Genre": "TBA",
         "Premiere": "TBA",
-        "Seasons": "1 season, 39 episodes",
-        "Length": "7 min.",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Series order"
       }
     ]
@@ -1398,29 +1479,12 @@
   {
     "category": [
       "Upcoming original programming",
-      "Unscripted",
-      "Variety"
-    ],
-    "data": [
-      {
-        "Title": "The End is Nye",
-        "Genre": "Science",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
       "Spanish-language programming under Telemundo's TPlus",
       "Scripted"
     ],
     "data": [
       {
-        "Title": "Pulsaciones ",
+        "Title": "Pulsaciones",
         "Genre": "Medical drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1429,7 +1493,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Promesas de Campaña",
+        "Title": "Promesas de campaña",
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1438,7 +1502,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Cruzando Limites",
+        "Title": "Cruzando limites",
         "Genre": "Medical drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1447,7 +1511,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "La Formula",
+        "Title": "La formula",
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1465,7 +1529,7 @@
     ],
     "data": [
       {
-        "Title": "Armas de Mujer",
+        "Title": "Armas de mujer",
         "Genre": "Dramedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1492,7 +1556,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Gente Sana",
+        "Title": "Gente sana",
         "Genre": "Docuseries",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
@@ -1536,15 +1600,6 @@
         "Status": "Miniseries order"
       },
       {
-        "Title": "Last Light",
-        "Partner": "StanViaplayMBC Group",
-        "Genre": "Thriller",
-        "Premiere": "TBA",
-        "Seasons": "5 episodes",
-        "Length": "60 min.",
-        "Status": "Miniseries order"
-      },
-      {
         "Title": "The Makery",
         "Partner": "Sky Kids",
         "Genre": "Educational",
@@ -1552,15 +1607,6 @@
         "Seasons": "1 season, 25 episodes",
         "Length": "15 min.",
         "Status": "Series order"
-      },
-      {
-        "Title": "The Undeclared War",
-        "Partner": "Channel 4",
-        "Genre": "Cyber-thriller",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries order"
       }
     ]
   },

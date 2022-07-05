@@ -123,7 +123,7 @@
         "Premiere": "April 28, 2022",
         "Seasons": "10 episodes",
         "Runtime": "51–69 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Star Trek: Strange New Worlds",
@@ -132,6 +132,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "46–54 min.",
         "Status": "Season 1 ongoing; Renewed"
+      },
+      {
+        "Title": "Harrow",
+        "Genre": "Crime Drama",
+        "Premiere": "June 3, 2022",
+        "Seasons": "4 season, 40 episodes",
+        "Runtime": "TBA",
+        "Status": "Season 4\nongoing;\nRenewed"
       },
       {
         "Title": "Awaiting release",
@@ -171,7 +179,7 @@
         "Premiere": "August 15, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "45–56 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "iCarly",
@@ -206,20 +214,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Players",
         "Genre": "Mockumentary",
         "Premiere": "June 16, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "28–35 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -374,7 +374,7 @@
         "Premiere": "May 10, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–29 min.",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on July 26, 2022"
       },
       {
         "Title": "Black Gold",
@@ -421,7 +421,7 @@
         "Title": "The Challenge: All Stars",
         "Genre": "Reality competition",
         "Premiere": "April 1, 2021",
-        "Seasons": "3 seasons, 25 episodes",
+        "Seasons": "3 seasons, 28 episodes",
         "Runtime": "43–48 min.",
         "Status": "Season 3 ongoing"
       },
@@ -458,6 +458,22 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Hip Hop My House",
+        "Genre": "Reality",
+        "Premiere": "June 21, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "22–25 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "All Star Shore",
+        "Genre": "Reality competition",
+        "Premiere": "June 29, 2022",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "44–45 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -466,20 +482,12 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Hip Hop My House",
+        "Title": "Selena + Chaf",
         "Genre": "Reality",
-        "Premiere": "June 21, 2022",
-        "Seasons": "1 season, 9 episodes",
+        "Premiere": "July 8, 2022",
+        "Seasons": "4 season, 40 episodes",
         "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "All Star Shore",
-        "Genre": "Reality competition",
-        "Premiere": "June 29, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -502,7 +510,7 @@
         "Title": "The Ready Room",
         "Genre": "Aftershow",
         "Premiere": "January 26, 2019",
-        "Seasons": "68 episodes",
+        "Seasons": "71 episodes",
         "Runtime": "14–56 min.",
         "Status": "Ongoing"
       },
@@ -519,7 +527,7 @@
         "Genre": "Music",
         "Premiere": "May 24, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–24 min.",
+        "Runtime": "22–26 min.",
         "Status": "Season 1 ongoing"
       }
     ]
@@ -538,6 +546,24 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–32 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Partner/Country": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "SkyMed",
+        "Genre": "Medical drama",
+        "Partner/Country": "CBC/Canada",
+        "Premiere": "July 10, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "60 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -557,12 +583,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Evil (season 2–3)",
+        "Title": "Evil (seasons 2–3)",
         "Genre": "Supernatural drama",
         "Prev. network(s)": "CBS",
         "Premiere": "June 20, 2021",
-        "Seasons": "2 seasons, 14 episodes",
-        "Runtime": "47–48 min.",
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "45–51 min.",
         "Status": "Season 3 ongoing"
       },
       {
@@ -570,7 +596,7 @@
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 17 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "61–83 min.",
         "Status": "Season 7 ongoing"
       },
@@ -579,7 +605,7 @@
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (season 1)VH1 (season 2)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 17 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "21 min.",
         "Status": "Season 4 ongoing"
       },
@@ -627,6 +653,15 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "DMZ",
+        "Genre": "Science fiction",
+        "Prev. network(s)": "HBO Max",
+        "Premiere": "August 12, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "64 min.",
+        "Status": "Ended"
       }
     ]
   },
@@ -720,10 +755,10 @@
         "Title": "Rio Shore",
         "Genre": "Reality",
         "Premiere": "September 30, 2021",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "2 seasons, 19 episodes",
         "Runtime": "50–52 min.",
         "Exclusive region(s)": "Latin America",
-        "Status": "Renewed"
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -779,7 +814,7 @@
     ],
     "data": [
       {
-        "Title": "1932",
+        "Title": "1923",
         "Genre": "Neo-Western drama",
         "Premiere": "December 2022",
         "Seasons": "TBA",
@@ -790,16 +825,24 @@
         "Title": "Rabbit Hole",
         "Genre": "Spy drama",
         "Premiere": "2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Wolf Pack",
+        "Genre": "Horror",
+        "Premiere": "2022",
         "Seasons": "TBA",
-        "Runtime": "1 season, 8 episodes",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
         "Title": "The Turkish Detective",
         "Genre": "Crime thriller",
         "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "1 season, 8 episodes",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -822,8 +865,8 @@
         "Title": "Criminal Minds",
         "Genre": "Crime drama",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "1 season, 10 episodes",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Series order"
       },
       {
@@ -887,6 +930,14 @@
         "Genre": "Political thriller",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "School Spirits",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -973,14 +1024,6 @@
     ],
     "data": [
       {
-        "Title": "Stories from the Beautiful Game",
-        "Genre": "Soccer",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "48 Hours Original: The Lie Detector",
         "Genre": "True crime",
         "Premiere": "TBA",
@@ -1007,6 +1050,14 @@
       {
         "Title": "The Real Criminal Minds",
         "Genre": "True crime",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Stories from the Beautiful Game",
+        "Genre": "Soccer",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1071,21 +1122,21 @@
     ],
     "data": [
       {
+        "Title": "Circeo",
+        "Genre": "Drama",
+        "Partner/Country": "RAI/Italy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "The Gymnasts",
         "Genre": "Teen thriller drama",
         "Partner/Country": "RAI/ItalyZDFneo/Germany",
         "Premiere": "2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "SkyMed",
-        "Genre": "Medical drama",
-        "Partner/Country": "CBC/Canada",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "60 min.",
         "Status": "Series order"
       },
       {
@@ -1313,6 +1364,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Murder of God's Banker",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Pervert: Catching the Strip Search Caller",
         "Genre": "True crime",
         "Premiere": "TBA",
@@ -1346,11 +1405,11 @@
     ],
     "data": [
       {
-        "Title": "Anywhere",
-        "Genre": "Supernatural dramedy",
+        "Title": "MASK: Marie Antoinette Serial Killer",
+        "Genre": "Horror thriller",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min.",
         "Status": "Series order"
       },
       {
@@ -1371,8 +1430,24 @@
     ],
     "data": [
       {
+        "Title": "Anywhere",
+        "Genre": "Supernatural dramedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Simon Beckett's The Chemistry of Death",
         "Genre": "Psychological crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Der Scheich",
+        "Genre": "Tragicomedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1381,6 +1456,14 @@
       {
         "Title": "Impact",
         "Genre": "Eco-thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "A Thin Line",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1440,6 +1523,14 @@
       {
         "Title": "The Challenge: Argentina",
         "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "First Lady of Sinaloa",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1536,10 +1627,6 @@
       {
         "Title": "Urban Cowboy",
         "Genre": "Western drama"
-      },
-      {
-        "Title": "Wolf Pack",
-        "Genre": "Horror"
       },
       {
         "Title": "Yellow Bird",
