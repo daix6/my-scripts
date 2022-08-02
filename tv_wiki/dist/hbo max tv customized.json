@@ -67,7 +67,7 @@
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -91,7 +91,7 @@
         "Premiere": "November 26, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "37–48 min.",
-        "Status": "Ended"
+        "Status": "Pending"
       },
       {
         "Title": "Generation",
@@ -119,7 +119,7 @@
       },
       {
         "Title": "Hacks",
-        "Genre": "Dark comedy",
+        "Genre": "Black comedy drama",
         "Premiere": "May 13, 2021",
         "Seasons": "2 season, 18 episodes",
         "Runtime": "24–35 min.",
@@ -186,16 +186,16 @@
         "Genre": "Coming-of-age comedy",
         "Premiere": "June 23, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
+        "Runtime": "24–30 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Rap Sh!t",
         "Genre": "Music comedy",
         "Premiere": "July 21, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
+        "Runtime": "31–32 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -212,7 +212,7 @@
         "Premiere": "July 9, 2020",
         "Seasons": "3 seasons, 24 episodes",
         "Runtime": "22–24 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Prince",
@@ -295,23 +295,6 @@
     "category": [
       "Original programming",
       "Non-English language scripted",
-      "Portuguese"
-    ],
-    "data": [
-      {
-        "Title": "The Missing",
-        "Genre": "Crime drama",
-        "Premiere": "July 22, 2021October 14, 2021&#91;b&#93;",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "45 min.",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
       "Romanian"
     ],
     "data": [
@@ -333,51 +316,11 @@
     ],
     "data": [
       {
-        "Title": "Rap Battlefield (Días de Gallos)",
-        "Genre": "Coming-of-age music drama",
-        "Premiere": "September 16, 2021November 4, 2021&#91;b&#93;",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "39–52 min.",
-        "Status": "Pending"
-      },
-      {
         "Title": "Dafne and the Rest",
         "Genre": "Comedy drama",
-        "Premiere": "October 26, 2021December 10, 2021&#91;b&#93;",
+        "Premiere": "October 26, 2021December 10, 2021&#91;c&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "A Thousand Fangs",
-        "Genre": "Military action drama",
-        "Premiere": "October 28, 2021December 9, 2021&#91;b&#93;",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "44–54 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Frankelda's Book of Spooks",
-        "Genre": "Animated family horror anthology",
-        "Premiere": "October 29, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "12–16 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Búnker",
-        "Genre": "Action comedy",
-        "Premiere": "December 23, 2021January 27, 2022&#91;b&#93;",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "How to Screw It All Up",
-        "Genre": "Teen drama",
-        "Premiere": "July 1, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "16–22 min.",
         "Status": "Pending"
       }
     ]
@@ -551,11 +494,11 @@
       {
         "Title": "Sesame Street (seasons 51–52)",
         "Genre": "Education",
-        "Prev. network(s)": "PBS (seasons 1–45)HBO (seasons 46–50)",
+        "Prev. network(s)": "NET (season 1)PBS (seasons 2–45)HBO Kids (seasons 46–50)",
         "Premiere": "November 12, 2020",
         "Seasons": "2 seasons, 70 episodes",
         "Runtime": "26 min.",
-        "Status": "Season 52 ongoing;Renewed for seasons 53–55"
+        "Status": "Renewed for seasons 53–55"
       },
       {
         "Title": "Titans (season 3)",
@@ -615,10 +558,10 @@
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 5, 2021December 23, 2021&#91;b&#93;",
+        "Premiere": "December 5, 2021December 23, 2021&#91;c&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Harley Quinn (season 3)",
@@ -627,7 +570,7 @@
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 3 ongoing"
       }
     ]
   },
@@ -692,8 +635,8 @@
         "Runtime": "24 min."
       },
       {
-        "Title": "And Just Like That… The Documentary",
-        "Genre": "Television show",
+        "Title": "And Just Like That... The Documentary",
+        "Genre": "Making-of",
         "Premiere": "February 3, 2022",
         "Runtime": "1 hour, 13 min."
       }
@@ -706,6 +649,36 @@
     ],
     "data": [
       {
+        "Title": "The Missing",
+        "Genre": "Crime drama",
+        "Premiere": "July 22, 2021October 14, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45 min.",
+        "Exclusive region(s)": "Americas",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Love Spells",
+        "Genre": "Romantic dramedy",
+        "Premiere": "August 12, 2021October 14, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "44–51 min.",
+        "Exclusive region(s)": "Americas",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Rap Battlefield (Días de Gallos)",
+        "Genre": "Coming-of-age music drama",
+        "Premiere": "September 16, 2021November 4, 2021&#91;c&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "39–52 min.",
+        "Exclusive region(s)": "Americas",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
         "Title": "Before I Forget (Asesino del Olvido)",
         "Genre": "Crime drama",
         "Premiere": "October 7, 2021",
@@ -716,9 +689,29 @@
         "Status": "Pending"
       },
       {
+        "Title": "A Thousand Fangs",
+        "Genre": "Military action drama",
+        "Premiere": "October 28, 2021December 9, 2021&#91;c&#93;",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "44–54 min.",
+        "Exclusive region(s)": "Latin America",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Frankelda's Book of Spooks",
+        "Genre": "Animated family horror anthology",
+        "Premiere": "October 29, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "12–16 min.",
+        "Exclusive region(s)": "Latin America",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
         "Title": "Juanpa + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;b&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;c&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
         "Exclusive region(s)": "Latin America",
@@ -728,7 +721,7 @@
       {
         "Title": "Sandy + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;b&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;c&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
         "Exclusive region(s)": "Latin America",
@@ -741,7 +734,17 @@
         "Premiere": "November 28, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
-        "Exclusive region(s)": "Spain",
+        "Exclusive region(s)": "Spain and Americas",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Búnker",
+        "Genre": "Action comedy",
+        "Premiere": "December 23, 2021January 27, 2022&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min.",
+        "Exclusive region(s)": "Americas",
         "Language": "Spanish",
         "Status": "Pending"
       },
@@ -763,7 +766,17 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Latin America",
         "Language": "Portuguese",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "How to Screw It All Up",
+        "Genre": "Teen drama",
+        "Premiere": "July 1, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "16–22 min.",
+        "Exclusive region(s)": "Americas",
+        "Language": "Spanish",
+        "Status": "Pending"
       }
     ]
   }

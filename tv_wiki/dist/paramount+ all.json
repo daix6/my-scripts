@@ -130,16 +130,8 @@
         "Genre": "Science fiction",
         "Premiere": "May 5, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "46–54 min.",
-        "Status": "Season 1 ongoing; Renewed"
-      },
-      {
-        "Title": "Harrow",
-        "Genre": "Crime Drama",
-        "Premiere": "June 3, 2022",
-        "Seasons": "4 season, 40 episodes",
-        "Runtime": "TBA",
-        "Status": "Season 4\nongoing;\nRenewed"
+        "Runtime": "46–63 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "Awaiting release",
@@ -187,7 +179,7 @@
         "Premiere": "June 17, 2021",
         "Seasons": "2 seasons, 23 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Guilty Party",
@@ -215,11 +207,11 @@
       },
       {
         "Title": "Players",
-        "Genre": "Mockumentary",
+        "Genre": "Docu-comedy",
         "Premiere": "June 16, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–35 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -244,7 +236,7 @@
         "Premiere": "August 6, 2020",
         "Seasons": "2 season, 20 episodes",
         "Runtime": "24–26 min.",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on August 25, 2022"
       },
       {
         "Title": "The Harper House",
@@ -277,7 +269,7 @@
         "Premiere": "May 27, 2021",
         "Seasons": "1 season, 24 episodes",
         "Runtime": "23–44 min.",
-        "Status": "Renewed"
+        "Status": "Renewed for seasons 2 and 3"
       },
       {
         "Title": "Star Trek: Prodigy",
@@ -372,9 +364,9 @@
         "Title": "Never Seen Again",
         "Genre": "Docuseries",
         "Premiere": "May 10, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "25–29 min.",
-        "Status": "Season 2 due to premiere on July 26, 2022"
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "23–29 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Black Gold",
@@ -421,15 +413,15 @@
         "Title": "The Challenge: All Stars",
         "Genre": "Reality competition",
         "Premiere": "April 1, 2021",
-        "Seasons": "3 seasons, 28 episodes",
-        "Runtime": "43–48 min.",
-        "Status": "Season 3 ongoing"
+        "Seasons": "3 seasons, 29 episodes",
+        "Runtime": "43–49 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Love Island: Exclusive Episodes",
         "Genre": "Reality",
         "Premiere": "July 12, 2021",
-        "Seasons": "5 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Runtime": "42–43 min.",
         "Status": "Ended"
       },
@@ -437,7 +429,7 @@
         "Title": "Love Island: The Drop",
         "Genre": "Reality",
         "Premiere": "July 13, 2021",
-        "Seasons": "5 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Runtime": "43–44 min.",
         "Status": "Ended"
       },
@@ -445,7 +437,7 @@
         "Title": "Love Island: Laid Bare",
         "Genre": "Reality",
         "Premiere": "July 16, 2021",
-        "Seasons": "5 episodes",
+        "Seasons": "1 season, 5 episodes",
         "Runtime": "43–45 min.",
         "Status": "Ended"
       },
@@ -469,25 +461,9 @@
         "Title": "All Star Shore",
         "Genre": "Reality competition",
         "Premiere": "June 29, 2022",
-        "Seasons": "1 season, 2 episodes",
-        "Runtime": "44–45 min.",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "42–45 min.",
         "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "Selena + Chaf",
-        "Genre": "Reality",
-        "Premiere": "July 8, 2022",
-        "Seasons": "4 season, 40 episodes",
-        "Runtime": "TBA",
-        "Status": "Renewed"
       }
     ]
   },
@@ -510,7 +486,7 @@
         "Title": "The Ready Room",
         "Genre": "Aftershow",
         "Premiere": "January 26, 2019",
-        "Seasons": "71 episodes",
+        "Seasons": "72 episodes",
         "Runtime": "14–56 min.",
         "Status": "Ongoing"
       },
@@ -527,8 +503,8 @@
         "Genre": "Music",
         "Premiere": "May 24, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–26 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "22–30 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -548,21 +524,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Partner/Country": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "SkyMed",
         "Genre": "Medical drama",
         "Partner/Country": "CBC/Canada",
         "Premiere": "July 10, 2022",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "60 min.",
+        "Runtime": "44 min.",
         "Status": "Pending"
       }
     ]
@@ -587,27 +554,27 @@
         "Genre": "Supernatural drama",
         "Prev. network(s)": "CBS",
         "Premiere": "June 20, 2021",
-        "Seasons": "2 seasons, 17 episodes",
-        "Runtime": "45–51 min.",
-        "Status": "Season 3 ongoing"
+        "Seasons": "2 seasons, 23 episodes",
+        "Runtime": "45–53 min.",
+        "Status": "Season 3 ongoing; Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "2 seasons, 24 episodes",
         "Runtime": "61–83 min.",
-        "Status": "Season 7 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (season 1)VH1 (season 2)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "2 seasons, 24 episodes",
         "Runtime": "21 min.",
-        "Status": "Season 4 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Inside the NFL (season 44)",
@@ -637,6 +604,15 @@
         "Status": "Pending"
       },
       {
+        "Title": "Blood &amp; Treasure (season 2)",
+        "Genre": "Action-adventure",
+        "Prev. network(s)": "CBS",
+        "Premiere": "July 17, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "41–43 min.",
+        "Status": "Season 2 ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Prev. network(s)": "Awaiting release",
@@ -646,22 +622,13 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Blood &amp; Treasure (season 2)",
-        "Genre": "Action-adventure",
-        "Prev. network(s)": "CBS",
-        "Premiere": "July 17, 2022",
-        "Seasons": "1 season, 13 episodes",
+        "Title": "Beavis and Butt-Head (seasons 9–10)",
+        "Genre": "Adult animated comedy",
+        "Prev. network(s)": "MTV",
+        "Premiere": "August 4, 2022",
+        "Seasons": "2 seasons",
         "Runtime": "TBA",
         "Status": "Pending"
-      },
-      {
-        "Title": "DMZ",
-        "Genre": "Science fiction",
-        "Prev. network(s)": "HBO Max",
-        "Premiere": "August 12, 2022",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "64 min.",
-        "Status": "Ended"
       }
     ]
   },
@@ -741,6 +708,51 @@
         "Runtime": "24 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
+      },
+      {
+        "Title": "Couples Therapy Australia",
+        "Genre": "Docuseries",
+        "Premiere": "July 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Are You the One? UK",
+        "Genre": "Dating show",
+        "Premiere": "August 8, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Box",
+        "Genre": "Docuseries",
+        "Premiere": "August 11, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Disappearance of Gabby Petito",
+        "Genre": "Docuseries",
+        "Premiere": "August 18, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
       }
     ]
   },
@@ -755,10 +767,19 @@
         "Title": "Rio Shore",
         "Genre": "Reality",
         "Premiere": "September 30, 2021",
-        "Seasons": "2 seasons, 19 episodes",
-        "Runtime": "50–52 min.",
+        "Seasons": "2 seasons, 24 episodes",
+        "Runtime": "50–59 min.",
         "Exclusive region(s)": "Latin America",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Adriano Imperador",
+        "Genre": "Sports docuseries",
+        "Premiere": "July 21, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "42 min.",
+        "Exclusive region(s)": "Brazil",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -770,13 +791,31 @@
     ],
     "data": [
       {
+        "Title": "Manos Arriba, Chef!",
+        "Genre": "Reality competition",
+        "Premiere": "July 29, 2021",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "10–37 min.",
+        "Exclusive region(s)": "Argentina",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Siendo Pampita",
+        "Genre": "Docuseries",
+        "Premiere": "October 13, 2021",
+        "Seasons": "2 seasons, 19 episodes",
+        "Runtime": "24–29 min.",
+        "Exclusive region(s)": "Argentina",
+        "Status": "Pending"
+      },
+      {
         "Title": "Parot",
         "Genre": "Crime thriller",
         "Premiere": "October 20, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "47–55 min.",
         "Exclusive region(s)": "United States",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Before I Forget",
@@ -786,6 +825,15 @@
         "Runtime": "45–54 min.",
         "Exclusive region(s)": "United States",
         "Status": "Pending"
+      },
+      {
+        "Title": "Susana, Invitada de Honor",
+        "Genre": "Talk show",
+        "Premiere": "November 30, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "39–54 min.",
+        "Exclusive region(s)": "Argentina",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "The Envoys",
@@ -804,6 +852,42 @@
         "Runtime": "30–44 min.",
         "Exclusive region(s)": "All markets",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Marley &amp; Mirko",
+        "Genre": "Docuseries",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "24–31 min.",
+        "Exclusive region(s)": "Argentina",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The First of Us",
+        "Genre": "Telenovela",
+        "Premiere": "March 21, 2022",
+        "Seasons": "59 episodes",
+        "Runtime": "40–62 min.",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "When You Least Expect It",
+        "Genre": "Drama",
+        "Premiere": "August 18, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Pending"
       }
     ]
   },
@@ -1122,6 +1206,15 @@
     ],
     "data": [
       {
+        "Title": "The Gymnasts",
+        "Genre": "Teen thriller drama",
+        "Partner/Country": "RAI/ItalyZDFneo/Germany",
+        "Premiere": "2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Circeo",
         "Genre": "Drama",
         "Partner/Country": "RAI/Italy",
@@ -1131,12 +1224,21 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Gymnasts",
-        "Genre": "Teen thriller drama",
-        "Partner/Country": "RAI/ItalyZDFneo/Germany",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Title": "The Doll Factory",
+        "Genre": "Historical thriller",
+        "Partner/Country": "SBS/AustraliaTVNZ/New Zealand",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "60 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "MH370: The Lost Flight",
+        "Genre": "Docuseries",
+        "Partner/Country": "SBS/Australia",
+        "Premiere": "TBA",
+        "Seasons": "3 episodes",
+        "Runtime": "50 min.",
         "Status": "Series order"
       },
       {
@@ -1156,15 +1258,6 @@
       "Continuations"
     ],
     "data": [
-      {
-        "Title": "Beavis and Butt-Head (seasons 9–10)",
-        "Genre": "Adult animated comedy",
-        "Prev. network(s)": "MTV",
-        "Premiere": "2022",
-        "Seasons": "2 seasons",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
       {
         "Title": "Ink Master (season 14)",
         "Genre": "Reality",
@@ -1228,14 +1321,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Couples Therapy Australia",
-        "Genre": "Docuseries",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Flatshare",
         "Genre": "Drama",
         "Premiere": "2022",
@@ -1247,9 +1332,9 @@
         "Title": "Last King of the Cross",
         "Genre": "Drama miniseries",
         "Premiere": "2022",
-        "Seasons": "TBA",
+        "Seasons": "10 episodes",
         "Runtime": "TBA",
-        "Status": "Miniseries order"
+        "Status": "Filming"
       },
       {
         "Title": "NCIS: Sydney",
@@ -1268,19 +1353,19 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Blue",
-        "Genre": "Thriller",
+        "Title": "Australia Shore",
+        "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "The Box",
-        "Genre": "Docuseries",
+        "Title": "The Blue",
+        "Genre": "Thriller",
         "Premiere": "TBA",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "60 min.",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Series order"
       },
       {
@@ -1356,14 +1441,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "MH370: The Lost Flight",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "50 min.",
-        "Status": "Series order"
-      },
-      {
         "Title": "Murder of God's Banker",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -1375,7 +1452,7 @@
         "Title": "Pervert: Catching the Strip Search Caller",
         "Genre": "True crime",
         "Premiere": "TBA",
-        "Seasons": "1 season, 3 episodes",
+        "Seasons": "3 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
       },
@@ -1502,6 +1579,14 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Filming"
+      },
+      {
+        "Title": "Anderson \"The Spider\" Silva",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -1521,8 +1606,40 @@
         "Status": "Post-production"
       },
       {
+        "Title": "Argentina Shore",
+        "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "The Challenge: Argentina",
         "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Colombia Shore",
+        "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Dr. Ballí",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Greatest Wave",
+        "Genre": "Biopic",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1539,6 +1656,22 @@
       {
         "Title": "Futuro Desierto",
         "Genre": "Dystopian thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Jellyfish",
+        "Genre": "Thriller drama",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled J. G. Ballard adaptation",
+        "Genre": "Romantic drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1577,12 +1710,20 @@
         "Genre": "Drama"
       },
       {
+        "Title": "Dee Takes Seoul",
+        "Genre": "Dramedy"
+      },
+      {
         "Title": "Girls with Guns",
         "Genre": "Drama"
       },
       {
         "Title": "Guru Nation",
         "Genre": "Mockumentary"
+      },
+      {
+        "Title": "Highfire",
+        "Genre": "Fantasy thriller"
       },
       {
         "Title": "Mercy House",
@@ -1623,6 +1764,10 @@
       {
         "Title": "Untitled Kenya Barris project",
         "Genre": "Romantic drama"
+      },
+      {
+        "Title": "Untitled Warrior series",
+        "Genre": "Sports drama"
       },
       {
         "Title": "Urban Cowboy",

@@ -87,7 +87,7 @@
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
         "Seasons/episodes": "2 season, 16 episodes",
-        "Status": "Renewed for seasons 3 and 4"
+        "Status": "Renewed for seasons 3 and 4 (final)"
       },
       {
         "Title": "The Romanoffs",
@@ -122,7 +122,7 @@
         "Genre": "Superhero drama",
         "Premiere": "July 26, 2019",
         "Seasons/episodes": "3 seasons, 24 episodes",
-        "Status": "Season 3 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Carnival Row",
@@ -146,13 +146,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Alex Rider",
-        "Genre": "Spy thriller",
-        "Premiere": "June 4, 2020",
-        "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Pending; only available in other territories"
-      },
-      {
         "Title": "Utopia",
         "Genre": "Drama",
         "Premiere": "September 25, 2020",
@@ -164,7 +157,7 @@
         "Genre": "Young adult drama",
         "Premiere": "December 11, 2020",
         "Seasons/episodes": "2 seasons, 18 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Them",
@@ -206,7 +199,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Renewed for seasons 2 and 3 "
       },
       {
         "Title": "Reacher",
@@ -227,7 +220,7 @@
         "Genre": "Science fiction drama",
         "Premiere": "May 20, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Summer I Turned Pretty",
@@ -235,13 +228,6 @@
         "Premiere": "June 17, 2022",
         "Seasons/episodes": "1 season, 7 episodes",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Chloe",
-        "Genre": "Psychological thriller",
-        "Premiere": "June 24, 2022",
-        "Seasons/episodes": "1 season, 6 episodes",
-        "Status": "Pending"
       },
       {
         "Title": "The Terminal List",
@@ -476,18 +462,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "Ten Percent",
-        "Genre": "Comedy drama",
-        "Premiere": "April 28, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending; available in the UK"
-      },
-      {
         "Title": "The Lake",
         "Genre": "Comedy",
         "Premiere": "June 17, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "A League of Their Own",
@@ -996,7 +975,14 @@
         "Genre": "Spy thriller",
         "Premiere": "June 24, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Modern Love Tokyo",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "October 21, 2022",
+        "Seasons/episodes": "1 season, 7 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1225,6 +1211,14 @@
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "French",
         "Status": "Ended"
+      },
+      {
+        "Title": "Suzhal: The Vortex",
+        "Genre": "Thriller",
+        "Premiere": "June 17, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "Tamil",
+        "Status": "Pending"
       },
       {
         "Title": "Modern Love Hyderabad",
@@ -1468,22 +1462,13 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Outlaws",
+        "Title": "Chloe",
         "Partner": "BBC One",
-        "Genre": "Comedy drama",
-        "Premiere": "October 25, 2021",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 24, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Stories to Stay Awake",
-        "Partner": "RTVE",
-        "Genre": "Horror anthology",
-        "Premiere": "November 5, 2021",
-        "Seasons/episodes": "4 episodes",
-        "Language": "Spanish",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -1542,6 +1527,14 @@
     ],
     "data": [
       {
+        "Title": "Alex Rider",
+        "Genre": "Spy thriller",
+        "Premiere": "June 4, 2020",
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Prime Video exclusive region": "Outside UK and US",
+        "Status": "Pending"
+      },
+      {
         "Title": "Tell Me Your Secrets",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
@@ -1554,9 +1547,74 @@
   {
     "category": [
       "Regional original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Ten Percent",
+        "Genre": "Comedy drama",
+        "Premiere": "April 28, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Prime Video exclusive region": "United Kingdom",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "The Outlaws",
+        "Partner/Region": "BBC One/United Kingdom",
+        "Genre": "Crime comedy thriller",
+        "Premiere": "October 25, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Prime Video exclusive region": "United States, Canada, Australia, New Zealand and Nordic countries",
+        "Language": "English",
+        "Status": "Season 2 due to premiere on August 5, 2022"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
       "Continuations"
     ],
-    "data": []
+    "data": [
+      {
+        "Title": "Der Lack ist ab (season 4–5)",
+        "Genre": "Comedy",
+        "Original network": "MyVideo (S1–S2)sat1.de (S3)",
+        "Premiere": "December 19, 2017",
+        "Seasons/episodes": "2 seasons, 20 episodes",
+        "Prime Video exclusive region": "Germany",
+        "Language": "German",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Pastewka (season 8–10)",
+        "Genre": "Comedy",
+        "Original network": "Sat.1",
+        "Premiere": "January 26, 2018",
+        "Seasons/episodes": "3 seasons, 30 episodes",
+        "Prime Video exclusive region": "Germany and Austria",
+        "Language": "German",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Vikings (season 6B)",
+        "Genre": "Historical drama",
+        "Original network": "History",
+        "Premiere": "December 30, 2020",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Prime Video exclusive region": "United Kingdom, Ireland and Japan",
+        "Language": "English",
+        "Status": "Ended"
+      }
+    ]
   },
   {
     "category": [

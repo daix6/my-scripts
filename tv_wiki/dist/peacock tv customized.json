@@ -17,17 +17,17 @@
         "Title": "Dr. Death",
         "Genre": "Crime drama",
         "Premiere": "July 15, 2021",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Length": "44–63 min.",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       },
       {
         "Title": "Days of Our Lives: Beyond Salem",
         "Genre": "Soap opera",
         "Premiere": "September 6, 2021",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "2 seasons, 10 episodes",
         "Length": "38–50 min.",
-        "Status": "Season 2 due to premiere on July 11, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Lost Symbol",
@@ -95,7 +95,7 @@
       },
       {
         "Title": "A Friend of the Family",
-        "Genre": "Crime drama miniseries",
+        "Genre": "Crime drama",
         "Premiere": "October 6, 2022",
         "Seasons": "9 episodes",
         "Length": "TBA",
@@ -154,7 +154,7 @@
         "Genre": "Action comedy",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "30 min.",
+        "Length": "25–35 min.",
         "Status": "Pending"
       },
       {
@@ -162,7 +162,7 @@
         "Genre": "Comedy",
         "Premiere": "March 10, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "30 min.",
+        "Length": "26–30 min.",
         "Status": "Pending"
       },
       {
@@ -178,8 +178,8 @@
         "Genre": "Dark comedy",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "34–35 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Pitch Perfect: Bumper in Berlin",
@@ -206,12 +206,28 @@
         "Status": "Ended"
       },
       {
+        "Title": "Archibald's Next Big Thing Is Here!",
+        "Genre": "Family comedy",
+        "Premiere": "February 18, 2021",
+        "Seasons": "4 seasons, 24 episodes",
+        "Length": "22 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
         "Genre": "Family adventure",
         "Premiere": "November 24, 2021",
         "Seasons": "3 seasons, 18 episodes",
         "Length": "23 min.",
         "Status": "Season 4 due to premiere on September 29, 2022"
+      },
+      {
+        "Title": "Babble Bop!",
+        "Genre": "Musical",
+        "Premiere": "December 23, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "30 min.",
+        "Status": "Season 1 ongoing; Renewed"
       },
       {
         "Title": "Supernatural Academy",
@@ -254,7 +270,7 @@
         "Premiere": "November 19, 2020",
         "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Season 7 due to premiere on August 11, 2022"
+        "Status": "Final season due to premiere on August 11, 2022"
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
@@ -272,7 +288,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "3 seasons, 19 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 4 due to premiere on August 31, 2022"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -319,11 +335,11 @@
     ],
     "data": [
       {
-        "Title": "Curious George (seasons 13–15)",
+        "Title": "Curious George (seasons 10–15)",
         "Genre": "Family animation",
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
-        "Seasons": "3 seasons, 45 episodes",
+        "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
         "Status": "Pending"
       },
@@ -380,6 +396,15 @@
         "Seasons": "1 season, 14 episodes",
         "Length": "41–43 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Love Island (seasons 4–5)",
+        "Genre": "Reality",
+        "Prev. network(s)": "CBS",
+        "Premiere": "July 19, 2022",
+        "Seasons": "1 season, 40 episodes",
+        "Length": "42–65 min.",
+        "Status": "Season 4 ongoing; Renewed"
       }
     ]
   },
@@ -415,6 +440,13 @@
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Caillou: Rosie the Giant",
+        "Genre": "Animated",
+        "Premiere": "July 10, 2022",
+        "Length": "44 min.",
         "Language": "English"
       }
     ]

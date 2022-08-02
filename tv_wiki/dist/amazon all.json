@@ -87,7 +87,7 @@
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
         "Seasons/episodes": "2 season, 16 episodes",
-        "Status": "Renewed for seasons 3 and 4"
+        "Status": "Renewed for seasons 3 and 4 (final)"
       },
       {
         "Title": "The Romanoffs",
@@ -122,7 +122,7 @@
         "Genre": "Superhero drama",
         "Premiere": "July 26, 2019",
         "Seasons/episodes": "3 seasons, 24 episodes",
-        "Status": "Season 3 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Carnival Row",
@@ -146,13 +146,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Alex Rider",
-        "Genre": "Spy thriller",
-        "Premiere": "June 4, 2020",
-        "Seasons/episodes": "2 seasons, 16 episodes",
-        "Status": "Pending; only available in other territories"
-      },
-      {
         "Title": "Utopia",
         "Genre": "Drama",
         "Premiere": "September 25, 2020",
@@ -164,7 +157,7 @@
         "Genre": "Young adult drama",
         "Premiere": "December 11, 2020",
         "Seasons/episodes": "2 seasons, 18 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Them",
@@ -206,7 +199,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Renewed for seasons 2 and 3 "
       },
       {
         "Title": "Reacher",
@@ -227,7 +220,7 @@
         "Genre": "Science fiction drama",
         "Premiere": "May 20, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Summer I Turned Pretty",
@@ -237,16 +230,16 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Chloe",
-        "Genre": "Psychological thriller",
-        "Premiere": "June 24, 2022",
-        "Seasons/episodes": "1 season, 6 episodes",
-        "Status": "Pending"
-      },
-      {
         "Title": "The Terminal List",
         "Genre": "Conspiracy thriller",
         "Premiere": "July 1, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Paper Girls",
+        "Genre": "Science fiction",
+        "Premiere": "July 29, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       },
@@ -256,13 +249,6 @@
         "Premiere": "Awaiting release",
         "Seasons/episodes": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "Paper Girls",
-        "Genre": "Science fiction",
-        "Premiere": "July 29, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
       },
       {
         "Title": "The Lord of the Rings: The Rings of Power",
@@ -483,18 +469,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "Ten Percent",
-        "Genre": "Comedy drama",
-        "Premiere": "April 28, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending; available in the UK"
-      },
-      {
         "Title": "The Lake",
         "Genre": "Comedy",
         "Premiere": "June 17, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Awaiting release",
@@ -640,7 +619,7 @@
         "Genre": "Preschool adventure",
         "Premiere": "November 5, 2015",
         "Seasons/episodes": "2 seasons, 53 episodes",
-        "Status": "Ended"
+        "Status": "Pending"
       },
       {
         "Title": "Little Big Awesome",
@@ -709,15 +688,8 @@
         "Title": "Do, Re &amp; Mi",
         "Genre": "Animation",
         "Premiere": "September 17, 2021",
-        "Seasons/episodes": "1 season, 20 episodes",
+        "Seasons/episodes": "1 season, 26 episodes",
         "Status": "Pending"
-      },
-      {
-        "Title": "Puffins Impossible",
-        "Genre": "Animation",
-        "Premiere": "April 9, 2022",
-        "Seasons/episodes": "TBA",
-        "Status": "TBA"
       }
     ]
   },
@@ -1159,7 +1131,21 @@
         "Genre": "Spy thriller",
         "Premiere": "June 24, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Modern Love Tokyo",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "October 21, 2022",
+        "Seasons/episodes": "1 season, 7 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1398,14 +1384,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons/episodes": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Modern Love Hyderabad",
         "Genre": "Anthology",
         "Premiere": "July 8, 2022",
@@ -1495,7 +1473,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "Le Mans: Racing is Everything",
+        "Title": "Le Mans: Racing Is Everything",
         "Genre": "Sports documentary",
         "Premiere": "June 9, 2017",
         "Seasons/episodes": "1 season, 6 episodes",
@@ -1804,10 +1782,10 @@
         "Premiere": "September 24, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "Italian",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
-        "Title": "Spain's Elite Police: Beyond limits",
+        "Title": "Spain's Elite Police: Beyond Limits",
         "Genre": "Docuseries",
         "Premiere": "October 15, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
@@ -1876,7 +1854,7 @@
         "Premiere": "February 4, 2022",
         "Seasons/episodes": "1 season, 3 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Unsolved Murder of Beverly Lynn Smith",
@@ -1892,7 +1870,15 @@
         "Premiere": "May 20, 2022",
         "Seasons/episodes": "1 season, 2 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
+      },
+      {
+        "Title": "James May: Our Man in Italy",
+        "Genre": "Travel documentary",
+        "Premiere": "July 15, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Ended"
       },
       {
         "Title": "Awaiting release",
@@ -2045,7 +2031,7 @@
         "Premiere": "March 27, 2020",
         "Seasons/episodes": "2 seasons, 18 episodes",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on August 19, 2022"
       },
       {
         "Title": "LOL: Australia",
@@ -2149,7 +2135,7 @@
         "Premiere": "September 3, 2021",
         "Seasons/episodes": "1 season, 9 episodes",
         "Language": "Japanese",
-        "Status": "Season 2 due to premiere in mid-2022"
+        "Status": "Season 2 due to premiere on August 4, 2022"
       },
       {
         "Title": "Tampa Baes",
@@ -2187,7 +2173,7 @@
         "Title": "Lizzo's Watch Out for the Big Grrrls",
         "Genre": "Reality",
         "Premiere": "March 25, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Language": "English",
         "Status": "Pending"
       },
@@ -2216,6 +2202,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Forever Summer: Hamptons",
+        "Genre": "Docusoap",
+        "Premiere": "July 15, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -2224,10 +2218,10 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Forever Summer: Hamptons",
-        "Genre": "Docusoap",
-        "Premiere": "July 15, 2022",
-        "Seasons/episodes": "TBA",
+        "Title": "Cosmic Love",
+        "Genre": "Dating show",
+        "Premiere": "August 12, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Language": "English",
         "Status": "Pending"
       }
@@ -2522,22 +2516,13 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Outlaws",
+        "Title": "Chloe",
         "Partner": "BBC One",
-        "Genre": "Comedy drama",
-        "Premiere": "October 25, 2021",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 24, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Stories to Stay Awake",
-        "Partner": "RTVE",
-        "Genre": "Horror anthology",
-        "Premiere": "November 5, 2021",
-        "Seasons/episodes": "4 episodes",
-        "Language": "Spanish",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -2596,12 +2581,72 @@
     ],
     "data": [
       {
+        "Title": "Alex Rider",
+        "Genre": "Spy thriller",
+        "Premiere": "June 4, 2020",
+        "Seasons/episodes": "2 seasons, 16 episodes",
+        "Prime Video exclusive region": "Outside UK and US",
+        "Status": "Pending"
+      },
+      {
         "Title": "Tell Me Your Secrets",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
         "Prime Video exclusive region": "United States, Canada, Australia, and New Zealand",
         "Status": "Ended"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Todo por Lucy",
+        "Genre": "Sitcom",
+        "Premiere": "November 30, 2021",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Prime Video exclusive region": "United States &amp; Latin America",
+        "Status": "Season 2 due to premiere on August 19, 2022"
+      },
+      {
+        "Title": "Ten Percent",
+        "Genre": "Comedy drama",
+        "Premiere": "April 28, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Prime Video exclusive region": "United Kingdom",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "The Outlaws",
+        "Partner/Region": "BBC One/United Kingdom",
+        "Genre": "Crime comedy thriller",
+        "Premiere": "October 25, 2021",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Prime Video exclusive region": "United States, Canada, Australia, New Zealand and Nordic countries",
+        "Language": "English",
+        "Status": "Season 2 due to premiere on August 5, 2022"
+      },
+      {
+        "Title": "Stories to Stay Awake",
+        "Partner/Region": "RTVE/Spain",
+        "Genre": "Horror anthology",
+        "Premiere": "November 5, 2021",
+        "Seasons/episodes": "4 episodes",
+        "Prime Video exclusive region": "Spain, Portugal, Italy and Latin America",
+        "Language": "Spanish",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -2656,7 +2701,7 @@
         "Premiere": "2022"
       },
       {
-        "Title": "The Boys Presents: Varsity",
+        "Title": "Gen V",
         "Genre": "Superhero teen drama",
         "Seasons": "TBA",
         "Premiere": "2023"
@@ -2857,13 +2902,13 @@
     "data": [
       {
         "Title": "Love Addicts",
-        "Genre": "German comedy",
+        "Genre": "Comedy",
         "Premiere": "1 season, 8 episodes",
         "Seasons/episodes": "2022"
       },
       {
         "Title": "The Therapy",
-        "Genre": "German mystery thriller",
+        "Genre": "Mystery thriller",
         "Premiere": "1 season, 6 episodes",
         "Seasons/episodes": "2022"
       },
@@ -2884,19 +2929,31 @@
     "data": [
       {
         "Title": "The Bad Guy",
-        "Genre": "Italian crime comedy",
+        "Genre": "Crime comedy",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2022"
+      },
+      {
+        "Title": "Me Contro Te – La Famiglia Reale",
+        "Genre": "Family comedy",
         "Premiere": "TBA",
         "Seasons/episodes": "2022"
       },
       {
         "Title": "Prisma",
-        "Genre": "Italian teen drama",
+        "Genre": "Teen drama",
         "Premiere": "TBA",
         "Seasons/episodes": "2022"
       },
       {
         "Title": "Everybody Loves Diamonds",
-        "Genre": "Italian heist drama",
+        "Genre": "Heist drama",
+        "Premiere": "TBA",
+        "Seasons/episodes": "2023"
+      },
+      {
+        "Title": "Sono Lillo",
+        "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons/episodes": "2023"
       }
@@ -2910,26 +2967,20 @@
     ],
     "data": [
       {
-        "Title": "Modern Love Tokyo",
-        "Genre": "Japanese romantic comedy anthology",
-        "Premiere": "TBA",
-        "Seasons/episodes": "Late 2022"
-      },
-      {
         "Title": "Angel Flight",
-        "Genre": "Japanese drama",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons/episodes": "2023"
       },
       {
         "Title": "My Lovely Yokai Girlfriend",
-        "Genre": "Japanese horror romantic comedy",
+        "Genre": "Horror romantic comedy",
         "Premiere": "TBA",
         "Seasons/episodes": "2023"
       },
       {
         "Title": "Untitled Takeshi's Castle reboot",
-        "Genre": "Japanese game show",
+        "Genre": "Game show",
         "Premiere": "TBA",
         "Seasons/episodes": "2023"
       }
@@ -2944,19 +2995,19 @@
     "data": [
       {
         "Title": "Noticia de un secuestro",
-        "Genre": "Spanish drama",
+        "Genre": "Drama",
         "Premiere": "1 season, 6 episodes",
         "Seasons/episodes": "TBA"
       },
       {
         "Title": "Porno y Helado",
-        "Genre": "Spanish comedy",
+        "Genre": "Comedy",
         "Premiere": "1 season, 8 episodes",
         "Seasons/episodes": "TBA"
       },
       {
         "Title": "Un Asunto Privado",
-        "Genre": "Spanish thriller comedy",
+        "Genre": "Thriller comedy",
         "Premiere": "1 season, 8 episodes",
         "Seasons/episodes": "TBA"
       }
@@ -2991,22 +3042,41 @@
     ],
     "data": [
       {
-        "Title": "Cosmic Love",
-        "Genre": "Dating show",
+        "Title": "Dutch-language adaptation of Killer Camp",
+        "Genre": "Reality competition",
         "Premiere": "TBA",
-        "Seasons/episodes": "August 2022"
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "Dutch"
       },
       {
         "Title": "The Missing One",
-        "Genre": "French reality competition",
+        "Genre": "Reality competition",
         "Premiere": "TBA",
-        "Seasons/episodes": "TBA"
+        "Seasons/episodes": "TBA",
+        "Language": "French"
       },
       {
         "Title": "Untitled Priyanka Chopra/Nick Jonas unscripted sangeet series",
         "Genre": "Reality",
         "Premiere": "TBA",
-        "Seasons/episodes": "TBA"
+        "Seasons/episodes": "TBA",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Variety"
+    ],
+    "data": [
+      {
+        "Title": "Prova Prova Sa Sa",
+        "Genre": "Improvisational comedy",
+        "Premiere": "2022",
+        "Seasons/episodes": "TBA",
+        "Language": "Italian"
       }
     ]
   },
@@ -3176,10 +3246,6 @@
         "Genre": "Fantasy drama"
       },
       {
-        "Title": "Highfire",
-        "Genre": "Fantasy thriller"
-      },
-      {
         "Title": "Hive",
         "Genre": "Drama"
       },
@@ -3306,6 +3372,10 @@
       {
         "Title": "Shoot the Moon",
         "Genre": "Comedy drama"
+      },
+      {
+        "Title": "Sidelined",
+        "Genre": "Comedy"
       },
       {
         "Title": "Singe!",
