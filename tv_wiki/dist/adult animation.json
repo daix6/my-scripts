@@ -501,30 +501,6 @@
         "Source": ""
       },
       {
-        "Title": "Home Movies",
-        "Genre": "Slice of life",
-        "Seasons/episodes": "4 seasons, 52 episodes",
-        "Show creator(s)": "Loren Bouchard",
-        "Original release": "April 26, 1999 – April 4, 2004",
-        "Network": "UPN",
-        "Studio": "Burns &amp; Burns Productions",
-        "Age rating": "TV-PG",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "The Dick &amp; Paula Celebrity Special",
-        "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 7 episodes",
-        "Show creator(s)": "Tom Snyder",
-        "Original release": "July 20, 1999 – August 1999",
-        "Network": "FX",
-        "Studio": "Soup2Nuts",
-        "Age rating": "TV-PG",
-        "Technique": "CGI",
-        "Source": ""
-      },
-      {
         "Title": "Downtown",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 13 episodes",
@@ -2931,6 +2907,16 @@
         "Source": ""
       },
       {
+        "Title": "The Animals of Farthing Wood",
+        "Genre": "Adventure, Drama",
+        "Series/episodes": "3 seasons, 39 episodes",
+        "Show creator(s)": "based on the book created by Colin Dann",
+        "Original release": "January 6, 1993 - 21 December 1995",
+        "Network": "CBBC",
+        "Studio": "Telemagination\nLa Fabrique",
+        "Source": ""
+      },
+      {
         "Title": "Crapston Villas",
         "Genre": "Satire",
         "Series/episodes": "2 series, 20 episodes",
@@ -3806,6 +3792,18 @@
         "Studio": "BioWare",
         "Age rating": "",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Exploding Kittens",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "TBA",
+        "Release date": "2023",
+        "Original channel": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "",
         "Source": ""
       },
       {

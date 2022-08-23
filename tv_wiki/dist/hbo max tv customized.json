@@ -66,8 +66,8 @@
         "Genre": "Teen mystery crime thriller",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Season 1 ongoing"
+        "Runtime": "52–53 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -193,7 +193,7 @@
         "Title": "Rap Sh!t",
         "Genre": "Music comedy",
         "Premiere": "July 21, 2022",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 4 episodes",
         "Runtime": "31–32 min.",
         "Status": "Season 1 ongoing"
       }
@@ -236,7 +236,7 @@
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "21–25 min.",
-        "Status": "Miniseries"
+        "Status": "Ended"
       }
     ]
   },
@@ -436,7 +436,7 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "30 min.",
         "Language": "English",
-        "Status": "Season 2 due to premiere in 2023"
+        "Status": "Ended"
       }
     ]
   },
@@ -447,13 +447,13 @@
     ],
     "data": [
       {
-        "Title": "Summer Camp Island (seasons 2–6)",
+        "Title": "Summer Camp Island (seasons 2–5)",
         "Genre": "Animated fantasy comedy",
         "Prev. network(s)": "Cartoon Network",
         "Premiere": "June 18, 2020",
         "Seasons": "4 seasons, 60 episodes",
         "Runtime": "12 min.",
-        "Status": "Final season due to premiere in 2023"
+        "Status": "Ended"
       },
       {
         "Title": "Doom Patrol (seasons 2–3)",
@@ -534,7 +534,7 @@
         "Premiere": "October 16, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "21–25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Gen:Lock (season 2)",
@@ -568,9 +568,18 @@
         "Genre": "Adult animated superhero comedy",
         "Prev. network(s)": "DC Universe",
         "Premiere": "July 28, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "23 min.",
         "Status": "Season 3 ongoing"
+      },
+      {
+        "Title": "Pennyworth: The Origin of Batman's Butler (season 3)",
+        "Genre": "Action crime thriller",
+        "Prev. network(s)": "Epix",
+        "Premiere": "October 6, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },

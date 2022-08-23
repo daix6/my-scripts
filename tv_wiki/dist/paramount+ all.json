@@ -66,7 +66,7 @@
         "Genre": "Science fiction",
         "Premiere": "January 23, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "43–46 min.",
+        "Runtime": "39–58 min.",
         "Status": "Renewed for final season"
       },
       {
@@ -147,7 +147,7 @@
         "Premiere": "November 13, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Filming"
+        "Status": "Pending"
       }
     ]
   },
@@ -207,7 +207,7 @@
       },
       {
         "Title": "Players",
-        "Genre": "Docu-comedy",
+        "Genre": "Docu-comedy drama",
         "Premiere": "June 16, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–35 min.",
@@ -461,7 +461,7 @@
         "Title": "All Star Shore",
         "Genre": "Reality competition",
         "Premiere": "June 29, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "1 season, 9 episodes",
         "Runtime": "42–45 min.",
         "Status": "Season 1 ongoing"
       }
@@ -555,8 +555,8 @@
         "Prev. network(s)": "CBS",
         "Premiere": "June 20, 2021",
         "Seasons": "2 seasons, 23 episodes",
-        "Runtime": "45–53 min.",
-        "Status": "Season 3 ongoing; Renewed"
+        "Runtime": "45–57 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
@@ -565,7 +565,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "61–83 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
@@ -574,7 +574,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "21 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Inside the NFL (season 44)",
@@ -586,13 +586,13 @@
         "Status": "Pending"
       },
       {
-        "Title": "SEAL Team (season 5B)",
+        "Title": "SEAL Team (season 5B–6)",
         "Genre": "Military action",
         "Prev. network(s)": "CBS",
         "Premiere": "November 1, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–48 min.",
-        "Status": "Renewed"
+        "Status": "Season 6 due to premiere on September 18, 2022"
       },
       {
         "Title": "Next Influencer (season 3)",
@@ -609,8 +609,17 @@
         "Prev. network(s)": "CBS",
         "Premiere": "July 17, 2022",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "41–43 min.",
+        "Runtime": "40–43 min.",
         "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "Beavis and Butt-Head (season 9)",
+        "Genre": "Adult animated comedy",
+        "Prev. network(s)": "MTV",
+        "Premiere": "August 4, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "20–21 min.",
+        "Status": "Season 9 ongoing; Renewed"
       },
       {
         "Title": "Awaiting release",
@@ -622,11 +631,11 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Beavis and Butt-Head (seasons 9–10)",
-        "Genre": "Adult animated comedy",
-        "Prev. network(s)": "MTV",
-        "Premiere": "August 4, 2022",
-        "Seasons": "2 seasons",
+        "Title": "Ink Master (season 14)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Paramount Network",
+        "Premiere": "September 7, 2022",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -710,29 +719,29 @@
         "Status": "Pending"
       },
       {
-        "Title": "Couples Therapy Australia",
-        "Genre": "Docuseries",
-        "Premiere": "July 26, 2022",
+        "Title": "The Secrets She Keeps (season 2)",
+        "Genre": "Psychological thriller",
+        "Premiere": "July 12, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "43 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Exclusive region(s)": "Awaiting release",
-        "Status": "Awaiting release"
+        "Title": "Couples Therapy Australia",
+        "Genre": "Docuseries",
+        "Premiere": "July 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "23–28 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Pending"
       },
       {
         "Title": "Are You the One? UK",
         "Genre": "Dating show",
         "Premiere": "August 8, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "44–66 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -740,7 +749,7 @@
         "Title": "The Box",
         "Genre": "Docuseries",
         "Premiere": "August 11, 2022",
-        "Seasons": "3 episodes",
+        "Seasons": "1 season, 3 episodes",
         "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
@@ -752,6 +761,78 @@
         "Seasons": "3 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "United Kingdom",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Bridge Australia",
+        "Genre": "Reality competition",
+        "Premiere": "August 19, 2022",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "47–66 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Who Killed Meredith Kercher?",
+        "Genre": "Docuseries",
+        "Premiere": "August 25, 2022",
+        "Seasons": "2 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Love Rats",
+        "Genre": "Docuseries",
+        "Premiere": "September 1, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Girl in the Box: The True Story",
+        "Genre": "Docuseries",
+        "Premiere": "September 19, 2022",
+        "Seasons": "2 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Millionaire Holiday Home Swap",
+        "Genre": "Reality",
+        "Premiere": "September 25, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Rise of the Billionaires",
+        "Genre": "Docuseries",
+        "Premiere": "September 27, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Sky Blue: Inside Sydney FC",
+        "Genre": "Docuseries",
+        "Premiere": "September 30, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
     ]
@@ -872,21 +953,12 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Exclusive region(s)": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "When You Least Expect It",
         "Genre": "Drama",
         "Premiere": "August 18, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Latin America",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "48–52 min.",
+        "Exclusive region(s)": "United States, Canada and Australia",
         "Status": "Pending"
       }
     ]
@@ -922,10 +994,26 @@
         "Status": "Filming"
       },
       {
+        "Title": "School Spirits",
+        "Genre": "Drama",
+        "Premiere": "2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "The Turkish Detective",
         "Genre": "Crime thriller",
         "Premiere": "2023",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Fatal Attraction",
+        "Genre": "Psychological thriller miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -950,14 +1038,6 @@
         "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Fatal Attraction",
-        "Genre": "Psychological thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1016,14 +1096,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "School Spirits",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -1068,6 +1140,23 @@
       {
         "Title": "Dora the Explorer",
         "Genre": "Adventure comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Everybody Still Hates Chris",
+        "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1237,7 +1326,7 @@
         "Genre": "Docuseries",
         "Partner/Country": "SBS/Australia",
         "Premiere": "TBA",
-        "Seasons": "3 episodes",
+        "Seasons": "1 season, 3 episodes",
         "Runtime": "50 min.",
         "Status": "Series order"
       },
@@ -1258,15 +1347,6 @@
       "Continuations"
     ],
     "data": [
-      {
-        "Title": "Ink Master (season 14)",
-        "Genre": "Reality",
-        "Prev. network(s)": "Paramount Network",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Season order"
-      },
       {
         "Title": "Are You the One? (season 9)",
         "Genre": "Dating show",
@@ -1313,14 +1393,6 @@
     ],
     "data": [
       {
-        "Title": "The Bridge Australia",
-        "Genre": "Reality competition",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Flatshare",
         "Genre": "Drama",
         "Premiere": "2022",
@@ -1351,6 +1423,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
+      },
+      {
+        "Title": "Sexy Beast",
+        "Genre": "Drama",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
       },
       {
         "Title": "Australia Shore",
@@ -1452,25 +1532,17 @@
         "Title": "Pervert: Catching the Strip Search Caller",
         "Genre": "True crime",
         "Premiere": "TBA",
-        "Seasons": "3 episodes",
+        "Seasons": "1 season, 3 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
       },
       {
-        "Title": "Rise of the Tech Titans",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "60 min.",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Sexy Beast",
-        "Genre": "Drama",
+        "Title": "Undressed",
+        "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       }
     ]
   },
@@ -1665,9 +1737,9 @@
         "Title": "Jellyfish",
         "Genre": "Thriller drama",
         "Premiere": "TBA",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Untitled J. G. Ballard adaptation",

@@ -66,7 +66,7 @@
         "Genre": "Science fiction",
         "Premiere": "January 23, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "43–46 min.",
+        "Runtime": "39–58 min.",
         "Status": "Renewed for final season"
       },
       {
@@ -139,7 +139,7 @@
         "Premiere": "November 13, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Filming"
+        "Status": "Pending"
       }
     ]
   },
@@ -191,7 +191,7 @@
       },
       {
         "Title": "Players",
-        "Genre": "Docu-comedy",
+        "Genre": "Docu-comedy drama",
         "Premiere": "June 16, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–35 min.",
@@ -279,8 +279,8 @@
         "Prev. network(s)": "CBS",
         "Premiere": "June 20, 2021",
         "Seasons": "2 seasons, 23 episodes",
-        "Runtime": "45–53 min.",
-        "Status": "Season 3 ongoing; Renewed"
+        "Runtime": "45–57 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
@@ -289,7 +289,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "61–83 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
@@ -298,7 +298,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "21 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Inside the NFL (season 44)",
@@ -310,13 +310,13 @@
         "Status": "Pending"
       },
       {
-        "Title": "SEAL Team (season 5B)",
+        "Title": "SEAL Team (season 5B–6)",
         "Genre": "Military action",
         "Prev. network(s)": "CBS",
         "Premiere": "November 1, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–48 min.",
-        "Status": "Renewed"
+        "Status": "Season 6 due to premiere on September 18, 2022"
       },
       {
         "Title": "Next Influencer (season 3)",
@@ -333,15 +333,24 @@
         "Prev. network(s)": "CBS",
         "Premiere": "July 17, 2022",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "41–43 min.",
+        "Runtime": "40–43 min.",
         "Status": "Season 2 ongoing"
       },
       {
-        "Title": "Beavis and Butt-Head (seasons 9–10)",
+        "Title": "Beavis and Butt-Head (season 9)",
         "Genre": "Adult animated comedy",
         "Prev. network(s)": "MTV",
         "Premiere": "August 4, 2022",
-        "Seasons": "2 seasons",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "20–21 min.",
+        "Status": "Season 9 ongoing; Renewed"
+      },
+      {
+        "Title": "Ink Master (season 14)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Paramount Network",
+        "Premiere": "September 7, 2022",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -412,6 +421,15 @@
         "Premiere": "March 4, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "24 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Secrets She Keeps (season 2)",
+        "Genre": "Psychological thriller",
+        "Premiere": "July 12, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
@@ -527,9 +545,9 @@
         "Title": "When You Least Expect It",
         "Genre": "Drama",
         "Premiere": "August 18, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Latin America",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "48–52 min.",
+        "Exclusive region(s)": "United States, Canada and Australia",
         "Status": "Pending"
       }
     ]

@@ -184,9 +184,10 @@
         "Title": "First Kill",
         "Genre": "Horror drama",
         "Premiere": "June 10, 2022",
+        "Finale": "June 10, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–59 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Resident Evil",
@@ -216,46 +217,46 @@
         "Title": "The Sandman",
         "Genre": "Fantasy",
         "Premiere": "August 5, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "37–64 min",
         "Status": "Pending"
-      },
-      {
-        "Title": "Echoes",
-        "Genre": "Mystery thriller miniseries",
-        "Premiere": "August 19, 2022",
-        "Seasons": "7 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
       },
       {
         "Title": "Lost Ollie",
         "Genre": "Drama",
         "Premiere": "August 24, 2022",
-        "Seasons": "TBA",
+        "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Ludik",
-        "Genre": "Drama",
-        "Premiere": "August 26, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
       },
       {
         "Title": "Partner Track",
         "Genre": "Legal drama",
         "Premiere": "August 26, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Devil in Ohio",
+        "Genre": "Thriller",
+        "Premiere": "September 2, 2022",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       },
       {
         "Title": "Heartbreak High",
         "Genre": "Teen drama",
         "Premiere": "September 14, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Gymnastics Academy: A Second Chance!",
+        "Genre": "Teen drama",
+        "Premiere": "September 16, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -264,7 +265,23 @@
         "Title": "The Midnight Club",
         "Genre": "Teen horror drama",
         "Premiere": "October 7, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "60 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "From Scratch",
+        "Genre": "Drama",
+        "Premiere": "October 21, 2022",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Guillermo del Toro's Cabinet of Curiosities",
+        "Genre": "Horror anthology",
+        "Premiere": "October 25, 2022",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -420,11 +437,19 @@
         "Status": "Pending"
       },
       {
+        "Title": "Chad and JT Go Deep",
+        "Genre": "Comedy",
+        "Premiere": "August 23, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "19–22 min",
+        "Status": "Pending"
+      },
+      {
         "Title": "Mo",
         "Genre": "Comedy",
         "Premiere": "August 24, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
         "Status": "Pending"
       }
     ]
@@ -571,10 +596,10 @@
         "Title": "Dota: Dragon's Blood",
         "Genre": "Dark fantasy action",
         "Premiere": "March 25, 2021",
-        "Seasons": "2 books, 16 episodes",
-        "Runtime": "26–28 min",
+        "Seasons": "3 books, 24 episodes",
+        "Runtime": "24–28 min",
         "Language": "English",
-        "Status": "Book 3 due to premiere on August 11, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Way of the Househusband",
@@ -722,8 +747,8 @@
         "Title": "Kakegurui Twin",
         "Genre": "Drama",
         "Premiere": "August 4, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "25–28 min",
         "Language": "Japanese",
         "Status": "Pending"
       },
@@ -731,8 +756,8 @@
         "Title": "Tekken: Bloodline",
         "Genre": "Martial arts",
         "Premiere": "August 18, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "22–29 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -740,6 +765,24 @@
         "Title": "Rilakkuma's Theme Park Adventure",
         "Genre": "Slice of life",
         "Premiere": "August 25, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Cyberpunk: Edgerunners",
+        "Genre": "Science fiction",
+        "Premiere": "September 13, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Romantic Killer",
+        "Genre": "Romantic comedy",
+        "Premiere": "October 27, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "Japanese",
@@ -953,8 +996,8 @@
         "Title": "Kleo",
         "Genre": "Thriller",
         "Premiere": "August 19, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–56 min",
         "Status": "Pending"
       },
       {
@@ -1263,6 +1306,14 @@
         "Title": "A Model Family",
         "Genre": "Crime thriller",
         "Premiere": "August 12, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "41–50 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Narco-Saints",
+        "Genre": "Crime drama",
+        "Premiere": "September 9, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -1405,6 +1456,14 @@
         "Premiere": "June 15, 2022",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "29–43 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Unsuspicious",
+        "Genre": "Comedy",
+        "Premiere": "August 17, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "26–34 min",
         "Status": "Pending"
       }
     ]
@@ -1611,18 +1670,26 @@
         "Title": "High Heat",
         "Genre": "Drama",
         "Premiere": "August 17, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 39 episodes",
+        "Runtime": "30–45 min",
         "Status": "Pending"
       },
       {
         "Title": "The Girl in the Mirror",
         "Genre": "Supernatural drama",
         "Premiere": "August 19, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "40–59 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Santo",
+        "Genre": "Thriller",
+        "Premiere": "September 16, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
-      }
+      },=
     ]
   },
   {
@@ -1637,7 +1704,7 @@
         "Premiere": "April 7, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "38–51 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on September 22, 2022"
       },
       {
         "Title": "Young Royals",
@@ -1703,8 +1770,8 @@
         "Title": "School Tales The Series",
         "Genre": "Horror anthology",
         "Premiere": "August 10, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45–50 min",
         "Status": "Pending"
       },
       {
@@ -1813,6 +1880,15 @@
         "Runtime": "43–51 min",
         "Language": "Dutch",
         "Status": "Pending"
+      },
+      {
+        "Title": "Ludik",
+        "Genre": "Drama",
+        "Premiere": "August 26, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Afrikaans",
+        "Status": "Pending"
       }
     ]
   },
@@ -1897,6 +1973,17 @@
         "Language": "Korean",
         "Netflix exclusive regions": "All other markets",
         "Status": "Renewed"
+      },
+      {
+        "Title": "The Girl from Oslo",
+        "Partner/Country": "HOT/IsraelTV2/Norway",
+        "Genre": "Drama Thriller",
+        "Premiere": "December 19, 2021",
+        "Finale": "December 19, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "33–36 min",
+        "Language": "Hebrew",
+        "Notes": ""
       },
       {
         "Title": "The Parisian Agency: Exclusive Properties (season 2)",
@@ -2066,6 +2153,16 @@
         "Runtime": "25 min",
         "Language": "Japanese",
         "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "Bee and PuppyCat (season 2)",
+        "Genre": "Animation",
+        "Prev. network(s)": "YouTube",
+        "Premiere": "September 6, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -2164,14 +2261,6 @@
         "Notes": ""
       },
       {
-        "Title": "Ferry",
-        "Genre": "Crime drama",
-        "Premiere": "May 14, 2021",
-        "Runtime": "1 h 47 min",
-        "Language": "Dutch",
-        "Notes": ""
-      },
-      {
         "Title": "The Upshaws - The Afterparty",
         "Genre": "Aftershow",
         "Premiere": "May 14, 2021",
@@ -2217,14 +2306,6 @@
         "Premiere": "July 23, 2021",
         "Runtime": "1 h 33 min",
         "Language": "Korean",
-        "Notes": ""
-      },
-      {
-        "Title": "The Witcher: Nightmare of the Wolf",
-        "Genre": "Animated dark fantasy",
-        "Premiere": "August 23, 2021",
-        "Runtime": "1 h 23 min",
-        "Language": "English",
         "Notes": ""
       },
       {
@@ -2378,6 +2459,13 @@
         "Runtime": "1 h 10 min",
         "Language": "English",
         "Notes": ""
+      },
+      {
+        "Title": "The Witcher Bestiary Season 2",
+        "Genre": "Clipshow",
+        "Premiere": "August 23, 2022",
+        "Runtime": "TBA",
+        "Language": "English"
       },
       {
         "Title": "My Little Pony: Winter Wishday",
@@ -2706,6 +2794,14 @@
         "Release date": "July 28, 2022",
         "Episodes": "6 episodes",
         "Runtime": "31–40 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Echoes",
+        "Genre": "Mystery thriller",
+        "Release date": "August 19, 2022",
+        "Episodes": "7 episodes",
+        "Runtime": "40–54 min",
         "Notes": ""
       }
     ]

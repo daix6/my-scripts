@@ -66,8 +66,8 @@
         "Genre": "Teen mystery crime thriller",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Season 1 ongoing"
+        "Runtime": "52–53 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -193,7 +193,7 @@
         "Title": "Rap Sh!t",
         "Genre": "Music comedy",
         "Premiere": "July 21, 2022",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 4 episodes",
         "Runtime": "31–32 min.",
         "Status": "Season 1 ongoing"
       }
@@ -236,7 +236,7 @@
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "21–25 min.",
-        "Status": "Miniseries"
+        "Status": "Ended"
       }
     ]
   },
@@ -269,7 +269,7 @@
         "Premiere": "July 23, 2020",
         "Seasons": "4 seasons, 80 episodes",
         "Runtime": "12 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Fungies!",
@@ -277,7 +277,7 @@
         "Premiere": "August 20, 2020",
         "Seasons": "3 seasons, 80 episodes",
         "Runtime": "11–12 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Tom and Jerry Special Shorts",
@@ -317,7 +317,7 @@
         "Premiere": "September 13, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "11 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "Lucas the Spider Shorts: Meet the Boop Troop",
@@ -686,7 +686,7 @@
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–33 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Legendary",
@@ -710,10 +710,10 @@
         "Title": "Selena + Chef",
         "Genre": "Cooking show",
         "Premiere": "August 13, 2020",
-        "Seasons": "3 seasons, 30 episodes",
+        "Seasons": "4 seasons, 33 episodes",
         "Runtime": "21–33 min.",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "Haute Dog",
@@ -749,7 +749,7 @@
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "41–48 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Stylish with Jenna Lyons",
@@ -794,7 +794,7 @@
         "Seasons": "2 seasons, 13 episodes",
         "Runtime": "41–62 min.",
         "Language": "English",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Hype",
@@ -809,10 +809,10 @@
         "Title": "Sweet Life: Los Angeles",
         "Genre": "Reality",
         "Premiere": "August 19, 2021",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 4 episodes",
         "Runtime": "31–34 min.",
         "Language": "English",
-        "Status": "Season 2 due to premiere on August 4, 2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "The Cut",
@@ -830,7 +830,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "33–51 min.",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Finding Magic Mike",
@@ -848,7 +848,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "29–46 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "About Last Night",
@@ -857,7 +857,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "22–27 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Queen Stars",
@@ -902,7 +902,7 @@
         "Seasons": "2 seasons, 29 episodes",
         "Runtime": "14–16 min.",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime Shorts!",
@@ -1036,7 +1036,7 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "30 min.",
         "Language": "English",
-        "Status": "Season 2 due to premiere in 2023"
+        "Status": "Ended"
       }
     ]
   },
@@ -1047,13 +1047,13 @@
     ],
     "data": [
       {
-        "Title": "Summer Camp Island (seasons 2–6)",
+        "Title": "Summer Camp Island (seasons 2–5)",
         "Genre": "Animated fantasy comedy",
         "Prev. network(s)": "Cartoon Network",
         "Premiere": "June 18, 2020",
         "Seasons": "4 seasons, 60 episodes",
         "Runtime": "12 min.",
-        "Status": "Final season due to premiere in 2023"
+        "Status": "Ended"
       },
       {
         "Title": "Doom Patrol (seasons 2–3)",
@@ -1134,7 +1134,7 @@
         "Premiere": "October 16, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "21–25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Gen:Lock (season 2)",
@@ -1168,9 +1168,27 @@
         "Genre": "Adult animated superhero comedy",
         "Prev. network(s)": "DC Universe",
         "Premiere": "July 28, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "23 min.",
         "Status": "Season 3 ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Prev. network(s)": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Pennyworth: The Origin of Batman's Butler (season 3)",
+        "Genre": "Action crime thriller",
+        "Prev. network(s)": "Epix",
+        "Premiere": "October 6, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -1527,14 +1545,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Strange Adventures",
-        "Genre": "Superhero anthology",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "60 min.",
-        "Status": "Series order"
-      },
-      {
         "Title": "Subject to Change",
         "Genre": "Thriller drama",
         "Premiere": "TBA",
@@ -1677,14 +1687,6 @@
         "Genre": "Family sitcom",
         "Premiere": "2022",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "TBA",
-        "Status": "TBA"
-      },
-      {
-        "Title": "Batman: Caped Crusader",
-        "Genre": "Superhero drama",
-        "Premiere": "2023",
-        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "TBA"
       },
@@ -1961,15 +1963,6 @@
         "Runtime": "TBA",
         "Language": "Finnish",
         "Status": "Series order"
-      },
-      {
-        "Title": "Korean adaptation of The Mentalist",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Korean",
-        "Status": "Series order"
       }
     ]
   },
@@ -2003,47 +1996,9 @@
   {
     "category": [
       "Upcoming original programming",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "We Baby Bears (season 2)",
-        "Genre": "Animated",
-        "Partner/Country": "Cartoon Network/United States",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "11 min.",
-        "Language": "English",
-        "Status": "Season order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
       "Continuations"
     ],
     "data": [
-      {
-        "Title": "Pennyworth (season 3)",
-        "Genre": "Action crime thriller",
-        "Prev. network(s)": "Epix",
-        "Premiere": "2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
-        "Status": "Season order"
-      },
-      {
-        "Title": "30 Coins (season 2)",
-        "Genre": "Mystery horror",
-        "Prev. network(s)": "HBO Europe",
-        "Premiere": "2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "60 min.",
-        "Language": "SpanishItalian",
-        "Status": "Season order"
-      },
       {
         "Title": "Total Drama Island (season 2)",
         "Genre": "Animated comedy",
@@ -2063,49 +2018,6 @@
         "Runtime": "TBA",
         "Language": "EnglishCantonese",
         "Status": "Filming"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Specials"
-    ],
-    "data": [
-      {
-        "Title": "Did I Do That to the Holidays? A Steve Urkel Story",
-        "Genre": "Animated musical comedy",
-        "Premiere": "2022",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Merry Little Batman",
-        "Genre": "Animated action comedy",
-        "Premiere": "2022",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "The Day the Earth Blew Up: A Looney Tunes Film",
-        "Genre": "Animated slapstick comedy",
-        "Premiere": "2022",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Bye, Bye Bunny: A Looney Toons Musical",
-        "Genre": "Animated musical comedy",
-        "Premiere": "2022",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "The Amazing World of Gumball: The Movie!",
-        "Genre": "Animated comedy",
-        "Premiere": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
       }
     ]
   },
@@ -2174,11 +2086,6 @@
         "Title": "A Boob's Life",
         "Genre": "Comedy",
         "Status": "In development"
-      },
-      {
-        "Title": "Book of Marlon",
-        "Genre": "Comedy",
-        "Status": "Pilot order"
       },
       {
         "Title": "Brujo",
