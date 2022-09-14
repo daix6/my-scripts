@@ -9,9 +9,9 @@
         "Title": "The Good Fight",
         "Genre": "Legal drama",
         "Premiere": "February 19, 2017",
-        "Seasons": "5 seasons, 50 episodes",
-        "Runtime": "49–53 min.",
-        "Status": "Final season due to premiere on September 8, 2022"
+        "Seasons": "6 seasons, 60 episodes",
+        "Runtime": "47–53 min.",
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Star Trek: Discovery",
@@ -67,7 +67,7 @@
         "Premiere": "January 23, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "39–58 min.",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on February 16, 2023"
       },
       {
         "Title": "Interrogation",
@@ -218,9 +218,9 @@
         "Title": "Star Trek: Lower Decks",
         "Genre": "Science fiction comedy",
         "Premiere": "August 6, 2020",
-        "Seasons": "2 season, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Runtime": "24–26 min.",
-        "Status": "Season 3 due to premiere on August 25, 2022"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "The Harper House",
@@ -307,7 +307,7 @@
         "Premiere": "September 7, 2021",
         "Seasons": "1 season, 24 episodes",
         "Runtime": "60–67 min.",
-        "Status": "Pending"
+        "Status": "Season 45 due to premiere on September 13, 2022"
       },
       {
         "Title": "SEAL Team (season 5B–6)",
@@ -341,15 +341,24 @@
         "Genre": "Adult animated comedy",
         "Prev. network(s)": "MTV",
         "Premiere": "August 4, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "20–21 min.",
-        "Status": "Season 9 ongoing; Renewed"
+        "Seasons": "1 season, 14 episodes",
+        "Runtime": "20–22 min.",
+        "Status": "Season 9 ongoingRenewed"
       },
       {
         "Title": "Ink Master (season 14)",
         "Genre": "Reality",
-        "Prev. network(s)": "Paramount Network",
+        "Prev. network(s)": "Spike (seasons 1–10)Paramount Network (seasons 10–13)",
         "Premiere": "September 7, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "46–62 min.",
+        "Status": "Season 14 ongoing"
+      },
+      {
+        "Title": "My Dream Quinceañera (season 6)",
+        "Genre": "AwesomenessTV",
+        "Prev. network(s)": "Reality",
+        "Premiere": "September 16, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -413,7 +422,7 @@
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "More Than This",
@@ -430,6 +439,105 @@
         "Premiere": "July 12, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Couples Therapy Australia",
+        "Genre": "Docuseries",
+        "Premiere": "July 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "23–28 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Are You the One? UK",
+        "Genre": "Dating show",
+        "Premiere": "August 8, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "44–66 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Box",
+        "Genre": "Docuseries",
+        "Premiere": "August 11, 2022",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Disappearance of Gabby Petito",
+        "Genre": "Docuseries",
+        "Premiere": "August 18, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Bridge Australia",
+        "Genre": "Reality competition",
+        "Premiere": "August 19, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "47–67 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Who Killed Meredith Kercher?",
+        "Genre": "Docuseries",
+        "Premiere": "August 25, 2022",
+        "Seasons": "2 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Love Rats",
+        "Genre": "Docuseries",
+        "Premiere": "September 1, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Girl in the Box: The True Story",
+        "Genre": "Docuseries",
+        "Premiere": "September 19, 2022",
+        "Seasons": "2 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Millionaire Holiday Home Swap",
+        "Genre": "Reality",
+        "Premiere": "September 25, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Rise of the Billionaires",
+        "Genre": "Docuseries",
+        "Premiere": "September 27, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Sky Blue: Inside Sydney FC",
+        "Genre": "Docuseries",
+        "Premiere": "September 30, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
@@ -450,6 +558,15 @@
         "Runtime": "50–59 min.",
         "Exclusive region(s)": "Latin America",
         "Status": "Pending"
+      },
+      {
+        "Title": "Adriano Imperador",
+        "Genre": "Sports docuseries",
+        "Premiere": "July 21, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "42 min.",
+        "Exclusive region(s)": "Brazil",
+        "Status": "Miniseries"
       }
     ]
   },

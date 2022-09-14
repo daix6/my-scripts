@@ -67,7 +67,7 @@
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "52–53 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -121,17 +121,9 @@
         "Title": "Hacks",
         "Genre": "Black comedy drama",
         "Premiere": "May 13, 2021",
-        "Seasons": "2 season, 18 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Runtime": "24–35 min.",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Head of the Class",
-        "Genre": "Teen sitcom",
-        "Premiere": "November 4, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–27 min.",
-        "Status": "Ended"
       },
       {
         "Title": "The Sex Lives of College Girls",
@@ -174,8 +166,48 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Rap Sh!t",
+        "Genre": "Music comedy",
+        "Premiere": "July 21, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "31–32 min.",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime! Shorts!",
+        "Genre": "Family comedy",
+        "Premiere": "September 17, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "4–8 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "My Sesame Street Friends",
+        "Genre": "Preschool education",
+        "Premiere": "November 12, 2020",
+        "Seasons": "7 seasons, 91 episodes",
+        "Runtime": "11–12 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Head of the Class",
+        "Genre": "Teen sitcom",
+        "Premiere": "November 4, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "21–27 min.",
+        "Status": "Ended"
+      },
+      {
         "Title": "The Garcias",
-        "Genre": "Sitcom",
+        "Genre": "Family sitcom",
         "Premiere": "April 14, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–28 min.",
@@ -188,14 +220,6 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–30 min.",
         "Status": "Ended"
-      },
-      {
-        "Title": "Rap Sh!t",
-        "Genre": "Music comedy",
-        "Premiere": "July 21, 2022",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "31–32 min.",
-        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -322,6 +346,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Las Bravas F.C.",
+        "Genre": "Sports drama",
+        "Premiere": "May 5, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44-51 min.",
+        "Status": "Ended"
       }
     ]
   },
@@ -364,7 +396,7 @@
         "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "February 11, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "47 min.",
+        "Runtime": "37–45 min.",
         "Language": "English",
         "Status": "Renewed"
       },
@@ -384,7 +416,7 @@
         "Partner/Country": "BBC Three/United Kingdom",
         "Premiere": "June 10, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "20–22 min.",
         "Language": "English",
         "Status": "Renewed"
       },
@@ -404,7 +436,7 @@
         "Partner/Country": "Movistar+/Spain",
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "26–34 min.",
         "Language": "Spanish",
         "Status": "Ended"
       },
@@ -424,7 +456,7 @@
         "Partner/Country": "BBC One/United KingdomZDF/GermanyStan/Australia",
         "Premiere": "March 3, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "59 min.",
+        "Runtime": "55–58 min.",
         "Language": "English",
         "Status": "Renewed"
       },
@@ -434,7 +466,7 @@
         "Partner/Country": "ZDF/GermanyGloboplay/Brazil",
         "Premiere": "March 10, 2022",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "24–25 min.",
         "Language": "English",
         "Status": "Ended"
       }
@@ -497,7 +529,7 @@
         "Prev. network(s)": "NET (season 1)PBS (seasons 2–45)HBO Kids (seasons 46–50)",
         "Premiere": "November 12, 2020",
         "Seasons": "2 seasons, 70 episodes",
-        "Runtime": "26 min.",
+        "Runtime": "25 min.",
         "Status": "Renewed for seasons 53–55"
       },
       {
@@ -506,7 +538,7 @@
         "Prev. network(s)": "DC Universe",
         "Premiere": "August 12, 2021",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "50 min.",
+        "Runtime": "40–50 min.",
         "Status": "Renewed"
       },
       {
@@ -515,7 +547,7 @@
         "Prev. network(s)": "Comedy Central",
         "Premiere": "August 26, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "25–27 min.",
         "Status": "Renewed"
       },
       {
@@ -525,7 +557,7 @@
         "Premiere": "October 1, 2021",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "22 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Young Justice (season 4)",
@@ -568,9 +600,9 @@
         "Genre": "Adult animated superhero comedy",
         "Prev. network(s)": "DC Universe",
         "Premiere": "July 28, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "23 min.",
-        "Status": "Season 3 ongoing"
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "22 min.",
+        "Status": "Season 3 ongoingRenewed"
       },
       {
         "Title": "Pennyworth: The Origin of Batman's Butler (season 3)",
@@ -648,6 +680,12 @@
         "Genre": "Making-of",
         "Premiere": "February 3, 2022",
         "Runtime": "1 hour, 13 min."
+      },
+      {
+        "Title": "Secret Origin of the Batwheels",
+        "Genre": "Superhero animation",
+        "Premiere": "September 17, 2022",
+        "Runtime": "TBA"
       }
     ]
   },

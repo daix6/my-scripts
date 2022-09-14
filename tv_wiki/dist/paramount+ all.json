@@ -9,9 +9,9 @@
         "Title": "The Good Fight",
         "Genre": "Legal drama",
         "Premiere": "February 19, 2017",
-        "Seasons": "5 seasons, 50 episodes",
-        "Runtime": "49–53 min.",
-        "Status": "Final season due to premiere on September 8, 2022"
+        "Seasons": "6 seasons, 60 episodes",
+        "Runtime": "47–53 min.",
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Star Trek: Discovery",
@@ -67,7 +67,7 @@
         "Premiere": "January 23, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "39–58 min.",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on February 16, 2023"
       },
       {
         "Title": "Interrogation",
@@ -234,9 +234,9 @@
         "Title": "Star Trek: Lower Decks",
         "Genre": "Science fiction comedy",
         "Premiere": "August 6, 2020",
-        "Seasons": "2 season, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Runtime": "24–26 min.",
-        "Status": "Season 3 due to premiere on August 25, 2022"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "The Harper House",
@@ -261,7 +261,7 @@
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "22–23 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Season 1 ongoingRenewed"
       },
       {
         "Title": "Rugrats",
@@ -277,7 +277,7 @@
         "Premiere": "October 28, 2021",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "23–45 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "New episodes due to premiere on October 27, 2022Renewed"
       },
       {
         "Title": "Big Nate",
@@ -285,7 +285,23 @@
         "Premiere": "February 17, 2022",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "23 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Season 1 ongoingRenewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Transformers: EarthSpark",
+        "Genre": "Science fiction",
+        "Premiere": "November 11, 2022",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -326,7 +342,7 @@
         "Premiere": "July 29, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "47–55 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Indivisible: Healing Hate",
@@ -374,6 +390,22 @@
         "Premiere": "May 17, 2022",
         "Seasons": "3 episodes",
         "Runtime": "49–55 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "11 Minutes",
+        "Genre": "Docuseries",
+        "Premiere": "September 27, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
         "Status": "Miniseries"
       }
     ]
@@ -461,9 +493,9 @@
         "Title": "All Star Shore",
         "Genre": "Reality competition",
         "Premiere": "June 29, 2022",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "42–45 min.",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "42–46 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -486,7 +518,7 @@
         "Title": "The Ready Room",
         "Genre": "Aftershow",
         "Premiere": "January 26, 2019",
-        "Seasons": "72 episodes",
+        "Seasons": "73 episodes",
         "Runtime": "14–56 min.",
         "Status": "Ongoing"
       },
@@ -583,7 +615,7 @@
         "Premiere": "September 7, 2021",
         "Seasons": "1 season, 24 episodes",
         "Runtime": "60–67 min.",
-        "Status": "Pending"
+        "Status": "Season 45 due to premiere on September 13, 2022"
       },
       {
         "Title": "SEAL Team (season 5B–6)",
@@ -617,9 +649,18 @@
         "Genre": "Adult animated comedy",
         "Prev. network(s)": "MTV",
         "Premiere": "August 4, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "20–21 min.",
-        "Status": "Season 9 ongoing; Renewed"
+        "Seasons": "1 season, 14 episodes",
+        "Runtime": "20–22 min.",
+        "Status": "Season 9 ongoingRenewed"
+      },
+      {
+        "Title": "Ink Master (season 14)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Spike (seasons 1–10)Paramount Network (seasons 10–13)",
+        "Premiere": "September 7, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "46–62 min.",
+        "Status": "Season 14 ongoing"
       },
       {
         "Title": "Awaiting release",
@@ -631,10 +672,10 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Ink Master (season 14)",
-        "Genre": "Reality",
-        "Prev. network(s)": "Paramount Network",
-        "Premiere": "September 7, 2022",
+        "Title": "My Dream Quinceañera (season 6)",
+        "Genre": "AwesomenessTV",
+        "Prev. network(s)": "Reality",
+        "Premiere": "September 16, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -698,7 +739,7 @@
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Spreadsheet",
@@ -767,9 +808,27 @@
         "Title": "The Bridge Australia",
         "Genre": "Reality competition",
         "Premiere": "August 19, 2022",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "47–66 min.",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "47–67 min.",
         "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Who Killed Meredith Kercher?",
+        "Genre": "Docuseries",
+        "Premiere": "August 25, 2022",
+        "Seasons": "2 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Love Rats",
+        "Genre": "Docuseries",
+        "Premiere": "September 1, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
         "Status": "Season 1 ongoing"
       },
       {
@@ -780,24 +839,6 @@
         "Runtime": "Awaiting release",
         "Exclusive region(s)": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "Who Killed Meredith Kercher?",
-        "Genre": "Docuseries",
-        "Premiere": "August 25, 2022",
-        "Seasons": "2 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Love Rats",
-        "Genre": "Docuseries",
-        "Premiere": "September 1, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
       },
       {
         "Title": "The Girl in the Box: The True Story",
@@ -975,7 +1016,7 @@
         "Premiere": "December 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Rabbit Hole",
@@ -1034,7 +1075,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Criminal Minds",
+        "Title": "Criminal Minds: Evolution",
         "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
@@ -1122,20 +1163,12 @@
         "Status": "Filming"
       },
       {
-        "Title": "Untitled The Loud House series",
-        "Genre": "Sitcom",
-        "Premiere": "2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Untitled Sonic the Hedgehog spin-off",
-        "Genre": "Action-adventure comedy",
+        "Genre": "Action-adventure comedy miniseries",
         "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Miniseries order"
+        "Status": "Series order"
       },
       {
         "Title": "Dora the Explorer",
@@ -1171,14 +1204,6 @@
       "Kids &amp; family"
     ],
     "data": [
-      {
-        "Title": "Transformers: EarthSpark",
-        "Genre": "Science fiction",
-        "Premiere": "November 2022",
-        "Seasons": "1 season, 26 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
       {
         "Title": "Dora the Explorer",
         "Genre": "Educational children's comedy",
@@ -1305,7 +1330,7 @@
       },
       {
         "Title": "Circeo",
-        "Genre": "Drama",
+        "Genre": "True crime drama",
         "Partner/Country": "RAI/Italy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1409,6 +1434,22 @@
         "Status": "Filming"
       },
       {
+        "Title": "Sexy Beast",
+        "Genre": "Drama",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "A Gentleman in Moscow",
+        "Genre": "Historical thriller",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "NCIS: Sydney",
         "Genre": "Military action",
         "Premiere": "2023",
@@ -1425,9 +1466,9 @@
         "Status": "Series order"
       },
       {
-        "Title": "Sexy Beast",
-        "Genre": "Drama",
-        "Premiere": "2023",
+        "Title": "Undressed",
+        "Genre": "Reality",
+        "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Filming"
@@ -1470,7 +1511,7 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Post-production"
       },
       {
         "Title": "The Challenge: U.K.",
@@ -1494,14 +1535,6 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 3 episodes",
         "Runtime": "90 min.",
-        "Status": "Series order"
-      },
-      {
-        "Title": "A Gentleman in Moscow",
-        "Genre": "Historical fiction",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
         "Status": "Series order"
       },
       {
@@ -1529,20 +1562,20 @@
         "Status": "Series order"
       },
       {
+        "Title": "North Shore",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "44 min.",
+        "Status": "Series order"
+      },
+      {
         "Title": "Pervert: Catching the Strip Search Caller",
         "Genre": "True crime",
         "Premiere": "TBA",
         "Seasons": "1 season, 3 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
-      },
-      {
-        "Title": "Undressed",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
       }
     ]
   },
@@ -1579,20 +1612,20 @@
     ],
     "data": [
       {
-        "Title": "Anywhere",
-        "Genre": "Supernatural dramedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Simon Beckett's The Chemistry of Death",
         "Genre": "Psychological crime drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Filming"
+      },
+      {
+        "Title": "Anywhere",
+        "Genre": "Supernatural dramedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
       },
       {
         "Title": "Der Scheich",
@@ -1658,7 +1691,7 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       }
     ]
   },
@@ -1676,6 +1709,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Status": "Post-production"
+      },
+      {
+        "Title": "Jellyfish",
+        "Genre": "Thriller drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
       },
       {
         "Title": "Argentina Shore",
@@ -1732,14 +1773,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Jellyfish",
-        "Genre": "Thriller drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
       },
       {
         "Title": "Untitled J. G. Ballard adaptation",

@@ -2363,7 +2363,7 @@
       {
         "Title": "Central Park",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 seasons, 26 episodes",
+        "Seasons/episodes": "3 seasons, 29 episodes",
         "Show creator(s)": "Josh Gad",
         "Original release": "May 29, 2020 – present",
         "Network": "Apple TV+",
@@ -2841,6 +2841,18 @@
         "Source": ""
       },
       {
+        "Title": "Fairview",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "RJ Fried",
+        "Original release": "February 9, 2022 – present",
+        "Network": "Comedy Central",
+        "Studio": "Spartina Productions",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "The Guardians of Justice",
         "Genre": "Superhero",
         "Seasons/episodes": "1 season, 7 episodes",
@@ -2886,6 +2898,30 @@
         "Studio": "Netflix Animation",
         "Age rating": "TV-MA",
         "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Little Demon",
+        "Genre": "Black comedy",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Show creator(s)": "Darcy Fowler",
+        "Original release": "August 25, 2022 – present",
+        "Network": "FXX",
+        "Studio": "Jersey Films 2nd Avenue",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Pantheon",
+        "Genre": "Drama",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Craig Silverstein",
+        "Original release": "September 1, 2022 – present",
+        "Network": "AMC+",
+        "Studio": "Sesfonstein Productions",
+        "Age rating": "TV-14",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]
@@ -2961,7 +2997,7 @@
         "Genre": "Comedy",
         "Series/episodes": "4 series, 66 episodes",
         "Show creator(s)": "Darren Walsh",
-        "Original release": "January 1, 1999 – present",
+        "Original release": "January 1, 1999 – Nov 8, 2019",
         "Network": "Atom.com",
         "Studio": "Aardman Animations",
         "Source": ""
@@ -3735,44 +3771,20 @@
         "Source": ""
       },
       {
-        "Title": "Little Demon",
+        "Title": "Royal Crackers",
         "Genre": "Comedy",
-        "Seasons, episodes": "1 season, 2 episodes",
-        "Show creator": "Darcy Fowler",
-        "Release date": "August 25, 2022",
-        "Original channel": "FXX",
-        "Studio": "FXP",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Pantheon",
-        "Genre": "Drama",
         "Seasons, episodes": "TBA",
-        "Show creator": "Craig Silverstein",
-        "Release date": "September 1, 2022",
-        "Original channel": "AMC+",
-        "Studio": "AMC Studios",
+        "Show creator": "Jason Ruiz",
+        "Release date": "2022",
+        "Original channel": "Adult Swim",
+        "Studio": "Titmouse, Inc.",
         "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "Entergalactic",
-        "Genre": "Drama",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Kid Cudi",
-        "Release date": "September 30, 2022",
-        "Original channel": "Netflix",
-        "Studio": "Netflix Animation",
-        "Age rating": "",
-        "Technique": "CGI",
+        "Technique": "",
         "Source": ""
       },
       {
         "Title": "Krapopolis",
-        "Genre": "Comedy",
+        "Genre": "Sitcom",
         "Seasons, episodes": "TBA",
         "Show creator": "Dan Harmon",
         "Release date": "November 27, 2022",

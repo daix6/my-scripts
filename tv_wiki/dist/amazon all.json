@@ -241,7 +241,14 @@
         "Genre": "Science fiction",
         "Premiere": "July 29, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
+      },
+      {
+        "Title": "The Lord of the Rings: The Rings of Power",
+        "Genre": "Fantasy",
+        "Premiere": "September 1, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Season 1 ongoingRenewed"
       },
       {
         "Title": "Awaiting release",
@@ -251,18 +258,32 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "The Lord of the Rings: The Rings of Power",
-        "Genre": "Fantasy",
-        "Premiere": "September 2, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
-      },
-      {
         "Title": "Jungle",
         "Genre": "Music drama",
         "Premiere": "September 30, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Peripheral",
+        "Genre": "Science fiction",
+        "Premiere": "October 21, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Devil's Hour",
+        "Genre": "Thriller",
+        "Premiere": "October 28, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The English",
+        "Genre": "Epic Western",
+        "Premiere": "November 11, 2022",
+        "Seasons/episodes": "6 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -445,7 +466,7 @@
         "Genre": "Comedy",
         "Premiere": "July 30, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Back to the Rafters",
@@ -619,7 +640,7 @@
         "Genre": "Preschool adventure",
         "Premiere": "November 5, 2015",
         "Seasons/episodes": "2 seasons, 53 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Little Big Awesome",
@@ -682,7 +703,7 @@
         "Genre": "Preschool animation/live-action",
         "Premiere": "March 13, 2020",
         "Seasons/episodes": "1 season, 20 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Do, Re &amp; Mi",
@@ -733,7 +754,7 @@
         "Genre": "Comedy",
         "Premiere": "May 29, 2020",
         "Seasons/episodes": "2 seasons, 14 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Binge Reloaded",
@@ -917,14 +938,14 @@
         "Genre": "Thriller",
         "Premiere": "September 9, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Akkad Bakkad Rafu Chakkar",
         "Genre": "Crime drama",
         "Premiere": "November 3, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Bestseller",
@@ -968,7 +989,7 @@
         "Genre": "Comedy",
         "Premiere": "November 5, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Bang Bang Baby",
@@ -1303,7 +1324,7 @@
         "Genre": "Horror",
         "Premiere": "August 6, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Maradona: Blessed Dream",
@@ -1758,7 +1779,7 @@
         "Premiere": "June 4, 2021",
         "Seasons/episodes": "1 season, 4 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Clarkson's Farm",
@@ -1774,7 +1795,7 @@
         "Premiere": "September 10, 2021",
         "Seasons/episodes": "1 season, 4 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Dinner Club",
@@ -1790,7 +1811,7 @@
         "Premiere": "October 15, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "FC Bayern: Behind the Legend",
@@ -1884,9 +1905,9 @@
         "Title": "All or Nothing: Arsenal",
         "Genre": "Sports documentary",
         "Premiere": "August 4, 2022",
-        "Seasons/episodes": "1 season, 3 episodes",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -2021,9 +2042,9 @@
         "Title": "Making the Cut",
         "Genre": "Reality competition",
         "Premiere": "March 27, 2020",
-        "Seasons/episodes": "3 seasons, 20 episodes",
+        "Seasons/episodes": "3 seasons, 26 episodes",
         "Language": "English",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "LOL: Australia",
@@ -2079,7 +2100,7 @@
         "Premiere": "April 8, 2021",
         "Seasons/episodes": "3 seasons, 18 episodes",
         "Language": "German",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "LOL: Qui rit, sort!",
@@ -2095,7 +2116,7 @@
         "Premiere": "April 30, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "Hindi/English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "LOL: Si te ríes, pierdes",
@@ -2111,7 +2132,7 @@
         "Premiere": "July 9, 2021",
         "Seasons/episodes": "2 seasons, 9 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Season 3 due to premiere on September 30, 2022"
       },
       {
         "Title": "LOL - Enga Siri Paappom",
@@ -2119,7 +2140,7 @@
         "Premiere": "August 27, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "Tamil/English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Masked Singer Japan",
@@ -2127,7 +2148,7 @@
         "Premiere": "September 3, 2021",
         "Seasons/episodes": "2 seasons, 18 episodes",
         "Language": "Japanese",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Tampa Baes",
@@ -2721,18 +2742,6 @@
         "Seasons": "TBA"
       },
       {
-        "Title": "The Devil's Hour",
-        "Genre": "Thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
-      },
-      {
-        "Title": "The English",
-        "Genre": "Epic Western",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
-      },
-      {
         "Title": "Expats",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -2767,12 +2776,6 @@
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 7 episodes"
-      },
-      {
-        "Title": "The Peripheral",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
       },
       {
         "Title": "The Power",
@@ -2861,13 +2864,13 @@
         "Title": "The Hospital",
         "Genre": "Adult animated black comedy",
         "Premiere": "TBA",
-        "Seasons": "TBA; Renewed"
+        "Seasons": "TBARenewed"
       },
       {
         "Title": "Untitled Ramy Youssef animated series",
         "Genre": "Adult animated comedy",
         "Premiere": "TBA",
-        "Seasons": "TBA; Renewed"
+        "Seasons": "TBARenewed"
       }
     ]
   },
@@ -2885,27 +2888,27 @@
         "Seasons/episodes": "1 season, 8 episodes"
       },
       {
-        "Title": "The Therapy",
-        "Genre": "Mystery thriller",
-        "Premiere": "2022",
-        "Seasons/episodes": "1 season, 6 episodes"
-      },
-      {
-        "Title": "Gefesselt",
-        "Genre": "True crime docuseries",
-        "Premiere": "TBA",
+        "Title": "German Crime Story: Tied Up",
+        "Genre": "True crime drama",
+        "Premiere": "Early 2023",
         "Seasons/episodes": "1 season, 6 episodes"
       },
       {
         "Title": "The Gryphon",
         "Genre": "Fantasy drama",
-        "Premiere": "TBA",
+        "Premiere": "Mid 2023",
+        "Seasons/episodes": "1 season, 6 episodes"
+      },
+      {
+        "Title": "The Therapy",
+        "Genre": "Mystery thriller",
+        "Premiere": "Late 2023",
         "Seasons/episodes": "1 season, 6 episodes"
       },
       {
         "Title": "Luden",
         "Genre": "Drama",
-        "Premiere": "TBA",
+        "Premiere": "2023",
         "Seasons/episodes": "1 season, 6 episodes"
       }
     ]
@@ -3036,19 +3039,78 @@
         "Title": "Good Neighbors",
         "Genre": "Sports docuseries",
         "Premiere": "November 2022",
-        "Seasons/episodes": "3 episodes"
+        "Seasons/episodes": "3 episodes",
+        "Language": "Spanish"
+      },
+      {
+        "Title": "Fake Sheikh",
+        "Genre": "True crime docuseries",
+        "Premiere": "2023",
+        "Seasons/episodes": "3 episodes",
+        "Language": "English"
+      },
+      {
+        "Title": "The Greatest Show Never Made",
+        "Genre": "True crime docuseries",
+        "Premiere": "2023",
+        "Seasons/episodes": "2 episodes",
+        "Language": "English"
+      },
+      {
+        "Title": "All or Nothing: German National Team",
+        "Genre": "Sports docuseries",
+        "Premiere": "TBA",
+        "Seasons/episodes": "TBA",
+        "Language": "German"
+      },
+      {
+        "Title": "The Confession",
+        "Genre": "True crime docuseries",
+        "Premiere": "TBA",
+        "Seasons/episodes": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Gefesselt",
+        "Genre": "True crime docuseries",
+        "Premiere": "TBA",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "German"
+      },
+      {
+        "Title": "Hunted",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons/episodes": "1 season, 4 episodes",
+        "Language": "German"
       },
       {
         "Title": "Rihanna: Volume 1",
-        "Genre": "Documentary",
+        "Genre": "Music docuseries",
         "Premiere": "TBA",
-        "Seasons/episodes": "TBA"
+        "Seasons/episodes": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Three Mothers",
+        "Genre": "True crime docuseries",
+        "Premiere": "TBA",
+        "Seasons/episodes": "3 episodes",
+        "Language": "English"
+      },
+      {
+        "Title": "Untitled American Basketball Association docuseries",
+        "Genre": "Sports docuseries",
+        "Premiere": "TBA",
+        "Seasons/episodes": "TBA",
+        "Language": "English"
       },
       {
         "Title": "Untitled Paris Saint-Germain F.C. docuseries",
         "Genre": "Sports docuseries",
         "Premiere": "TBA",
-        "Seasons/episodes": "1 season, 4 episodes"
+        "Seasons/episodes": "1 season, 4 episodes",
+        "Language": "French"
       }
     ]
   },
@@ -3060,7 +3122,7 @@
     ],
     "data": [
       {
-        "Title": "Takeshi's Castle reboot",
+        "Title": "Takeshi's Castle",
         "Genre": "Game show",
         "Premiere": "2023",
         "Seasons/episodes": "TBA",
@@ -3116,6 +3178,13 @@
         "Premiere": "2022",
         "Seasons/episodes": "TBA",
         "Language": "Italian"
+      },
+      {
+        "Title": "HILLarious",
+        "Genre": "Sketch comedy",
+        "Premiere": "TBA",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "German"
       }
     ]
   },
@@ -3159,6 +3228,10 @@
       {
         "Title": "Dating the Lopez Ladies",
         "Genre": "Adult animated comedy"
+      },
+      {
+        "Title": "Eight Billion Genies",
+        "Genre": "Fantasy"
       },
       {
         "Title": "Exciting Times",

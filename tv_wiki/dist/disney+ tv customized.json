@@ -11,7 +11,7 @@
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "34–55 min",
-        "Status": "Season 3 due to premiere in February 2023, Renewed for season 4"
+        "Status": "Season 3 due to premiere in February 2023Renewed for season 4"
       },
       {
         "Title": "The Right Stuff",
@@ -43,7 +43,7 @@
         "Premiere": "June 9, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–56 min",
-        "Status": "Season 2 due to premiere in Summer 2023"
+        "Status": "Season 2 due to premiere in mid-2023"
       },
       {
         "Title": "The Mysterious Benedict Society",
@@ -51,7 +51,7 @@
         "Premiere": "June 25, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "54–59 min",
-        "Status": "Season 2 due to premiere in September 2022"
+        "Status": "Season 2 due to premiere on October 26, 2022"
       },
       {
         "Title": "Hawkeye",
@@ -100,6 +100,14 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "National Treasure: Edge of History",
+        "Genre": "Action-adventure",
+        "Premiere": "December 14, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -115,7 +123,7 @@
         "Premiere": "November 12, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "31–41 min",
-        "Status": "Season 3 ongoing; Renewed"
+        "Status": "Season 3 ongoingRenewed"
       },
       {
         "Title": "Diary of a Future President",
@@ -139,7 +147,7 @@
         "Premiere": "April 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–54 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on October 12, 2022"
       },
       {
         "Title": "Turner &amp; Hooch",
@@ -178,8 +186,16 @@
         "Genre": "Superhero legal comedy",
         "Premiere": "August 18, 2022",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "38 min",
+        "Runtime": "31–38 min",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Santa Clauses",
+        "Genre": "Fantasy comedy",
+        "Premiere": "November 16, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -195,7 +211,7 @@
         "Premiere": "May 4, 2021",
         "Seasons": "1 season, 16 episodes",
         "Runtime": "26–76 min",
-        "Status": "Season 2 due to premiere in Late 2022"
+        "Status": "Season 2 due to premiere on January 4, 2023"
       },
       {
         "Title": "Monsters at Work",
@@ -219,7 +235,7 @@
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "32–38 min",
-        "Status": "Season 2 due to premiere early 2023, Renewed for season 3"
+        "Status": "Season 2 due to premiere in early 2023Renewed for season 3"
       },
       {
         "Title": "The Proud Family: Louder and Prouder",
@@ -227,13 +243,13 @@
         "Premiere": "February 23, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–32 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in February 2023"
       },
       {
-        "Title": "Cars on the Road",
-        "Genre": "Comedy",
-        "Premiere": "September 8, 2022",
-        "Seasons": "1 season, 9 episodes",
+        "Title": "Firebuds",
+        "Genre": "Musical comedy",
+        "Premiere": "September 21, 2022",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -278,6 +294,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "34–45 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "O Coro: Sucesso, Aqui vou eu",
+        "Genre": "Drama/Musical",
+        "Premiere": "September 28, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "45 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -306,10 +330,18 @@
       },
       {
         "Title": "Daddies on Request",
-        "Genre": "Comedy/Drama/Musical",
+        "Genre": "Musical dramedy",
         "Premiere": "July 13, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–36 min",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Tierra Incognita",
+        "Genre": "Mystery/Horror",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "35–44 min",
         "Status": "Pending"
       }
     ]
@@ -350,7 +382,7 @@
         "Premiere": "November 12, 2019",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "6–13 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "One Day at Disney Shorts",
@@ -382,7 +414,7 @@
         "Premiere": "May 22, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "5–50 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Inside Pixar",
@@ -462,7 +494,7 @@
         "Premiere": "September 29, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "7–9 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Olaf Presents",
@@ -495,6 +527,22 @@
         "Seasons": "1 season, 5 episodes",
         "Runtime": "6 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Cars on the Road",
+        "Genre": "Comedy",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "10–14 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Tales of the Jedi",
+        "Genre": "Animated space opera anthology",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       },
       {
         "Title": "Zootopia+",
@@ -538,6 +586,15 @@
         "Runtime": "23–26 min",
         "Prev. network(s)": "National Geographic",
         "Status": "Ended"
+      },
+      {
+        "Title": "Dancing with the Stars (seasons 31–32)",
+        "Genre": "Reality competition",
+        "Premiere": "September 19, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Prev. network(s)": "ABC",
+        "Status": "Renewed"
       }
     ]
   },
@@ -552,7 +609,7 @@
         "Title": "One Day at Disney",
         "Genre": "Documentary",
         "Premiere": "December 3, 2019",
-        "Runtime": "1 hour, 1 min"
+        "Runtime": "1 h 1 min"
       },
       {
         "Title": "High School Musical: The Musical: The Series: The Special",
@@ -588,19 +645,25 @@
         "Title": "It Was Always Me: Behind the Story",
         "Genre": "Making-of documentary",
         "Premiere": "September 2, 2022",
-        "Runtime": "TBA"
+        "Runtime": "31 min"
+      },
+      {
+        "Title": "Andor: A Disney+ Day Special Look",
+        "Genre": "Making-of documentary",
+        "Premiere": "September 8, 2022",
+        "Runtime": "10 min"
       },
       {
         "Title": "Dancing With the Stars: The Pros' Most Memorable Dances",
         "Genre": "Retrospective special",
         "Premiere": "September 8, 2022",
-        "Runtime": "TBA"
+        "Runtime": "56 min"
       },
       {
-        "Title": "Obi-Wan Kenobi: A Jedi’s Return",
+        "Title": "Obi-Wan Kenobi: A Jedi's Return",
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
-        "Runtime": "TBA"
+        "Runtime": "1 h"
       }
     ]
   },
@@ -639,9 +702,9 @@
         "Title": "Marvel Studios: Assembled",
         "Genre": "Making-of docuseries",
         "Premiere": "March 12, 2021",
-        "Seasons": "1 season, 11 episodes",
+        "Seasons": "1 season, 12 episodes",
         "Runtime": "42–67 min",
-        "Status": "New episode due to premiere on September 8, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Disney Gallery: The Book of Boba Fett",
@@ -658,7 +721,28 @@
       "Original programming",
       "Regional original programming"
     ],
-    "data": []
+    "data": [
+      {
+        "Title": "Fearless: The Inside Story of the AFLW",
+        "Genre": "Docuseries",
+        "Premiere": "August 24, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "46–52 min",
+        "Exclusive region(s)": "Selected territories",
+        "Language": "English",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Shipwreck Hunters Australia",
+        "Genre": "Docuseries",
+        "Premiere": "October 5, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia &amp; New Zealand",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
   },
   {
     "category": [

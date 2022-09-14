@@ -51,7 +51,7 @@
         "Premiere": "April 26, 2017",
         "Seasons": "4 seasons, 46 episodes",
         "Length": "44–64 min.",
-        "Status": "Season 5 due to premiere on September 14, 2022"
+        "Status": "Season 5 due to premiere on September 14, 2022Renewed for final season"
       },
       {
         "Title": "Runaways",
@@ -106,7 +106,7 @@
         "Genre": "Drama",
         "Premiere": "September 4, 2019",
         "Seasons": "2 seasons, 20 episodes",
-        "Length": "59 min.",
+        "Length": "41–58 min.",
         "Status": "Renewed for final season"
       },
       {
@@ -187,7 +187,7 @@
         "Premiere": "July 15, 2021",
         "Seasons": "2 seasons, 15 episodes",
         "Length": "38–49 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Nine Perfect Strangers",
@@ -195,7 +195,7 @@
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–55 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Y: The Last Man",
@@ -211,7 +211,7 @@
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 5 episodes",
         "Length": "28−33 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Dopesick",
@@ -270,36 +270,36 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Mike",
         "Genre": "Biographical drama",
         "Premiere": "August 25, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "24–33 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "The Patient",
         "Genre": "Psychological thriller",
         "Premiere": "August 30, 2022",
         "Seasons": "10 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "21–22 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Tell Me Lies",
         "Genre": "Drama",
         "Premiere": "September 7, 2022",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 10 episodes",
+        "Length": "45–53 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Reasonable Doubt",
@@ -314,7 +314,7 @@
         "Genre": "Biographical drama",
         "Premiere": "November 22, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBS",
+        "Length": "TBA",
         "Status": "Miniseries"
       }
     ]
@@ -330,7 +330,7 @@
         "Genre": "Mockumentary",
         "Premiere": "February 14, 2012",
         "Seasons": "1 season, 13 episodes",
-        "Length": "22 min.",
+        "Length": "19–22 min.",
         "Status": "Ended"
       },
       {
@@ -338,7 +338,7 @@
         "Genre": "Western",
         "Premiere": "August 5, 2013",
         "Seasons": "2 seasons, 18 episodes",
-        "Length": "22 min.",
+        "Length": "22–23 min.",
         "Status": "Ended"
       },
       {
@@ -346,7 +346,7 @@
         "Genre": "Supernatural",
         "Premiere": "April 9, 2014",
         "Seasons": "3 seasons, 36 episodes",
-        "Length": "23 min.",
+        "Length": "21–23 min.",
         "Status": "Ended"
       },
       {
@@ -354,7 +354,7 @@
         "Genre": "Parody",
         "Premiere": "July 15, 2014",
         "Seasons": "2 seasons, 14 episodes",
-        "Length": "23 min.",
+        "Length": "22–23 min.",
         "Status": "Ended"
       },
       {
@@ -402,7 +402,7 @@
         "Genre": "Comedy",
         "Premiere": "March 15, 2019",
         "Seasons": "3 seasons, 22 episodes",
-        "Length": "30 min.",
+        "Length": "21–29 min.",
         "Status": "Ended"
       },
       {
@@ -458,7 +458,7 @@
         "Genre": "Teen drama/Comedy drama",
         "Premiere": "August 9, 2021",
         "Seasons": "2 seasons, 18 episodes",
-        "Length": "30 min.",
+        "Length": "24–30 min.",
         "Status": "Season 2 ongoing"
       },
       {
@@ -467,7 +467,7 @@
         "Premiere": "August 31, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "28–37 min.",
-        "Status": "Season 2 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "How I Met Your Father",
@@ -487,7 +487,7 @@
       },
       {
         "Title": "The Bear",
-        "Genre": "Comedy",
+        "Genre": "Comedy drama",
         "Premiere": "June 23, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "20-47 min.",
@@ -499,7 +499,7 @@
         "Premiere": "July 6, 2022",
         "Seasons": "1 season, 13 episodes",
         "Length": "22–24 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "This Fool",
@@ -539,7 +539,7 @@
         "Genre": "Superhero comedy",
         "Premiere": "August 1, 2013",
         "Seasons": "3 seasons, 30 episodes",
-        "Length": "22 min.",
+        "Length": "21–23 min.",
         "Status": "Ended"
       },
       {
@@ -547,7 +547,7 @@
         "Genre": "Animated sitcom",
         "Premiere": "November 6, 2013",
         "Seasons": "1 season, 13 episodes",
-        "Length": "22 min.",
+        "Length": "21–22 min.",
         "Status": "Ended"
       },
       {
@@ -629,7 +629,7 @@
         "Genre": "Biographical",
         "Premiere": "September 29, 2011",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "22 min.",
+        "Length": "20–27 min.",
         "Status": "Ended"
       },
       {
@@ -637,7 +637,7 @@
         "Genre": "Travel comedy",
         "Premiere": "August 9, 2012",
         "Seasons": "1 season, 6 episodes",
-        "Length": "24 min.",
+        "Length": "24–26 min.",
         "Status": "Ended"
       },
       {
@@ -669,7 +669,7 @@
         "Genre": "Docuseries",
         "Premiere": "November 1, 2019",
         "Seasons": "1 season, 8 episodes",
-        "Length": "59 min.",
+        "Length": "47–59 min.",
         "Status": "Ended"
       },
       {
@@ -685,7 +685,7 @@
         "Genre": "Docuseries",
         "Premiere": "March 6, 2020",
         "Seasons": "4 episodes",
-        "Length": "59 min.",
+        "Length": "62–65 min.",
         "Status": "Miniseries"
       },
       {
@@ -783,6 +783,14 @@
         "Seasons": "10 episodes",
         "Length": "59–61 min.",
         "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "The Murders Before the Marathon",
+        "Genre": "True crime",
+        "Premiere": "September 5, 2022",
+        "Seasons": "3 episodes",
+        "Length": "42–47 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -806,7 +814,7 @@
         "Genre": "Reality",
         "Premiere": "November 11, 2020",
         "Seasons": "1 season, 7 episodes",
-        "Length": "25 min.",
+        "Length": "24–31 min.",
         "Status": "Ended"
       },
       {
@@ -854,6 +862,14 @@
         "Genre": "Cooking competition",
         "Premiere": "September 19, 2022",
         "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Chefs vs. Wild",
+        "Genre": "Cooking competition",
+        "Premiere": "September 26, 2022",
+        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -950,7 +966,7 @@
         "Genre": "Satire dark comedy",
         "Premiere": "May 17, 2019",
         "Seasons": "6 episodes",
-        "Length": "60 min.",
+        "Length": "40–46 min.",
         "Status": "Miniseries"
       },
       {
@@ -959,7 +975,7 @@
         "Genre": "Comedy drama",
         "Premiere": "August 21, 2019",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "29 min.",
+        "Length": "23–25 min.",
         "Status": "Ended"
       },
       {
@@ -986,7 +1002,7 @@
         "Genre": "Teen science fiction drama",
         "Premiere": "February 14, 2020",
         "Seasons": "1 season, 10 episodes",
-        "Length": "60 min.",
+        "Length": "44 min.",
         "Status": "Ended"
       },
       {
@@ -995,7 +1011,7 @@
         "Genre": "Drama",
         "Premiere": "April 29, 2020",
         "Seasons": "12 episodes",
-        "Length": "29 min.",
+        "Length": "21–33 min.",
         "Status": "Miniseries"
       },
       {
@@ -1012,9 +1028,9 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Length": "23 min.",
-        "Status": "Season 3 due to premiere on September 1, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "No Man's Land",
@@ -1022,7 +1038,7 @@
         "Genre": "Drama",
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Length": "59 min.",
+        "Length": "42–52 min.",
         "Status": "Ended"
       },
       {
@@ -1049,7 +1065,7 @@
         "Genre": "Psychological thriller",
         "Premiere": "January 22, 2021",
         "Seasons": "4 episodes",
-        "Length": "59 min.",
+        "Length": "45–46 min.",
         "Status": "Miniseries"
       },
       {
@@ -1057,9 +1073,9 @@
         "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "3 seasons, 19 episodes",
-        "Length": "22 min.",
-        "Status": "Season 4 due to premiere on August 31, 2022"
+        "Seasons": "4 seasons, 26 episodes",
+        "Length": "23 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -1067,7 +1083,7 @@
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
         "Seasons": "3 season, 20 episodes",
-        "Length": "22 min.",
+        "Length": "23 min.",
         "Status": "Pending"
       },
       {
@@ -1075,9 +1091,9 @@
         "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
         "Premiere": "May 15, 2022",
-        "Seasons": "1 season, 12 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Seasons": "12 episodes",
+        "Length": "25–31 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Awaiting release",
@@ -1087,6 +1103,15 @@
         "Seasons": "Awaiting release",
         "Length": "Awaiting release",
         "Status": "Awaiting release"
+      },
+      {
+        "Title": "Abominable and the Invisible City",
+        "Partner/Country": "Peacock/United States",
+        "Genre": "Animated adventure",
+        "Premiere": "October 5, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pending"
       },
       {
         "Title": "The Hair Tales",
@@ -1171,6 +1196,315 @@
         "Premiere": "November 26, 2021",
         "Length": "23 min.",
         "Language": "English"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Length": "Awaiting release",
+        "Language": "Awaiting release"
+      },
+      {
+        "Title": "A Sinister Halloween Scary Opposites Solar Special",
+        "Genre": "Animated science fiction sitcom",
+        "Premiere": "October 3, 2022",
+        "Length": "TBA",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Exclusive international distribution"
+    ],
+    "data": [
+      {
+        "Title": "Moone Boy",
+        "Genre": "Comedy",
+        "Original network": "Sky One",
+        "Premiere": "July 10, 2013",
+        "Seasons": "3 seasons, 18 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "National Treasure",
+        "Genre": "Drama",
+        "Original network": "Channel 4",
+        "Premiere": "March 1, 2017",
+        "Seasons": "4 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "National Treasure: Kiri",
+        "Genre": "Drama",
+        "Original network": "Channel 4",
+        "Premiere": "April 4, 2018",
+        "Seasons": "4 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Find Me in Paris",
+        "Genre": "Teen drama",
+        "Original network": "ZDF",
+        "Premiere": "July 20, 2018",
+        "Seasons": "3 seasons, 78 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Safe Harbour",
+        "Genre": "Drama",
+        "Original network": "SBS",
+        "Premiere": "August 24, 2018",
+        "Seasons": "1 season, 4 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Das Boot",
+        "Genre": "Drama",
+        "Original network": "Sky",
+        "Premiere": "June 17, 2019",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "English/German/French",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Letterkenny",
+        "Genre": "Comedy",
+        "Original network": "Crave",
+        "Premiere": "July 13, 2018",
+        "Seasons": "10 seasons, 68 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Littlekenny",
+        "Genre": "Adult animation",
+        "Original network": "Crave",
+        "Premiere": "December 27, 2019",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Jamie: Keep Cooking and Carry On",
+        "Genre": "Cooking show",
+        "Original network": "Channel 4",
+        "Premiere": "July 27, 2020",
+        "Seasons": "1 season, 20 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Maxxx",
+        "Genre": "Comedy",
+        "Original network": "E4",
+        "Premiere": "July 28, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Ladhood",
+        "Genre": "Comedy",
+        "Original network": "BBC Three",
+        "Premiere": "July 29, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "In My Skin",
+        "Genre": "Dark comedy",
+        "Original network": "BBC Three",
+        "Premiere": "July 30, 2020",
+        "Seasons": "2 seasons, 10 episodes",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Brassic",
+        "Genre": "Comedy",
+        "Original network": "Sky One",
+        "Premiere": "July 31, 2020",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Staged",
+        "Genre": "Comedy",
+        "Original network": "BBC One",
+        "Premiere": "September 16, 2020",
+        "Seasons": "2 seasons, 14 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Jann",
+        "Genre": "Comedy",
+        "Original network": "CTV",
+        "Premiere": "January 29, 2021",
+        "Seasons": "2 seasons, 14 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bad Habits, Holy Orders",
+        "Genre": "Reality",
+        "Original network": "Channel 5",
+        "Premiere": "February 16, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Rūrangi",
+        "Genre": "Drama",
+        "Original network": "N/A",
+        "Premiere": "June 14, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Language": "English/Māori",
+        "Status": "Pending"
+      },
+      {
+        "Title": "No fue mi culpa",
+        "Genre": "Drama",
+        "Original network": "Star+",
+        "Premiere": "September 28, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bloods",
+        "Genre": "Comedy",
+        "Original network": "Sky One",
+        "Premiere": "December 9, 2021",
+        "Seasons": "2 seasons, 16 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Creamerie",
+        "Genre": "Drama",
+        "Original network": "TVNZ",
+        "Premiere": "December 9, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Insanity",
+        "Genre": "Drama",
+        "Original network": "Star+",
+        "Premiere": "March 14, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Alternative Therapy",
+        "Genre": "Comedy",
+        "Original network": "Star+",
+        "Premiere": "March 14, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Outrun by Running Man",
+        "Genre": "Variety show",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "March 22, 2022",
+        "Seasons": "1 season, 14 episodes",
+        "Language": "Korean",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Ignorant Angels",
+        "Genre": "Romantic drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "May 11, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "Italian",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Oussekine",
+        "Genre": "Drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "May 25, 2022",
+        "Seasons": "4 episodes",
+        "Language": "French",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Shoresy",
+        "Genre": "Comedy",
+        "Original network": "Crave",
+        "Premiere": "May 27, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Heartthrob: TV Changed, He Didn't",
+        "Genre": "Black comedy",
+        "Original network": "Star+",
+        "Premiere": "June 8, 2022",
+        "Seasons": "1 season, 12 episodes",
+        "Language": "Spanish",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Santa Evita",
+        "Genre": "Historical drama",
+        "Original network": "Star+",
+        "Premiere": "July 26, 2022",
+        "Seasons": "7 episodes",
+        "Language": "Spanish",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Fearless: The Inside Story of the AFLW",
+        "Genre": "Docuseries",
+        "Original network": "Disney+",
+        "Premiere": "August 24, 2022",
+        "Seasons": "6 episodes",
+        "Language": "English",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Grid",
+        "Genre": "Mystery techno-thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "September 7, 2022",
+        "Seasons": "10 episodes",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Wedding Season",
+        "Genre": "Comedy thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Zone: Survival Mission",
+        "Genre": "Variety show",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "Korean",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1180,6 +1514,14 @@
       "Drama"
     ],
     "data": [
+      {
+        "Title": "Faraway Downs",
+        "Genre": "Historical drama miniseries",
+        "Premiere": "Late 2022",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
       {
         "Title": "The Devil in the White City",
         "Genre": "Drama miniseries",
@@ -1208,7 +1550,7 @@
         "Title": "Career Opportunities in Murder &amp; Mayhem",
         "Genre": "Drama",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -1303,24 +1645,24 @@
       {
         "Title": "The Full Monty",
         "Genre": "Comedy drama",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Filming"
       },
       {
         "Title": "Unprisoned",
         "Genre": "Comedy",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Up Here",
         "Genre": "Musical romantic comedy",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1336,8 +1678,8 @@
       {
         "Title": "Koala Man",
         "Genre": "Superhero comedy",
-        "Seasons": "1 season, 8 episodes",
         "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1353,96 +1695,121 @@
       {
         "Title": "RapCaviar Presents",
         "Genre": "Music",
-        "Seasons": "TBA",
         "Premiere": "2022",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "The Age of Influence",
         "Genre": "Documentary",
-        "Seasons": "6 episodes",
         "Premiere": "TBA",
+        "Seasons": "6 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Death in the Dorms",
         "Genre": "True crime",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Demons and Saviors",
         "Genre": "True crime",
-        "Seasons": "3 episodes",
         "Premiere": "TBA",
+        "Seasons": "3 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Grails",
         "Genre": "Business",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "IMPACT x Nightline",
         "Genre": "News magazine",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Murder U",
         "Genre": "True crime",
+        "Premiere": "TBA",
         "Seasons": "TBA",
-        "Premiere": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Murders Before the Marathon",
-        "Genre": "True crime",
-        "Seasons": "3 episodes",
-        "Premiere": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Untitled The 1619 Project docuseries",
         "Genre": "History",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Untitled George Stephanopoulos project",
         "Genre": "Politics",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Untitled Scott Johnson project",
         "Genre": "True crime",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Web of Death",
         "Genre": "True crime",
-        "Seasons": "TBA",
         "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "Burning Men",
+        "Genre": "Cooking competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Drag Me to Dinner",
+        "Genre": "Cooking competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Secret Chef",
+        "Genre": "Cooking competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1458,8 +1825,8 @@
       {
         "Title": "History of the World, Part II",
         "Genre": "Variety",
-        "Seasons": "1 season, 8 episodes",
         "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1475,8 +1842,8 @@
         "Title": "Spellbound",
         "Genre": "Teen drama",
         "Partner/Country": "ZDF/GermanyFrance Television/France",
-        "Seasons": "1 season, 26 episodes",
         "Premiere": "TBA",
+        "Seasons": "1 season, 26 episodes",
         "Length": "30 min.",
         "Status": "Series order"
       }
@@ -1492,8 +1859,8 @@
         "Title": "Futurama (season 8)",
         "Genre": "Animated science-fiction sitcom",
         "Prev. network(s)": "Fox (seasons 1–4)Comedy Central (seasons 5–7)",
-        "Seasons": "1 season, 20 episodes",
         "Premiere": "2023",
+        "Seasons": "1 season, 20 episodes",
         "Length": "TBA",
         "Status": "Season order"
       }
@@ -1530,6 +1897,10 @@
         "Genre": "Fantasy"
       },
       {
+        "Title": "First Lie Wins",
+        "Genre": "Drama"
+      },
+      {
         "Title": "The Golden Cage",
         "Genre": "Drama"
       },
@@ -1548,6 +1919,10 @@
       {
         "Title": "MaddAddam",
         "Genre": "Apocalyptic thriller"
+      },
+      {
+        "Title": "Phony",
+        "Genre": "Mystery comedy"
       },
       {
         "Title": "Sound of the Police",
@@ -1572,193 +1947,6 @@
       {
         "Title": "Untitled orphan project",
         "Genre": "Drama"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution"
-    ],
-    "data": [
-      {
-        "Title": "Moone Boy",
-        "Genre": "Comedy",
-        "Original network": "Sky One",
-        "Original region": "United Kingdom",
-        "Seasons": "3 seasons, 18 episodes",
-        "Run": "2013–15",
-        "Language": "English"
-      },
-      {
-        "Title": "Bad Habits, Holy Orders",
-        "Genre": "Reality",
-        "Original network": "Channel 5",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 4 episodes",
-        "Run": "2017",
-        "Language": "English"
-      },
-      {
-        "Title": "National Treasure",
-        "Genre": "Drama",
-        "Original network": "Channel 4",
-        "Original region": "United Kingdom",
-        "Seasons": "4 episodes",
-        "Run": "2017",
-        "Language": "English"
-      },
-      {
-        "Title": "National Treasure: Kiri",
-        "Genre": "Drama",
-        "Original network": "Channel 4",
-        "Original region": "United Kingdom",
-        "Seasons": "4 episodes",
-        "Run": "2018",
-        "Language": "English"
-      },
-      {
-        "Title": "Find Me in Paris",
-        "Genre": "Teen drama",
-        "Original network": "ZDF",
-        "Original region": "Germany",
-        "Seasons": "3 seasons, 78 episodes",
-        "Run": "2018–20",
-        "Language": "English"
-      },
-      {
-        "Title": "Safe Harbour",
-        "Genre": "Drama",
-        "Original network": "SBS",
-        "Original region": "Australia",
-        "Seasons": "1 season, 4 episodes",
-        "Run": "2018",
-        "Language": "English"
-      },
-      {
-        "Title": "Das Boot",
-        "Genre": "Drama",
-        "Original network": "Sky",
-        "Original region": "Germany",
-        "Seasons": "1 season, 8 episodes",
-        "Run": "2019–",
-        "Language": "English/German/French"
-      },
-      {
-        "Title": "Letterkenny",
-        "Genre": "Comedy",
-        "Original network": "Crave",
-        "Original region": "Canada",
-        "Seasons": "8 seasons, 54 episodes",
-        "Run": "2019–",
-        "Language": "English"
-      },
-      {
-        "Title": "Littlekenny",
-        "Genre": "Adult animation",
-        "Original network": "Crave",
-        "Original region": "Canada",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2019–",
-        "Language": "English"
-      },
-      {
-        "Title": "Jamie: Keep Cooking and Carry On",
-        "Genre": "Cooking show",
-        "Original network": "Channel 4",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 20 episodes",
-        "Run": "2020–",
-        "Language": "English"
-      },
-      {
-        "Title": "Maxxx",
-        "Genre": "Comedy",
-        "Original network": "E4",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2020–",
-        "Language": "English"
-      },
-      {
-        "Title": "Ladhood",
-        "Genre": "Comedy",
-        "Original network": "BBC Three",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2020–",
-        "Language": "English"
-      },
-      {
-        "Title": "In My Skin",
-        "Genre": "Dark comedy",
-        "Original network": "BBC Three",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 5 episodes",
-        "Run": "2020–",
-        "Language": "English"
-      },
-      {
-        "Title": "Brassic",
-        "Genre": "Comedy",
-        "Original network": "Sky One",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2020–",
-        "Language": "English"
-      },
-      {
-        "Title": "Staged",
-        "Genre": "Comedy",
-        "Original network": "BBC One",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2020–",
-        "Language": "English"
-      },
-      {
-        "Title": "Jann",
-        "Genre": "Comedy",
-        "Original network": "CTV",
-        "Original region": "Canada",
-        "Seasons": "2 seasons, 14 episodes",
-        "Run": "2021–",
-        "Language": "English"
-      },
-      {
-        "Title": "Rūrangi",
-        "Genre": "Drama",
-        "Original network": "N/A",
-        "Original region": "New Zealand",
-        "Seasons": "1 season, 5 episodes",
-        "Run": "2021",
-        "Language": "English/Māori"
-      },
-      {
-        "Title": "Bloods",
-        "Genre": "Comedy",
-        "Original network": "Sky One",
-        "Original region": "United Kingdom",
-        "Seasons": "1 season, 8 episodes",
-        "Run": "2021",
-        "Language": "English"
-      },
-      {
-        "Title": "Creamerie",
-        "Genre": "Drama",
-        "Original network": "TVNZ",
-        "Original region": "New Zealand",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2021",
-        "Language": "English"
-      },
-      {
-        "Title": "Shoresy",
-        "Genre": "Comedy",
-        "Original network": "Crave",
-        "Original region": "Canada",
-        "Seasons": "1 season, 6 episodes",
-        "Run": "2022",
-        "Language": "English"
       }
     ]
   }

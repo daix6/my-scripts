@@ -139,7 +139,7 @@
         "Premiere": "April 22, 2021",
         "Seasons": "2 seasons, 18 episodes",
         "Length": "23–30 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Girls5eva",
@@ -175,11 +175,11 @@
       },
       {
         "Title": "The Resort",
-        "Genre": "Dark comedy",
+        "Genre": "Crime comedy",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "34–35 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Pitch Perfect: Bumper in Berlin",
@@ -227,7 +227,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoing; Renewed"
+        "Status": "Season 1 ongoingRenewed"
       },
       {
         "Title": "Supernatural Academy",
@@ -235,6 +235,30 @@
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
         "Length": "30 min.",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Sports"
+    ],
+    "data": [
+      {
+        "Title": "WWE Main Event",
+        "Genre": "Professional wrestling",
+        "Premiere": "April 4, 2021",
+        "Seasons": "11 season, 517 episodes",
+        "Length": "43–55 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "WWE NXT Level Up",
+        "Genre": "Professional wrestling",
+        "Premiere": "February 18, 2022",
+        "Seasons": "1 season, 28 episodes",
+        "Length": "30–60 min.",
         "Status": "Pending"
       }
     ]
@@ -259,9 +283,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Length": "23 min.",
-        "Status": "Season 3 due to premiere on September 1, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Trolls: TrollsTopia",
@@ -286,9 +310,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "3 seasons, 19 episodes",
+        "Seasons": "4 seasons, 26 episodes",
         "Length": "23 min.",
-        "Status": "Season 4 due to premiere on August 31, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -323,8 +347,17 @@
         "Genre": "Thriller",
         "Premiere": "September 8, 2022",
         "Seasons": "5 episodes",
-        "Length": "60 min.",
+        "Length": "42–43 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Abominable and the Invisible City",
+        "Partner": "Hulu",
+        "Genre": "Animated adventure",
+        "Premiere": "October 5, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -402,17 +435,17 @@
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "1 season, 37 episodes",
+        "Seasons": "1 season, 38 episodes",
         "Length": "42–65 min.",
-        "Status": "Season 4 ongoing; Renewed"
+        "Status": "Renewed"
       },
       {
-        "Title": "Days of Our Lives (season 58)",
+        "Title": "Days of Our Lives (seasons 57–58)",
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
         "Seasons": "TBA",
-        "Length": "TBA",
+        "Length": "37 min.",
         "Status": "Pending"
       }
     ]
@@ -464,6 +497,50 @@
         "Premiere": "August 25, 2022",
         "Length": "44 min.",
         "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Programming under Telemundo's TPlus",
+      "Scripted"
+    ],
+    "data": [
+      {
+        "Title": "Leopard Skin",
+        "Genre": "Crime drama",
+        "Premiere": "November 17, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Programming under Telemundo's TPlus",
+      "Scripted"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Original programming",
+      "Programming under Telemundo's TPlus",
+      "Unscripted"
+    ],
+    "data": [
+      {
+        "Title": "Love for the Ages",
+        "Genre": "Reality",
+        "Premiere": "December 15, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "EnglishSpanish",
+        "Status": "Pending"
       }
     ]
   }
