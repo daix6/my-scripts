@@ -87,7 +87,7 @@
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
         "Seasons/episodes": "2 season, 16 episodes",
-        "Status": "Renewed for seasons 3 and 4 (final)"
+        "Status": "Season 3 due to premiere on December 21, 2022Renewed for final season"
       },
       {
         "Title": "The Romanoffs",
@@ -213,7 +213,7 @@
         "Genre": "Mystery thriller",
         "Premiere": "April 15, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Night Sky",
@@ -248,14 +248,7 @@
         "Genre": "Fantasy",
         "Premiere": "September 1, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 1 ongoingRenewed"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons/episodes": "Awaiting release",
-        "Status": "Awaiting release"
+        "Status": "Renewed"
       },
       {
         "Title": "Jungle",
@@ -263,6 +256,13 @@
         "Premiere": "September 30, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "The Peripheral",
@@ -277,13 +277,6 @@
         "Premiere": "October 28, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
-      },
-      {
-        "Title": "The English",
-        "Genre": "Epic Western",
-        "Premiere": "November 11, 2022",
-        "Seasons/episodes": "6 episodes",
-        "Status": "Miniseries"
       }
     ]
   },
@@ -509,6 +502,20 @@
         "Premiere": "August 12, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Mammals",
+        "Genre": "Comedy drama",
+        "Premiere": "November 11, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -545,7 +552,7 @@
         "Genre": "Fantasy action",
         "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in January 2023Renewed for season 3"
       },
       {
         "Title": "The Boys Presents: Diabolical",
@@ -833,7 +840,7 @@
         "Genre": "Romantic comedy-drama",
         "Premiere": "January 25, 2019",
         "Seasons/episodes": "2 seasons, 20 episodes",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on October 21, 2022"
       },
       {
         "Title": "Made in Heaven",
@@ -960,6 +967,13 @@
         "Premiere": "April 22, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Hush Hush",
+        "Genre": "Drama",
+        "Premiere": "September 22, 2022",
+        "Seasons/episodes": "1 season, 7 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -989,13 +1003,20 @@
         "Genre": "Comedy",
         "Premiere": "November 5, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Ended"
+        "Status": "Moved to Paramount+"
       },
       {
         "Title": "Bang Bang Baby",
         "Genre": "Crime drama",
         "Premiere": "April 28, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Prisma",
+        "Genre": "Teen drama",
+        "Premiere": "September 21, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
       }
     ]
@@ -1141,16 +1162,16 @@
         "Status": "Pending"
       },
       {
-        "Title": "Short Program",
-        "Genre": "Anthology drama",
-        "Premiere": "March 1, 2022",
-        "Seasons/episodes": "1 season, 11 episodes",
-        "Status": "Ended"
-      },
-      {
         "Title": "Game of Spy",
         "Genre": "Spy thriller",
         "Premiere": "June 24, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Map for the Wedding",
+        "Genre": "Drama",
+        "Premiere": "October 7, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
       },
@@ -1239,8 +1260,8 @@
         "Title": "An Unknown Enemy",
         "Genre": "Political thriller",
         "Premiere": "October 2, 2018",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Seasons/episodes": "2 seasons, 14 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Pequeñas coincidencias",
@@ -1250,11 +1271,11 @@
         "Status": "Ended"
       },
       {
-        "Title": "El Presidente",
+        "Title": "El presidente",
         "Genre": "Sports drama",
         "Premiere": "June 5, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Ended"
+        "Status": "Season 2 due to premiere on November 4, 2022"
       },
       {
         "Title": "How to Survive Being Single",
@@ -1278,7 +1299,7 @@
         "Status": "Renewed"
       },
       {
-        "Title": "El Candidato",
+        "Title": "El candidato",
         "Genre": "Crime drama",
         "Premiere": "July 17, 2020",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -1306,7 +1327,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "El Internado: Las Cumbres",
+        "Title": "The Boarding School: Las Cumbres",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
         "Seasons/episodes": "2 seasons, 16 episodes",
@@ -1345,6 +1366,27 @@
         "Genre": "Historical drama",
         "Premiere": "June 10, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Supernova",
+        "Genre": "Comedy drama",
+        "Premiere": "July 7, 2022",
+        "Seasons/episodes": "4 episodes",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "A Private Affair",
+        "Genre": "Thriller comedy",
+        "Premiere": "September 16, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Filthy Envy",
+        "Genre": "Comedy drama",
+        "Premiere": "October 7, 2022",
+        "Seasons/episodes": "6 episodes",
         "Status": "Pending"
       }
     ]
@@ -1465,9 +1507,9 @@
         "Title": "The Grand Tour",
         "Genre": "Motoring",
         "Premiere": "November 18, 2016",
-        "Seasons/episodes": "4 seasons, 42 episodes",
+        "Seasons/episodes": "5 seasons, 43 episodes",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 5 ongoing"
       },
       {
         "Title": "Ishi-chan no Sake Tabi",
@@ -1662,12 +1704,12 @@
         "Status": "Ended"
       },
       {
-        "Title": "James May: Our Man in Japan",
+        "Title": "James May: Our Man in...",
         "Genre": "Travel documentary",
         "Premiere": "January 3, 2020",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "2 seasons, 12 episodes",
         "Language": "English",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "All or Nothing: Brazil National Team",
@@ -1691,7 +1733,7 @@
         "Premiere": "March 12, 2020",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "English",
-        "Status": "Ended"
+        "Status": "Season 2 due to premiere in 2023"
       },
       {
         "Title": "Regular Heroes",
@@ -1878,6 +1920,14 @@
         "Status": "Ended"
       },
       {
+        "Title": "MotoGP: Unlimited",
+        "Genre": "Sports documentary",
+        "Premiere": "August 4, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
         "Title": "The Unsolved Murder of Beverly Lynn Smith",
         "Genre": "Docuseries",
         "Premiere": "May 6, 2022",
@@ -1894,20 +1944,28 @@
         "Status": "Ended"
       },
       {
-        "Title": "James May: Our Man in Italy",
-        "Genre": "Travel documentary",
-        "Premiere": "July 15, 2022",
-        "Seasons/episodes": "1 season, 6 episodes",
-        "Language": "English",
-        "Status": "Ended"
-      },
-      {
         "Title": "All or Nothing: Arsenal",
         "Genre": "Sports documentary",
         "Premiere": "August 4, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "Academy Dreams: Leeds United",
+        "Genre": "Sports documentary",
+        "Premiere": "September 23, 2022",
+        "Seasons/episodes": "6 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Life After",
+        "Genre": "Sports documentary",
+        "Premiere": "October 18, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -2130,9 +2188,9 @@
         "Title": "Luxe Listings Sydney",
         "Genre": "Reality",
         "Premiere": "July 9, 2021",
-        "Seasons/episodes": "2 seasons, 9 episodes",
+        "Seasons/episodes": "3 seasons, 18 episodes",
         "Language": "English",
-        "Status": "Season 3 due to premiere on September 30, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "LOL - Enga Siri Paappom",
@@ -2229,6 +2287,22 @@
         "Seasons/episodes": "1 season, 10 episodes",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Dr. Seuss Baking Challenge",
+        "Genre": "Cooking competition",
+        "Premiere": "December 13, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -2264,7 +2338,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "Prime Rewind: Inside the Boys",
+        "Title": "Prime Rewind: Inside The Boys",
         "Genre": "Aftershow",
         "Premiere": "August 28, 2020",
         "Seasons/episodes": "1 season, 9 episodes",
@@ -2383,7 +2457,7 @@
         "Premiere": "May 31, 2019",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in 2023"
       },
       {
         "Title": "El juego de las llaves",
@@ -2528,6 +2602,33 @@
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Partner": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons/episodes": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The English",
+        "Partner": "BBC Two",
+        "Genre": "Epic Western",
+        "Premiere": "November 11, 2022",
+        "Seasons/episodes": "6 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Riches",
+        "Partner": "ITV",
+        "Genre": "Drama",
+        "Premiere": "December 2, 2022",
+        "Seasons/episodes": "6 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -2600,6 +2701,14 @@
         "Seasons/episodes": "1 season, 10 episodes",
         "Prime Video exclusive region": "United States, Canada, Australia, and New Zealand",
         "Status": "Ended"
+      },
+      {
+        "Title": "More Than Words",
+        "Genre": "Drama",
+        "Premiere": "September 16, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Prime Video exclusive region": "Japan",
+        "Status": "Pending"
       }
     ]
   },
@@ -2700,6 +2809,12 @@
     ],
     "data": [
       {
+        "Title": "Three Pines",
+        "Genre": "Crime drama",
+        "Premiere": "December 2022",
+        "Seasons": "TBA"
+      },
+      {
         "Title": "The Rig",
         "Genre": "Supernatural thriller",
         "Premiere": "2022",
@@ -2722,6 +2837,12 @@
         "Genre": "Fantasy drama miniseries",
         "Premiere": "TBA",
         "Seasons": "6 episodes"
+      },
+      {
+        "Title": "Blade Runner 2099",
+        "Genre": "Science fiction miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA"
       },
       {
         "Title": "Citadel",
@@ -2790,8 +2911,8 @@
         "Seasons": "TBA"
       },
       {
-        "Title": "Three Pines",
-        "Genre": "Crime drama",
+        "Title": "Untitled Butch Cassidy and the Sundance Kid series",
+        "Genre": "Western",
         "Premiere": "TBA",
         "Seasons": "TBA"
       },
@@ -2832,12 +2953,6 @@
         "Genre": "Dark comedy",
         "Premiere": "TBA",
         "Seasons": "TBA"
-      },
-      {
-        "Title": "Mammals",
-        "Genre": "Comedy drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes"
       },
       {
         "Title": "My Lady Jane",
@@ -2933,12 +3048,6 @@
         "Seasons/episodes": "TBA"
       },
       {
-        "Title": "Prisma",
-        "Genre": "Teen drama",
-        "Premiere": "2022",
-        "Seasons/episodes": "TBA"
-      },
-      {
         "Title": "Everybody Loves Diamonds",
         "Genre": "Heist drama",
         "Premiere": "2023",
@@ -2987,6 +3096,12 @@
         "Seasons/episodes": "TBA"
       },
       {
+        "Title": "Memento Mori",
+        "Genre": "Thriller",
+        "Premiere": "TBA",
+        "Seasons/episodes": "1 season, 6 episodes"
+      },
+      {
         "Title": "Noticia de un secuestro",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -3003,12 +3118,6 @@
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons/episodes": "TBA"
-      },
-      {
-        "Title": "Un Asunto Privado",
-        "Genre": "Thriller comedy",
-        "Premiere": "TBA",
-        "Seasons/episodes": "1 season, 8 episodes"
       }
     ]
   },
@@ -3041,6 +3150,13 @@
         "Premiere": "November 2022",
         "Seasons/episodes": "3 episodes",
         "Language": "Spanish"
+      },
+      {
+        "Title": "Coach Prime",
+        "Genre": "Sports docuseries",
+        "Premiere": "December 2022",
+        "Seasons/episodes": "4 episodes",
+        "Language": "English"
       },
       {
         "Title": "Fake Sheikh",
@@ -3129,13 +3245,6 @@
         "Language": "Japanese"
       },
       {
-        "Title": "Dr. Seuss Baking Challenge",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons/episodes": "TBA",
-        "Language": "English"
-      },
-      {
         "Title": "Dutch-language adaptation of Killer Camp",
         "Genre": "Reality competition",
         "Premiere": "TBA",
@@ -3222,10 +3331,6 @@
         "Genre": "Period drama"
       },
       {
-        "Title": "Blade Runner 2099",
-        "Genre": "Science fiction"
-      },
-      {
         "Title": "Dating the Lopez Ladies",
         "Genre": "Adult animated comedy"
       },
@@ -3288,6 +3393,10 @@
       {
         "Title": "The Promised Neverland",
         "Genre": "Dark fantasy mystery thriller"
+      },
+      {
+        "Title": "Seven Wonders",
+        "Genre": "Action-adventure"
       },
       {
         "Title": "She-Ra",

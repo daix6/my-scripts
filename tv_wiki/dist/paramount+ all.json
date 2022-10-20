@@ -10,7 +10,7 @@
         "Genre": "Legal drama",
         "Premiere": "February 19, 2017",
         "Seasons": "6 seasons, 60 episodes",
-        "Runtime": "47–53 min.",
+        "Runtime": "40–55 min.",
         "Status": "Final season ongoing"
       },
       {
@@ -19,7 +19,7 @@
         "Premiere": "September 24, 2017",
         "Seasons": "4 seasons, 55 episodes",
         "Runtime": "37–65 min.",
-        "Status": "Renewed"
+        "Status": "Season 5 due to premiere in 2023"
       },
       {
         "Title": "Strange Angel",
@@ -148,6 +148,22 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Criminal Minds: Evolution",
+        "Genre": "Crime drama",
+        "Premiere": "November 24, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Wolf Pack",
+        "Genre": "Horror",
+        "Premiere": "January 26, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -235,7 +251,7 @@
         "Genre": "Science fiction comedy",
         "Premiere": "August 6, 2020",
         "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "24–26 min.",
+        "Runtime": "24–27 min.",
         "Status": "Season 3 ongoing"
       },
       {
@@ -380,7 +396,7 @@
         "Title": "Never Seen Again",
         "Genre": "Docuseries",
         "Premiere": "May 10, 2022",
-        "Seasons": "2 seasons, 18 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Runtime": "23–29 min.",
         "Status": "Pending"
       },
@@ -393,19 +409,11 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "11 Minutes",
         "Genre": "Docuseries",
         "Premiere": "September 27, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "46–52 min.",
         "Status": "Miniseries"
       }
     ]
@@ -518,7 +526,7 @@
         "Title": "The Ready Room",
         "Genre": "Aftershow",
         "Premiere": "January 26, 2019",
-        "Seasons": "73 episodes",
+        "Seasons": "74 episodes",
         "Runtime": "14–56 min.",
         "Status": "Ongoing"
       },
@@ -562,6 +570,24 @@
         "Premiere": "July 10, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "44 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Partner/Country": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Corpo Libero",
+        "Genre": "Teen thriller drama",
+        "Partner/Country": "RAI/ItalyZDFneo/Germany",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -609,22 +635,22 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Inside the NFL (season 44)",
+        "Title": "Inside the NFL (seasons 44–45)",
         "Genre": "Sports",
         "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
         "Premiere": "September 7, 2021",
-        "Seasons": "1 season, 24 episodes",
+        "Seasons": "2 seasons, 48 episodes",
         "Runtime": "60–67 min.",
-        "Status": "Season 45 due to premiere on September 13, 2022"
+        "Status": "Season 45 ongoing"
       },
       {
-        "Title": "SEAL Team (season 5B–6)",
+        "Title": "SEAL Team (seasons 5B–6)",
         "Genre": "Military action",
         "Prev. network(s)": "CBS",
         "Premiere": "November 1, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "43–48 min.",
-        "Status": "Season 6 due to premiere on September 18, 2022"
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "43–49 min.",
+        "Status": "Season 6 ongoing"
       },
       {
         "Title": "Next Influencer (season 3)",
@@ -641,26 +667,35 @@
         "Prev. network(s)": "CBS",
         "Premiere": "July 17, 2022",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "40–43 min.",
-        "Status": "Season 2 ongoing"
+        "Runtime": "38–43 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Beavis and Butt-Head (season 9)",
         "Genre": "Adult animated comedy",
         "Prev. network(s)": "MTV",
         "Premiere": "August 4, 2022",
-        "Seasons": "1 season, 14 episodes",
+        "Seasons": "1 season, 23 episodes",
         "Runtime": "20–22 min.",
         "Status": "Season 9 ongoingRenewed"
       },
       {
         "Title": "Ink Master (season 14)",
-        "Genre": "Reality",
+        "Genre": "Reality competition",
         "Prev. network(s)": "Spike (seasons 1–10)Paramount Network (seasons 10–13)",
         "Premiere": "September 7, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "46–62 min.",
+        "Runtime": "45–62 min.",
         "Status": "Season 14 ongoing"
+      },
+      {
+        "Title": "My Dream Quinceañera (season 40)",
+        "Genre": "Reality",
+        "Prev. network(s)": "AwesomenessTV",
+        "Premiere": "September 16, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23–29 min.",
+        "Status": "Season 40 ongoing"
       },
       {
         "Title": "Awaiting release",
@@ -672,11 +707,11 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "My Dream Quinceañera (season 6)",
-        "Genre": "AwesomenessTV",
-        "Prev. network(s)": "Reality",
-        "Premiere": "September 16, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Title": "Inside Amy Schumer (season 5)",
+        "Genre": "Sketch comedy",
+        "Prev. network(s)": "Comedy Central",
+        "Premiere": "October 20, 2022",
+        "Seasons": "1 season, 5 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -823,38 +858,20 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Love Rats",
-        "Genre": "Docuseries",
-        "Premiere": "September 1, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Exclusive region(s)": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Girl in the Box: The True Story",
         "Genre": "Docuseries",
         "Premiere": "September 19, 2022",
         "Seasons": "2 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Millionaire Holiday Home Swap",
         "Genre": "Reality",
         "Premiere": "September 25, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -872,8 +889,62 @@
         "Genre": "Docuseries",
         "Premiere": "September 30, 2022",
         "Seasons": "4 episodes",
+        "Runtime": "49 min.",
+        "Exclusive region(s)": "Australia",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Undressed",
+        "Genre": "Reality",
+        "Premiere": "October 6, 2022",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Ex-Wife",
+        "Genre": "Psychological thriller",
+        "Premiere": "October 12, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Love Rats",
+        "Genre": "Docuseries",
+        "Premiere": "October 14, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Pervert: Hunting the Strip Search Caller",
+        "Genre": "Docuseries",
+        "Premiere": "October 25, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hauntings",
+        "Genre": "Docuseries",
+        "Premiere": "October 28, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "60 min.",
+        "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       }
     ]
@@ -913,13 +984,13 @@
     ],
     "data": [
       {
-        "Title": "Manos Arriba, Chef!",
+        "Title": "Manos arriba, Chef!",
         "Genre": "Reality competition",
         "Premiere": "July 29, 2021",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 29 episodes",
         "Runtime": "10–37 min.",
         "Exclusive region(s)": "Argentina",
-        "Status": "Pending"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Siendo Pampita",
@@ -1001,6 +1072,24 @@
         "Runtime": "48–52 min.",
         "Exclusive region(s)": "United States, Canada and Australia",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Bosé",
+        "Genre": "Biopic",
+        "Premiere": "November 3, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Spain",
+        "Status": "Pending"
       }
     ]
   },
@@ -1023,14 +1112,6 @@
         "Genre": "Spy drama",
         "Premiere": "2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Wolf Pack",
-        "Genre": "Horror",
-        "Premiere": "2022",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -1071,14 +1152,6 @@
         "Genre": "Crime drama anthology",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Criminal Minds: Evolution",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1147,14 +1220,6 @@
     ],
     "data": [
       {
-        "Title": "Frasier",
-        "Genre": "Sitcom",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Grease: Rise of the Pink Ladies",
         "Genre": "Musical romantic comedy",
         "Premiere": "2022",
@@ -1175,6 +1240,14 @@
         "Genre": "Adventure comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled Frasier sequel series",
+        "Genre": "Sitcom",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -1226,6 +1299,14 @@
         "Genre": "True crime",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Changemakers",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1302,14 +1383,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "The Weekly Show with Trevor Noah",
-        "Genre": "Talk show",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -1319,15 +1392,6 @@
       "Co-productions"
     ],
     "data": [
-      {
-        "Title": "The Gymnasts",
-        "Genre": "Teen thriller drama",
-        "Partner/Country": "RAI/ItalyZDFneo/Germany",
-        "Premiere": "2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
       {
         "Title": "Circeo",
         "Genre": "True crime drama",
@@ -1391,15 +1455,6 @@
         "Status": "Season order"
       },
       {
-        "Title": "Inside Amy Schumer (season 5 specials)",
-        "Genre": "Sketch comedy",
-        "Prev. network(s)": "Comedy Central",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 5 specials",
-        "Runtime": "TBA",
-        "Status": "Season order"
-      },
-      {
         "Title": "Road Rules (season 15)",
         "Genre": "Reality",
         "Prev. network(s)": "MTV",
@@ -1413,22 +1468,37 @@
   {
     "category": [
       "Upcoming original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Francesco Il Cantico",
+        "Genre": "Reading",
+        "Premiere": "TBA",
+        "Runtime": "TBA",
+        "Language": "Italian"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
       "Regional original programming",
       "English language"
     ],
     "data": [
       {
-        "Title": "Flatshare",
+        "Title": "The Flatshare",
         "Genre": "Drama",
         "Premiere": "2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "Last King of the Cross",
         "Genre": "Drama miniseries",
-        "Premiere": "2022",
+        "Premiere": "2023",
         "Seasons": "10 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
@@ -1464,14 +1534,6 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
-      },
-      {
-        "Title": "Undressed",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
       },
       {
         "Title": "Australia Shore",
@@ -1522,14 +1584,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Ex-Wife",
-        "Genre": "Psychological thriller",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "60 min.",
-        "Status": "Series order"
-      },
-      {
         "Title": "Fashion House",
         "Genre": "Anthology",
         "Premiere": "TBA",
@@ -1538,11 +1592,11 @@
         "Status": "Series order"
       },
       {
-        "Title": "Haunted",
-        "Genre": "Docuseries",
+        "Title": "Hot Yachts",
+        "Genre": "Reality",
         "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "60 min.",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
         "Status": "Series order"
       },
       {
@@ -1554,10 +1608,18 @@
         "Status": "Series order"
       },
       {
+        "Title": "Monster: The Mystery of Loch Ness",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "3 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Murder of God's Banker",
         "Genre": "Docuseries",
         "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1570,11 +1632,19 @@
         "Status": "Series order"
       },
       {
-        "Title": "Pervert: Catching the Strip Search Caller",
-        "Genre": "True crime",
+        "Title": "The Premiership: Rise of the Billionaires",
+        "Genre": "Docuseries",
         "Premiere": "TBA",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "60 min.",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Strip",
+        "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
         "Status": "Series order"
       }
     ]
@@ -1621,7 +1691,7 @@
       },
       {
         "Title": "Anywhere",
-        "Genre": "Supernatural dramedy",
+        "Genre": "Supernatural comedy drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1661,12 +1731,36 @@
     ],
     "data": [
       {
-        "Title": "Miss Fallaci Takes America",
+        "Title": "Miss Fallaci",
         "Genre": "Biopic",
-        "Premiere": "2022",
+        "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
+      },
+      {
+        "Title": "Are You the One? Italy",
+        "Genre": "Dating show",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Ex on the Beach (season 4)",
+        "Genre": "Reality",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Season order"
+      },
+      {
+        "Title": "Vita da Carlo (season 2)",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Season order"
       }
     ]
   },
@@ -1702,14 +1796,6 @@
       "Non-English language"
     ],
     "data": [
-      {
-        "Title": "Bosé",
-        "Genre": "Biopic",
-        "Premiere": "2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
       {
         "Title": "Jellyfish",
         "Genre": "Thriller drama",
@@ -1816,7 +1902,7 @@
       },
       {
         "Title": "Dee Takes Seoul",
-        "Genre": "Dramedy"
+        "Genre": "Comedy drama"
       },
       {
         "Title": "Girls with Guns",
@@ -1843,6 +1929,10 @@
         "Genre": "Comedy drama"
       },
       {
+        "Title": "The Real World",
+        "Genre": "Reality television"
+      },
+      {
         "Title": "Remote",
         "Genre": "Comedy"
       },
@@ -1852,7 +1942,7 @@
       },
       {
         "Title": "Soapdish",
-        "Genre": "Dramedy"
+        "Genre": "Comedy drama"
       },
       {
         "Title": "Star Trek: Section 31",

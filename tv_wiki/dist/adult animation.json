@@ -3767,7 +3767,7 @@
         "Original channel": "Netflix",
         "Studio": "Netflix Animation",
         "Age rating": "",
-        "Technique": "",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -3831,6 +3831,18 @@
         "Source": ""
       },
       {
+        "Title": "Koala Man",
+        "Genre": "Superhero",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "Michael Cusack",
+        "Release date": "2023",
+        "Original channel": "Hulu",
+        "Studio": "20th Television Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Scavengers Reign",
         "Genre": "Sci-fi",
         "Seasons, episodes": "TBA",
@@ -3838,6 +3850,18 @@
         "Release date": "2023",
         "Original channel": "HBO Max",
         "Studio": "Titmouse, Inc.",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Velma",
+        "Genre": "Mystery",
+        "Seasons, episodes": "1 season, 10 episodes",
+        "Show creator": "Mindy Kaling",
+        "Release date": "2023",
+        "Original channel": "HBO Max",
+        "Studio": "Warner Bros. Animation",
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""

@@ -83,23 +83,23 @@
         "Premiere": "June 9, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–56 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Vampire Academy",
         "Genre": "Supernatural",
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "44–51 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "A Friend of the Family",
         "Genre": "Crime drama",
         "Premiere": "October 6, 2022",
         "Seasons": "9 episodes",
-        "Length": "60 min.",
-        "Status": "Miniseries"
+        "Length": "51–56 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Irreverent",
@@ -211,15 +211,15 @@
         "Premiere": "February 18, 2021",
         "Seasons": "4 seasons, 24 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
         "Genre": "Family adventure",
         "Premiere": "November 24, 2021",
-        "Seasons": "3 seasons, 18 episodes",
+        "Seasons": "4 seasons, 24 episodes",
         "Length": "23 min.",
-        "Status": "Season 4 due to premiere on September 29, 2022"
+        "Status": "Ended"
       },
       {
         "Title": "Babble Bop!",
@@ -312,7 +312,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "4 seasons, 26 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on November 25, 2022"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -321,7 +321,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "3 seasons, 20 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 4 due to premiere on November 17, 2022"
       },
       {
         "Title": "Wolf Like Me",
@@ -355,8 +355,8 @@
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "October 5, 2022",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "23 min.",
         "Status": "Pending"
       }
     ]
@@ -428,10 +428,10 @@
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 14 episodes",
         "Length": "41–43 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on December 8, 2022"
       },
       {
-        "Title": "Love Island (seasons 4–5)",
+        "Title": "Love Island (season 4)",
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
@@ -440,13 +440,13 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Days of Our Lives (seasons 57–58)",
+        "Title": "Days of Our Lives (season 57)",
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
         "Seasons": "TBA",
         "Length": "37 min.",
-        "Status": "Pending"
+        "Status": "Season 57 ongoing"
       }
     ]
   },
@@ -524,7 +524,17 @@
       "Programming under Telemundo's TPlus",
       "Scripted"
     ],
-    "data": []
+    "data": [
+      {
+        "Title": "'Til Jail Do Us Part",
+        "Genre": "Comedy drama",
+        "Premiere": "September 15, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "39–50 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      }
+    ]
   },
   {
     "category": [
