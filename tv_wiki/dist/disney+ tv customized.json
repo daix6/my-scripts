@@ -49,9 +49,9 @@
         "Title": "The Mysterious Benedict Society",
         "Genre": "Mystery adventure",
         "Premiere": "June 25, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "54–59 min",
-        "Status": "Season 2 due to premiere on October 26, 2022"
+        "Seasons": "2 seasons, 9 episodes",
+        "Runtime": "39–59 min",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Hawkeye",
@@ -90,7 +90,7 @@
         "Genre": "Space opera",
         "Premiere": "September 21, 2022",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "38–54 min",
+        "Runtime": "38–57 min",
         "Status": "Season 1 ongoingRenewed for final season"
       },
       {
@@ -137,15 +137,15 @@
         "Title": "The Mighty Ducks: Game Changers",
         "Genre": "Sports comedy-drama",
         "Premiere": "March 26, 2021",
-        "Seasons": "2 seasons, 14 episodes",
-        "Runtime": "30–43 min",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "27–43 min",
         "Status": "Season 2 ongoing"
       },
       {
         "Title": "Big Shot",
         "Genre": "Sports comedy-drama",
         "Premiere": "April 16, 2021",
-        "Seasons": "2 season, 20 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "32–54 min",
         "Status": "Pending"
       },
@@ -185,17 +185,17 @@
         "Title": "She-Hulk: Attorney at Law",
         "Genre": "Superhero legal comedy",
         "Premiere": "August 18, 2022",
-        "Seasons": "1 season, 9 episodes",
+        "Seasons": "9 episodes",
         "Runtime": "31–38 min",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "The Santa Clauses",
         "Genre": "Fantasy comedy",
         "Premiere": "November 16, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Seasons": "6 episodes",
+        "Runtime": "33–35 min",
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -244,14 +244,6 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–32 min",
         "Status": "Season 2 due to premiere in February 2023"
-      },
-      {
-        "Title": "Tales of the Jedi",
-        "Genre": "Animated space opera anthology",
-        "Premiere": "October 26, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
       }
     ]
   },
@@ -323,6 +315,15 @@
         "Runtime": "35–44 min",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "Sumo Do, Sumo Don't",
+        "Genre": "Sports comedy-drama",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "43–56 min",
+        "Language": "Japanese",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -410,15 +411,15 @@
         "Premiere": "November 18, 2020",
         "Seasons": "2 seasons, 23 episodes",
         "Runtime": "9–24 min",
-        "Status": "Season 2 to conclude on November 18, 2022"
+        "Status": "Final episode of season 2 due to premiere on November 18, 2022"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 21 episodes",
+        "Seasons": "1 season, 24 episodes",
         "Runtime": "6–12 min",
-        "Status": "New episodes due to premiere on November 4, 2022"
+        "Status": "New episodes due to premiere on November 23, 2022"
       },
       {
         "Title": "Pixar Popcorn",
@@ -482,7 +483,7 @@
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "5–12 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Ice Age: Scrat Tales",
@@ -517,11 +518,19 @@
         "Status": "Pending"
       },
       {
+        "Title": "Tales of the Jedi",
+        "Genre": "Animated space opera anthology",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "13–19 min",
+        "Status": "Pending"
+      },
+      {
         "Title": "Zootopia+",
         "Genre": "Animated comedy anthology",
         "Premiere": "November 9, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "10–12 min",
         "Status": "Pending"
       }
     ]
@@ -659,9 +668,9 @@
         "Title": "Marvel Studios: Assembled",
         "Genre": "Making-of docuseries",
         "Premiere": "March 12, 2021",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Runtime": "42–67 min",
-        "Status": "New episode due to premiere on November 3, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Disney Gallery: The Book of Boba Fett",
@@ -701,7 +710,7 @@
         "Genre": "Reality competition",
         "Premiere": "September 19, 2022",
         "Seasons": "1 season, 11 episodes",
-        "Runtime": "117–121 min",
+        "Runtime": "115–121 min",
         "Previous network(s)": "ABC",
         "Exclusive region(s)": "North America",
         "Language": "English",
@@ -727,24 +736,6 @@
   },
   {
     "category": [
-      "Exclusive programs"
-    ],
-    "data": [
-      {
-        "Title": "In the Soop: Friendcation",
-        "Genre": "Reality",
-        "Original network/Region": "JTBC/South Korea",
-        "Premiere date": "July 22, 2022October 19, 2022&#91;b&#93;",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "53–62 min",
-        "Language": "Korean",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
       "Exclusive international distribution"
     ],
     "data": [
@@ -764,33 +755,33 @@
         "Genre": "Romantic dark comedy",
         "Original network/Region": "JTBC/South Korea",
         "Premiere date": "February 9, 2022",
-        "Seasons": "1 season, 16 episodes",
+        "Seasons": "16 episodes",
         "Runtime": "74–100 min.",
         "Language": "Korean",
         "Exclusive region(s)": "United States",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Delicacies Destiny",
         "Genre": "Period romantic comedy",
         "Original network/Region": "Bilibili/China",
         "Premiere date": "April 7, 2022June 8, 2022&#91;b&#93;",
-        "Seasons": "1 season, 17 episodes",
+        "Seasons": "17 episodes",
         "Runtime": "27–51 min",
         "Language": "Mandarin",
         "Exclusive region(s)": "Selected territories",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
-        "Title": "The Tatami Time Machine Blues",
-        "Genre": "Mystery/Romantic comedy",
-        "Original network/Region": "Star/Japan",
-        "Premiere date": "November 9, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "21 min.",
-        "Language": "Japanese",
-        "Exclusive region(s)": "United States",
-        "Status": "Pending"
+        "Title": "In the Soop: Friendcation",
+        "Genre": "Reality",
+        "Original network/Region": "JTBC/South Korea",
+        "Premiere date": "July 22, 2022October 19, 2022&#91;b&#93;",
+        "Seasons": "4 episodes",
+        "Runtime": "53–62 min",
+        "Language": "Korean",
+        "Exclusive region(s)": "Selected territories",
+        "Status": "Miniseries"
       }
     ]
   }

@@ -19,7 +19,7 @@
         "Premiere": "July 8, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "53–57 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on December 1, 2022"
       },
       {
         "Title": "Station Eleven",
@@ -83,7 +83,7 @@
         "Premiere": "May 27, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "24–35 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Flight Attendant",
@@ -193,7 +193,7 @@
         "Title": "My Sesame Street Friends",
         "Genre": "Preschool education",
         "Premiere": "November 12, 2020",
-        "Seasons": "7 seasons, 91 episodes",
+        "Seasons": "11 seasons, 143 episodes",
         "Runtime": "11–12 min.",
         "Status": "Pending"
       },
@@ -267,25 +267,7 @@
   {
     "category": [
       "Original programming",
-      "Non-English language scripted",
-      "Danish"
-    ],
-    "data": [
-      {
-        "Title": "Kamikaze",
-        "Genre": "Young adult thriller drama",
-        "Premiere": "November 14, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–35 min.",
-        "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Hungarian"
+      "Non-English language scripted"
     ],
     "data": [
       {
@@ -294,91 +276,62 @@
         "Premiere": "April 1, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "40–46 min.",
+        "Language": "Hungarian",
         "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Polish"
-    ],
-    "data": [
-      {
-        "Title": "The Thaw",
-        "Genre": "Crime drama",
-        "Premiere": "April 1, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "46–55 min.",
-        "Status": "Miniseries"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Romanian"
-    ],
-    "data": [
-      {
-        "Title": "Ruxx",
-        "Genre": "Comedy drama",
-        "Premiere": "March 8, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–50 min.",
-        "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Spanish"
-    ],
-    "data": [
+      },
       {
         "Title": "Dafne and the Rest",
         "Genre": "Comedy drama",
         "Premiere": "October 26, 2021December 10, 2021&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Las Bravas F.C.",
-        "Genre": "Sports drama",
-        "Premiere": "May 5, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44-51 min.",
+        "Language": "Spanish",
         "Status": "Ended"
       },
       {
-        "Title": "García!",
-        "Genre": "Superhero",
-        "Premiere": "October 28, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "60 min.",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Swedish"
-    ],
-    "data": [
+        "Title": "Kamikaze",
+        "Genre": "Young adult thriller drama",
+        "Premiere": "November 14, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "22–35 min.",
+        "Language": "Danish",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Ruxx",
+        "Genre": "Comedy drama",
+        "Premiere": "March 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–50 min.",
+        "Language": "Romanian",
+        "Status": "Ended"
+      },
       {
         "Title": "Lust",
         "Genre": "Sex comedy",
         "Premiere": "March 18, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–29 min.",
+        "Language": "Swedish",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Thaw",
+        "Genre": "Crime drama",
+        "Premiere": "April 1, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "46–55 min.",
+        "Language": "Polish",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "García!",
+        "Genre": "Science fiction thriller",
+        "Premiere": "October 28, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "54–59 min.",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -436,7 +389,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "20–21 min.",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on December 1, 2022"
       },
       {
         "Title": "Perfect Life (season 2)",
@@ -532,22 +485,22 @@
         "Status": "Ended"
       },
       {
-        "Title": "Sesame Street (seasons 51–52)",
+        "Title": "Sesame Street (seasons 51–53)",
         "Genre": "Education",
         "Prev. network(s)": "NET (season 1)PBS (seasons 2–45)HBO Kids (seasons 46–50)",
         "Premiere": "November 12, 2020",
-        "Seasons": "2 seasons, 70 episodes",
+        "Seasons": "3 seasons, 105 episodes",
         "Runtime": "25 min.",
-        "Status": "Renewed for seasons 53–55"
+        "Status": "Renewed for seasons 54–55"
       },
       {
-        "Title": "Titans (season 3)",
+        "Title": "Titans (season 3–4)",
         "Genre": "Superhero drama",
         "Prev. network(s)": "DC Universe",
         "Premiere": "August 12, 2021",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "2 seasons, 25 episodes",
         "Runtime": "40–54 min.",
-        "Status": "Season 4 due to premiere on November 3, 2022"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "The Other Two (season 2)",
@@ -688,12 +641,6 @@
         "Genre": "Making-of",
         "Premiere": "February 3, 2022",
         "Runtime": "1 hour, 13 min."
-      },
-      {
-        "Title": "Secret Origin of the Batwheels",
-        "Genre": "Superhero animation",
-        "Premiere": "September 17, 2022",
-        "Runtime": "33 min."
       }
     ]
   },
@@ -711,27 +658,27 @@
         "Runtime": "45 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Portuguese",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Love Spells",
+        "Title": "Love Spells (Amarres)",
         "Genre": "Romantic comedy drama",
         "Premiere": "August 12, 2021October 14, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44–51 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Rap Battlefield (Días de Gallos)",
+        "Title": "Rap Battlefield",
         "Genre": "Coming-of-age music drama",
         "Premiere": "September 16, 2021November 4, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "39–52 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Before I Forget (Asesino del Olvido)",
@@ -749,9 +696,9 @@
         "Premiere": "October 28, 2021December 9, 2021&#91;d&#93;",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "44–54 min.",
-        "Exclusive region(s)": "Latin America",
+        "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Frankelda's Book of Spooks",
@@ -769,9 +716,9 @@
         "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
-        "Exclusive region(s)": "Latin America",
+        "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Sandy + Chef",
@@ -779,16 +726,16 @@
         "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
-        "Exclusive region(s)": "Latin America",
+        "Exclusive region(s)": "Americas",
         "Language": "Portuguese",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Venga Juan",
+        "Title": "Vote for Juan",
         "Genre": "Political satire",
         "Premiere": "November 28, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "26–36 min.",
         "Exclusive region(s)": "Spain and Americas",
         "Language": "Spanish",
         "Status": "Pending"
@@ -801,7 +748,7 @@
         "Runtime": "30 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Sin novedad",
@@ -828,7 +775,7 @@
         "Genre": "Teen drama",
         "Premiere": "July 1, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "16–22 min.",
+        "Runtime": "16–23 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Spanish",
         "Status": "Pending"

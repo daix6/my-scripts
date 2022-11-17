@@ -51,7 +51,7 @@
         "Premiere": "April 26, 2017",
         "Seasons": "5 seasons, 56 episodes",
         "Length": "44–64 min.",
-        "Status": "Season 5 ongoingRenewed for final season"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Runaways",
@@ -195,7 +195,7 @@
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–55 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Y: The Last Man",
@@ -282,8 +282,8 @@
         "Genre": "Psychological thriller",
         "Premiere": "August 30, 2022",
         "Seasons": "10 episodes",
-        "Length": "21–22 min.",
-        "Status": "Miniseries ongoing"
+        "Length": "21–46 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Tell Me Lies",
@@ -291,15 +291,15 @@
         "Premiere": "September 7, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "45–53 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Reasonable Doubt",
         "Genre": "Legal drama",
         "Premiere": "September 27, 2022",
         "Seasons": "1 season, 9 episodes",
-        "Length": "51–52 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "46–55 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Awaiting release",
@@ -523,15 +523,15 @@
         "Premiere": "August 12, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–31 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Reboot",
         "Genre": "Sitcom",
         "Premiere": "September 20, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "29–30 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "22–33 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -588,7 +588,7 @@
         "Premiere": "November 17, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–27 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -716,9 +716,9 @@
         "Title": "Wild Crime",
         "Genre": "True crime",
         "Premiere": "September 28, 2021",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "2 seasons, 8 episodes",
         "Length": "39–41 min.",
-        "Status": "Season 2 due to premiere in late 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Next Thing You Eat",
@@ -804,9 +804,17 @@
         "Title": "IMPACT x Nightline",
         "Genre": "News magazine",
         "Premiere": "October 6, 2022",
-        "Seasons": "1 season, 2 episodes",
-        "Length": "49 min.",
+        "Seasons": "1 season, 7 episodes",
+        "Length": "37–49 min.",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Where Is Private Dulaney?",
+        "Genre": "True crime",
+        "Premiere": "November 16, 2022",
+        "Seasons": "3 episodes",
+        "Length": "46–52 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Awaiting release",
@@ -817,18 +825,18 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Where Is Private Dulaney?",
-        "Genre": "Docuseries",
-        "Premiere": "November 16, 2022",
+        "Title": "Death in the Dorms",
+        "Genre": "True crime",
+        "Premiere": "November 21, 2022",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Miniseries"
       },
       {
-        "Title": "Death in the Dorms",
-        "Genre": "True crime",
-        "Premiere": "November 16, 2022",
-        "Seasons": "TBA",
+        "Title": "Grails",
+        "Genre": "Business",
+        "Premiere": "December 14, 2022",
+        "Seasons": "6 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -862,8 +870,8 @@
         "Genre": "Docu-reality",
         "Premiere": "September 3, 2021",
         "Seasons": "2 seasons, 18 episodes",
-        "Length": "23–35 min.",
-        "Status": "Season 2 ongoing"
+        "Length": "23–47 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Baker's Dozen",
@@ -902,8 +910,8 @@
         "Genre": "Politics",
         "Premiere": "September 25, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Season 1 ongoing"
+        "Length": "29–34 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Chefs vs. Wild",
@@ -911,7 +919,23 @@
         "Premiere": "September 26, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "39–41 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Back in the Groove",
+        "Genre": "Reality",
+        "Premiere": "December 5, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -952,7 +976,7 @@
         "Genre": "Comedy drama",
         "Premiere": "November 11, 2013",
         "Seasons": "2 seasons, 10 episodes",
-        "Length": "29 min.",
+        "Length": "29–31 min.",
         "Status": "Ended"
       },
       {
@@ -1145,6 +1169,15 @@
         "Status": "Pending"
       },
       {
+        "Title": "The Hair Tales",
+        "Partner/Country": "OWN/United States",
+        "Genre": "Docuseries",
+        "Premiere": "October 22, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "41 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Awaiting release",
         "Partner/Country": "Awaiting release",
         "Genre": "Awaiting release",
@@ -1152,15 +1185,6 @@
         "Seasons": "Awaiting release",
         "Length": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "The Hair Tales",
-        "Partner/Country": "OWN/United States",
-        "Genre": "Docuseries",
-        "Premiere": "October 22, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
       },
       {
         "Title": "Planet Sex with Cara Delevingne",
@@ -1416,7 +1440,7 @@
       },
       {
         "Title": "Wedding Season",
-        "Genre": "Comedy thriller",
+        "Genre": "Romantic comedy thriller",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "September 8, 2022",
         "Seasons": "1 season, 8 episodes",
@@ -1436,7 +1460,7 @@
       },
       {
         "Title": "Women in Taipei",
-        "Genre": "Drama",
+        "Genre": "Romantic melodrama",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "September 21, 2022",
         "Seasons": "1 season, 11 episodes",
@@ -1446,7 +1470,7 @@
       },
       {
         "Title": "May It Please the Court",
-        "Genre": "Drama",
+        "Genre": "Legal comedy drama",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "September 21, 2022",
         "Seasons": "1 season, 12 episodes",
@@ -1456,8 +1480,8 @@
       },
       {
         "Title": "Big Mouth",
-        "Genre": "Drama",
-        "Original network": "Disney+ (Star Hub)",
+        "Genre": "Fantasy crime drama",
+        "Original network": "MBC",
         "Premiere": "September 27, 2022",
         "Seasons": "1 season, 16 episodes",
         "Length": "62–73 min.",
@@ -1476,22 +1500,72 @@
       },
       {
         "Title": "Rookie Cops",
-        "Genre": "Drama",
+        "Genre": "Coming of age comedy drama",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "October 12, 2022",
-        "Seasons": "1 season, 16 episodes",
+        "Seasons": "16 episodes",
         "Length": "53–63 min.",
         "Language": "Korean",
         "Status": "Miniseries"
       },
       {
         "Title": "Grid",
-        "Genre": "Drama",
+        "Genre": "Science fiction crime thriller",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "October 12, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "10 episodes",
         "Length": "53–63 min.",
         "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Pink Lie",
+        "Genre": "Dating show",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "73 min.",
+        "Language": "Korean",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Shadow Detective",
+        "Genre": "Crime drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "October 26, 2022",
+        "Seasons": "8 episodes",
+        "Length": "55–57 min.",
+        "Language": "Korean",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Revenge of Others",
+        "Genre": "Coming of age crime drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "November 9, 2022",
+        "Seasons": "12 episodes",
+        "Length": "58–62 min.",
+        "Language": "Korean",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "The Stolen Cup",
+        "Genre": "Comedy drama",
+        "Original network": "Star+",
+        "Premiere": "November 9, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "25–33 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Tatami Time Machine Blues",
+        "Genre": "Mystery/Romantic comedy anime",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "November 9, 2022",
+        "Seasons": "6 episodes",
+        "Length": "17–32 min.",
+        "Language": "Japanese",
         "Status": "Miniseries"
       }
     ]
@@ -1511,6 +1585,22 @@
         "Status": "Filming"
       },
       {
+        "Title": "Shōgun",
+        "Genre": "Historical drama miniseries",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Alien",
+        "Genre": "Science fiction horror",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pre-production"
+      },
+      {
         "Title": "The Devil in the White City",
         "Genre": "Drama miniseries",
         "Premiere": "2024",
@@ -1519,20 +1609,36 @@
         "Status": "Series order"
       },
       {
-        "Title": "Alien",
-        "Genre": "Science fiction horror",
+        "Title": "Class of '09",
+        "Genre": "Crime drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
         "Length": "TBA",
-        "Status": "Pre-production"
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Washington Black",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "9 episodes",
+        "Length": "TBA",
+        "Status": "Post-production"
       },
       {
         "Title": "Black Cake",
         "Genre": "Drama",
         "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Other Black Girl",
+        "Genre": "Mystery thriller",
+        "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Career Opportunities in Murder &amp; Mayhem",
@@ -1540,15 +1646,7 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Class of '09",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Interior Chinatown",
@@ -1567,8 +1665,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Other Black Girl",
-        "Genre": "Mystery thriller",
+        "Title": "Never Let Me Go",
+        "Genre": "Science fiction drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1587,14 +1685,6 @@
         "Genre": "Psychological drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Shōgun",
-        "Genre": "Historical drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -1623,14 +1713,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Washington Black",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "9 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "We Were the Lucky Ones",
         "Genre": "Period drama miniseries",
         "Premiere": "TBA",
@@ -1650,7 +1732,15 @@
         "Title": "The Full Monty",
         "Genre": "Comedy drama",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Up Here",
+        "Genre": "Musical romantic comedy",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Filming"
       },
@@ -1658,17 +1748,9 @@
         "Title": "Unprisoned",
         "Genre": "Comedy",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
         "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Up Here",
-        "Genre": "Musical romantic comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Post-production"
       }
     ]
   },
@@ -1721,14 +1803,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Grails",
-        "Genre": "Business",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Murder U",
         "Genre": "True crime",
         "Premiere": "TBA",
@@ -1769,14 +1843,6 @@
       "Reality"
     ],
     "data": [
-      {
-        "Title": "Back in the Groove",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
       {
         "Title": "Burning Men",
         "Genre": "Cooking competition",
@@ -1861,6 +1927,16 @@
     ],
     "data": [
       {
+        "Title": "Obituary",
+        "Genre": "Black comedy crime drama",
+        "Original network": "RTÉ",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Language": "English",
+        "Status": "Series order"
+      },
+      {
         "Title": "Vanishing Act",
         "Genre": "Mystery crime drama",
         "Original network": "Nine Network",
@@ -1931,6 +2007,10 @@
         "Genre": "Apocalyptic thriller"
       },
       {
+        "Title": "Murdaugh Murders",
+        "Genre": "True crime drama"
+      },
+      {
         "Title": "Phony",
         "Genre": "Mystery comedy"
       },
@@ -1957,6 +2037,10 @@
       {
         "Title": "The Testaments",
         "Genre": "Dystopian drama"
+      },
+      {
+        "Title": "Twin Flames",
+        "Genre": "Drama"
       },
       {
         "Title": "Untitled Formula 1 project",

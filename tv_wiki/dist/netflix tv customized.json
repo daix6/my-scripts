@@ -8,9 +8,10 @@
         "Title": "Fate: The Winx Saga",
         "Genre": "Teen drama fantasy",
         "Premiere": "January 22, 2021",
+        "Finale": "September 16, 2022",
         "Seasons": "2 seasons, 13 episodes",
         "Runtime": "47–55 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Firefly Lane",
@@ -61,6 +62,15 @@
         "Finale": "May 7, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "35–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Halston",
+        "Genre": "Drama",
+        "Premiere": "May 14, 2021",
+        "Finale": "May 14, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "44–53 min",
         "Notes": ""
       },
       {
@@ -136,9 +146,10 @@
         "Title": "Pieces of Her",
         "Genre": "Thriller",
         "Premiere": "March 4, 2022",
+        "Finale": "March 4, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–62 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Savage Beauty",
@@ -196,23 +207,25 @@
         "Premiere": "August 5, 2022",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "37–64 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Partner Track",
         "Genre": "Legal drama",
         "Premiere": "August 26, 2022",
+        "Finale": "August 26, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "40–45 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Imperfects",
         "Genre": "Science fiction",
         "Premiere": "September 8, 2022",
+        "Finale": "September 8, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "39–45 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Heartbreak High",
@@ -223,13 +236,12 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Dahmer – Monster: The Jeffrey Dahmer Story",
+        "Title": "Monster",
         "Genre": "Crime drama",
         "Premiere": "September 21, 2022",
-        "Finale": "September 21, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–63 min",
-        "Notes": ""
+        "Status": "Renewed for seasons 2–3"
       },
       {
         "Title": "The Midnight Club",
@@ -245,22 +257,14 @@
         "Premiere": "October 13, 2022",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "44–52 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "From Scratch",
-        "Genre": "Drama",
-        "Premiere": "October 21, 2022",
-        "Seasons": "8 episodes",
-        "Runtime": "60 min.",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       },
       {
         "Title": "Guillermo del Toro's Cabinet of Curiosities",
         "Genre": "Horror anthology",
         "Premiere": "October 25, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "38–64 min",
         "Status": "Pending"
       },
       {
@@ -268,13 +272,21 @@
         "Genre": "Fantasy drama",
         "Premiere": "October 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "41–53 min",
         "Status": "Pending"
       },
       {
         "Title": "1899",
         "Genre": "Epic period mystery horror",
         "Premiere": "November 17, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "50 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Recruit",
+        "Genre": "Spy adventure",
+        "Premiere": "December 16, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -286,6 +298,14 @@
         "Seasons": "4 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Lockwood &amp; Co.",
+        "Genre": "Supernatural detective thriller",
+        "Premiere": "January 27, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -309,7 +329,7 @@
         "Premiere": "May 12, 2021",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "24–29 min",
-        "Status": "Season 2 ongoing"
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "The Chair",
@@ -360,9 +380,10 @@
         "Title": "Eternally Confused and Eager for Love",
         "Genre": "Comedy drama",
         "Premiere": "March 18, 2022",
+        "Finale": "March 18, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "20–24 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Hard Cell",
@@ -417,7 +438,7 @@
         "Genre": "Workplace comedy",
         "Premiere": "November 3, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "25–28 min",
         "Status": "Pending"
       },
       {
@@ -484,9 +505,10 @@
         "Title": "Super PupZ",
         "Genre": "Children's comedy",
         "Premiere": "March 31, 2022",
+        "Finale": "March 31, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "25–47 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Last Bus",
@@ -502,7 +524,7 @@
         "Premiere": "April 22, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–33 min",
-        "Status": "Renewed for seasons 2 and 3"
+        "Status": "Renewed for seasons 2–3"
       },
       {
         "Title": "Man vs. Bee",
@@ -580,7 +602,7 @@
         "Seasons": "1 part, 10 episodes",
         "Runtime": "26–31 min",
         "Language": "English",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Season 1 part 2 due to premiere on November 18, 2022Renewed"
       },
       {
         "Title": "Adventure Beast",
@@ -616,10 +638,11 @@
         "Title": "The Guardians of Justice",
         "Genre": "Superhero live-action animation mix",
         "Premiere": "March 1, 2022",
+        "Finale": "March 1, 2022",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "21–36 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Human Resources",
@@ -643,7 +666,7 @@
         "Title": "Dragon Age: Absolution",
         "Genre": "Fantasy",
         "Premiere": "December 9, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Pending"
@@ -786,19 +809,21 @@
         "Title": "Kotaro Lives Alone",
         "Genre": "Comedy",
         "Premiere": "March 10, 2022",
+        "Finale": "March 10, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "26–27 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Thermae Romae Novae",
         "Genre": "Comedy",
         "Premiere": "March 28, 2022",
+        "Finale": "March 28, 2022",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "25–36 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Vampire in the Garden",
@@ -858,10 +883,11 @@
         "Title": "Cyberpunk: Edgerunners",
         "Genre": "Science fiction",
         "Premiere": "September 13, 2022",
+        "Finale": "September 13, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–26 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Exception",
@@ -876,18 +902,9 @@
         "Title": "Romantic Killer",
         "Genre": "Romantic comedy",
         "Premiere": "October 27, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "23–30 min",
         "Language": "Japanese",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Lookism",
-        "Genre": "Drama",
-        "Premiere": "November 4, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Korean",
         "Status": "Pending"
       },
       {
@@ -936,9 +953,10 @@
         "Title": "Love, Life &amp; Everything in Between",
         "Genre": "Romantic comedy",
         "Premiere": "March 10, 2022",
+        "Finale": "March 10, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "19–36 min",
-        "Status": "Pending"
+        "Notes": ""
       }
     ]
   },
@@ -1135,7 +1153,7 @@
         "Premiere": "September 29, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "51–61 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -1214,6 +1232,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "42–54 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Khakee: The Bihar Chapter",
+        "Genre": "Crime drama",
+        "Premiere": "November 25, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -1254,9 +1280,10 @@
         "Title": "An Astrological Guide for Broken Hearts",
         "Genre": "Romantic comedy",
         "Premiere": "October 27, 2021",
+        "Finale": "March 8, 2022",
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "30–38 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Framed! A Sicilian Murder Mystery",
@@ -1292,10 +1319,18 @@
         "Status": "Pending"
       },
       {
+        "Title": "I Hate Christmas",
+        "Genre": "Comedy",
+        "Premiere": "December 7, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Lying Life of Adults",
         "Genre": "Drama",
-        "Premiere": "November 16, 2022",
-        "Seasons": "TBA",
+        "Premiere": "January 4, 2023",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -1336,7 +1371,7 @@
       },
       {
         "Title": "First Love",
-        "Genre": "Drama",
+        "Genre": "Romantic drama",
         "Premiere": "November 24, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1354,7 +1389,7 @@
         "Title": "The Makanai: Cooking for the Maiko House",
         "Genre": "Drama",
         "Premiere": "January 12, 2023",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 9 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -1455,9 +1490,9 @@
         "Title": "Money Heist: Korea – Joint Economic Area",
         "Genre": "Heist crime drama",
         "Premiere": "June 24, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "1 part, 6 episodes",
         "Runtime": "63–78 min",
-        "Status": "Renewed"
+        "Status": "Part 2 due to premiere on December 9, 2022"
       },
       {
         "Title": "Remarriage &amp; Desires",
@@ -1492,17 +1527,17 @@
         "Status": "Pending"
       },
       {
-        "Title": "The Fabulous",
-        "Genre": "Romantic comedy",
-        "Premiere": "November 4, 2022",
+        "Title": "Somebody",
+        "Genre": "Suspense thriller",
+        "Premiere": "November 18, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
       },
       {
-        "Title": "Somebody",
-        "Genre": "Thriller",
-        "Premiere": "November 18, 2022",
+        "Title": "The Glory",
+        "Genre": "Drama",
+        "Premiere": "December 30, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -1528,9 +1563,10 @@
         "Title": "Light the Night",
         "Genre": "Suspense thriller/Melodrama",
         "Premiere": "November 26, 2021",
+        "Finale": "March 18, 2022",
         "Seasons": "3 parts, 24 episodes",
         "Runtime": "44–55 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Mom, Don't Do That!",
@@ -1544,8 +1580,8 @@
         "Title": "Shards of Her",
         "Genre": "Suspense thriller",
         "Premiere": "October 28, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "45–51 min",
         "Status": "Pending"
       }
     ]
@@ -1577,9 +1613,10 @@
         "Title": "Cracow Monsters",
         "Genre": "Fantasy drama",
         "Premiere": "March 18, 2022",
+        "Finale": "March 18, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "49–55 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Hold Tight",
@@ -1676,9 +1713,10 @@
         "Title": "Maldivas",
         "Genre": "Comedy drama",
         "Premiere": "June 15, 2022",
+        "Finale": "June 15, 2022",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "29–43 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Unsuspicious",
@@ -1718,7 +1756,7 @@
         "Premiere": "March 19, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "22–40 min",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on January 13, 2023"
       },
       {
         "Title": "Who Killed Sara?",
@@ -1828,17 +1866,19 @@
         "Title": "Savage Rhythm",
         "Genre": "Drama",
         "Premiere": "March 2, 2022",
+        "Finale": "March 2, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "27–49 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Once Upon a Time... Happily Never After",
         "Genre": "Musical comedy",
         "Premiere": "March 11, 2022",
+        "Finale": "March 11, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "26–34 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Heirs to the Land",
@@ -1958,12 +1998,20 @@
         "Premiere": "October 14, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "33–40 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "If Only",
         "Genre": "Drama",
         "Premiere": "October 28, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "31–37 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Smiley",
+        "Genre": "Comedy",
+        "Premiere": "December 7, 2022",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -1988,9 +2036,9 @@
         "Title": "Young Royals",
         "Genre": "Coming-of-age drama",
         "Premiere": "July 1, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "40–50 min",
-        "Status": "Season 2 due to premiere on November 1, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "The Unlikely Murderer",
@@ -2159,6 +2207,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "42–46 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Hot Skull",
+        "Genre": "Science fiction",
+        "Premiere": "December 2, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -2277,7 +2333,7 @@
         "Runtime": "57–71 min",
         "Language": "Korean",
         "Netflix exclusive regions": "All other markets",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on December 13, 2022"
       },
       {
         "Title": "The Girl from Oslo",
@@ -2295,22 +2351,22 @@
         "Partner/Country": "TMC/France",
         "Genre": "Reality",
         "Premiere": "March 3, 2022",
+        "Finale": "March 3, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "51–66 min",
         "Language": "French",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Soil",
         "Partner/Country": "Play4/Belgium",
         "Genre": "Comedy drama",
         "Premiere": "March 17, 2022",
+        "Finale": "March 17, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–51 min",
         "Language": "Dutch",
-        "Netflix exclusive regions": "All other markets except Germany, Austria, and Switzerland",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Borgen – Power &amp; Glory",
@@ -2390,12 +2446,23 @@
         "Status": "Pending"
       },
       {
+        "Title": "I Am a Stalker",
+        "Partner/Country": "Crime + Investigation/United Kingdom",
+        "Genre": "True crime docuseries",
+        "Premiere": "October 28, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–45 min",
+        "Language": "English",
+        "Netflix exclusive regions": "All other markets",
+        "Status": "Pending"
+      },
+      {
         "Title": "Inside Man",
-        "Partner/Country": "BBC/United Kingdom",
-        "Genre": "Drama miniseries",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Genre": "Crime drama",
         "Premiere": "October 31, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "59–61 min",
         "Language": "English",
         "Netflix exclusive regions": "All other markets",
         "Status": "Pending"
@@ -2508,9 +2575,9 @@
         "Previous network(s)": "ABC",
         "Premiere": "October 7, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "40–46 min",
+        "Runtime": "34–47 min",
         "Language": "English",
-        "Status": "Season 6 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Manifest (season 4)",
@@ -2518,17 +2585,17 @@
         "Previous network(s)": "NBC",
         "Premiere": "November 4, 2022",
         "Seasons": "1 season, 20 episodes",
-        "Runtime": "TBA",
+        "Runtime": "42–49 min",
         "Language": "English",
-        "Status": "Season 4 part 1 due to premiere November 4, 2022"
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Teletubbies (season 10)",
         "Genre": "Preschool/Educational",
         "Previous network(s)": "BBC Two (seasons 1–5)CBeebies (seasons 6–9)",
         "Premiere": "November 14, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "15 min",
         "Language": "English",
         "Status": "Renewed"
       }
@@ -2836,10 +2903,32 @@
         "Language": "English"
       },
       {
-        "Title": "My Little Pony: Winter Wishday",
+        "Title": "Making 1899",
+        "Genre": "Making-of",
+        "Premiere": "November 17, 2022",
+        "Runtime": "50 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "The Action Pack Saves Christmas",
         "Genre": "Animation",
-        "Premiere": "November 21, 2022",
-        "Runtime": "44 min",
+        "Premiere": "November 28, 2022",
+        "Runtime": "27 min",
+        "Language": "English"
+      },
+      {
+        "Title": "Mighty Express: Mighty Trains Race",
+        "Genre": "Animation",
+        "Premiere": "December 5, 2022",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "The Boss Baby: Christmas Bonus",
+        "Genre": "Animation",
+        "Premiere": "December 6, 2022",
+        "Runtime": "TBA",
         "Language": "English"
       }
     ]
@@ -3007,23 +3096,23 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Pedal to Metal",
-        "Genre": "Action",
-        "Premiere": "March 16, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "34–42 min",
-        "Language": "Spanish",
+        "Title": "The Nutty Boy",
+        "Genre": "Animated comedy",
+        "Premiere": "October 12, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "10–13 min",
+        "Language": "Portuguese",
         "Netflix exclusive region": "Selected territories",
         "Status": "Pending"
       },
       {
-        "Title": "Oggy and the Cockroaches: Next Generation",
-        "Genre": "Animated comedy",
-        "Premiere": "July 28, 2022",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "43 min",
-        "Language": "No spoken language",
-        "Netflix exclusive region": "All markets except France",
+        "Title": "The Final Score",
+        "Genre": "Drama",
+        "Premiere": "November 2, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43–58 min",
+        "Language": "Spanish",
+        "Netflix exclusive region": "Selected territories",
         "Status": "Pending"
       }
     ]
@@ -3058,14 +3147,6 @@
         "Release date": "February 17, 2021",
         "Episodes": "6 episodes",
         "Runtime": "46–53 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Halston",
-        "Genre": "Drama",
-        "Release date": "May 14, 2021",
-        "Episodes": "5 episodes",
-        "Runtime": "44–53 min",
         "Notes": ""
       },
       {
@@ -3186,6 +3267,14 @@
         "Release date": "September 2, 2022",
         "Episodes": "8 episodes",
         "Runtime": "40–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "From Scratch",
+        "Genre": "Drama",
+        "Release date": "October 21, 2022",
+        "Episodes": "8 episodes",
+        "Runtime": "49–58 min",
         "Notes": ""
       }
     ]
@@ -3348,6 +3437,16 @@
         "Finale": "January 19, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "21–32 min",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "Pedal to Metal",
+        "Genre": "Action",
+        "Premiere": "March 16, 2022",
+        "Finale": "March 16, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "34–42 min",
         "Netflix exclusive region": "Selected territories",
         "Notes": ""
       }

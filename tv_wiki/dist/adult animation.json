@@ -3771,18 +3771,6 @@
         "Source": ""
       },
       {
-        "Title": "Royal Crackers",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Jason Ruiz",
-        "Release date": "2022",
-        "Original channel": "Adult Swim",
-        "Studio": "Titmouse, Inc.",
-        "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
         "Title": "Krapopolis",
         "Genre": "Sitcom",
         "Seasons, episodes": "TBA",
@@ -3799,9 +3787,21 @@
         "Genre": "Fantasy",
         "Seasons, episodes": "TBA",
         "Show creator": "Mairghread Scott",
-        "Release date": "December 2022",
+        "Release date": "December 9, 2022",
         "Original channel": "Netflix",
         "Studio": "BioWare",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Clone High",
+        "Genre": "Sitcom",
+        "Seasons, episodes": "2 seasons",
+        "Show creator": "Phil Lord",
+        "Release date": "2023",
+        "Original channel": "HBO Max",
+        "Studio": "MTV Entertainment Studios",
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""
@@ -3876,6 +3876,18 @@
         "Studio": "Marvel Studios",
         "Age rating": "TV-MA",
         "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "Sausage Party: Foodtopia",
+        "Genre": "Comedy",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "TBA",
+        "Release date": "2024",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Amazon Studios",
+        "Age rating": "",
+        "Technique": "",
         "Source": ""
       }
     ]

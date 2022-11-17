@@ -41,9 +41,9 @@
         "Title": "One of Us Is Lying",
         "Genre": "Teen mystery drama",
         "Premiere": "October 7, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "46–49 min.",
-        "Status": "Season 2 due to premiere on October 20, 2022"
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "41–51 min.",
+        "Status": "Pending"
       },
       {
         "Title": "The Girl in the Woods",
@@ -51,7 +51,7 @@
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "24–30 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Bel-Air",
@@ -90,16 +90,24 @@
         "Genre": "Supernatural",
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "44–51 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "44–55 min.",
+        "Status": "Pending"
       },
       {
         "Title": "A Friend of the Family",
         "Genre": "Crime drama",
         "Premiere": "October 6, 2022",
         "Seasons": "9 episodes",
-        "Length": "51–56 min.",
-        "Status": "Miniseries ongoing"
+        "Length": "49–58 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Calling",
+        "Genre": "Crime drama",
+        "Premiere": "November 10, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "40–47 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Irreverent",
@@ -147,7 +155,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "26–32 min.",
-        "Status": "Pending"
+        "Status": "Moved to Netflix"
       },
       {
         "Title": "MacGruber",
@@ -186,6 +194,22 @@
         "Genre": "Musical comedy",
         "Premiere": "November 23, 2022",
         "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Best Man: The Final Chapters",
+        "Genre": "Comedy drama",
+        "Premiere": "December 22, 2022",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Poker Face",
+        "Genre": "Comedy drama",
+        "Premiere": "January 26, 2023",
+        "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -445,7 +469,7 @@
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
         "Seasons": "TBA",
-        "Length": "37 min.",
+        "Length": "36–37 min.",
         "Status": "Season 57 ongoing"
       }
     ]
@@ -511,8 +535,8 @@
         "Title": "Leopard Skin",
         "Genre": "Crime drama",
         "Premiere": "November 17, 2022",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "30 min.",
         "Language": "English",
         "Status": "Pending"
       }

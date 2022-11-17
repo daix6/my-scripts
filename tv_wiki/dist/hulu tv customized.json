@@ -51,7 +51,7 @@
         "Premiere": "April 26, 2017",
         "Seasons": "5 seasons, 56 episodes",
         "Length": "44–64 min.",
-        "Status": "Season 5 ongoingRenewed for final season"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Runaways",
@@ -195,7 +195,7 @@
         "Premiere": "August 18, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–55 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Y: The Last Man",
@@ -282,8 +282,8 @@
         "Genre": "Psychological thriller",
         "Premiere": "August 30, 2022",
         "Seasons": "10 episodes",
-        "Length": "21–22 min.",
-        "Status": "Miniseries ongoing"
+        "Length": "21–46 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Tell Me Lies",
@@ -291,15 +291,15 @@
         "Premiere": "September 7, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "45–53 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Reasonable Doubt",
         "Genre": "Legal drama",
         "Premiere": "September 27, 2022",
         "Seasons": "1 season, 9 episodes",
-        "Length": "51–52 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "46–55 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Fleishman Is in Trouble",
@@ -515,15 +515,15 @@
         "Premiere": "August 12, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–31 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Reboot",
         "Genre": "Sitcom",
         "Premiere": "September 20, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "29–30 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "22–33 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -580,7 +580,7 @@
         "Premiere": "November 17, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–27 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -596,7 +596,7 @@
         "Genre": "Comedy drama",
         "Premiere": "November 11, 2013",
         "Seasons": "2 seasons, 10 episodes",
-        "Length": "29 min.",
+        "Length": "29–31 min.",
         "Status": "Ended"
       },
       {
@@ -793,6 +793,15 @@
         "Partner/Country": "OWN/United States",
         "Genre": "Docuseries",
         "Premiere": "October 22, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "41 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Planet Sex with Cara Delevingne",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Genre": "Docuseries",
+        "Premiere": "November 29, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "TBA",
         "Status": "Pending"
