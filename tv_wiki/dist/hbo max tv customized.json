@@ -17,9 +17,9 @@
         "Title": "Gossip Girl",
         "Genre": "Teen drama",
         "Premiere": "July 8, 2021",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "2 seasons, 14 episodes",
         "Runtime": "53–57 min.",
-        "Status": "Season 2 due to premiere on December 1, 2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Station Eleven",
@@ -129,9 +129,9 @@
         "Title": "The Sex Lives of College Girls",
         "Genre": "Comedy drama",
         "Premiere": "November 18, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "23–49 min.",
-        "Status": "Season 2 due to premiere on November 17, 2022"
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "22–51 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "And Just Like That...",
@@ -163,7 +163,7 @@
         "Premiere": "March 17, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–35 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "Rap Sh!t",
@@ -211,7 +211,7 @@
         "Premiere": "April 14, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–28 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Gordita Chronicles",
@@ -319,10 +319,10 @@
         "Title": "The Thaw",
         "Genre": "Crime drama",
         "Premiere": "April 1, 2022",
-        "Seasons": "6 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "46–55 min.",
         "Language": "Polish",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       },
       {
         "Title": "García!",
@@ -331,7 +331,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "54–59 min.",
         "Language": "Spanish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -386,10 +386,10 @@
         "Genre": "Sitcom",
         "Partner/Country": "CBC Television/Canada",
         "Premiere": "November 18, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "20–21 min.",
         "Language": "English",
-        "Status": "Season 2 due to premiere on December 1, 2022"
+        "Status": "Renewed"
       },
       {
         "Title": "Perfect Life (season 2)",
@@ -430,6 +430,16 @@
         "Runtime": "24–25 min.",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "The Head (season 2)",
+        "Genre": "Mystery thriller",
+        "Partner/Country": "Hulu Japan/Japan",
+        "Premiere": "December 22, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "English/Danish/Swedish",
+        "Status": "Pending"
       }
     ]
   },
@@ -446,16 +456,16 @@
         "Premiere": "June 18, 2020",
         "Seasons": "4 seasons, 60 episodes",
         "Runtime": "12 min.",
-        "Status": "Moved back to Cartoon Network"
+        "Status": "Ended"
       },
       {
-        "Title": "Doom Patrol (seasons 2–3)",
+        "Title": "Doom Patrol (seasons 2–4)",
         "Genre": "Superhero comedy",
         "Prev. network(s)": "DC Universe",
         "Premiere": "June 25, 2020",
-        "Seasons": "2 seasons, 19 episodes",
+        "Seasons": "3 seasons, 25 episodes",
         "Runtime": "44–58 min.",
-        "Status": "Season 4 due to premiere on December 8, 2022"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -491,7 +501,7 @@
         "Premiere": "November 12, 2020",
         "Seasons": "3 seasons, 105 episodes",
         "Runtime": "25 min.",
-        "Status": "Renewed for seasons 54–55"
+        "Status": "Season 53 ongoingRenewed for seasons 54–55"
       },
       {
         "Title": "Titans (season 3–4)",
@@ -539,13 +549,13 @@
         "Status": "Pending"
       },
       {
-        "Title": "South Side (season 2)",
+        "Title": "South Side (season 2–3)",
         "Genre": "Black sitcom",
         "Prev. network(s)": "Comedy Central",
         "Premiere": "November 11, 2021",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Runtime": "27–33 min.",
-        "Status": "Renewed"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Beforeigners (season 2)",
@@ -571,8 +581,8 @@
         "Prev. network(s)": "Epix",
         "Premiere": "October 6, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "47–51 min.",
-        "Status": "Season 3 ongoing"
+        "Runtime": "43–51 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -608,7 +618,7 @@
       },
       {
         "Title": "The Monster at the End of This Story",
-        "Genre": "Animation",
+        "Genre": "Animated damily comedy",
         "Premiere": "October 29, 2020",
         "Runtime": "31 min."
       },
@@ -626,7 +636,7 @@
       },
       {
         "Title": "Furry Friends Forever: Elmo Gets a Puppy",
-        "Genre": "Animation",
+        "Genre": "Animated damily comedy",
         "Premiere": "August 5, 2021",
         "Runtime": "30 min."
       },
@@ -688,7 +698,7 @@
         "Runtime": "45–54 min.",
         "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "A Thousand Fangs",
@@ -708,7 +718,7 @@
         "Runtime": "12–16 min.",
         "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Juanpa + Chef",
@@ -738,7 +748,7 @@
         "Runtime": "26–36 min.",
         "Exclusive region(s)": "Spain and Americas",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Búnker",

@@ -2303,9 +2303,9 @@
       {
         "Title": "Duncanville",
         "Genre": "Sitcom",
-        "Seasons/episodes": "3 seasons, 33 episodes",
+        "Seasons/episodes": "3 seasons, 39 episodes",
         "Show creator(s)": "Mike Scully",
-        "Original release": "February 16, 2020 – present",
+        "Original release": "February 16, 2020 – October 18, 2022",
         "Network": "Fox",
         "Studio": "Bento Box Entertainment",
         "Age rating": "TV-14",
@@ -2711,7 +2711,7 @@
       {
         "Title": "Inside Job",
         "Genre": "Workplace comedy",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "1 season, 18 episodes",
         "Show creator(s)": "Shion Takeuchi",
         "Original release": "October 22, 2021 – present",
         "Network": "Netflix",
@@ -3759,42 +3759,6 @@
     ],
     "data": [
       {
-        "Title": "Magic: The Gathering",
-        "Genre": "Fantasy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Jeff Kline",
-        "Release date": "2022",
-        "Original channel": "Netflix",
-        "Studio": "Netflix Animation",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "Krapopolis",
-        "Genre": "Sitcom",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Dan Harmon",
-        "Release date": "November 27, 2022",
-        "Original channel": "Fox",
-        "Studio": "Fox Entertainment",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Dragon Age: Absolution",
-        "Genre": "Fantasy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Mairghread Scott",
-        "Release date": "December 9, 2022",
-        "Original channel": "Netflix",
-        "Studio": "BioWare",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
         "Title": "Clone High",
         "Genre": "Sitcom",
         "Seasons, episodes": "2 seasons",
@@ -3831,13 +3795,13 @@
         "Source": ""
       },
       {
-        "Title": "Koala Man",
-        "Genre": "Superhero",
-        "Seasons, episodes": "1 season, 8 episodes",
-        "Show creator": "Michael Cusack",
+        "Title": "Krapopolis",
+        "Genre": "Sitcom",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Dan Harmon",
         "Release date": "2023",
-        "Original channel": "Hulu",
-        "Studio": "20th Television Animation",
+        "Original channel": "Fox",
+        "Studio": "Fox Entertainment",
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""
@@ -3855,11 +3819,23 @@
         "Source": ""
       },
       {
+        "Title": "Koala Man",
+        "Genre": "Superhero",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "Michael Cusack",
+        "Release date": "January 9, 2023",
+        "Original channel": "Hulu",
+        "Studio": "20th Television Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Velma",
         "Genre": "Mystery",
         "Seasons, episodes": "1 season, 10 episodes",
         "Show creator": "Mindy Kaling",
-        "Release date": "2023",
+        "Release date": "January 12, 2023",
         "Original channel": "HBO Max",
         "Studio": "Warner Bros. Animation",
         "Age rating": "",

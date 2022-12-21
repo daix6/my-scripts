@@ -107,7 +107,7 @@
         "Premiere": "September 4, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "41–58 min.",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on February 15, 2023"
       },
       {
         "Title": "Looking for Alaska",
@@ -291,7 +291,7 @@
         "Premiere": "September 7, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "45–53 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Reasonable Doubt",
@@ -302,35 +302,27 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Fleishman Is in Trouble",
         "Genre": "Drama",
         "Premiere": "November 17, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "47–52 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Welcome to Chippendales",
         "Genre": "Biographical drama",
         "Premiere": "November 22, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "39–46 min.",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Kindred",
         "Genre": "Science fiction drama",
         "Premiere": "December 13, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
+        "Length": "36–54 min.",
         "Status": "Miniseries"
       }
     ]
@@ -491,7 +483,7 @@
         "Premiere": "January 18, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–25 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on January 24, 2023"
       },
       {
         "Title": "Life &amp; Beth",
@@ -564,7 +556,7 @@
         "Premiere": "May 8, 2020",
         "Seasons": "3 seasons, 29 episodes",
         "Length": "22–25 min.",
-        "Status": "Renewed for seasons 4 and 5"
+        "Status": "Renewed for seasons 4–5"
       },
       {
         "Title": "Crossing Swords",
@@ -589,6 +581,22 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "22–27 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Koala Man",
+        "Genre": "Superhero comedy",
+        "Premiere": "January 9, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -619,9 +627,9 @@
         "Title": "Animaniacs",
         "Genre": "Comedy",
         "Premiere": "November 20, 2020",
-        "Seasons": "2 seasons, 26 episodes",
+        "Seasons": "3 seasons, 36 episodes",
         "Length": "24–27 min.",
-        "Status": "Renewed"
+        "Status": "Final season due to premiere on February 17, 2023"
       }
     ]
   },
@@ -804,7 +812,7 @@
         "Title": "IMPACT x Nightline",
         "Genre": "News magazine",
         "Premiere": "October 6, 2022",
-        "Seasons": "1 season, 7 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Length": "37–49 min.",
         "Status": "Season 1 ongoing"
       },
@@ -817,6 +825,14 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Grails: When Sneakers Change the Game",
+        "Genre": "Business",
+        "Premiere": "December 14, 2022",
+        "Seasons": "6 episodes",
+        "Length": "22–28 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -825,18 +841,58 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Death in the Dorms",
-        "Genre": "True crime",
-        "Premiere": "November 21, 2022",
+        "Title": "House of Grucci",
+        "Genre": "Docuseries",
+        "Premiere": "January 2, 2023",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Miniseries"
       },
       {
-        "Title": "Grails",
-        "Genre": "Business",
-        "Premiere": "December 14, 2022",
+        "Title": "Death in the Dorms",
+        "Genre": "True crime",
+        "Premiere": "January 5, 2023",
         "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "How I Caught My Killer",
+        "Genre": "True crime",
+        "Premiere": "January 12, 2023",
+        "Seasons": "9 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Web of Death",
+        "Genre": "True crime",
+        "Premiere": "January 19, 2023",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Killing County",
+        "Genre": "True crime",
+        "Premiere": "January 26, 2023",
+        "Seasons": "3 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The 1619 Project",
+        "Genre": "History",
+        "Premiere": "January 26, 2023",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Stolen Youth: Inside the Cult at Sarah Lawrence",
+        "Genre": "True crime",
+        "Premiere": "February 9, 2023",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -858,7 +914,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "Eater's Guide To The World",
+        "Title": "Eater's Guide to the World",
         "Genre": "Reality",
         "Premiere": "November 11, 2020",
         "Seasons": "1 season, 7 episodes",
@@ -871,7 +927,7 @@
         "Premiere": "September 3, 2021",
         "Seasons": "2 seasons, 18 episodes",
         "Length": "23–47 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Baker's Dozen",
@@ -887,7 +943,7 @@
         "Premiere": "December 1, 2021",
         "Seasons": "1 season, 4 episodes",
         "Length": "42 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Kardashians",
@@ -895,7 +951,7 @@
         "Premiere": "April 14, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "40–49 min.",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Best in Dough",
@@ -922,19 +978,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Back in the Groove",
-        "Genre": "Reality",
+        "Genre": "Dating competition",
         "Premiere": "December 5, 2022",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "45–57 min.",
         "Status": "Pending"
       }
     ]
@@ -972,8 +1020,8 @@
     "data": [
       {
         "Title": "The Wrong Mans",
-        "Partner/Country": "BBC Two/United Kingdom",
         "Genre": "Comedy drama",
+        "Partner/Country": "BBC Two/United Kingdom",
         "Premiere": "November 11, 2013",
         "Seasons": "2 seasons, 10 episodes",
         "Length": "29–31 min.",
@@ -981,8 +1029,8 @@
       },
       {
         "Title": "Harlots",
-        "Partner/Country": "ITV Encore/United Kingdom",
         "Genre": "Historical period drama",
+        "Partner/Country": "ITV Encore/United Kingdom",
         "Premiere": "March 29, 2017",
         "Seasons": "3 seasons, 24 episodes",
         "Length": "44–50 min.",
@@ -990,8 +1038,8 @@
       },
       {
         "Title": "Hard Sun",
-        "Partner/Country": "BBC One/United Kingdom",
         "Genre": "Drama",
+        "Partner/Country": "BBC One/United Kingdom",
         "Premiere": "March 7, 2018",
         "Seasons": "1 season, 6 episodes",
         "Length": "54–56 min.",
@@ -999,8 +1047,8 @@
       },
       {
         "Title": "The First",
-        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Drama",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "September 14, 2018",
         "Seasons": "1 season, 8 episodes",
         "Length": "45–48 min.",
@@ -1008,8 +1056,8 @@
       },
       {
         "Title": "The Bisexual",
-        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Comedy drama",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "November 16, 2018",
         "Seasons": "1 season, 6 episodes",
         "Length": "27–30 min.",
@@ -1017,8 +1065,8 @@
       },
       {
         "Title": "Holly Hobbie",
-        "Partner/Country": "Family Channel/Canada",
         "Genre": "Teen comedy",
+        "Partner/Country": "Family Channel/Canada",
         "Premiere": "November 16, 2018",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "25 min.",
@@ -1026,8 +1074,8 @@
       },
       {
         "Title": "Catch-22",
-        "Partner/Country": "Sky Italia/Italy",
         "Genre": "Satire dark comedy",
+        "Partner/Country": "Sky Italia/Italy",
         "Premiere": "May 17, 2019",
         "Seasons": "6 episodes",
         "Length": "40–46 min.",
@@ -1035,8 +1083,8 @@
       },
       {
         "Title": "This Way Up",
-        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Comedy drama",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "August 21, 2019",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "23–25 min.",
@@ -1044,8 +1092,8 @@
       },
       {
         "Title": "The Accident",
-        "Partner/Country": "Channel 4/United Kingdom",
         "Genre": "Drama",
+        "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "November 22, 2019",
         "Seasons": "4 episodes",
         "Length": "47 min.",
@@ -1053,8 +1101,8 @@
       },
       {
         "Title": "Endlings",
-        "Partner/Country": "CBC Television/Canada",
         "Genre": "Family science fiction",
+        "Partner/Country": "CBC Television/Canada",
         "Premiere": "January 17, 2020",
         "Seasons": "2 seasons, 24 episodes",
         "Length": "22 min.",
@@ -1062,8 +1110,8 @@
       },
       {
         "Title": "Utopia Falls",
-        "Partner/Country": "CBC Gem/Canada",
         "Genre": "Teen science fiction drama",
+        "Partner/Country": "CBC Gem/Canada",
         "Premiere": "February 14, 2020",
         "Seasons": "1 season, 10 episodes",
         "Length": "44 min.",
@@ -1071,8 +1119,8 @@
       },
       {
         "Title": "Normal People",
-        "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
+        "Partner/Country": "BBC Three/United Kingdom",
         "Premiere": "April 29, 2020",
         "Seasons": "12 episodes",
         "Length": "21–33 min.",
@@ -1080,8 +1128,8 @@
       },
       {
         "Title": "Madagascar: A Little Wild",
-        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
+        "Partner/Country": "Peacock/United States",
         "Premiere": "September 7, 2020",
         "Seasons": "8 seasons, 50 episodes",
         "Length": "23 min.",
@@ -1089,17 +1137,17 @@
       },
       {
         "Title": "The Mighty Ones",
-        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
+        "Partner/Country": "Peacock/United States",
         "Premiere": "November 9, 2020",
-        "Seasons": "3 seasons, 30 episodes",
+        "Seasons": "4 seasons, 40 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "No Man's Land",
-        "Partner/Country": "Arte France/France",
         "Genre": "Drama",
+        "Partner/Country": "Arte France/France",
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 8 episodes",
         "Length": "42–52 min.",
@@ -1107,8 +1155,8 @@
       },
       {
         "Title": "Trolls: TrollsTopia",
-        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
+        "Partner/Country": "Peacock/United States",
         "Premiere": "November 19, 2020",
         "Seasons": "7 seasons, 52 episodes",
         "Length": "23 min.",
@@ -1116,8 +1164,8 @@
       },
       {
         "Title": "The Hardy Boys",
-        "Partner/Country": "YTV/Canada",
         "Genre": "Mystery teen drama",
+        "Partner/Country": "YTV/Canada",
         "Premiere": "December 4, 2020",
         "Seasons": "2 seasons, 23 episodes",
         "Length": "40–46 min.",
@@ -1125,8 +1173,8 @@
       },
       {
         "Title": "The Sister",
-        "Partner/Country": "ITV/United Kingdom",
         "Genre": "Psychological thriller",
+        "Partner/Country": "ITV/United Kingdom",
         "Premiere": "January 22, 2021",
         "Seasons": "4 episodes",
         "Length": "45–46 min.",
@@ -1134,26 +1182,26 @@
       },
       {
         "Title": "The Croods: Family Tree",
-        "Partner/Country": "Peacock/United States",
         "Genre": "Animated family comedy",
+        "Partner/Country": "Peacock/United States",
         "Premiere": "September 23, 2021",
-        "Seasons": "4 seasons, 26 episodes",
+        "Seasons": "5 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 25, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
-        "Partner/Country": "Peacock/United States",
         "Genre": "Animated adventure",
+        "Partner/Country": "Peacock/United States",
         "Premiere": "December 23, 2021",
-        "Seasons": "3 season, 20 episodes",
+        "Seasons": "4 seasons, 26 episodes",
         "Length": "23 min.",
-        "Status": "Season 4 due to premiere on November 17, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Conversations with Friends",
-        "Partner/Country": "BBC Three/United Kingdom",
         "Genre": "Drama",
+        "Partner/Country": "BBC Three/United Kingdom",
         "Premiere": "May 15, 2022",
         "Seasons": "12 episodes",
         "Length": "25–31 min.",
@@ -1161,8 +1209,8 @@
       },
       {
         "Title": "Abominable and the Invisible City",
-        "Partner/Country": "Peacock/United States",
         "Genre": "Animated adventure",
+        "Partner/Country": "Peacock/United States",
         "Premiere": "October 5, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "23 min.",
@@ -1170,29 +1218,11 @@
       },
       {
         "Title": "The Hair Tales",
-        "Partner/Country": "OWN/United States",
         "Genre": "Docuseries",
+        "Partner/Country": "OWN/United States",
         "Premiere": "October 22, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "41 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Awaiting release",
-        "Partner/Country": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "Planet Sex with Cara Delevingne",
-        "Partner/Country": "BBC Three/United Kingdom",
-        "Genre": "Docuseries",
-        "Premiere": "November 29, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1265,19 +1295,10 @@
   },
   {
     "category": [
-      "Exclusive international distribution"
+      "Exclusive international distribution",
+      "Drama"
     ],
     "data": [
-      {
-        "Title": "Moone Boy",
-        "Genre": "Comedy",
-        "Original network": "Sky One",
-        "Premiere": "July 10, 2013",
-        "Seasons": "3 seasons, 18 episodes",
-        "Length": "21–28 min.",
-        "Language": "English",
-        "Status": "Ended"
-      },
       {
         "Title": "National Treasure",
         "Genre": "Drama",
@@ -1319,26 +1340,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Letterkenny",
-        "Genre": "Comedy",
-        "Original network": "Crave",
-        "Premiere": "July 13, 2018",
-        "Seasons": "10 seasons, 68 episodes",
-        "Length": "19–30 min.",
-        "Language": "English",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Littlekenny",
-        "Genre": "Adult animation shorts",
-        "Original network": "Crave",
-        "Premiere": "December 27, 2019",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "2–3 min.",
-        "Language": "English",
-        "Status": "Ended"
-      },
-      {
         "Title": "No fue mi culpa",
         "Genre": "Drama",
         "Original network": "Star+",
@@ -1356,26 +1357,6 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "31–39 min.",
         "Language": "Portuguese",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Alternative Therapy",
-        "Genre": "Comedy",
-        "Original network": "Star+",
-        "Premiere": "March 14, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "31–44 min.",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Outrun by Running Man",
-        "Genre": "Variety show",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "March 22, 2022",
-        "Seasons": "1 season, 14 episodes",
-        "Length": "32–55 min.",
-        "Language": "Korean",
         "Status": "Pending"
       },
       {
@@ -1399,26 +1380,6 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Shoresy",
-        "Genre": "Comedy",
-        "Original network": "Crave",
-        "Premiere": "May 27, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "21–30 min.",
-        "Language": "English",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Heartthrob: TV Changed, He Didn't",
-        "Genre": "Black comedy",
-        "Original network": "Star+",
-        "Premiere": "June 8, 2022",
-        "Seasons": "1 season, 12 episodes",
-        "Length": "23–38 min.",
-        "Language": "Spanish",
-        "Status": "Renewed"
-      },
-      {
         "Title": "Santa Evita",
         "Genre": "Historical drama",
         "Original network": "Star+",
@@ -1429,54 +1390,24 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Fearless: The Inside Story of the AFLW",
-        "Genre": "Docuseries",
-        "Original network": "Disney+",
-        "Premiere": "August 24, 2022",
-        "Seasons": "6 episodes",
-        "Length": "45–52 min.",
-        "Language": "English",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Wedding Season",
-        "Genre": "Romantic comedy thriller",
+        "Title": "May It Please the Court",
+        "Genre": "Legal drama",
         "Original network": "Disney+ (Star Hub)",
-        "Premiere": "September 8, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "30–41 min.",
-        "Language": "English",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Zone: Survival Mission",
-        "Genre": "Variety show",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "September 8, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "54–63 min.",
+        "Premiere": "September 21, 2022",
+        "Seasons": "12 episodes",
+        "Length": "57–79 min.",
         "Language": "Korean",
-        "Status": "Season 1 ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Women in Taipei",
         "Genre": "Romantic melodrama",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "September 21, 2022",
-        "Seasons": "1 season, 11 episodes",
-        "Length": "46–50 min.",
+        "Seasons": "11 episodes",
+        "Length": "43–53 min.",
         "Language": "Mandarin",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "May It Please the Court",
-        "Genre": "Legal comedy drama",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "September 21, 2022",
-        "Seasons": "1 season, 12 episodes",
-        "Length": "62–65 min.",
-        "Language": "Korean",
-        "Status": "Season 1 ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Big Mouth",
@@ -1489,13 +1420,201 @@
         "Status": "Pending"
       },
       {
-        "Title": "El Repatriado",
+        "Title": "El repatriado",
         "Genre": "Drama",
         "Original network": "Star+",
         "Premiere": "September 27, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "32–44 min.",
         "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Grid",
+        "Genre": "Science fiction crime thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "October 12, 2022",
+        "Seasons": "10 episodes",
+        "Length": "53–63 min.",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Shadow Detective",
+        "Genre": "Crime drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "54–61 min.",
+        "Language": "Korean",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Revenge of Others",
+        "Genre": "Coming of age crime drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "November 9, 2022",
+        "Seasons": "12 episodes",
+        "Length": "58–62 min.",
+        "Language": "Korean",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Ben Gri",
+        "Genre": "Crime Thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "November 16, 2022",
+        "Seasons": "1 season 8 episodes",
+        "Length": "TBA",
+        "Language": "Turkish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Kiss Sixth Sense",
+        "Genre": "Romantic fantasy drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "November 30, 2022",
+        "Seasons": "12 episodes",
+        "Length": "62–73 min.",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "La última",
+        "Genre": "Drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "December 2, 2022",
+        "Seasons": "5 episodes",
+        "Length": "47–58 min.",
+        "Language": "Spanish",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Connect",
+        "Genre": "Fantasy crime thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "December 7, 2022",
+        "Seasons": "6 episodes",
+        "Length": "36–46 min.",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Tomorrow, I'll Be Someone's Girlfriend",
+        "Genre": "Romantic drama",
+        "Original network": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}MBSTBS",
+        "Premiere": "December 13, 2022",
+        "Seasons": "12 episodes",
+        "Length": "24 min.",
+        "Language": "Japanese",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Subete Wasurete Shimaukara (Because We Forget Everything)",
+        "Genre": "Mystery drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "December 14, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "26–37 min",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Original network": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Big Bet",
+        "Genre": "Drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "December 21, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Language": "Korean",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Gannibal",
+        "Genre": "Horror thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "December 28, 2022",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Language": "Japanese",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Exclusive international distribution",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Moone Boy",
+        "Genre": "Comedy",
+        "Original network": "Sky One",
+        "Premiere": "July 10, 2013",
+        "Seasons": "3 seasons, 18 episodes",
+        "Length": "21–28 min.",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Letterkenny",
+        "Genre": "Comedy",
+        "Original network": "Crave",
+        "Premiere": "July 13, 2018",
+        "Seasons": "10 seasons, 68 episodes",
+        "Length": "19–30 min.",
+        "Language": "English",
+        "Status": "Season 11 due to premiere on December 26, 2022"
+      },
+      {
+        "Title": "Terapia alternativa",
+        "Genre": "Comedy",
+        "Original network": "Star+",
+        "Premiere": "March 14, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "31–44 min.",
+        "Language": "Spanish",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Shoresy",
+        "Genre": "Comedy",
+        "Original network": "Crave",
+        "Premiere": "May 27, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "21–30 min.",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "El galán. La TV cambió, él no",
+        "Genre": "Black comedy",
+        "Original network": "Star+",
+        "Premiere": "June 8, 2022",
+        "Seasons": "1 season, 12 episodes",
+        "Length": "23–38 min.",
+        "Language": "Spanish",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Wedding Season",
+        "Genre": "Romantic comedy thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "30–41 min.",
+        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -1509,47 +1628,17 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Grid",
-        "Genre": "Science fiction crime thriller",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "October 12, 2022",
-        "Seasons": "10 episodes",
-        "Length": "53–63 min.",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Pink Lie",
-        "Genre": "Dating show",
-        "Original network": "Disney+ (Star Hub)",
+        "Title": "El encargado",
+        "Genre": "Comedy drama",
+        "Original network": "Star+",
         "Premiere": "October 26, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "73 min.",
-        "Language": "Korean",
-        "Status": "Season 1 ongoing"
+        "Seasons": "1 season, 11 episodes",
+        "Length": "28–32 min",
+        "Language": "Spanish",
+        "Status": "Renewed"
       },
       {
-        "Title": "Shadow Detective",
-        "Genre": "Crime drama",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "October 26, 2022",
-        "Seasons": "8 episodes",
-        "Length": "55–57 min.",
-        "Language": "Korean",
-        "Status": "Miniseries ongoing"
-      },
-      {
-        "Title": "Revenge of Others",
-        "Genre": "Coming of age crime drama",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "November 9, 2022",
-        "Seasons": "12 episodes",
-        "Length": "58–62 min.",
-        "Language": "Korean",
-        "Status": "Miniseries ongoing"
-      },
-      {
-        "Title": "The Stolen Cup",
+        "Title": "Robo mundial",
         "Genre": "Comedy drama",
         "Original network": "Star+",
         "Premiere": "November 9, 2022",
@@ -1559,8 +1648,66 @@
         "Status": "Pending"
       },
       {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Original network": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Extraordinary",
+        "Genre": "Superhero comedy",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "January 25, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "25 min",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Exclusive international distribution",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Littlekenny",
+        "Genre": "Adult animation shorts",
+        "Original network": "Crave",
+        "Premiere": "December 27, 2019",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "2–3 min.",
+        "Language": "English",
+        "Status": "Ended"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Exclusive international distribution",
+      "Animation",
+      "Anime"
+    ],
+    "data": [
+      {
+        "Title": "Black Rock Shooter: Dawn Fall",
+        "Genre": "Action science fantasy",
+        "Original network": "Tokyo MX, BS11, KBS Kyoto, SUN, TV Aichi",
+        "Premiere": "October 19, 2022",
+        "Seasons": "1 season, 12 episodes",
+        "Length": "~24 min.",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
         "Title": "The Tatami Time Machine Blues",
-        "Genre": "Mystery/Romantic comedy anime",
+        "Genre": "Mystery/Romantic comedy",
         "Original network": "Disney+ (Star Hub)",
         "Premiere": "November 9, 2022",
         "Seasons": "6 episodes",
@@ -1572,18 +1719,68 @@
   },
   {
     "category": [
+      "Exclusive international distribution",
+      "Unscripted"
+    ],
+    "data": [
+      {
+        "Title": "Outrun by Running Man",
+        "Genre": "Variety show",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "March 22, 2022",
+        "Seasons": "1 season, 14 episodes",
+        "Length": "32–55 min.",
+        "Language": "Korean",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Fearless: The Inside Story of the AFLW",
+        "Genre": "Docuseries",
+        "Original network": "Disney+",
+        "Premiere": "August 24, 2022",
+        "Seasons": "6 episodes",
+        "Length": "45–52 min.",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Zone: Survival Mission",
+        "Genre": "Variety show",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "54–63 min.",
+        "Language": "Korean",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Hache. Lo que no se nombra",
+        "Genre": "Docuseries",
+        "Original network": "Star+",
+        "Premiere": "October 19, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Length": "25–35 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Pink Lie",
+        "Genre": "Dating show",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "73 min.",
+        "Language": "Korean",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
       "Upcoming original programming",
       "Drama"
     ],
     "data": [
-      {
-        "Title": "Faraway Downs",
-        "Genre": "Historical drama miniseries",
-        "Premiere": "Late 2022",
-        "Seasons": "6 episodes",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
       {
         "Title": "Shōgun",
         "Genre": "Historical drama miniseries",
@@ -1633,14 +1830,6 @@
         "Status": "Filming"
       },
       {
-        "Title": "The Other Black Girl",
-        "Genre": "Mystery thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Career Opportunities in Murder &amp; Mayhem",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -1649,18 +1838,34 @@
         "Status": "Filming"
       },
       {
-        "Title": "Interior Chinatown",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "La Máquina",
         "Genre": "Sports drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Other Black Girl",
+        "Genre": "Mystery thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Tiny Beautiful Things",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "30 min.",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Interior Chinatown",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -1686,14 +1891,6 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Tiny Beautiful Things",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "30 min.",
         "Status": "Series order"
       },
       {
@@ -1729,6 +1926,14 @@
     ],
     "data": [
       {
+        "Title": "Unprisoned",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Post-production"
+      },
+      {
         "Title": "The Full Monty",
         "Genre": "Comedy drama",
         "Premiere": "TBA",
@@ -1745,12 +1950,12 @@
         "Status": "Filming"
       },
       {
-        "Title": "Unprisoned",
+        "Title": "How to Die Alone",
         "Genre": "Comedy",
         "Premiere": "TBA",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
-        "Status": "Post-production"
+        "Status": "Series order"
       }
     ]
   },
@@ -1762,10 +1967,10 @@
     ],
     "data": [
       {
-        "Title": "Koala Man",
-        "Genre": "Superhero comedy",
-        "Premiere": "2023",
-        "Seasons": "1 season, 8 episodes",
+        "Title": "Standing By",
+        "Genre": "Animated comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       }
@@ -1788,7 +1993,7 @@
       },
       {
         "Title": "The Age of Influence",
-        "Genre": "Documentary",
+        "Genre": "Docuseries",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Length": "TBA",
@@ -1803,6 +2008,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Pretty Baby: Brooke Shields",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "2 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Murder U",
         "Genre": "True crime",
         "Premiere": "TBA",
@@ -1811,23 +2024,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Untitled The 1619 Project docuseries",
-        "Genre": "History",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Untitled Scott Johnson project",
-        "Genre": "True crime",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Web of Death",
         "Genre": "True crime",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1882,7 +2079,7 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       }
     ]
   },
@@ -1892,6 +2089,15 @@
       "Co-productions"
     ],
     "data": [
+      {
+        "Title": "Planet Sex with Cara Delevingne",
+        "Genre": "Docuseries",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Premiere": "2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Post-production"
+      },
       {
         "Title": "Spellbound",
         "Genre": "Teen drama",
@@ -1926,6 +2132,16 @@
       "Exclusive international distribution"
     ],
     "data": [
+      {
+        "Title": "Faraway Downs",
+        "Genre": "Historical drama miniseries",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "Late 2022",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Language": "English",
+        "Status": "Filming"
+      },
       {
         "Title": "Obituary",
         "Genre": "Black comedy crime drama",

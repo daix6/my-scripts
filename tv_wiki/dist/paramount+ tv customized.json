@@ -138,30 +138,22 @@
         "Genre": "Drama",
         "Premiere": "November 13, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "42 min.",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Criminal Minds: Evolution",
-        "Genre": "Crime drama",
-        "Premiere": "November 24, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "36–42 min.",
+        "Status": "Season 1 ongoingRenewed"
       },
       {
         "Title": "1923",
         "Genre": "Neo-Western drama",
         "Premiere": "December 18, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "61 min.",
+        "Status": "Season 1 ongoingRenewed"
       },
       {
         "Title": "Wolf Pack",
         "Genre": "Horror",
         "Premiere": "January 26, 2023",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -203,7 +195,7 @@
         "Premiere": "October 14, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–35 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Fairly OddParents: Fairly Odder",
@@ -236,7 +228,7 @@
         "Premiere": "April 7, 2020",
         "Seasons": "2 seasons, 233 episodes",
         "Runtime": "5–44 min.",
-        "Status": "Moved to Comedy Central"
+        "Status": "Ended"
       },
       {
         "Title": "Star Trek: Lower Decks",
@@ -340,7 +332,7 @@
         "Premiere": "November 1, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "43–49 min.",
-        "Status": "Season 6 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Next Influencer (season 3)",
@@ -401,9 +393,18 @@
         "Genre": "Reality competition",
         "Prev. network(s)": "CBS",
         "Premiere": "November 2, 2022",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "1 season, 7 episodes",
         "Runtime": "43 min.",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Criminal Minds (season 16)",
+        "Genre": "Crime drama",
+        "Prev. network(s)": "CBS",
+        "Premiere": "November 24, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "44–53 min.",
+        "Status": "Season 16 ongoing"
       }
     ]
   },
@@ -428,24 +429,45 @@
         "Language": "English"
       },
       {
-        "Title": "74th Tony Awards",
-        "Genre": "Award show",
-        "Premiere": "September 26, 2021",
-        "Runtime": "1 hour, 43 min.",
+        "Title": "South Park: Post Covid",
+        "Genre": "Adult animated comedy",
+        "Premiere": "November 25, 2021",
+        "Runtime": "59 min.",
         "Language": "English"
       },
       {
-        "Title": "Porta dos Fundos: Te Prego Lá Fora",
-        "Genre": "Animated comedy",
-        "Premiere": "December 15, 2021",
-        "Runtime": "31 min.",
-        "Language": "Portuguese"
+        "Title": "South Park: Post Covid: The Return of Covid",
+        "Genre": "Adult animated comedy",
+        "Premiere": "December 16, 2021",
+        "Runtime": "1 hour, 2 min.",
+        "Language": "English"
       },
       {
         "Title": "Reno 911! The Hunt for QAnon",
         "Genre": "Comedy",
         "Premiere": "December 23, 2021",
         "Runtime": "1 hour, 25 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "South Park The Streaming Wars",
+        "Genre": "Adult animated comedy",
+        "Premiere": "June 1, 2022",
+        "Runtime": "48 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "Cat Pack: A PAW Patrol Exclusive Event",
+        "Genre": "Educational children's comedy",
+        "Premiere": "June 24, 2022",
+        "Runtime": "1 hour, 8 min.",
+        "Language": "English"
+      },
+      {
+        "Title": "South Park The Streaming Wars Part 2",
+        "Genre": "Adult animated comedy",
+        "Premiere": "July 13, 2022",
+        "Runtime": "51 min.",
         "Language": "English"
       }
     ]
@@ -599,16 +621,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Pervert: Hunting the Strip Search Caller",
-        "Genre": "Docuseries",
-        "Premiere": "October 25, 2022",
-        "Seasons": "3 episodes",
-        "Runtime": "60 min.",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Status": "New episodes due to premiere on January 12, 2023"
       },
       {
         "Title": "Hauntings",
@@ -625,6 +638,15 @@
         "Premiere": "December 1, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Blowing LA",
+        "Genre": "Reality",
+        "Premiere": "December 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       }
@@ -645,6 +667,15 @@
         "Runtime": "22 min.",
         "Exclusive region(s)": "Germany",
         "Status": "Pending"
+      },
+      {
+        "Title": "Germany Shore (season 2)",
+        "Genre": "Reality",
+        "Premiere": "December 15, 2022",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Germany",
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -730,7 +761,7 @@
       {
         "Title": "The Envoys",
         "Genre": "Horror thriller",
-        "Premiere": "December 12, 2021January 20, 2022&#91;e&#93;",
+        "Premiere": "December 12, 2021January 20, 2022&#91;j&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–58 min.",
         "Exclusive region(s)": "All markets",
@@ -739,7 +770,7 @@
       {
         "Title": "Cecilia",
         "Genre": "Family comedy drama",
-        "Premiere": "December 21, 2021April 14, 2022&#91;e&#93;",
+        "Premiere": "December 21, 2021April 14, 2022&#91;j&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30–44 min.",
         "Exclusive region(s)": "All markets",
@@ -775,11 +806,11 @@
       {
         "Title": "Bosé",
         "Genre": "Biopic",
-        "Premiere": "November 3, 2022",
+        "Premiere": "November 3, 2022December 1, 2022&#91;c&#93;",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Spain and Australia",
-        "Status": "Season 1 ongoing"
+        "Runtime": "46–54 min.",
+        "Exclusive region(s)": "Spain, Australia, Latin America and the United States",
+        "Status": "Pending"
       }
     ]
   },
@@ -790,6 +821,133 @@
       "Co-productions"
     ],
     "data": [
+      {
+        "Title": "Pervert: Hunting the Strip Search Caller",
+        "Genre": "Docuseries",
+        "Partner/Country": "Netflix",
+        "Premiere": "October 25, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "60 min.",
+        "Language": "English",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Corpo Libero",
+        "Genre": "Teen thriller drama",
+        "Partner/Country": "RAI/ItalyZDFneo/Germany",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Language": "Italian",
+        "Exclusive region(s)": "Italy, France, United Kingdom, Canada, Australia, Latin America and South Korea",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Peter Helliar: Loopy",
+        "Genre": "Stand-up comedy",
+        "Premiere": "April 1, 2022",
+        "Runtime": "58 min.",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Geraldine Hickey: What A Surprise",
+        "Genre": "Stand-up comedy",
+        "Premiere": "April 1, 2022",
+        "Runtime": "54 min.",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Nath Valvo: I'm Happy for You",
+        "Genre": "Stand-up comedy",
+        "Premiere": "April 1, 2022",
+        "Runtime": "52 min.",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Tom Ballard: Enough",
+        "Genre": "Stand-up comedy",
+        "Premiere": "April 1, 2022",
+        "Runtime": "1 hour",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Guy Montgomery By Name, Guy Montgomery By Nature",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Michelle Brasier: Average Bear",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Sammy J: Symphony in J Minor",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Luke Heggie: I Already Told You",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Kirsty Webeck: Silver Linings",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Dane Simpson: Didgeridoozy",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Ivan Aristeguieta: Happy Papi",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      },
+      {
+        "Title": "Harley Breen: Flat Out",
+        "Genre": "Stand-up comedy",
+        "Premiere": "November 11, 2022",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Exclusive region(s)": "Australia"
+      }
     ]
   }
 ]

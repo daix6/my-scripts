@@ -34,7 +34,7 @@
         "Genre": "Mystery",
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Length": "42–47 min.",
+        "Length": "40–51 min.",
         "Status": "Ended"
       },
       {
@@ -59,7 +59,7 @@
         "Premiere": "February 13, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "46–60 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on February 23, 2023"
       },
       {
         "Title": "Joe vs. Carole",
@@ -110,6 +110,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Irreverent",
+        "Genre": "Crime comedy thriller",
+        "Premiere": "November 30, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "41–50 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -118,10 +126,10 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Irreverent",
-        "Genre": "Crime thriller",
-        "Premiere": "November 30, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Title": "Mrs. Davis",
+        "Genre": "Science fiction",
+        "Premiere": "April 20, 2023",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -163,7 +171,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "26–32 min.",
-        "Status": "Moved to Netflix"
+        "Status": "Ended"
       },
       {
         "Title": "MacGruber",
@@ -206,6 +214,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Pitch Perfect: Bumper in Berlin",
+        "Genre": "Musical comedy",
+        "Premiere": "November 23, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "27–31 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -214,20 +230,20 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Pitch Perfect: Bumper in Berlin",
-        "Genre": "Musical comedy",
-        "Premiere": "November 23, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
-      },
-      {
         "Title": "The Best Man: The Final Chapters",
         "Genre": "Comedy drama",
         "Premiere": "December 22, 2022",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Paul T. Goldman",
+        "Genre": "Comedy",
+        "Premiere": "January 1, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       },
       {
         "Title": "Poker Face",
@@ -487,19 +503,27 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Casey Anthony: Where the Truth Lies",
         "Genre": "True crime docuseries",
         "Premiere": "November 29, 2022",
         "Seasons": "3 episodes",
-        "Length": "TBA",
+        "Length": "60–78 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Who Killed Jenni Rivera?",
+        "Genre": "True crime docuseries",
+        "Premiere": "December 6, 2022",
+        "Seasons": "3 episodes",
+        "Length": "44–48 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Battle for Justina Pelletier",
+        "Genre": "Docuseries",
+        "Premiere": "December 13, 2022",
+        "Seasons": "4 episodes",
+        "Length": "40–57 min.",
         "Status": "Miniseries"
       }
     ]
@@ -579,9 +603,9 @@
         "Title": "Baking It",
         "Genre": "Reality competition",
         "Premiere": "December 2, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "41–49 min.",
-        "Status": "Season 2 due to premiere on December 12, 2022"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Below Deck Down Under",
@@ -590,6 +614,22 @@
         "Seasons": "1 season, 17 episodes",
         "Length": "43–54 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The Traitors",
+        "Genre": "Reality competition",
+        "Premiere": "January 12, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "60 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -621,8 +661,8 @@
         "Genre": "Late-night talk show",
         "Premiere": "September 25, 2020",
         "Seasons": "3 seasons, 57 episodes",
-        "Length": "19–39 min.",
-        "Status": "Season 3 ongoing"
+        "Length": "19–45 min.",
+        "Status": "Pending"
       },
       {
         "Title": "The Overview",
@@ -710,9 +750,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
-        "Seasons": "3 seasons, 30 episodes",
+        "Seasons": "4 seasons, 40 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Trolls: TrollsTopia",
@@ -737,18 +777,18 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "4 seasons, 26 episodes",
+        "Seasons": "5 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Season 5 due to premiere on November 25, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
-        "Seasons": "3 seasons, 20 episodes",
+        "Seasons": "4 seasons, 26 episodes",
         "Length": "22 min.",
-        "Status": "Season 4 due to premiere on November 17, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Wolf Like Me",
@@ -770,7 +810,7 @@
       },
       {
         "Title": "Last Light",
-        "Partner": "StanViaplayMBC Group",
+        "Partner": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}StanViaplayMBC Group",
         "Genre": "Thriller",
         "Premiere": "September 8, 2022",
         "Seasons": "5 episodes",
@@ -837,7 +877,7 @@
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 15 episodes",
         "Length": "42–45 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Home Sweet Home (season 1B)",
@@ -846,16 +886,16 @@
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 5 episodes",
         "Length": "43 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "The Real Housewives of Miami (season 4)",
+        "Title": "The Real Housewives of Miami (season 4–5)",
         "Genre": "Reality",
         "Prev. network(s)": "Bravo",
         "Premiere": "December 16, 2021",
-        "Seasons": "1 season, 14 episodes",
+        "Seasons": "2 seasons, 30 episodes",
         "Length": "41–43 min.",
-        "Status": "Season 5 due to premiere on December 8, 2022"
+        "Status": "Season 5 ongoing"
       },
       {
         "Title": "Love Island (season 4)",
@@ -867,13 +907,13 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Days of Our Lives (season 57)",
+        "Title": "Days of Our Lives (season 58)",
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
         "Seasons": "TBA",
         "Length": "36–37 min.",
-        "Status": "Season 57 ongoing"
+        "Status": "Season 58 ongoing"
       }
     ]
   },
@@ -1092,20 +1132,11 @@
     ],
     "data": [
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Leopard Skin",
         "Genre": "Crime drama",
         "Premiere": "November 17, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "30 min.",
+        "Length": "23–34 min.",
         "Language": "English",
         "Status": "Pending"
       }
@@ -1137,22 +1168,13 @@
     ],
     "data": [
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Love for the Ages",
         "Genre": "Reality",
         "Premiere": "December 15, 2022",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "46–60 min.",
         "Language": "EnglishSpanish",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1319,6 +1341,18 @@
         "Genre": "Documentary",
         "Release": "October 19, 2022",
         "Runtime": "1 hour, 36 min."
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Release": "Awaiting release",
+        "Runtime": "Awaiting release"
+      },
+      {
+        "Title": "Woooooo! Becoming Ric Flair",
+        "Genre": "Documentary",
+        "Release": "December 26, 2022",
+        "Runtime": "2 hours"
       }
     ]
   },
@@ -1369,6 +1403,12 @@
         "Genre": "Comedy",
         "Release": "December 28, 2021",
         "Runtime": "1 hour, 15 min."
+      },
+      {
+        "Title": "Sean Patton: Number One",
+        "Genre": "Stand-up comedy",
+        "Release": "December 2, 2022",
+        "Runtime": "1 hour, 27 min."
       }
     ]
   },
@@ -1399,14 +1439,6 @@
         "Seasons": "3 episodes",
         "Length": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Mrs. Davis",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
       },
       {
         "Title": "Apples Never Fall",
@@ -1455,6 +1487,14 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
+      },
+      {
+        "Title": "Untitled James Wan/Ian McCulloch series",
+        "Genre": "Horror thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -1497,7 +1537,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Untitled Jason Woliner project",
+        "Title": "Untitled Jason Woliner series",
         "Genre": "Mystery comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1643,8 +1683,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Traitors",
-        "Genre": "Reality competition",
+        "Title": "Queen's Court",
+        "Genre": "Dating show",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1858,6 +1898,10 @@
         "Genre": "Mystery thriller"
       },
       {
+        "Title": "Myth of the Zodiac Killer",
+        "Genre": "True crime docuseries"
+      },
+      {
         "Title": "Olympic Boulevard",
         "Genre": "Musical drama"
       },
@@ -1912,6 +1956,10 @@
       {
         "Title": "Wild Cards",
         "Genre": "Superhero science fiction"
+      },
+      {
+        "Title": "World's Most Notorious Killers",
+        "Genre": "True crime docuseries"
       },
       {
         "Title": "The Zone of Silence",

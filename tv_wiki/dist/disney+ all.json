@@ -11,7 +11,7 @@
         "Premiere": "November 12, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "34–55 min",
-        "Status": "Season 3 due to premiere in February 2023Renewed for season 4"
+        "Status": "Season 3 due to premiere on March 1, 2023Renewed for season 4"
       },
       {
         "Title": "The Right Stuff",
@@ -49,9 +49,9 @@
         "Title": "The Mysterious Benedict Society",
         "Genre": "Mystery adventure",
         "Premiere": "June 25, 2021",
-        "Seasons": "2 seasons, 9 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "39–59 min",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Hawkeye",
@@ -79,7 +79,7 @@
       },
       {
         "Title": "Obi-Wan Kenobi",
-        "Genre": "Science fiction action-adventure",
+        "Genre": "Space opera",
         "Premiere": "May 27, 2022",
         "Seasons": "6 episodes",
         "Runtime": "39–56 min",
@@ -91,31 +91,23 @@
         "Premiere": "September 21, 2022",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "38–57 min",
-        "Status": "Season 1 ongoingRenewed for final season"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Willow",
         "Genre": "Fantasy adventure",
         "Premiere": "November 30, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "46–55 min",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "National Treasure: Edge of History",
         "Genre": "Action-adventure",
         "Premiere": "December 14, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "49–50 min",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -147,7 +139,7 @@
         "Premiere": "March 26, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "27–43 min",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Big Shot",
@@ -201,9 +193,9 @@
         "Title": "The Santa Clauses",
         "Genre": "Fantasy comedy",
         "Premiere": "November 16, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "33–35 min",
-        "Status": "Miniseries ongoing"
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30–35 min",
+        "Status": "Renewed"
       }
     ]
   },
@@ -251,7 +243,7 @@
         "Premiere": "February 23, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–32 min",
-        "Status": "Season 2 due to premiere in February 2023"
+        "Status": "Season 2 due to premiere on February 1, 2023"
       }
     ]
   },
@@ -263,7 +255,7 @@
     "data": [
       {
         "Title": "Intertwined",
-        "Genre": "Musical/Fantasy comedy-drama",
+        "Genre": "Musical/Fantasy comedy drama",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–53 min",
@@ -273,7 +265,7 @@
       {
         "Title": "Weekend Family",
         "Genre": "Comedy",
-        "Premiere": "February 23, 2022March 9, 2022&#91;b&#93;",
+        "Premiere": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}February 23, 2022March 9, 2022&#91;b&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–33 min",
         "Language": "French",
@@ -281,7 +273,7 @@
       },
       {
         "Title": "Parallels",
-        "Genre": "Science-fiction fantasy mystery",
+        "Genre": "Science fiction fantasy mystery",
         "Premiere": "March 23, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "34–43 min",
@@ -326,9 +318,9 @@
       },
       {
         "Title": "Sumo Do, Sumo Don't",
-        "Genre": "Sports comedy-drama",
+        "Genre": "Sports comedy drama",
         "Premiere": "October 26, 2022",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "43–56 min",
         "Language": "Japanese",
         "Status": "Season 1 ongoing"
@@ -337,10 +329,10 @@
         "Title": "The Montaners",
         "Genre": "Docu-reality",
         "Premiere": "November 9, 2022",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "40–48 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Awaiting release",
@@ -352,12 +344,21 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "The Low Tone Club",
+        "Title": "Gina Yei",
         "Genre": "Musical comedy drama",
-        "Premiere": "November 30, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min",
+        "Premiere": "January 11, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "TBA",
         "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mila in the Multiverse",
+        "Genre": "Science fiction comedy drama",
+        "Premiere": "January 25, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Language": "Portuguese",
         "Status": "Pending"
       }
     ]
@@ -439,7 +440,7 @@
         "Premiere": "September 25, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "36–41 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on January 4, 2023"
       },
       {
         "Title": "Meet the Chimps",
@@ -511,7 +512,7 @@
         "Premiere": "December 8, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "36–44 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Sketchbook",
@@ -584,6 +585,22 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45–75 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Chasing Waves",
+        "Genre": "Docuseries",
+        "Premiere": "January 11, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -632,7 +649,7 @@
         "Premiere": "December 15, 2021",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "42–45 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Quest",
@@ -783,17 +800,17 @@
         "Title": "The Wonderful World of Mickey Mouse",
         "Genre": "Animation",
         "Premiere": "November 18, 2020",
-        "Seasons": "2 seasons, 23 episodes",
+        "Seasons": "2 seasons, 24 episodes",
         "Runtime": "9–24 min",
-        "Status": "Final episode of season 2 due to premiere on November 18, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 24 episodes",
+        "Seasons": "1 season, 26 episodes",
         "Runtime": "6–12 min",
-        "Status": "New episodes due to premiere on November 23, 2022"
+        "Status": "Pending"
       },
       {
         "Title": "Pixar Popcorn",
@@ -833,7 +850,7 @@
         "Premiere": "September 1, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "10–13 min",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Star Wars: Visions",
@@ -955,55 +972,71 @@
         "Title": "One Day at Disney",
         "Genre": "Documentary",
         "Premiere": "December 3, 2019",
-        "Runtime": "1 h 1 min"
+        "Runtime": "1 h 1 min",
+        "Language": "English"
       },
       {
         "Title": "High School Musical: The Musical: The Series: The Special",
         "Genre": "Musical/Making-of",
         "Premiere": "December 14, 2019",
-        "Runtime": "23 min"
+        "Runtime": "23 min",
+        "Language": "English"
       },
       {
         "Title": "The Real Right Stuff",
         "Genre": "Documentary",
         "Premiere": "November 20, 2020",
-        "Runtime": "1 h 30 min"
+        "Runtime": "1 h 30 min",
+        "Language": "English"
       },
       {
         "Title": "High School Musical: The Musical: The Holiday Special",
         "Genre": "Musical",
         "Premiere": "December 11, 2020",
-        "Runtime": "47 min"
+        "Runtime": "47 min",
+        "Language": "English"
       },
       {
         "Title": "A Spark Story",
         "Genre": "Making-of documentary",
         "Premiere": "September 24, 2021",
-        "Runtime": "1 h 28 min"
+        "Runtime": "1 h 28 min",
+        "Language": "English"
       },
       {
         "Title": "An Extra Episode, or Not: Behind the Scenes of All the Same",
         "Genre": "Making-of documentary",
         "Premiere": "July 29, 2022",
-        "Runtime": "29 min"
+        "Runtime": "29 min",
+        "Language": "Portuguese"
       },
       {
         "Title": "It Was Always Me: Behind the Story",
         "Genre": "Making-of documentary",
         "Premiere": "September 2, 2022",
-        "Runtime": "31 min"
+        "Runtime": "31 min",
+        "Language": "Spanish"
       },
       {
         "Title": "Andor: A Disney+ Day Special Look",
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
-        "Runtime": "10 min"
+        "Runtime": "10 min",
+        "Language": "English"
       },
       {
         "Title": "Obi-Wan Kenobi: A Jedi's Return",
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
-        "Runtime": "1 h"
+        "Runtime": "1 h",
+        "Language": "English"
+      },
+      {
+        "Title": "Weekend Family Christmas Special",
+        "Genre": "Comedy",
+        "Premiere": "December 9, 2022",
+        "Runtime": "46 min",
+        "Language": "French"
       }
     ]
   },
@@ -1073,11 +1106,11 @@
       },
       {
         "Title": "The Chorus: Success, Here I Go",
-        "Genre": "Drama/Musical",
-        "Premiere": "September 28, 2022",
+        "Genre": "Musical drama",
+        "Premiere": "September 28, 2022December 7, 2022&#91;k&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "37–45 min",
-        "Exclusive region(s)": "Brazil",
+        "Exclusive region(s)": "Latin America",
         "Language": "Portuguese",
         "Status": "Pending"
       },
@@ -1118,7 +1151,7 @@
         "Previous network(s)": "ABC",
         "Exclusive region(s)": "North America",
         "Language": "English",
-        "Status": "Season 31 ongoingRenewed"
+        "Status": "Renewed"
       }
     ]
   },
@@ -1152,7 +1185,7 @@
         "Runtime": "24–26 min.",
         "Language": "English",
         "Exclusive region(s)": "Selected territories",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Snowdrop",
@@ -1192,11 +1225,11 @@
         "Genre": "Musical/Romantic drama",
         "Original network/Region": "Star/South Korea",
         "Premiere date": "October 21, 2022",
-        "Seasons": "4 episodes",
+        "Seasons": "1 season, 4 episodes",
         "Runtime": "40–55 min",
         "Language": "Korean",
         "Exclusive region(s)": "United States",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       }
     ]
   },
@@ -1212,6 +1245,14 @@
         "Premiere": "Early 2023",
         "Seasons": "6 episodes",
         "Runtime": "40–50 min",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "A Small Light",
+        "Genre": "Biographical drama",
+        "Premiere": "Early 2023",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
         "Status": "Post-production"
       },
       {
@@ -1239,7 +1280,7 @@
         "Status": "Filming"
       },
       {
-        "Title": "Skeleton Crew",
+        "Title": "Star Wars: Skeleton Crew",
         "Genre": "Space opera",
         "Premiere": "2023",
         "Seasons": "TBA",
@@ -1263,18 +1304,18 @@
         "Status": "Filming"
       },
       {
-        "Title": "The Acolyte",
-        "Genre": "Space opera/Mystery-thriller",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "The Crossover",
         "Genre": "Sports drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "The Acolyte",
+        "Genre": "Space opera/Mystery-thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -1295,14 +1336,6 @@
         "Status": "Filming"
       },
       {
-        "Title": "A Small Light",
-        "Genre": "Biographical drama",
-        "Premiere": "TBA",
-        "Seasons": "7 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "The Spiderwick Chronicles",
         "Genre": "Fantasy adventure",
         "Premiere": "TBA",
@@ -1316,15 +1349,7 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "45 min",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Witch Mountain",
-        "Genre": "Science fiction",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pre-production"
+        "Status": "Filming"
       },
       {
         "Title": "Wonder Man",
@@ -1471,14 +1496,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "In production"
-      },
-      {
-        "Title": "Zombies: The Re-Animated Series",
-        "Genre": "Musical comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "In production"
       }
     ]
   },
@@ -1530,6 +1547,14 @@
         "Status": "Filming"
       },
       {
+        "Title": "L-POP",
+        "Genre": "Musical comedy drama",
+        "Premiere": "2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30 min",
+        "Status": "Filming"
+      },
+      {
         "Title": "La partitura secreta: el enigma de plomo",
         "Genre": "Fantasy/Mystery",
         "Premiere": "2023",
@@ -1554,14 +1579,6 @@
         "Status": "Filming"
       },
       {
-        "Title": "L-POP",
-        "Genre": "Comedy drama/Musical",
-        "Premiere": "2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "30 min",
-        "Status": "Filming"
-      },
-      {
         "Title": "Lucha!: Despierta tu naturaleza",
         "Genre": "Musical/Fiction",
         "Premiere": "2023",
@@ -1578,8 +1595,16 @@
         "Status": "Filming"
       },
       {
+        "Title": "The Low Tone Club",
+        "Genre": "Musical comedy drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Viaje al centro de la Tierra",
-        "Genre": "Adventure drama",
+        "Genre": "Adventure Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min",
@@ -1603,17 +1628,8 @@
     ],
     "data": [
       {
-        "Title": "Mila no Multiverso",
-        "Genre": "Sci-fi/Mystery/Comedy drama",
-        "Premiere": "Second half of 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min",
-        "Language": "Portuguese",
-        "Status": "Post-production"
-      },
-      {
         "Title": "Tá Tudo Certo",
-        "Genre": "Romantic comedy/Musical",
+        "Genre": "Musical romantic comedy",
         "Premiere": "Second half of 2022",
         "Seasons": "4 episodes",
         "Runtime": "30 min",
@@ -1631,7 +1647,7 @@
       },
       {
         "Title": "A Magia de Aruna",
-        "Genre": "Fantasy/Comedy drama",
+        "Genre": "Fantasy comedy drama",
         "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1684,6 +1700,15 @@
         "Status": "In production"
       },
       {
+        "Title": "To Cook a Bear",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Language": "Swedish",
+        "Status": "Series order"
+      },
+      {
         "Title": "Martinha",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -1707,7 +1732,7 @@
         "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Pre-production"
+        "Status": "Filming"
       },
       {
         "Title": "BTS Monuments: Beyond the Star",
@@ -1881,7 +1906,7 @@
       {
         "Title": "Kizazi Moto: Generation Fire",
         "Genre": "Animated science fiction anthology",
-        "Premiere": "Late 2022",
+        "Premiere": "2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "10 min",
         "Status": "Post-production"
@@ -1942,7 +1967,7 @@
         "Seasons": "6 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Selected territories",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "What's Your Toy Story?",
@@ -1952,15 +1977,6 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Selected territories",
         "Status": "Filming"
-      },
-      {
-        "Title": "Chasing Waves",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Post-production"
       },
       {
         "Title": "Brawn: The One Pound Formula 1 Team",
@@ -2044,7 +2060,7 @@
         "Runtime": "TBA",
         "Language": "English",
         "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
-        "Status": "Post-production"
+        "Status": "Filming"
       }
     ]
   },
@@ -2085,6 +2101,10 @@
       {
         "Title": "House of Secrets",
         "Genre": "Fantasy action-adventure"
+      },
+      {
+        "Title": "Intercats",
+        "Genre": "Animated sitcom"
       },
       {
         "Title": "Lando",
@@ -2181,6 +2201,10 @@
       {
         "Title": "Vision Quest",
         "Genre": "Superhero action"
+      },
+      {
+        "Title": "Witch Mountain",
+        "Genre": "Science fiction"
       },
       {
         "Title": "The Witchverse",

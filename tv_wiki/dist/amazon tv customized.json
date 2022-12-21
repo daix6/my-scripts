@@ -199,7 +199,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed for seasons 2 and 3"
+        "Status": "Renewed for seasons 2–3"
       },
       {
         "Title": "Reacher",
@@ -262,21 +262,35 @@
         "Genre": "Science fiction",
         "Premiere": "October 21, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Devil's Hour",
         "Genre": "Thriller",
         "Premiere": "October 28, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Status": "Renewed for seasons 2–3"
       },
       {
         "Title": "Three Pines",
         "Genre": "Crime drama",
         "Premiere": "December 2, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Rig",
+        "Genre": "Supernatural thriller",
+        "Premiere": "January 6, 2023",
+        "Seasons/episodes": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Daisy Jones &amp; The Six",
+        "Genre": "Drama",
+        "Premiere": "March 3, 2023",
+        "Seasons/episodes": "13 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -480,7 +494,7 @@
         "Genre": "Comedy",
         "Premiere": "December 3, 2021",
         "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on February 3, 2023"
       },
       {
         "Title": "With Love",
@@ -538,7 +552,7 @@
         "Genre": "Superhero drama",
         "Premiere": "March 25, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed for seasons 2 and 3"
+        "Status": "Renewed for seasons 2–3"
       },
       {
         "Title": "Fairfax",
@@ -552,7 +566,7 @@
         "Genre": "Fantasy action",
         "Premiere": "January 28, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
-        "Status": "Season 2 due to premiere in January 2023Renewed for season 3"
+        "Status": "Season 2 due to premiere on January 20, 2023Renewed"
       },
       {
         "Title": "The Boys Presents: Diabolical",
@@ -641,6 +655,13 @@
         "Premiere": "February 19, 2021",
         "Seasons/episodes": "8 episodes",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Die Discounter",
+        "Genre": "Comedy",
+        "Premiere": "December 17, 2021",
+        "Seasons/episodes": "2 seasons, 20 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -869,6 +890,13 @@
         "Premiere": "September 21, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Bad Guy",
+        "Genre": "Crime comedy",
+        "Premiere": "December 8, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1020,10 +1048,24 @@
         "Status": "Pending"
       },
       {
+        "Title": "Map for the Wedding",
+        "Genre": "Drama",
+        "Premiere": "October 7, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Modern Love Tokyo",
         "Genre": "Romantic comedy anthology",
         "Premiere": "October 21, 2022",
         "Seasons/episodes": "1 season, 7 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Kamen Rider Black Sun",
+        "Genre": "Superhero action",
+        "Premiere": "October 28, 2022",
+        "Seasons/episodes": "1 seasons, 10 episodes",
         "Status": "Pending"
       }
     ]
@@ -1218,6 +1260,50 @@
         "Premiere": "September 16, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "The End of Love",
+        "Genre": "Comedy drama",
+        "Premiere": "November 4, 2022",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Tamil"
+    ],
+    "data": [
+      {
+        "Title": "Vella Raja",
+        "Genre": "Crime drama",
+        "Premiere": "December 2, 2018",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Breathe",
+        "Genre": "Crime drama",
+        "Premiere": "January&#160;28, 2018",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Putham Pudhu Kaalai Vidiyaadhaa",
+        "Genre": "Anthology series",
+        "Premiere": "January&#160;14, 2022",
+        "Seasons/episodes": "1 season, 4 episodes",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Suzhal: The Vortex",
+        "Genre": "Thriller",
+        "Premiere": "June 17, 2022",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1245,14 +1331,6 @@
         "Status": "Ended"
       },
       {
-        "Title": "Vella Raja",
-        "Genre": "Crime drama",
-        "Premiere": "December 2, 2018",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Language": "Tamil",
-        "Status": "Ended"
-      },
-      {
         "Title": "Totems",
         "Genre": "Historical drama",
         "Premiere": "February 18, 2022",
@@ -1269,19 +1347,19 @@
         "Status": "Ended"
       },
       {
-        "Title": "Suzhal: The Vortex",
-        "Genre": "Thriller",
-        "Premiere": "June 17, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Language": "Tamil",
-        "Status": "Pending"
-      },
-      {
         "Title": "Modern Love Hyderabad",
         "Genre": "Anthology",
         "Premiere": "July 8, 2022",
         "Seasons/episodes": "1 season, 6 episodes",
         "Language": "Telugu",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Modern Love Amsterdam",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "December 16, 2022",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Language": "Dutch",
         "Status": "Pending"
       }
     ]
@@ -1543,6 +1621,15 @@
         "Seasons/episodes": "6 episodes",
         "Language": "English",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Island",
+        "Partner": "TVING",
+        "Genre": "Fantasy action thriller",
+        "Premiere": "December 30, 2022",
+        "Seasons/episodes": "1 season, 12 episodes",
+        "Language": "Korean",
+        "Status": "Pending"
       }
     ]
   },
