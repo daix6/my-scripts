@@ -43,7 +43,7 @@
         "Premiere": "October 7, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "41–51 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Girl in the Woods",
@@ -91,7 +91,7 @@
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "44–55 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "A Friend of the Family",
@@ -179,7 +179,7 @@
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "25–35 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Take Note",
@@ -219,22 +219,14 @@
         "Premiere": "November 23, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "27–31 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
+        "Status": "Renewed"
       },
       {
         "Title": "The Best Man: The Final Chapters",
         "Genre": "Comedy drama",
         "Premiere": "December 22, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
+        "Length": "41–56 min.",
         "Status": "Miniseries"
       },
       {
@@ -242,7 +234,7 @@
         "Genre": "Comedy",
         "Premiere": "January 1, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
+        "Length": "31–36 min.",
         "Status": "Pending"
       },
       {
@@ -250,8 +242,8 @@
         "Genre": "Comedy drama",
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "47–67 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -299,7 +291,7 @@
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
         "Length": "30 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -397,14 +389,6 @@
         "Seasons": "4 episodes",
         "Length": "43–47 min.",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Paris in Love",
-        "Genre": "Docu-reality",
-        "Premiere": "November 11, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "31–58 min.",
-        "Status": "Pending"
       },
       {
         "Title": "Joe Montana: Cool Under Pressure",
@@ -592,20 +576,28 @@
         "Status": "Ended"
       },
       {
+        "Title": "Paris in Love",
+        "Genre": "Reality",
+        "Premiere": "November 11, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "31–58 min.",
+        "Status": "Ended"
+      },
+      {
         "Title": "The Real Housewives Ultimate Girls Trip",
         "Genre": "Reality",
         "Premiere": "November 15, 2021",
         "Seasons": "2 seasons, 14 episodes",
         "Length": "21–49 min.",
-        "Status": "Renewed"
+        "Status": "Renewed for seasons 3–4"
       },
       {
         "Title": "Baking It",
         "Genre": "Reality competition",
         "Premiere": "December 2, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "41–49 min.",
-        "Status": "Season 2 ongoing"
+        "Length": "41–54 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Below Deck Down Under",
@@ -616,20 +608,12 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Traitors",
         "Genre": "Reality competition",
         "Premiere": "January 12, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "60 min.",
-        "Status": "Pending"
+        "Length": "43–72 min.",
+        "Status": "Renewed"
       }
     ]
   },
@@ -694,7 +678,7 @@
         "Premiere": "October 14, 2021",
         "Seasons": "1 season, 20 episodes",
         "Length": "11–18 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Dateline: The Last Day",
@@ -716,7 +700,7 @@
         "Title": "WWE Main Event",
         "Genre": "Professional wrestling",
         "Premiere": "April 4, 2021",
-        "Seasons": "11 season, 517 episodes",
+        "Seasons": "11 seasons, 517 episodes",
         "Length": "43–55 min.",
         "Status": "Pending"
       },
@@ -782,13 +766,13 @@
         "Status": "Pending"
       },
       {
-        "Title": "Dragons: The Nine Realms",
+        "Title": "DreamWorks Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
         "Seasons": "4 seasons, 26 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on March 2, 2023"
       },
       {
         "Title": "Wolf Like Me",
@@ -824,6 +808,15 @@
         "Premiere": "October 5, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "23 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Makery",
+        "Partner": "Sky Kids",
+        "Genre": "Educational",
+        "Premiere": "January 12, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "14–15 min.",
         "Status": "Pending"
       }
     ]
@@ -1231,6 +1224,12 @@
         "Genre": "Science fiction romantic comedy",
         "Release": "September 21, 2022",
         "Runtime": "1 hour, 29 min."
+      },
+      {
+        "Title": "Sick",
+        "Genre": "Horror",
+        "Release": "January 13, 2023",
+        "Runtime": "1 hour, 23 min."
       }
     ]
   },
@@ -1338,21 +1337,21 @@
       },
       {
         "Title": "The Rebellious Life of Mrs. Rosa Parks",
-        "Genre": "Documentary",
+        "Genre": "Biography",
         "Release": "October 19, 2022",
         "Runtime": "1 hour, 36 min."
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Release": "Awaiting release",
-        "Runtime": "Awaiting release"
+        "Title": "Woooooo! Becoming Ric Flair",
+        "Genre": "Biography",
+        "Release": "December 26, 2022",
+        "Runtime": "1 hour, 51 min."
       },
       {
-        "Title": "Woooooo! Becoming Ric Flair",
-        "Genre": "Documentary",
-        "Release": "December 26, 2022",
-        "Runtime": "2 hours"
+        "Title": "Amber: The Girl Behind The Alert",
+        "Genre": "True crime",
+        "Release": "January 17, 2023",
+        "Runtime": "1 hour, 32 min."
       }
     ]
   },
@@ -1409,6 +1408,18 @@
         "Genre": "Stand-up comedy",
         "Release": "December 2, 2022",
         "Runtime": "1 hour, 27 min."
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Release": "Awaiting release",
+        "Runtime": "Awaiting release"
+      },
+      {
+        "Title": "Josh Jackson: Up Here Killing Myself",
+        "Genre": "Stand-up comedy",
+        "Release": "February 17, 2023",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1441,6 +1452,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Those About to Die",
+        "Genre": "Historical drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pre-production"
+      },
+      {
         "Title": "Apples Never Fall",
         "Genre": "Drama miniseries",
         "Premiere": "TBA",
@@ -1465,24 +1484,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "Dead Day",
-        "Genre": "Supernatural",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Hysteria!",
         "Genre": "Drama thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Those About to Die",
-        "Genre": "Historical drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1787,15 +1790,6 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "The Makery",
-        "Partner": "Sky Kids",
-        "Genre": "Educational",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 25 episodes",
-        "Length": "15 min.",
-        "Status": "Series order"
       }
     ]
   },
@@ -1838,6 +1832,10 @@
         "Genre": "Comedy"
       },
       {
+        "Title": "Cleo",
+        "Genre": "Historical comedy drama"
+      },
+      {
         "Title": "Clifton",
         "Genre": "Thriller"
       },
@@ -1864,6 +1862,10 @@
       {
         "Title": "Fear",
         "Genre": "Thriller"
+      },
+      {
+        "Title": "Freeman",
+        "Genre": "Mystery drama"
       },
       {
         "Title": "Fruits of Thy Labor",
@@ -2000,6 +2002,13 @@
         "Release": "2023",
         "Runtime": "TBA",
         "Language": "English"
+      },
+      {
+        "Title": "Untitled Richard Curtis Christmas film",
+        "Genre": "Comedy",
+        "Release": "TBA",
+        "Runtime": "TBA",
+        "Language": "English"
       }
     ]
   },
@@ -2012,7 +2021,7 @@
       {
         "Title": "Messi",
         "Genre": "Documentary",
-        "Release": "2022",
+        "Release": "TBA",
         "Runtime": "TBA",
         "Language": "Spanish"
       }

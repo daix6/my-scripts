@@ -97,9 +97,9 @@
         "Title": "Mayor of Kingstown",
         "Genre": "Crime thriller",
         "Premiere": "November 14, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "47–66 min.",
-        "Status": "Season 2 due to premiere on January 15, 2023"
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "37–66 min.",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "1883",
@@ -137,25 +137,49 @@
         "Title": "Tulsa King",
         "Genre": "Drama",
         "Premiere": "November 13, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "36–42 min.",
-        "Status": "Season 1 ongoingRenewed"
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "36–43 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "1923",
         "Genre": "Neo-Western drama",
         "Premiere": "December 18, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "61 min.",
-        "Status": "Season 1 ongoingRenewed"
+        "Runtime": "48–61 min.",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Wolf Pack",
-        "Genre": "Horror",
+        "Genre": "Supernatural teen drama",
         "Premiere": "January 26, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "51–53 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "School Spirits",
+        "Genre": "Supernatural teen drama",
+        "Premiere": "March 9, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Rabbit Hole",
+        "Genre": "Spy drama",
+        "Premiere": "March 26, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Fatal Attraction",
+        "Genre": "Psychological thriller miniseries",
+        "Premiere": "April 30, 2023",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -203,7 +227,7 @@
         "Premiere": "March 31, 2022",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "24–25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Players",
@@ -211,6 +235,14 @@
         "Premiere": "June 16, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–35 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Grease: Rise of the Pink Ladies",
+        "Genre": "Musical comedy",
+        "Premiere": "April 6, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -228,7 +260,7 @@
         "Premiere": "April 7, 2020",
         "Seasons": "2 seasons, 233 episodes",
         "Runtime": "5–44 min.",
-        "Status": "Ended"
+        "Status": "Moved to Comedy Central"
       },
       {
         "Title": "Star Trek: Lower Decks",
@@ -245,6 +277,14 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–25 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Mike Judge's Beavis and Butt-Head",
+        "Genre": "Adult animated comedy",
+        "Premiere": "August 4, 2022",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "20–22 min.",
+        "Status": "Renewed"
       }
     ]
   },
@@ -322,7 +362,7 @@
         "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
         "Premiere": "September 7, 2021",
         "Seasons": "2 seasons, 48 episodes",
-        "Runtime": "60–67 min.",
+        "Runtime": "9–68 min.",
         "Status": "Season 45 ongoing"
       },
       {
@@ -332,7 +372,7 @@
         "Premiere": "November 1, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "43–49 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Next Influencer (season 3)",
@@ -353,30 +393,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Beavis and Butt-Head (season 9)",
-        "Genre": "Adult animated comedy",
-        "Prev. network(s)": "MTV",
-        "Premiere": "August 4, 2022",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "20–22 min.",
-        "Status": "Renewed"
-      },
-      {
         "Title": "Ink Master (season 14)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Spike (seasons 1–10)Paramount Network (seasons 10–13)",
         "Premiere": "September 7, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–62 min.",
-        "Status": "Pending"
-      },
-      {
-        "Title": "My Dream Quinceañera (season 40)",
-        "Genre": "Reality",
-        "Prev. network(s)": "AwesomenessTV",
-        "Premiere": "September 16, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "23–29 min.",
         "Status": "Pending"
       },
       {
@@ -393,9 +415,9 @@
         "Genre": "Reality competition",
         "Prev. network(s)": "CBS",
         "Premiere": "November 2, 2022",
-        "Seasons": "1 season, 7 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "43 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Criminal Minds (season 16)",
@@ -403,8 +425,17 @@
         "Prev. network(s)": "CBS",
         "Premiere": "November 24, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "44–53 min.",
-        "Status": "Season 16 ongoing"
+        "Runtime": "44–56 min.",
+        "Status": "Season 16 ongoingRenewed"
+      },
+      {
+        "Title": "Are You the One? (season 9)",
+        "Genre": "Dating show",
+        "Prev. network(s)": "MTV",
+        "Premiere": "January 18, 2023January 19, 2023&#91;g&#93;February 1, 2023&#91;h&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "41–46 min.",
+        "Status": "Season 9 ongoing"
       }
     ]
   },
@@ -621,7 +652,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "New episodes due to premiere on January 12, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Hauntings",
@@ -637,7 +668,7 @@
         "Genre": "Drama",
         "Premiere": "December 1, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "45 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -648,6 +679,15 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Last King of the Cross",
+        "Genre": "Drama miniseries",
+        "Premiere": "February 17, 2023",
+        "Seasons": "10 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia",
         "Status": "Pending"
       }
     ]
@@ -672,10 +712,19 @@
         "Title": "Germany Shore (season 2)",
         "Genre": "Reality",
         "Premiere": "December 15, 2022",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "40–50 min.",
         "Exclusive region(s)": "Germany",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Chemistry of Death",
+        "Genre": "Psychological crime drama miniseries",
+        "Premiere": "January 19, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Germany and United Kingdom",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -761,7 +810,7 @@
       {
         "Title": "The Envoys",
         "Genre": "Horror thriller",
-        "Premiere": "December 12, 2021January 20, 2022&#91;j&#93;",
+        "Premiere": "December 12, 2021January 20, 2022&#91;m&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–58 min.",
         "Exclusive region(s)": "All markets",
@@ -770,7 +819,7 @@
       {
         "Title": "Cecilia",
         "Genre": "Family comedy drama",
-        "Premiere": "December 21, 2021April 14, 2022&#91;j&#93;",
+        "Premiere": "December 21, 2021April 14, 2022&#91;m&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30–44 min.",
         "Exclusive region(s)": "All markets",
@@ -783,7 +832,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "24–31 min.",
         "Exclusive region(s)": "Argentina",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The First of Us",
@@ -806,7 +855,7 @@
       {
         "Title": "Bosé",
         "Genre": "Biopic",
-        "Premiere": "November 3, 2022December 1, 2022&#91;c&#93;",
+        "Premiere": "November 3, 2022December 1, 2022&#91;f&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–54 min.",
         "Exclusive region(s)": "Spain, Australia, Latin America and the United States",

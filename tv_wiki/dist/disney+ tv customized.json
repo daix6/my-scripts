@@ -51,7 +51,7 @@
         "Premiere": "June 25, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "39–59 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Hawkeye",
@@ -67,7 +67,7 @@
         "Premiere": "December 29, 2021",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "40–62 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Moon Knight",
@@ -98,16 +98,24 @@
         "Genre": "Fantasy adventure",
         "Premiere": "November 30, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "46–55 min",
-        "Status": "Season 1 ongoing"
+        "Runtime": "46–60 min",
+        "Status": "Pending"
       },
       {
         "Title": "National Treasure: Edge of History",
         "Genre": "Action-adventure",
         "Premiere": "December 14, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "49–50 min",
+        "Runtime": "45–51 min",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Crossover",
+        "Genre": "Sports drama",
+        "Premiere": "April 5, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -209,9 +217,9 @@
         "Title": "Star Wars: The Bad Batch",
         "Genre": "Space opera",
         "Premiere": "May 4, 2021",
-        "Seasons": "1 season, 16 episodes",
-        "Runtime": "26–76 min",
-        "Status": "Season 2 due to premiere on January 4, 2023"
+        "Seasons": "2 seasons, 32 episodes",
+        "Runtime": "24–76 min",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Monsters at Work",
@@ -241,97 +249,8 @@
         "Title": "The Proud Family: Louder and Prouder",
         "Genre": "Comedy",
         "Premiere": "February 23, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–32 min",
-        "Status": "Season 2 due to premiere on February 1, 2023"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "Intertwined",
-        "Genre": "Musical/Fantasy comedy drama",
-        "Premiere": "November 12, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "41–53 min",
-        "Language": "Spanish",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Weekend Family",
-        "Genre": "Comedy",
-        "Premiere": "February 23, 2022March 9, 2022&#91;b&#93;",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "25–33 min",
-        "Language": "French",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Parallels",
-        "Genre": "Science fiction fantasy mystery",
-        "Premiere": "March 23, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "34–43 min",
-        "Language": "French",
-        "Status": "Pending"
-      },
-      {
-        "Title": "All the Same... or Not",
-        "Genre": "Comedy drama",
-        "Premiere": "May 25, 2022July 20, 2022&#91;b&#93;",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "34–45 min",
-        "Language": "Portuguese",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "It Was Always Me",
-        "Genre": "Musical/Mystery drama",
-        "Premiere": "June 15, 2022July 20, 2022&#91;b&#93;",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "38–55 min",
-        "Language": "Spanish",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Daddies on Request",
-        "Genre": "Musical comedy drama",
-        "Premiere": "July 13, 2022November 23, 2022&#91;b&#93;",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "28–36 min",
-        "Language": "Spanish",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Tierra Incognita",
-        "Genre": "Mystery/Horror",
-        "Premiere": "September 8, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "35–44 min",
-        "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Sumo Do, Sumo Don't",
-        "Genre": "Sports comedy drama",
-        "Premiere": "October 26, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "43–56 min",
-        "Language": "Japanese",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Gina Yei",
-        "Genre": "Musical comedy drama",
-        "Premiere": "January 11, 2023",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "TBA",
-        "Language": "Spanish",
         "Status": "Pending"
       }
     ]
@@ -428,7 +347,7 @@
         "Premiere": "January 8, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "6–12 min",
-        "Status": "Pending"
+        "Status": "New episodes due to premiere on February 10, 2023"
       },
       {
         "Title": "Pixar Popcorn",
@@ -468,7 +387,7 @@
         "Premiere": "September 1, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "10–13 min",
-        "Status": "Renewed"
+        "Status": "New episode due to premiere on February 10, 2023"
       },
       {
         "Title": "Star Wars: Visions",
@@ -476,7 +395,7 @@
         "Premiere": "September 22, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "15–24 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 4, 2023"
       },
       {
         "Title": "Star Wars: Galaxy of Sounds",
@@ -520,7 +439,7 @@
       },
       {
         "Title": "Cars on the Road",
-        "Genre": "Comedy",
+        "Genre": "Animated comedy",
         "Premiere": "September 8, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "10–14 min",
@@ -590,71 +509,55 @@
         "Title": "One Day at Disney",
         "Genre": "Documentary",
         "Premiere": "December 3, 2019",
-        "Runtime": "1 h 1 min",
-        "Language": "English"
+        "Runtime": "1 h 1 min"
       },
       {
         "Title": "High School Musical: The Musical: The Series: The Special",
         "Genre": "Musical/Making-of",
         "Premiere": "December 14, 2019",
-        "Runtime": "23 min",
-        "Language": "English"
+        "Runtime": "23 min"
       },
       {
         "Title": "The Real Right Stuff",
         "Genre": "Documentary",
         "Premiere": "November 20, 2020",
-        "Runtime": "1 h 30 min",
-        "Language": "English"
+        "Runtime": "1 h 30 min"
       },
       {
         "Title": "High School Musical: The Musical: The Holiday Special",
         "Genre": "Musical",
         "Premiere": "December 11, 2020",
-        "Runtime": "47 min",
-        "Language": "English"
+        "Runtime": "47 min"
       },
       {
         "Title": "A Spark Story",
         "Genre": "Making-of documentary",
         "Premiere": "September 24, 2021",
-        "Runtime": "1 h 28 min",
-        "Language": "English"
+        "Runtime": "1 h 28 min"
       },
       {
-        "Title": "An Extra Episode, or Not: Behind the Scenes of All the Same",
-        "Genre": "Making-of documentary",
-        "Premiere": "July 29, 2022",
-        "Runtime": "29 min",
-        "Language": "Portuguese"
-      },
-      {
-        "Title": "It Was Always Me: Behind the Story",
-        "Genre": "Making-of documentary",
-        "Premiere": "September 2, 2022",
-        "Runtime": "31 min",
-        "Language": "Spanish"
+        "Title": "Under the Helmet: The Legacy of Boba Fett",
+        "Genre": "Documentary",
+        "Premiere": "November 12, 2021",
+        "Runtime": "22 min"
       },
       {
         "Title": "Andor: A Disney+ Day Special Look",
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
-        "Runtime": "10 min",
-        "Language": "English"
+        "Runtime": "10 min"
       },
       {
         "Title": "Obi-Wan Kenobi: A Jedi's Return",
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
-        "Runtime": "1 h",
-        "Language": "English"
+        "Runtime": "1 h"
       },
       {
-        "Title": "Weekend Family Christmas Special",
-        "Genre": "Comedy",
-        "Premiere": "December 9, 2022",
-        "Runtime": "46 min",
-        "Language": "French"
+        "Title": "Willow: Behind the Magic",
+        "Genre": "Making-of documentary",
+        "Premiere": "January 25, 2023",
+        "Runtime": "34 min"
       }
     ]
   },
@@ -695,7 +598,7 @@
         "Premiere": "March 12, 2021",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "42–67 min",
-        "Status": "Pending"
+        "Status": "New episode due to premiere on February 8, 2023"
       },
       {
         "Title": "Disney Gallery: The Book of Boba Fett",
@@ -704,6 +607,197 @@
         "Seasons": "1 season, 1 episode",
         "Runtime": "63 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Voices Rising: The Music of Wakanda Forever",
+        "Genre": "Music docuseries",
+        "Premiere": "February 22, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "Intertwined",
+        "Genre": "Musical/Fantasy comedy drama",
+        "Premiere": "November 12, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "41–53 min",
+        "Language": "Spanish",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Parallels",
+        "Genre": "Science fiction fantasy mystery",
+        "Premiere": "March 23, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "34–43 min",
+        "Language": "French",
+        "Status": "Pending"
+      },
+      {
+        "Title": "All the Same... or Not",
+        "Genre": "Comedy drama",
+        "Premiere": "May 25, 2022July 20, 2022&#91;i&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "34–45 min",
+        "Language": "Portuguese",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "It Was Always Me",
+        "Genre": "Musical/Mystery drama",
+        "Premiere": "June 15, 2022July 20, 2022&#91;i&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "38–55 min",
+        "Language": "Spanish",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Daddies on Request",
+        "Genre": "Musical comedy drama",
+        "Premiere": "July 13, 2022November 23, 2022&#91;i&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "28–36 min",
+        "Language": "Spanish",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Tierra Incognita",
+        "Genre": "Mystery/Horror",
+        "Premiere": "September 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "35–44 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Chorus: Success, Here I Go",
+        "Genre": "Musical drama",
+        "Premiere": "September 28, 2022December 7, 2022&#91;l&#93;February 1, 2023&#91;i&#93;",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "37–45 min",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Sumo Do, Sumo Don't",
+        "Genre": "Sports comedy drama",
+        "Premiere": "October 26, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "43–56 min",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "@Gina Yei: #WithAllMyHeartAndMore",
+        "Genre": "Musical comedy drama",
+        "Premiere": "January 11, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "38–51 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mila in the Multiverse",
+        "Genre": "Science fiction comedy drama",
+        "Premiere": "January 25, 2023February 15, 2023&#91;i&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "22–32 min",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Low Tone Club",
+        "Genre": "Musical comedy drama",
+        "Premiere": "February 22, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Weekend Family",
+        "Genre": "Comedy",
+        "Premiere": "February 23, 2022March 9, 2022&#91;i&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "25–33 min",
+        "Language": "French",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language",
+      "Unscripted"
+    ],
+    "data": []
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "In the Soop: Friendcation",
+        "Genre": "Reality",
+        "Partner/Country": "JTBC/South Korea",
+        "Premiere": "July 22, 2022October 19, 2022&#91;i&#93;",
+        "Seasons": "4 episodes",
+        "Runtime": "53–62 min",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "An Extra Episode, or Not: Behind the Scenes of All the Same",
+        "Genre": "Making-of documentary",
+        "Premiere": "July 29, 2022",
+        "Runtime": "29 min",
+        "Language": "Portuguese"
+      },
+      {
+        "Title": "It Was Always Me: Behind the Story",
+        "Genre": "Making-of documentary",
+        "Premiere": "September 2, 2022",
+        "Runtime": "31 min",
+        "Language": "Spanish"
+      },
+      {
+        "Title": "Weekend Family Christmas Special",
+        "Genre": "Comedy",
+        "Premiere": "December 9, 2022",
+        "Runtime": "46 min",
+        "Language": "French"
       }
     ]
   },
@@ -721,6 +815,26 @@
         "Exclusive region(s)": "All markets except the US and Latin America",
         "Language": "English",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Marvel Lucha Libre Edition: The Origin of the Mask",
+        "Genre": "Sports mockumentary",
+        "Premiere": "January 18, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "15–20 min",
+        "Exclusive region(s)": "US and Latin America",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Super Junior: The Last Man Standing",
+        "Genre": "Music docuseries",
+        "Premiere": "January 18, 2023",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "50–51 min",
+        "Exclusive region(s)": "US and Latin America",
+        "Language": "Korean",
+        "Status": "Pending"
       }
     ]
   },
@@ -768,7 +882,7 @@
         "Title": "Club Mickey Mouse Malaysia (season 4)",
         "Genre": "Variety",
         "Original network/Region": "Disney+ Hotstar/Malaysia",
-        "Premiere date": "November 12, 2021June 1, 2022&#91;b&#93;",
+        "Premiere date": "November 12, 2021June 1, 2022&#91;i&#93;",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "24–26 min.",
         "Language": "English",
@@ -787,10 +901,21 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "The Hardy Boys",
+        "Genre": "Mystery teen drama",
+        "Original network/Region": "Hulu/United StatesYTV/Canada",
+        "Premiere date": "April 6, 2022",
+        "Seasons": "2 seasons, 23 episodes",
+        "Runtime": "40–46 min",
+        "Language": "English",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Renewed for final season"
+      },
+      {
         "Title": "Delicacies Destiny",
         "Genre": "Period romantic comedy",
         "Original network/Region": "Bilibili/China",
-        "Premiere date": "April 7, 2022June 8, 2022&#91;b&#93;",
+        "Premiere date": "April 7, 2022June 8, 2022&#91;i&#93;",
         "Seasons": "17 episodes",
         "Runtime": "27–51 min",
         "Language": "Mandarin",
@@ -798,13 +923,13 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "In the Soop: Friendcation",
-        "Genre": "Reality",
-        "Original network/Region": "JTBC/South Korea",
-        "Premiere date": "July 22, 2022October 19, 2022&#91;b&#93;",
-        "Seasons": "4 episodes",
-        "Runtime": "53–62 min",
-        "Language": "Korean",
+        "Title": "Small &amp; Mighty",
+        "Genre": "Legal comedy drama",
+        "Original network/Region": "Bilibili/ChinaStar/Taiwan",
+        "Premiere date": "January 4, 2023",
+        "Seasons": "26 episodes",
+        "Runtime": "37–43 min",
+        "Language": "Mandarin",
         "Exclusive region(s)": "Selected territories",
         "Status": "Miniseries"
       }

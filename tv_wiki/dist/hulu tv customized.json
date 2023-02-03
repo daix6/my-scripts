@@ -54,7 +54,7 @@
         "Status": "Renewed for final season"
       },
       {
-        "Title": "Runaways",
+        "Title": "Marvel's Runaways",
         "Genre": "Superhero teen drama",
         "Premiere": "November 21, 2017",
         "Seasons": "3 seasons, 33 episodes",
@@ -193,9 +193,9 @@
         "Title": "Nine Perfect Strangers",
         "Genre": "Drama",
         "Premiere": "August 18, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "8 episodes",
         "Length": "42–55 min.",
-        "Status": "Ended"
+        "Status": "Miniseries"
       },
       {
         "Title": "Y: The Last Man",
@@ -307,23 +307,39 @@
         "Premiere": "November 17, 2022",
         "Seasons": "8 episodes",
         "Length": "47–52 min.",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Welcome to Chippendales",
         "Genre": "Biographical drama",
         "Premiere": "November 22, 2022",
         "Seasons": "8 episodes",
-        "Length": "39–46 min.",
-        "Status": "Miniseries ongoing"
+        "Length": "35–46 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Kindred",
         "Genre": "Science fiction drama",
         "Premiere": "December 13, 2022",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Length": "36–54 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Tiny Beautiful Things",
+        "Genre": "Drama",
+        "Premiere": "April 7, 2023",
+        "Seasons": "8 episodes",
+        "Length": "30 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Saint X",
+        "Genre": "Psychological drama",
+        "Premiere": "April 26, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -481,9 +497,9 @@
         "Title": "How I Met Your Father",
         "Genre": "Sitcom",
         "Premiere": "January 18, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 30 episodes",
         "Length": "22–25 min.",
-        "Status": "Season 2 due to premiere on January 24, 2023"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Life &amp; Beth",
@@ -498,7 +514,7 @@
         "Genre": "Comedy drama",
         "Premiere": "June 23, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "20-47 min.",
+        "Length": "20–47 min.",
         "Status": "Renewed"
       },
       {
@@ -523,6 +539,38 @@
         "Premiere": "September 20, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "22–33 min.",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "History of the World, Part II",
+        "Genre": "Sketch comedy",
+        "Premiere": "March 6, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Unprisoned",
+        "Genre": "Comedy",
+        "Premiere": "March 10, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Up Here",
+        "Genre": "Musical romantic comedy",
+        "Premiere": "March 24, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -580,14 +628,14 @@
         "Premiere": "November 17, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "22–27 min.",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Koala Man",
         "Genre": "Superhero comedy",
         "Premiere": "January 9, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "23–24 min.",
         "Status": "Pending"
       }
     ]
@@ -776,7 +824,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "4 seasons, 26 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on March 2, 2023"
       },
       {
         "Title": "Conversations with Friends",
@@ -804,6 +852,15 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "41 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Planet Sex with Cara Delevingne",
+        "Genre": "Docuseries",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Premiere": "February 14, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -823,7 +880,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "Unreal (season 4)",
+        "Title": "UnREAL (season 4)",
         "Genre": "Drama",
         "Prev. network(s)": "Lifetime",
         "Premiere": "July 16, 2018",
@@ -848,6 +905,15 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "60–88 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Duncanville (season 3B)",
+        "Genre": "Adult animation",
+        "Prev. network(s)": "Fox",
+        "Premiere": "October 18, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "22 min.",
+        "Status": "Ended"
       }
     ]
   },

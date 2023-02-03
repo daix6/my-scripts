@@ -43,7 +43,7 @@
         "Premiere": "October 7, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "41–51 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Girl in the Woods",
@@ -91,7 +91,7 @@
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "44–55 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "A Friend of the Family",
@@ -171,7 +171,7 @@
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "25–35 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Bust Down",
@@ -203,23 +203,31 @@
         "Premiere": "November 23, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "27–31 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "The Best Man: The Final Chapters",
         "Genre": "Comedy drama",
         "Premiere": "December 22, 2022",
         "Seasons": "8 episodes",
-        "Length": "TBA",
+        "Length": "41–56 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Paul T. Goldman",
+        "Genre": "Comedy",
+        "Premiere": "January 1, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "31–36 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Poker Face",
         "Genre": "Comedy drama",
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "47–67 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -267,7 +275,7 @@
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
         "Length": "30 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -281,7 +289,7 @@
         "Title": "WWE Main Event",
         "Genre": "Professional wrestling",
         "Premiere": "April 4, 2021",
-        "Seasons": "11 season, 517 episodes",
+        "Seasons": "11 seasons, 517 episodes",
         "Length": "43–55 min.",
         "Status": "Pending"
       },
@@ -347,13 +355,13 @@
         "Status": "Pending"
       },
       {
-        "Title": "Dragons: The Nine Realms",
+        "Title": "DreamWorks Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
         "Seasons": "4 seasons, 26 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on March 2, 2023"
       },
       {
         "Title": "Wolf Like Me",

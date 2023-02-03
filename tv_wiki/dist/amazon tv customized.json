@@ -86,8 +86,8 @@
         "Title": "Jack Ryan",
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
-        "Seasons/episodes": "2 season, 16 episodes",
-        "Status": "Season 3 due to premiere on December 21, 2022Renewed for final season"
+        "Seasons/episodes": "3 seasons, 24 episodes",
+        "Status": "Renewed for final season"
       },
       {
         "Title": "The Romanoffs",
@@ -114,8 +114,8 @@
         "Title": "Too Old to Die Young",
         "Genre": "Crime drama",
         "Premiere": "June 14, 2019",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Ended"
+        "Seasons/episodes": "10 episodes",
+        "Status": "Miniseries"
       },
       {
         "Title": "The Boys",
@@ -135,8 +135,8 @@
         "Title": "Hunters",
         "Genre": "Drama",
         "Premiere": "February 21, 2020",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Final season due to premiere on January 13, 2023"
+        "Seasons/episodes": "2 seasons, 18 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "Tales from the Loop",
@@ -234,7 +234,7 @@
         "Genre": "Conspiracy thriller",
         "Premiere": "July 1, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Paper Girls",
@@ -276,13 +276,20 @@
         "Genre": "Crime drama",
         "Premiere": "December 2, 2022",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Rig",
         "Genre": "Supernatural thriller",
         "Premiere": "January 6, 2023",
         "Seasons/episodes": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Consultant",
+        "Genre": "Workplace dark comedy thriller",
+        "Premiere": "February 24, 2023",
+        "Seasons/episodes": "TBA",
         "Status": "Pending"
       },
       {
@@ -493,8 +500,8 @@
         "Title": "Harlem",
         "Genre": "Comedy",
         "Premiere": "December 3, 2021",
-        "Seasons/episodes": "1 season, 10 episodes",
-        "Status": "Season 2 due to premiere on February 3, 2023"
+        "Seasons/episodes": "2 seasons, 12 episodes",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "With Love",
@@ -552,7 +559,7 @@
         "Genre": "Superhero drama",
         "Premiere": "March 25, 2021",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Status": "Renewed for seasons 2–3"
+        "Status": "Season 2 due to premiere in late 2023Renewed"
       },
       {
         "Title": "Fairfax",
@@ -565,8 +572,8 @@
         "Title": "The Legend of Vox Machina",
         "Genre": "Fantasy action",
         "Premiere": "January 28, 2022",
-        "Seasons/episodes": "1 season, 12 episodes",
-        "Status": "Season 2 due to premiere on January 20, 2023Renewed"
+        "Seasons/episodes": "2 seasons, 24 episodes",
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "The Boys Presents: Diabolical",
@@ -677,7 +684,7 @@
         "Genre": "Sports drama",
         "Premiere": "July 10, 2017",
         "Seasons/episodes": "3 seasons, 30 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Laakhon Mein Ek",
@@ -747,7 +754,7 @@
         "Genre": "Espionage",
         "Premiere": "September 20, 2019",
         "Seasons/episodes": "2 seasons, 19 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Hostel Daze",
@@ -844,7 +851,7 @@
         "Title": "Bestseller",
         "Genre": "Thriller",
         "Premiere": "February 18, 2022",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "8 episodes",
         "Status": "Miniseries"
       }
     ]
@@ -1031,7 +1038,7 @@
         "Genre": "Detective fiction",
         "Premiere": "December 17, 2021",
         "Seasons/episodes": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "My Love from the Stars",
@@ -1065,6 +1072,13 @@
         "Title": "Kamen Rider Black Sun",
         "Genre": "Superhero action",
         "Premiere": "October 28, 2022",
+        "Seasons/episodes": "1 seasons, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A2Z",
+        "Genre": "Romance drama",
+        "Premiere": "February 3, 2023",
         "Seasons/episodes": "1 seasons, 10 episodes",
         "Status": "Pending"
       }
@@ -1195,7 +1209,7 @@
         "Title": "El Cid",
         "Genre": "Historical drama",
         "Premiere": "December 18, 2020",
-        "Seasons/episodes": "1 season, 5 episodes",
+        "Seasons/episodes": "2 seasons, 10 episodes",
         "Status": "Ended"
       },
       {
@@ -1267,6 +1281,13 @@
         "Premiere": "November 4, 2022",
         "Seasons/episodes": "1 season, 10 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Melody",
+        "Genre": "Musical comedy drama",
+        "Premiere": "February 22, 2023",
+        "Seasons/episodes": "1 season, 13 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1337,14 +1358,6 @@
         "Seasons/episodes": "1 season, 8 episodes",
         "Language": "French",
         "Status": "Pending"
-      },
-      {
-        "Title": "Mixte",
-        "Genre": "Historical drama",
-        "Premiere": "June 14, 2021",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Language": "French",
-        "Status": "Ended"
       },
       {
         "Title": "Modern Love Hyderabad",
@@ -1629,7 +1642,7 @@
         "Premiere": "December 30, 2022",
         "Seasons/episodes": "1 season, 12 episodes",
         "Language": "Korean",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
