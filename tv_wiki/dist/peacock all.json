@@ -47,7 +47,7 @@
       },
       {
         "Title": "The Girl in the Woods",
-        "Genre": "Supernatural",
+        "Genre": "Supernatural horror",
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "24–30 min.",
@@ -55,11 +55,11 @@
       },
       {
         "Title": "Bel-Air",
-        "Genre": "Drama",
+        "Genre": "Teen drama",
         "Premiere": "February 13, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "46–60 min.",
-        "Status": "Season 2 due to premiere on February 23, 2023"
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "Joe vs. Carole",
@@ -87,7 +87,7 @@
       },
       {
         "Title": "Vampire Academy",
-        "Genre": "Supernatural",
+        "Genre": "Supernatural drama",
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "44–55 min.",
@@ -129,7 +129,7 @@
         "Title": "Mrs. Davis",
         "Genre": "Science fiction",
         "Premiere": "April 20, 2023",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
         "Status": "Pending"
       }
@@ -233,9 +233,9 @@
         "Title": "Paul T. Goldman",
         "Genre": "Comedy",
         "Premiere": "January 1, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "31–36 min.",
-        "Status": "Pending"
+        "Seasons": "6 episodes",
+        "Length": "31–63 min.",
+        "Status": "Miniseries"
       },
       {
         "Title": "Poker Face",
@@ -243,7 +243,23 @@
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 10 episodes",
         "Length": "47–67 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Bupkis",
+        "Genre": "Comedy",
+        "Premiere": "May 4, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "30 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -263,7 +279,7 @@
       },
       {
         "Title": "Archibald's Next Big Thing Is Here!",
-        "Genre": "Family comedy",
+        "Genre": "family comedy",
         "Premiere": "February 18, 2021",
         "Seasons": "4 seasons, 24 episodes",
         "Length": "22 min.",
@@ -271,7 +287,7 @@
       },
       {
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
-        "Genre": "Family adventure",
+        "Genre": "family action-adventure",
         "Premiere": "November 24, 2021",
         "Seasons": "4 seasons, 24 episodes",
         "Length": "23 min.",
@@ -412,7 +428,7 @@
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "29–42 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "American Rock Stars",
@@ -509,6 +525,14 @@
         "Seasons": "4 episodes",
         "Length": "40–57 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Who Killed Robert Wone?",
+        "Genre": "True crime docuseries",
+        "Premiere": "March 7, 2023",
+        "Seasons": "2 episodes",
+        "Length": "61–75 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -581,15 +605,15 @@
         "Premiere": "November 11, 2021",
         "Seasons": "1 season, 13 episodes",
         "Length": "31–58 min.",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "The Real Housewives Ultimate Girls Trip",
         "Genre": "Reality",
         "Premiere": "November 15, 2021",
-        "Seasons": "2 seasons, 14 episodes",
-        "Length": "21–49 min.",
-        "Status": "Renewed for seasons 3–4"
+        "Seasons": "3 seasons, 17 episodes",
+        "Length": "21–55 min.",
+        "Status": "Season 3 ongoingRenewed"
       },
       {
         "Title": "Baking It",
@@ -611,9 +635,17 @@
         "Title": "The Traitors",
         "Genre": "Reality competition",
         "Premiere": "January 12, 2023",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 11 episodes",
         "Length": "43–72 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Queens Court",
+        "Genre": "Dating show",
+        "Premiere": "March 16, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "50–59 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -763,16 +795,16 @@
         "Premiere": "September 23, 2021",
         "Seasons": "5 seasons, 32 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on March 30, 2023"
       },
       {
-        "Title": "DreamWorks Dragons: The Nine Realms",
+        "Title": "Dragons: The Nine Realms",
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
-        "Seasons": "4 seasons, 26 episodes",
+        "Seasons": "5 seasons, 32 episodes",
         "Length": "22 min.",
-        "Status": "Season 5 due to premiere on March 2, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Wolf Like Me",
@@ -808,7 +840,7 @@
         "Premiere": "October 5, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on March 29, 2023"
       },
       {
         "Title": "The Makery",
@@ -874,7 +906,7 @@
       },
       {
         "Title": "Home Sweet Home (season 1B)",
-        "Genre": "Reality/social experiment",
+        "Genre": "Reality",
         "Prev. network(s)": "NBC",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 5 episodes",
@@ -904,9 +936,9 @@
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 128 episodes",
         "Length": "36–37 min.",
-        "Status": "Season 58 ongoing"
+        "Status": "Season 58 ongoingRenewed for seasons 59–60"
       }
     ]
   },
@@ -920,57 +952,49 @@
         "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
-        "Length": "23 min.",
-        "Language": "English"
+        "Length": "23 min."
       },
       {
         "Title": "Snoop and Martha's Very Tasty Halloween",
         "Genre": "Reality competition",
         "Premiere": "October 21, 2021",
-        "Length": "52 min.",
-        "Language": "English"
+        "Length": "52 min."
       },
       {
         "Title": "Chrisley Knows Thanksgiving",
         "Genre": "Reality",
         "Premiere": "November 18, 2021",
-        "Length": "42 min.",
-        "Language": "English"
+        "Length": "42 min."
       },
       {
         "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
-        "Length": "23 min.",
-        "Language": "English"
+        "Length": "23 min."
       },
       {
         "Title": "Caillou: Rosie the Giant",
         "Genre": "Animated",
         "Premiere": "July 10, 2022",
-        "Length": "44 min.",
-        "Language": "English"
+        "Length": "44 min."
       },
       {
         "Title": "Caillou: Adventures with Grandma and Grandpa",
         "Genre": "Animated",
         "Premiere": "August 25, 2022",
-        "Length": "44 min.",
-        "Language": "English"
+        "Length": "44 min."
       },
       {
         "Title": "Caillou: The Bravest Wolf Boy",
         "Genre": "Animated",
         "Premiere": "October 15, 2022",
-        "Length": "44 min.",
-        "Language": "English"
+        "Length": "44 min."
       },
       {
         "Title": "Caillou: The Silver Knight",
         "Genre": "Animated",
         "Premiere": "November 13, 2022",
-        "Length": "44 min.",
-        "Language": "English"
+        "Length": "44 min."
       }
     ]
   },
@@ -1086,7 +1110,7 @@
         "Premiere": "July 1, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "49–51 min.",
-        "Status": "Renewed"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Vigil",
@@ -1197,7 +1221,7 @@
       },
       {
         "Title": "Psych 3: This Is Gus",
-        "Genre": "Detective comedy-drama",
+        "Genre": "Detective comedy drama",
         "Release": "November 18, 2021",
         "Runtime": "1 hour, 36 min."
       },
@@ -1230,6 +1254,18 @@
         "Genre": "Horror",
         "Release": "January 13, 2023",
         "Runtime": "1 hour, 23 min."
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Release": "Awaiting release",
+        "Runtime": "Awaiting release"
+      },
+      {
+        "Title": "Praise This",
+        "Genre": "Musical comedy",
+        "Release": "April 7, 2023",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1410,16 +1446,10 @@
         "Runtime": "1 hour, 27 min."
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Release": "Awaiting release",
-        "Runtime": "Awaiting release"
-      },
-      {
         "Title": "Josh Jackson: Up Here Killing Myself",
         "Genre": "Stand-up comedy",
         "Release": "February 17, 2023",
-        "Runtime": "TBA"
+        "Runtime": "1 hour"
       }
     ]
   },
@@ -1449,15 +1479,7 @@
         "Premiere": "2023",
         "Seasons": "3 episodes",
         "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Those About to Die",
-        "Genre": "Historical drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Pre-production"
+        "Status": "Post-production"
       },
       {
         "Title": "Apples Never Fall",
@@ -1465,7 +1487,15 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Pre-production"
+      },
+      {
+        "Title": "Those About to Die",
+        "Genre": "Historical drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
       },
       {
         "Title": "Battlestar Galactica",
@@ -1508,14 +1538,6 @@
     ],
     "data": [
       {
-        "Title": "Bupkis",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Ted",
         "Genre": "Comedy",
         "Premiere": "TBA",
@@ -1557,7 +1579,7 @@
     "data": [
       {
         "Title": "Caillou",
-        "Genre": "Family comedy",
+        "Genre": "family comedy",
         "Premiere": "2023",
         "Seasons": "1 season, 52 episodes",
         "Length": "11 min.",
@@ -1565,7 +1587,7 @@
       },
       {
         "Title": "Dino Pops",
-        "Genre": "Family comedy",
+        "Genre": "family comedy",
         "Premiere": "2023",
         "Seasons": "1 season, 52 episodes",
         "Length": "5 min.",
@@ -1573,7 +1595,7 @@
       },
       {
         "Title": "Lil' Stompers",
-        "Genre": "Family comedy",
+        "Genre": "family comedy",
         "Premiere": "2023",
         "Seasons": "1 season, 65 episodes",
         "Length": "5 min.",
@@ -1581,15 +1603,23 @@
       },
       {
         "Title": "Team Mekbots Animal Rescue",
-        "Genre": "Family comedy",
+        "Genre": "family comedy",
         "Premiere": "2023",
-        "Seasons": "1 season, 39 episodes",
+        "Seasons": "2 seasons, 78 episodes",
         "Length": "7 min.",
+        "Status": "Series orderRenewed"
+      },
+      {
+        "Title": "Megamind",
+        "Genre": "family comedy",
+        "Premiere": "2024",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Series order"
       },
       {
         "Title": "Press Start!",
-        "Genre": "Family comedy",
+        "Genre": "family comedy",
         "Premiere": "2024",
         "Seasons": "1 season, 52 episodes",
         "Length": "11 min.",
@@ -1604,11 +1634,19 @@
         "Status": "Series order"
       },
       {
-        "Title": "Megamind's Guide to Defending Your City",
-        "Genre": "Family comedy",
+        "Title": "Tea Town Teddy Bears",
+        "Genre": "family comedy",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "1 season, 26 episodes",
+        "Length": "11 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Superbuns",
+        "Genre": "family comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 39 episodes",
+        "Length": "7 min.",
         "Status": "Series order"
       }
     ]
@@ -1686,7 +1724,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "Queen's Court",
+        "Title": "Untitled non-monogamous island dating reality series",
         "Genre": "Dating show",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1776,11 +1814,20 @@
       {
         "Title": "Lockerbie",
         "Partner": "Sky Max",
-        "Genre": "Drama",
+        "Genre": "Drama miniseries",
         "Premiere": "2023",
         "Seasons": "5 episodes",
         "Length": "TBA",
         "Status": "Series order"
+      },
+      {
+        "Title": "The Tattooist of Auschwitz",
+        "Partner": "Sky Max",
+        "Genre": "Period drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
       },
       {
         "Title": "The Day of the Jackal",
@@ -1799,10 +1846,6 @@
       "In development"
     ],
     "data": [
-      {
-        "Title": "The Adventure Zone",
-        "Genre": "Animated fantasy comedy"
-      },
       {
         "Title": "After School Special",
         "Genre": "Drama"
@@ -1844,20 +1887,12 @@
         "Genre": "Animated science-fiction"
       },
       {
-        "Title": "Division One",
-        "Genre": "Coming-of-age comedy"
-      },
-      {
-        "Title": "Expecting",
-        "Genre": "Comedy"
+        "Title": "Excellence: 8 Fights",
+        "Genre": "Biopic"
       },
       {
         "Title": "Expiration Date",
         "Genre": "Drama"
-      },
-      {
-        "Title": "Fan Girl",
-        "Genre": "Comedy"
       },
       {
         "Title": "Fear",
@@ -1870,10 +1905,6 @@
       {
         "Title": "Fruits of Thy Labor",
         "Genre": "Drama"
-      },
-      {
-        "Title": "Hatching Twitter",
-        "Genre": "Anthology drama"
       },
       {
         "Title": "Indivisible",
@@ -1904,10 +1935,6 @@
         "Genre": "True crime docuseries"
       },
       {
-        "Title": "Olympic Boulevard",
-        "Genre": "Musical drama"
-      },
-      {
         "Title": "Pure",
         "Genre": "Drama"
       },
@@ -1922,6 +1949,10 @@
       {
         "Title": "The Show Must Go On",
         "Genre": "Mystery anthology"
+      },
+      {
+        "Title": "The Shrouded College",
+        "Genre": "Adventure horror"
       },
       {
         "Title": "Skywatch",
@@ -1983,13 +2014,6 @@
         "Language": "English"
       },
       {
-        "Title": "Praise This",
-        "Genre": "Musical",
-        "Release": "2023",
-        "Runtime": "TBA",
-        "Language": "English"
-      },
-      {
         "Title": "The Killer",
         "Genre": "Thriller",
         "Release": "2023",
@@ -2000,6 +2024,13 @@
         "Title": "Community: The Movie",
         "Genre": "Comedy",
         "Release": "2023",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Mr. Monk's Last Case: A Monk Movie",
+        "Genre": "Crime comedy",
+        "Release": "TBA",
         "Runtime": "TBA",
         "Language": "English"
       },

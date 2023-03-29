@@ -2039,9 +2039,9 @@
       {
         "Title": "Disenchantment",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 seasons, 30 episodes",
+        "Seasons/episodes": "2 seasons, 40 episodes",
         "Show creator(s)": "Matt Groening",
-        "Original release": "August 17, 2018 – present",
+        "Original release": "August 17, 2018 – February 9, 2022",
         "Network": "Netflix",
         "Studio": "The ULULU Company",
         "Age rating": "TV-14",
@@ -2053,7 +2053,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "2 seasons, 30 episodes",
         "Show creator(s)": "Waco O'Guin",
-        "Original release": "August 31, 2018 – present",
+        "Original release": "August 31, 2018 – December 16, 2022",
         "Network": "Netflix",
         "Studio": "Damn! Show Productions",
         "Age rating": "TV-MA",
@@ -2135,9 +2135,9 @@
       {
         "Title": "Tuca &amp; Bertie",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 season, 20 episodes",
+        "Seasons/episodes": "2 seasons, 30 episodes",
         "Show creator(s)": "Lisa Hanawalt",
-        "Original release": "May 3, 2019 – present",
+        "Original release": "May 3, 2019 – August 29, 2022",
         "Network": "Netflix (season 1)",
         "Studio": "The Tornante Company",
         "Age rating": "TV-MA (Season 1 only)",
@@ -2147,7 +2147,7 @@
       {
         "Title": "Tuca &amp; Bertie",
         "Genre": "Surreal humor",
-        "Seasons/episodes": "2 season, 20 episodes",
+        "Seasons/episodes": "2 seasons, 30 episodes",
         "Show creator(s)": "Lisa Hanawalt",
         "Original release": "",
         "Network": "",
@@ -2409,11 +2409,11 @@
         "Source": ""
       },
       {
-        "Title": "YOLO: Crystal Fantasy",
+        "Title": "YOLO",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "2 seasons, 16 episodes",
         "Show creator(s)": "Michael Cusack",
-        "Original release": "August 10, 2020 – August 31, 2020",
+        "Original release": "August 10, 2020 – present",
         "Network": "Adult Swim",
         "Studio": "Princess Pictures",
         "Age rating": "TV-14",
@@ -2831,7 +2831,7 @@
       {
         "Title": "The Legend of Vox Machina",
         "Genre": "Action",
-        "Seasons/episodes": "1 season, 12 episodes",
+        "Seasons/episodes": "2 seasons, 24 episodes",
         "Show creator(s)": "Critical Role",
         "Original release": "January 28, 2022 – present",
         "Network": "Amazon Prime Video",
@@ -2925,18 +2925,6 @@
         "Source": ""
       },
       {
-        "Title": "Koala Man",
-        "Genre": "Superhero",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Show creator(s)": "Michael Cusack",
-        "Original release": "January 9, 2023 – present",
-        "Network": "Hulu",
-        "Studio": "Cusack Creatures",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "Velma",
         "Genre": "Mystery",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -2946,6 +2934,30 @@
         "Studio": "Charlie Grandy Productions",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Agent Elvis",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "John Eddie",
+        "Original release": "March 17, 2023 – present",
+        "Network": "Netflix",
+        "Studio": "Sony Pictures Animation",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Digman!",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 2 episodes",
+        "Show creator(s)": "Andy Samberg",
+        "Original release": "March 22, 2023 – present",
+        "Network": "Comedy Central",
+        "Studio": "Dandyflower Productions",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
         "Source": ""
       }
     ]
@@ -3754,6 +3766,37 @@
         "Studio": "Working Dog Productions",
         "Status": "Ended",
         "Source": ""
+      },
+      {
+        "Title": "Koala Man",
+        "Genre": "Superhero",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Michael Cusack",
+        "Original release": "January 9, 2023 – present",
+        "Network": "Hulu",
+        "Studio": "Cusack Creatures",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "List",
+      "South Korea"
+    ],
+    "data": [
+      {
+        "Title": "Larva",
+        "Genre": "ComedySlapstickToilet humor",
+        "Seasons/episodes": "4 seasons, 286 episodes",
+        "Show creator(s)": "",
+        "Original release": "March 26, 2011 – March 1, 2019",
+        "Network": "KBS 1TV (2011)KBS 2TV (2012)JEI TV (2014-2015)Netflix (2018-2019)",
+        "Studio": "TUBA EntertainmentTUBAn (Season 3)",
+        "Status": "Ended",
+        "Source": ""
       }
     ]
   },
@@ -3768,7 +3811,7 @@
         "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Zerocalcare",
-        "Original release": "November 17, 2021",
+        "Original release": "November 17, 2021 – present",
         "Network": "Netflix",
         "Studio": "Movements Production",
         "Technique": "TV-MA",

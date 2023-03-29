@@ -9,9 +9,9 @@
         "Title": "The Mandalorian",
         "Genre": "Space western",
         "Premiere": "November 12, 2019",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "34–55 min",
-        "Status": "Season 3 due to premiere on March 1, 2023Renewed for season 4"
+        "Seasons": "3 seasons, 24 episodes",
+        "Runtime": "33–59 min",
+        "Status": "Season 3 ongoingRenewed"
       },
       {
         "Title": "The Right Stuff",
@@ -107,7 +107,7 @@
         "Premiere": "December 14, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–51 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Crossover",
@@ -116,6 +116,22 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "A Small Light",
+        "Genre": "Biographical drama",
+        "Premiere": "May 2, 2023",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Secret Invasion",
+        "Genre": "Superhero action",
+        "Premiere": "June 21, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "40–50 min",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -147,7 +163,7 @@
         "Premiere": "March 26, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "27–43 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Big Shot",
@@ -155,7 +171,7 @@
         "Premiere": "April 16, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "32–54 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Turner &amp; Hooch",
@@ -167,11 +183,11 @@
       },
       {
         "Title": "Doogie Kameāloha, M.D.",
-        "Genre": "Medical comedy",
+        "Genre": "Medical comedy drama",
         "Premiere": "September 8, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30–41 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on March 31, 2023"
       },
       {
         "Title": "Just Beyond",
@@ -204,6 +220,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–35 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "American Born Chinese",
+        "Genre": "Action comedy",
+        "Premiere": "May 24, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -251,6 +275,14 @@
         "Premiere": "February 23, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–32 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Star Wars: Young Jedi Adventures",
+        "Genre": "Space opera",
+        "Premiere": "May 4, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -337,17 +369,17 @@
         "Title": "The Wonderful World of Mickey Mouse",
         "Genre": "Animation",
         "Premiere": "November 18, 2020",
-        "Seasons": "2 seasons, 24 episodes",
-        "Runtime": "9–24 min",
-        "Status": "Pending"
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "9 min",
+        "Status": "Ended"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "1 season, 26 episodes",
-        "Runtime": "6–12 min",
-        "Status": "New episodes due to premiere on February 10, 2023"
+        "Seasons": "2 seasons, 29 episodes",
+        "Runtime": "5–12 min",
+        "Status": "Pending"
       },
       {
         "Title": "Pixar Popcorn",
@@ -387,7 +419,7 @@
         "Premiere": "September 1, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "10–13 min",
-        "Status": "New episode due to premiere on February 10, 2023"
+        "Status": "New episode due to premiere in 2023"
       },
       {
         "Title": "Star Wars: Visions",
@@ -446,7 +478,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Tales of the Jedi",
+        "Title": "Star Wars: Tales of the Jedi",
         "Genre": "Animated space opera anthology",
         "Premiere": "October 26, 2022",
         "Seasons": "1 season, 6 episodes",
@@ -542,6 +574,24 @@
         "Runtime": "22 min"
       },
       {
+        "Title": "The Wonderful Winter of Mickey Mouse",
+        "Genre": "Animation",
+        "Premiere": "February 18, 2022",
+        "Runtime": "24 min"
+      },
+      {
+        "Title": "The Wonderful Spring of Mickey Mouse",
+        "Genre": "Animation",
+        "Premiere": "March 25, 2022",
+        "Runtime": "23 min"
+      },
+      {
+        "Title": "The Wonderful Summer of Mickey Mouse",
+        "Genre": "Animation",
+        "Premiere": "July 8, 2022",
+        "Runtime": "23 min"
+      },
+      {
         "Title": "Andor: A Disney+ Day Special Look",
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
@@ -552,6 +602,12 @@
         "Genre": "Making-of documentary",
         "Premiere": "September 8, 2022",
         "Runtime": "1 h"
+      },
+      {
+        "Title": "The Wonderful Autumn of Mickey Mouse",
+        "Genre": "Animation",
+        "Premiere": "November 18, 2022",
+        "Runtime": "24 min"
       },
       {
         "Title": "Willow: Behind the Magic",
@@ -596,9 +652,9 @@
         "Title": "Marvel Studios: Assembled",
         "Genre": "Making-of docuseries",
         "Premiere": "March 12, 2021",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "1 season, 14 episodes",
         "Runtime": "42–67 min",
-        "Status": "New episode due to premiere on February 8, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Disney Gallery: The Book of Boba Fett",
@@ -606,15 +662,15 @@
         "Premiere": "May 4, 2022",
         "Seasons": "1 season, 1 episode",
         "Runtime": "63 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Voices Rising: The Music of Wakanda Forever",
         "Genre": "Music docuseries",
-        "Premiere": "February 22, 2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Premiere": "February 28, 2023",
+        "Seasons": "3 episodes",
+        "Runtime": "22–33 min",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -641,12 +697,12 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "34–43 min",
         "Language": "French",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "All the Same... or Not",
         "Genre": "Comedy drama",
-        "Premiere": "May 25, 2022July 20, 2022&#91;i&#93;",
+        "Premiere": "May 25, 2022July 20, 2022&#91;f&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "34–45 min",
         "Language": "Portuguese",
@@ -655,7 +711,7 @@
       {
         "Title": "It Was Always Me",
         "Genre": "Musical/Mystery drama",
-        "Premiere": "June 15, 2022July 20, 2022&#91;i&#93;",
+        "Premiere": "June 15, 2022July 20, 2022&#91;f&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "38–55 min",
         "Language": "Spanish",
@@ -664,7 +720,7 @@
       {
         "Title": "Daddies on Request",
         "Genre": "Musical comedy drama",
-        "Premiere": "July 13, 2022November 23, 2022&#91;i&#93;",
+        "Premiere": "July 13, 2022November 23, 2022&#91;f&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–36 min",
         "Language": "Spanish",
@@ -682,7 +738,7 @@
       {
         "Title": "The Chorus: Success, Here I Go",
         "Genre": "Musical drama",
-        "Premiere": "September 28, 2022December 7, 2022&#91;l&#93;February 1, 2023&#91;i&#93;",
+        "Premiere": "September 28, 2022December 7, 2022&#91;i&#93;February 1, 2023&#91;f&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "37–45 min",
         "Language": "Portuguese",
@@ -709,7 +765,7 @@
       {
         "Title": "Mila in the Multiverse",
         "Genre": "Science fiction comedy drama",
-        "Premiere": "January 25, 2023February 15, 2023&#91;i&#93;",
+        "Premiere": "January 25, 2023February 15, 2023&#91;f&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "22–32 min",
         "Language": "Portuguese",
@@ -720,7 +776,7 @@
         "Genre": "Musical comedy drama",
         "Premiere": "February 22, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min",
+        "Runtime": "28–36 min",
         "Language": "Spanish",
         "Status": "Pending"
       }
@@ -736,11 +792,11 @@
       {
         "Title": "Weekend Family",
         "Genre": "Comedy",
-        "Premiere": "February 23, 2022March 9, 2022&#91;i&#93;",
+        "Premiere": "February 23, 2022March 9, 2022&#91;f&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–33 min",
         "Language": "French",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on April 5, 2023"
       }
     ]
   },
@@ -763,7 +819,7 @@
         "Title": "In the Soop: Friendcation",
         "Genre": "Reality",
         "Partner/Country": "JTBC/South Korea",
-        "Premiere": "July 22, 2022October 19, 2022&#91;i&#93;",
+        "Premiere": "July 22, 2022October 19, 2022&#91;f&#93;",
         "Seasons": "4 episodes",
         "Runtime": "53–62 min",
         "Language": "Korean",
@@ -812,7 +868,7 @@
         "Premiere": "August 24, 2022",
         "Seasons": "6 episodes",
         "Runtime": "45–52 min",
-        "Exclusive region(s)": "All markets except the US and Latin America",
+        "Exclusive region(s)": "All markets except the United States and Latin America",
         "Language": "English",
         "Status": "Miniseries"
       },
@@ -822,18 +878,8 @@
         "Premiere": "January 18, 2023",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "15–20 min",
-        "Exclusive region(s)": "US and Latin America",
+        "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Super Junior: The Last Man Standing",
-        "Genre": "Music docuseries",
-        "Premiere": "January 18, 2023",
-        "Seasons": "1 season, 2 episodes",
-        "Runtime": "50–51 min",
-        "Exclusive region(s)": "US and Latin America",
-        "Language": "Korean",
         "Status": "Pending"
       }
     ]
@@ -882,11 +928,11 @@
         "Title": "Club Mickey Mouse Malaysia (season 4)",
         "Genre": "Variety",
         "Original network/Region": "Disney+ Hotstar/Malaysia",
-        "Premiere date": "November 12, 2021June 1, 2022&#91;i&#93;",
+        "Premiere date": "November 12, 2021June 1, 2022&#91;f&#93;",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "24–26 min.",
-        "Language": "English",
         "Exclusive region(s)": "Selected territories",
+        "Language": "English",
         "Status": "Ended"
       },
       {
@@ -896,8 +942,8 @@
         "Premiere date": "February 9, 2022",
         "Seasons": "16 episodes",
         "Runtime": "74–100 min.",
-        "Language": "Korean",
         "Exclusive region(s)": "United States",
+        "Language": "Korean",
         "Status": "Miniseries"
       },
       {
@@ -907,19 +953,19 @@
         "Premiere date": "April 6, 2022",
         "Seasons": "2 seasons, 23 episodes",
         "Runtime": "40–46 min",
-        "Language": "English",
         "Exclusive region(s)": "Latin America",
+        "Language": "English",
         "Status": "Renewed for final season"
       },
       {
         "Title": "Delicacies Destiny",
         "Genre": "Period romantic comedy",
         "Original network/Region": "Bilibili/China",
-        "Premiere date": "April 7, 2022June 8, 2022&#91;i&#93;",
+        "Premiere date": "April 7, 2022June 8, 2022&#91;f&#93;",
         "Seasons": "17 episodes",
         "Runtime": "27–51 min",
-        "Language": "Mandarin",
         "Exclusive region(s)": "Selected territories",
+        "Language": "Mandarin",
         "Status": "Miniseries"
       },
       {
@@ -929,9 +975,31 @@
         "Premiere date": "January 4, 2023",
         "Seasons": "26 episodes",
         "Runtime": "37–43 min",
+        "Exclusive region(s)": "United States",
         "Language": "Mandarin",
-        "Exclusive region(s)": "Selected territories",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Super Junior: The Last Man Standing",
+        "Genre": "Music docuseries",
+        "Original network/Region": "Star/South Korea",
+        "Premiere date": "January 18, 2023",
+        "Seasons": "2 episodes",
+        "Runtime": "50–51 min",
+        "Exclusive region(s)": "Latin America",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Moon Girl and Devil Dinosaur",
+        "Genre": "Superhero comedy animation",
+        "Original network/Region": "Disney Channel/United States",
+        "Premiere date": "February 15, 2023March 1, 2023&#91;q&#93;",
+        "Seasons": "1 season, 17 episodes",
+        "Runtime": "22–44 min",
+        "Exclusive region(s)": "Select territories",
+        "Language": "English",
+        "Status": "Renewed"
       }
     ]
   }
