@@ -74,8 +74,8 @@
         "Genre": "True crime drama",
         "Premiere": "April 27, 2023",
         "Seasons": "7 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "51–58 min.",
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -147,7 +147,7 @@
         "Premiere": "December 9, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "34–43 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in June 2023"
       },
       {
         "Title": "Peacemaker",
@@ -277,6 +277,22 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–28 min.",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Fired on Mars",
+        "Genre": "Science fiction workplace comedy",
+        "Premiere": "April 20, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "23–27 min.",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Clone High",
+        "Genre": "Satirical science fiction sitcom",
+        "Premiere": "May 23, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Renewed"
       }
     ]
   },
@@ -350,12 +366,30 @@
         "Status": "Pending"
       },
       {
+        "Title": "Mariachis",
+        "Genre": "Comedy drama",
+        "Premiere": "March 2, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "32–47 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
         "Title": "#BringBackAlice",
         "Genre": "Mystery thriller",
         "Premiere": "April 14, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "49–54 min.",
         "Language": "Polish",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Spy/Master",
+        "Genre": "Spy drama",
+        "Premiere": "May 19, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "50 min.",
+        "Language": "Romanian",
         "Status": "Pending"
       }
     ]
@@ -465,6 +499,16 @@
         "Runtime": "41–51 min.",
         "Language": "EnglishDanishSwedish",
         "Status": "Pending"
+      },
+      {
+        "Title": "Two Sides of the Abyss",
+        "Genre": "Thriller",
+        "Partner/Country": "RTL+/Germany",
+        "Premiere": "May 8, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43–44 min.",
+        "Language": "German",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -529,22 +573,22 @@
         "Status": "Season 53 ongoingRenewed for seasons 54–55"
       },
       {
-        "Title": "Titans (season 3–4)",
+        "Title": "Titans (seasons 3–4)",
         "Genre": "Superhero drama",
         "Prev. network(s)": "DC Universe",
         "Premiere": "August 12, 2021",
         "Seasons": "2 seasons, 25 episodes",
-        "Runtime": "40–54 min.",
+        "Runtime": "40–55 min.",
         "Status": "Final season ongoing"
       },
       {
-        "Title": "The Other Two (season 2)",
+        "Title": "The Other Two (seasons 2–3)",
         "Genre": "Comedy",
         "Prev. network(s)": "Comedy Central",
         "Premiere": "August 26, 2021",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–27 min.",
-        "Status": "Season 3 due to premiere on May 4, 2023"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Scooby-Doo and Guess Who? (season 2B)",
@@ -566,7 +610,7 @@
       },
       {
         "Title": "Gen:Lock (season 2)",
-        "Genre": "Animated science fantasy",
+        "Genre": "Adult animated science fantasy",
         "Prev. network(s)": "Rooster Teeth",
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 8 episodes",
@@ -574,7 +618,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "South Side (season 2–3)",
+        "Title": "South Side (seasons 2–3)",
         "Genre": "Black sitcom",
         "Prev. network(s)": "Comedy Central",
         "Premiere": "November 11, 2021",
@@ -593,7 +637,7 @@
       },
       {
         "Title": "Harley Quinn (season 3)",
-        "Genre": "Adult animated superhero comedy",
+        "Genre": "Adult animated superhero dark comedy",
         "Prev. network(s)": "DC Universe",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 11 episodes",
@@ -608,6 +652,15 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–51 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Warrior (season 3)",
+        "Genre": "Martial arts action drama",
+        "Prev. network(s)": "Cinemax",
+        "Premiere": "June 29, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },

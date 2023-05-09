@@ -58,8 +58,8 @@
         "Genre": "Teen drama",
         "Premiere": "February 13, 2022",
         "Seasons": "2 seasons, 20 episodes",
-        "Length": "46–60 min.",
-        "Status": "Season 2 ongoingRenewed"
+        "Length": "40–60 min.",
+        "Status": "Renewed"
       },
       {
         "Title": "Joe vs. Carole",
@@ -90,7 +90,7 @@
         "Genre": "Supernatural drama",
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "44–55 min.",
+        "Length": "45–55 min.",
         "Status": "Ended"
       },
       {
@@ -110,6 +110,14 @@
         "Status": "Pending"
       },
       {
+        "Title": "Leopard Skin",
+        "Genre": "Crime drama",
+        "Premiere": "November 17, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "23–34 min.",
+        "Status": "Pending"
+      },
+      {
         "Title": "Irreverent",
         "Genre": "Crime comedy thriller",
         "Premiere": "November 30, 2022",
@@ -122,8 +130,8 @@
         "Genre": "Science fiction",
         "Premiere": "April 20, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "48–60 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -179,7 +187,7 @@
         "Premiere": "March 10, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "26–30 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Killing It",
@@ -215,7 +223,7 @@
       },
       {
         "Title": "Paul T. Goldman",
-        "Genre": "Comedy",
+        "Genre": "Mockumentary",
         "Premiere": "January 1, 2023",
         "Seasons": "6 episodes",
         "Length": "31–63 min.",
@@ -223,7 +231,7 @@
       },
       {
         "Title": "Poker Face",
-        "Genre": "Comedy drama",
+        "Genre": "Mystery comedy",
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 10 episodes",
         "Length": "47–67 min.",
@@ -234,6 +242,22 @@
         "Genre": "Comedy",
         "Premiere": "May 4, 2023",
         "Seasons": "1 season, 8 episodes",
+        "Length": "23–32 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Based on a True Story",
+        "Genre": "Comedy thriller",
+        "Premiere": "June 8, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Twisted Metal",
+        "Genre": "Action comedy",
+        "Premiere": "July 27, 2023",
+        "Seasons": "1 season, 10 episodes",
         "Length": "30 min.",
         "Status": "Pending"
       }
@@ -255,7 +279,7 @@
       },
       {
         "Title": "Archibald's Next Big Thing Is Here!",
-        "Genre": "family comedy",
+        "Genre": "Family comedy",
         "Premiere": "February 18, 2021",
         "Seasons": "4 seasons, 24 episodes",
         "Length": "22 min.",
@@ -263,7 +287,7 @@
       },
       {
         "Title": "Dragons Rescue Riders: Heroes of the Sky",
-        "Genre": "family action-adventure",
+        "Genre": "Family action-adventure",
         "Premiere": "November 24, 2021",
         "Seasons": "4 seasons, 24 episodes",
         "Length": "23 min.",
@@ -358,9 +382,9 @@
         "Partner": "Hulu",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "5 seasons, 32 episodes",
+        "Seasons": "6 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Season 6 due to premiere on March 30, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -403,9 +427,9 @@
         "Partner": "Hulu",
         "Genre": "Animated adventure",
         "Premiere": "October 5, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "23 min.",
-        "Status": "Season 2 due to premiere on March 29, 2023"
+        "Status": "Pending"
       }
     ]
   },
@@ -474,9 +498,9 @@
         "Genre": "Reality",
         "Prev. network(s)": "Bravo",
         "Premiere": "December 16, 2021",
-        "Seasons": "2 seasons, 30 episodes",
+        "Seasons": "2 seasons, 33 episodes",
         "Length": "41–43 min.",
-        "Status": "Season 5 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Love Island (season 4)",
@@ -505,6 +529,24 @@
     ],
     "data": [
       {
+        "Title": "Psych 2: Lassie Come Home",
+        "Genre": "Detective comedy-drama",
+        "Premiere": "July 15, 2020",
+        "Length": "1 hour, 28 min."
+      },
+      {
+        "Title": "Curious George: Go West, Go Wild",
+        "Genre": "Family animation",
+        "Premiere": "September 8, 2020",
+        "Length": "1 hour, 25 min."
+      },
+      {
+        "Title": "Curious George: Cape Ahoy",
+        "Genre": "Family animation",
+        "Premiere": "September 30, 2021",
+        "Length": "1 hour, 28 min."
+      },
+      {
         "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
@@ -513,7 +555,7 @@
       {
         "Title": "Snoop and Martha's Very Tasty Halloween",
         "Genre": "Reality competition",
-        "Premiere": "October 21, 2021",
+        "Premiere": "October 21, 2020",
         "Length": "52 min."
       },
       {
@@ -523,32 +565,50 @@
         "Length": "42 min."
       },
       {
+        "Title": "Psych 3: This Is Gus",
+        "Genre": "Detective comedy drama",
+        "Premiere": "November 18, 2021",
+        "Length": "1 hour, 36 min."
+      },
+      {
         "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
         "Length": "23 min."
       },
       {
+        "Title": "The Real Housewives of the North Pole",
+        "Genre": "Comedy",
+        "Premiere": "December 9, 2021",
+        "Length": "1 hour, 24 min."
+      },
+      {
+        "Title": "Days of Our Lives: A Very Salem Christmas",
+        "Genre": "Soap opera",
+        "Premiere": "December 16, 2021",
+        "Length": "1 hour, 18 min."
+      },
+      {
         "Title": "Caillou: Rosie the Giant",
-        "Genre": "Animated",
+        "Genre": "Family animation",
         "Premiere": "July 10, 2022",
         "Length": "44 min."
       },
       {
         "Title": "Caillou: Adventures with Grandma and Grandpa",
-        "Genre": "Animated",
+        "Genre": "Family animation",
         "Premiere": "August 25, 2022",
         "Length": "44 min."
       },
       {
         "Title": "Caillou: The Bravest Wolf Boy",
-        "Genre": "Animated",
+        "Genre": "Family animation",
         "Premiere": "October 15, 2022",
         "Length": "44 min."
       },
       {
         "Title": "Caillou: The Silver Knight",
-        "Genre": "Animated",
+        "Genre": "Family animation",
         "Premiere": "November 13, 2022",
         "Length": "44 min."
       }
@@ -557,26 +617,8 @@
   {
     "category": [
       "Original programming",
-      "Programming under Telemundo's TPlus",
-      "Scripted"
-    ],
-    "data": [
-      {
-        "Title": "Leopard Skin",
-        "Genre": "Crime drama",
-        "Premiere": "November 17, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "23–34 min.",
-        "Language": "English",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Programming under Telemundo's TPlus",
-      "Scripted"
+      "Non-English language",
+      "Comedy"
     ],
     "data": [
       {
@@ -593,7 +635,7 @@
   {
     "category": [
       "Original programming",
-      "Programming under Telemundo's TPlus",
+      "Non-English language",
       "Unscripted"
     ],
     "data": [
@@ -604,7 +646,7 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "46–60 min.",
         "Language": "EnglishSpanish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   }

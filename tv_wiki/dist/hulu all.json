@@ -107,7 +107,7 @@
         "Premiere": "September 4, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "41–58 min",
-        "Status": "Final season ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Looking for Alaska",
@@ -299,7 +299,7 @@
         "Premiere": "September 27, 2022",
         "Seasons": "1 season, 9 episodes",
         "Length": "46–55 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Fleishman Is in Trouble",
@@ -326,6 +326,22 @@
         "Status": "Ended"
       },
       {
+        "Title": "Tiny Beautiful Things",
+        "Genre": "Drama",
+        "Premiere": "April 7, 2023",
+        "Seasons": "8 episodes",
+        "Length": "26–32 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Saint X",
+        "Genre": "Psychological drama",
+        "Premiere": "April 26, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "42–51 min",
+        "Status": "Season 1 ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -334,24 +350,8 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Tiny Beautiful Things",
-        "Genre": "Drama",
-        "Premiere": "April 7, 2023",
-        "Seasons": "8 episodes",
-        "Length": "30 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Saint X",
-        "Genre": "Psychological drama",
-        "Premiere": "April 26, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
-      },
-      {
         "Title": "Class of '09",
-        "Genre": "Crime drama",
+        "Genre": "Crime thriller",
         "Premiere": "May 10, 2023",
         "Seasons": "8 episodes",
         "Length": "TBA",
@@ -507,7 +507,7 @@
         "Premiere": "August 31, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "28–37 min",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on August 8, 2023"
       },
       {
         "Title": "How I Met Your Father",
@@ -531,7 +531,7 @@
         "Premiere": "June 23, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "20–47 min",
-        "Status": "Season 2 due to premiere in June 2023"
+        "Status": "Season 2 due to premiere on June 22, 2023"
       },
       {
         "Title": "Maggie",
@@ -753,6 +753,14 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "Taste the Nation with Padma Lakshmi",
+        "Genre": "Travel documentary",
+        "Premiere": "June 18, 2020",
+        "Seasons": "2 seasons, 24 episodes",
+        "Length": "27–41 min",
+        "Status": "Pending"
+      },
+      {
         "Title": "Sasquatch",
         "Genre": "True crime",
         "Premiere": "April 20, 2021",
@@ -860,7 +868,7 @@
         "Title": "Impact x Nightline",
         "Genre": "News magazine",
         "Premiere": "October 6, 2022",
-        "Seasons": "1 season, 21 episodes",
+        "Seasons": "1 season, 26 episodes",
         "Length": "24–49 min",
         "Status": "Season 1 ongoing"
       },
@@ -945,6 +953,30 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "RapCaviar Presents",
+        "Genre": "Music",
+        "Premiere": "March 30, 2023",
+        "Seasons": "6 episodes",
+        "Length": "41–43 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Pretty Baby: Brooke Shields",
+        "Genre": "Biographical",
+        "Premiere": "April 3, 2023",
+        "Seasons": "2 episodes",
+        "Length": "68–70 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Algiers, America",
+        "Genre": "Sports",
+        "Premiere": "April 19, 2023",
+        "Seasons": "5 episodes",
+        "Length": "53–59 min",
+        "Status": "Miniseries ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -953,26 +985,18 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "RapCaviar Presents",
-        "Genre": "Music",
-        "Premiere": "March 30, 2023",
-        "Seasons": "7 episodes",
+        "Title": "Queenmaker: The Making of an It Girl",
+        "Genre": "Docuseries",
+        "Premiere": "May 17, 2023",
+        "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       },
       {
-        "Title": "Pretty Baby: Brooke Shields",
-        "Genre": "Biographical",
-        "Premiere": "April 3, 2023",
-        "Seasons": "2 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Algiers, America: The Relentless Pursuit",
-        "Genre": "Sports",
-        "Premiere": "April 19, 2023",
-        "Seasons": "5 episodes",
+        "Title": "Searching for Soul Food",
+        "Genre": "Travel documentary",
+        "Premiere": "June 2, 2023",
+        "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       }
@@ -985,14 +1009,6 @@
       "Reality"
     ],
     "data": [
-      {
-        "Title": "Taste the Nation with Padma Lakshmi",
-        "Genre": "Cooking show",
-        "Premiere": "June 18, 2020",
-        "Seasons": "1 season, 14 episodes",
-        "Length": "30–36 min",
-        "Status": "Season 2 due to premiere on May 5, 2023"
-      },
       {
         "Title": "Eater's Guide to the World",
         "Genre": "Reality",
@@ -1063,6 +1079,22 @@
         "Premiere": "December 5, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "45–57 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Drag Me to Dinner",
+        "Genre": "Cooking competition",
+        "Premiere": "May 31, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1265,9 +1297,9 @@
         "Genre": "Animated family comedy",
         "Partner/Country": "Peacock/United States",
         "Premiere": "September 23, 2021",
-        "Seasons": "5 seasons, 32 episodes",
+        "Seasons": "6 seasons, 39 episodes",
         "Length": "23 min",
-        "Status": "Season 6 due to premiere on March 30, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -1292,9 +1324,9 @@
         "Genre": "Animated adventure",
         "Partner/Country": "Peacock/United States",
         "Premiere": "October 5, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "23 min",
-        "Status": "Season 2 due to premiere on March 29, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "The Hair Tales",
@@ -1321,7 +1353,7 @@
         "Premiere": "March 26, 2023",
         "Seasons": "6 episodes",
         "Length": "56–58 min",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1388,15 +1420,19 @@
         "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
-        "Length": "23 min",
-        "Language": "English"
+        "Length": "23 min"
       },
       {
         "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
-        "Length": "23 min",
-        "Language": "English"
+        "Length": "23 min"
+      },
+      {
+        "Title": "'Til Death Do Us Part Kourtney &amp; Travis",
+        "Genre": "Reality",
+        "Premiere": "April 13, 2023",
+        "Length": "1 h 12 min"
       }
     ]
   },
@@ -1644,7 +1680,7 @@
         "Seasons": "2 seasons, 16 episodes",
         "Length": "49–58 min",
         "Language": "Korean",
-        "Status": "Season 2 ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Dünyayla Benim Aramda (Between the World and Us)",
@@ -1714,7 +1750,7 @@
         "Seasons": "16 episodes",
         "Length": "71–73 min",
         "Language": "Korean",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Virgin: The Series",
@@ -1725,6 +1761,16 @@
         "Length": "46–57 min",
         "Language": "Indonesian",
         "Status": "Pending"
+      },
+      {
+        "Title": "One Dollar Lawyer",
+        "Genre": "Legal comedy drama",
+        "Original network": "SBS TV",
+        "Premiere": "March 1, 2023",
+        "Seasons": "16 episodes",
+        "Length": "58–74 min",
+        "Language": "Korean",
+        "Status": "Miniseries"
       },
       {
         "Title": "El grito de las mariposas",
@@ -1757,6 +1803,46 @@
         "Status": "Miniseries"
       },
       {
+        "Title": "The Good Mothers",
+        "Genre": "Crime drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "April 5, 2023",
+        "Seasons": "6 episodes",
+        "Length": "56–60 min",
+        "Language": "Italian",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The First Responders",
+        "Genre": "Medical drama",
+        "Original network": "SBS TV",
+        "Premiere": "April 12, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Length": "59–70 min",
+        "Language": "Korean",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Pandora: Beneath the Paradise",
+        "Genre": "Revenge drama",
+        "Original network": "tvN",
+        "Premiere": "April 12, 2023",
+        "Seasons": "16 episodes",
+        "Length": "62–66 min",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Sam – A Saxon",
+        "Genre": "Biographical drama",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "April 26, 2023",
+        "Seasons": "7 episodes",
+        "Length": "43–61 min",
+        "Language": "German",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Original network": "Awaiting release",
@@ -1767,14 +1853,24 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "The Good Mothers",
-        "Genre": "Crime drama",
-        "Original network": "Disney+ (Star Hub)",
-        "Premiere": "April 5, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "60 min",
-        "Language": "Italian",
+        "Title": "La chica invisible",
+        "Genre": "Drama thriller",
+        "Original network": "Disney+ (Star Hub",
+        "Premiere": "May 16, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Clearing",
+        "Genre": "Psychological thriller",
+        "Original network": "Disney+ (Star Hub)",
+        "Premiere": "May 24, 2023",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Language": "English",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1905,14 +2001,14 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Original network": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
+        "Title": "Bad Signal: The Series",
+        "Genre": "Comedy drama",
+        "Original network": "Disney+ Hotstar",
+        "Premiere": "April 5, 2023",
+        "Seasons": "12 episodes",
+        "Length": "36–45 min",
+        "Language": "Indonesian",
+        "Status": "Miniseries"
       },
       {
         "Title": "Am I Being Unreasonable?",
@@ -1920,9 +2016,29 @@
         "Original network": "BBC Three",
         "Premiere": "April 11, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
+        "Length": "28–29 min",
         "Language": "English",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Máscara contra caballero",
+        "Genre": "Comedy",
+        "Original network": "Star+",
+        "Premiere": "April 19, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "22–26 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Planners",
+        "Genre": "Comedy drama",
+        "Original network": "Star+",
+        "Premiere": "May 5, 2023",
+        "Seasons": "1 season, 9 episodes",
+        "Length": "30–41 min",
+        "Language": "Spanish",
+        "Status": "Pending"
       }
     ]
   },
@@ -1977,10 +2093,10 @@
         "Genre": "Fantasy action drama",
         "Original network": "MBS, TV Tokyo, AT-X",
         "Premiere": "January 8, 2023",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Length": "24 min",
         "Language": "Japanese",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Summer Time Rendering",
@@ -1991,6 +2107,16 @@
         "Length": "23–25 min",
         "Language": "Japanese",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Tengoku Daimakyo (Heavenly Delusion)",
+        "Genre": "Science fiction adventure mystery",
+        "Original network": "Tokyo MX, HTB, RKB, TVA, MBS, BS11",
+        "Premiere": "April 1, 2023",
+        "Seasons": "TBA",
+        "Length": "23 min",
+        "Language": "Japanese",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -2168,7 +2294,7 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "The Plot",
@@ -2176,13 +2302,21 @@
         "Premiere": "TBA",
         "Seasons": "8 episodes",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Under the Bridge",
         "Genre": "True crime drama miniseries",
         "Premiere": "TBA",
         "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Untitled Dan Fogelman series",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -2213,7 +2347,7 @@
       {
         "Title": "The Full Monty",
         "Genre": "Comedy drama",
-        "Premiere": "TBA",
+        "Premiere": "June 2023",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Filming"
@@ -2245,7 +2379,7 @@
     "data": [
       {
         "Title": "Standing By",
-        "Genre": "Animated comedy",
+        "Genre": "Animated sitcom",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -2293,6 +2427,22 @@
         "Status": "Series order"
       },
       {
+        "Title": "Freaknik: The Wildest Party Never Told",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Jewel Thief",
+        "Genre": "True crime",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Untitled Scott Johnson project",
         "Genre": "True crime",
         "Premiere": "TBA",
@@ -2311,14 +2461,6 @@
     "data": [
       {
         "Title": "Burning Men",
-        "Genre": "Cooking competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Drag Me to Dinner",
         "Genre": "Cooking competition",
         "Premiere": "TBA",
         "Seasons": "TBA",

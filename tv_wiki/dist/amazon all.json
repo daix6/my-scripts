@@ -227,7 +227,7 @@
         "Genre": "Young adult romantic drama",
         "Premiere": "June 17, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on July 14, 2023"
       },
       {
         "Title": "The Terminal List",
@@ -307,18 +307,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Power",
         "Genre": "Drama",
         "Premiere": "March 31, 2023",
         "Seasons": "1 season, 9 episodes",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Dead Ringers",
@@ -332,7 +325,21 @@
         "Genre": "Spy thriller",
         "Premiere": "April 28, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Renewed"
+        "Status": "Season 1 ongoingRenewed"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The Horror of Dolores Roach",
+        "Genre": "Horror",
+        "Premiere": "July 7, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -458,8 +465,8 @@
         "Title": "The Marvelous Mrs. Maisel",
         "Genre": "Comedy drama",
         "Premiere": "November 29, 2017",
-        "Seasons": "4 seasons, 34 episodes",
-        "Status": "Final season due to premiere on April 14, 2023"
+        "Seasons": "5 seasons, 43 episodes",
+        "Status": "Final season ongoing"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -543,7 +550,7 @@
         "Genre": "Romantic comedy",
         "Premiere": "December 17, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on June 2, 2023"
       },
       {
         "Title": "As We See It",
@@ -579,6 +586,27 @@
         "Premiere": "March 17, 2023",
         "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Deadloch",
+        "Genre": "Comedy",
+        "Premiere": "June 2, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "I'm a Virgo",
+        "Genre": "Dark comedy",
+        "Premiere": "June 23, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -591,7 +619,7 @@
     "data": [
       {
         "Title": "Undone",
-        "Genre": "Comedy drama",
+        "Genre": "Psychological comedy drama",
         "Premiere": "September 13, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Status": "Pending"
@@ -813,13 +841,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Greek Salad",
         "Genre": "Comedy drama",
         "Premiere": "April 14, 2023",
@@ -875,6 +896,20 @@
         "Genre": "Drama",
         "Premiere": "March 3, 2023",
         "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Hohlbeins' – The Gryphon",
+        "Genre": "Fantasy drama",
+        "Premiere": "May 26, 2023",
+        "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -1083,9 +1118,30 @@
         "Status": "Pending"
       },
       {
-        "Title": "Fakes",
-        "Genre": "Drama",
+        "Title": "Farzi",
+        "Genre": "Black comedy crime thriller",
         "Premiere": "February 10, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Jubilee",
+        "Genre": "Period drama",
+        "Premiere": "April 7, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Dahaad",
+        "Genre": "Crime procedural",
+        "Premiere": "May 12, 2023",
         "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
       }
@@ -1288,8 +1344,8 @@
         "Title": "Dom",
         "Genre": "Crime drama",
         "Premiere": "June 4, 2021",
-        "Seasons": "2 seasons, 11 episodes",
-        "Status": "Final season ongoing"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "September Mornings",
@@ -1409,8 +1465,8 @@
         "Title": "The Boarding School: Las Cumbres",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
-        "Seasons": "2 seasons, 16 episodes",
-        "Status": "Final season due to premiere on April 7, 2023"
+        "Seasons": "3 seasons, 24 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "The Vineyard",
@@ -1543,14 +1599,14 @@
       {
         "Title": "Breathe",
         "Genre": "Crime drama",
-        "Premiere": "January&#160;28, 2018",
+        "Premiere": "January 28, 2018",
         "Seasons": "1 season, 8 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Putham Pudhu Kaalai Vidiyaadhaa",
         "Genre": "Anthology series",
-        "Premiere": "January&#160;14, 2022",
+        "Premiere": "January 14, 2022",
         "Seasons": "1 season, 4 episodes",
         "Status": "Ended"
       },
@@ -2031,7 +2087,7 @@
         "Premiere": "December 9, 2021",
         "Seasons": "1 season, 8 episodes",
         "Language": "Italian",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 18, 2023"
       },
       {
         "Title": "Phat Tuesdays: The Era of Hip Hop Comedy",
@@ -2119,7 +2175,7 @@
         "Premiere": "December 29, 2022",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Marc Márquez: All In",
@@ -2128,14 +2184,6 @@
         "Seasons": "5 episodes",
         "Language": "English",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
       },
       {
         "Title": "Redefined: J. R. Smith",
@@ -2286,7 +2334,7 @@
         "Title": "LOL - Chi ride è fuori",
         "Genre": "Comedy competition",
         "Premiere": "April 1, 2021",
-        "Seasons": "2 seasons, 13 episodes",
+        "Seasons": "3 seasons, 19 episodes",
         "Language": "Italian",
         "Status": "Pending"
       },
@@ -2294,17 +2342,17 @@
         "Title": "LOL: Last One Laughing Germany",
         "Genre": "Comedy competition",
         "Premiere": "April 8, 2021",
-        "Seasons": "3 seasons, 18 episodes",
+        "Seasons": "4 seasons, 24 episodes",
         "Language": "German",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "LOL: Qui rit, sort!",
         "Genre": "Comedy competition",
         "Premiere": "April 23, 2021",
-        "Seasons": "3 seasons, 18 episodes",
+        "Seasons": "3 seasons, 19 episodes",
         "Language": "French",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "LOL: Hasse Toh Phasse",
@@ -2376,7 +2424,7 @@
         "Premiere": "March 25, 2022",
         "Seasons": "1 season, 10 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Lovestruck High",
@@ -2416,7 +2464,7 @@
         "Premiere": "December 8, 2022",
         "Seasons": "1 season, 7 episodes",
         "Language": "FilipinoEnglish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Dr. Seuss Baking Challenge",
@@ -2456,7 +2504,7 @@
         "Premiere": "March 17, 2023",
         "Seasons": "1 season, 6 episodes",
         "Language": "Spanish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -2710,7 +2758,7 @@
         "Premiere": "December 30, 2022",
         "Seasons": "1 season, 12 episodes",
         "Language": "Korean",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -3403,6 +3451,16 @@
         "Prime Video exclusive region": "United Kingdom, Ireland and Japan",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "Gary and His Demons (season 2)",
+        "Genre": "Adult animated sitcom",
+        "Original network": "VRV",
+        "Premiere": "October 6, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Prime Video exclusive region": "Canada, Australia and New Zealand",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -3449,6 +3507,12 @@
         "Seasons": "TBA"
       },
       {
+        "Title": "Étoile",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodesRenewed"
+      },
+      {
         "Title": "Expats",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -3467,22 +3531,10 @@
         "Seasons": "TBA"
       },
       {
-        "Title": "Gangs of Lagos",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
-      },
-      {
         "Title": "God of War",
         "Genre": "Action-adventure",
         "Premiere": "TBA",
         "Seasons": "TBA"
-      },
-      {
-        "Title": "The Horror of Dolores Roach",
-        "Genre": "Horror",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes"
       },
       {
         "Title": "Just Cause",
@@ -3495,6 +3547,12 @@
         "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 7 episodes"
+      },
+      {
+        "Title": "On Call",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes"
       },
       {
         "Title": "Shelter",
@@ -3535,18 +3593,6 @@
     ],
     "data": [
       {
-        "Title": "I'm a Virgo",
-        "Genre": "Dark comedy",
-        "Premiere": "Mid-2023",
-        "Seasons": "1 season, 7 episodes"
-      },
-      {
-        "Title": "Deadloch",
-        "Genre": "Comedy",
-        "Premiere": "2023",
-        "Seasons": "1 season, 8 episodes"
-      },
-      {
         "Title": "Mr. &amp; Mrs. Smith",
         "Genre": "Spy comedy",
         "Premiere": "2023",
@@ -3584,6 +3630,12 @@
         "Genre": "Superhero",
         "Premiere": "TBA",
         "Seasons": "2 seasons, 20 episodes"
+      },
+      {
+        "Title": "Bat-Family",
+        "Genre": "Superhero comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA"
       }
     ]
   },
@@ -3661,10 +3713,10 @@
     ],
     "data": [
       {
-        "Title": "The Gryphon",
-        "Genre": "Fantasy drama",
-        "Premiere": "May 2023",
-        "Seasons": "1 season, 6 episodes"
+        "Title": "Mandy und die Mächte des Bösen",
+        "Genre": "Horror comedy",
+        "Premiere": "Late 2023",
+        "Seasons": "1 season, 8 episodes"
       },
       {
         "Title": "The Therapy",
@@ -3677,6 +3729,12 @@
         "Genre": "Drama",
         "Premiere": "2023",
         "Seasons": "1 season, 6 episodes"
+      },
+      {
+        "Title": "Followers",
+        "Genre": "Horror comedy",
+        "Premiere": "2024",
+        "Seasons": "1 season, 8 episodes"
       },
       {
         "Title": "Untitled Anke Engelke and Bastian Pastewka series",
@@ -3753,13 +3811,6 @@
         "Premiere": "2023",
         "Seasons": "TBA",
         "Language": "Italian"
-      },
-      {
-        "Title": "Dahaad",
-        "Genre": "Crime procedural",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Language": "Hindi"
       }
     ]
   },
@@ -3820,13 +3871,6 @@
         "Language": "German"
       },
       {
-        "Title": "Rihanna: Volume 1",
-        "Genre": "Music docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Language": "English"
-      },
-      {
         "Title": "Three Mothers",
         "Genre": "True crime docuseries",
         "Premiere": "TBA",
@@ -3871,11 +3915,25 @@
         "Language": "English"
       },
       {
+        "Title": "007's Road to a Million",
+        "Genre": "Reality competition",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Language": "English"
+      },
+      {
         "Title": "Takeshi's Castle",
         "Genre": "Game show",
         "Premiere": "2023",
         "Seasons": "TBA",
         "Language": "Japanese"
+      },
+      {
+        "Title": "LOL: Last One Laughing Ireland",
+        "Genre": "Comedy competition",
+        "Premiere": "2024",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English"
       },
       {
         "Title": "LOL: Last One Laughing South Africa",
@@ -3894,20 +3952,6 @@
       {
         "Title": "LOL: Last One Laughing Naija",
         "Genre": "Comedy competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "The Missing One",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Language": "French"
-      },
-      {
-        "Title": "Untitled Priyanka Chopra/Nick Jonas unscripted sangeet series",
-        "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "English"
@@ -3945,26 +3989,11 @@
     "data": [
       {
         "Title": "Silk: Spider Society",
-        "Partner": "MGM+",
+        "Partner": "MGM+/United States",
         "Genre": "Superhero drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "English"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "Gary and His Demons (season 2)",
-        "Genre": "Adult animated sitcom",
-        "Prev. network(s)": "VRV",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
       }
     ]
   },
@@ -3995,8 +4024,16 @@
         "Genre": "Drama"
       },
       {
+        "Title": "Boys Come First",
+        "Genre": "Drama"
+      },
+      {
         "Title": "Butterfly",
         "Genre": "Spy thriller"
+      },
+      {
+        "Title": "Clans of the Alphane Moon",
+        "Genre": "Science fiction comedy"
       },
       {
         "Title": "Confident Women",
@@ -4059,12 +4096,24 @@
         "Genre": "Live action animation"
       },
       {
+        "Title": "Koreatown",
+        "Genre": "Crime drama"
+      },
+      {
         "Title": "Lifted",
         "Genre": "Teen comedy drama"
       },
       {
+        "Title": "Lodi",
+        "Genre": "Crime drama"
+      },
+      {
         "Title": "Lois &amp; Varga",
         "Genre": "Romantic drama miniseries"
+      },
+      {
+        "Title": "The Magnificent Seven",
+        "Genre": "Western drama"
       },
       {
         "Title": "Mass Effect",
@@ -4095,12 +4144,20 @@
         "Genre": "Comedy"
       },
       {
+        "Title": "Pretty Little Wife",
+        "Genre": "Thriller drama"
+      },
+      {
         "Title": "The Promised Neverland",
         "Genre": "Dark fantasy mystery thriller"
       },
       {
         "Title": "Seven Wonders",
         "Genre": "Action-adventure"
+      },
+      {
+        "Title": "Sharps",
+        "Genre": "Comedy"
       },
       {
         "Title": "She-Ra",
@@ -4120,6 +4177,14 @@
       },
       {
         "Title": "Syd",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Teton",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "This Must Be the Place",
         "Genre": "Drama"
       },
       {
@@ -4163,16 +4228,16 @@
         "Genre": "Crime drama"
       },
       {
-        "Title": "Untitled Nic Pizzolatto series",
-        "Genre": "Western drama"
-      },
-      {
         "Title": "Untitled ROTC series",
         "Genre": "Military drama"
       },
       {
         "Title": "Untitled Spider-Man Noir series",
         "Genre": "Superhero noir"
+      },
+      {
+        "Title": "Vanderbilt",
+        "Genre": "Historical drama"
       },
       {
         "Title": "Verona",
@@ -4184,7 +4249,7 @@
       },
       {
         "Title": "Warhammer 40,000",
-        "Genre": "Fantasy"
+        "Genre": "Science fantasy"
       },
       {
         "Title": "Who Killed Tulum?",

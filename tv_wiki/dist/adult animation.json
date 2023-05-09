@@ -640,7 +640,7 @@
         "Original release": "December 30, 2000 – August 30, 2015",
         "Network": "Adult Swim",
         "Studio": "Williams Street",
-        "Age rating": "TV-MA",
+        "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
       },
@@ -2399,7 +2399,7 @@
       {
         "Title": "Star Trek: Lower Decks",
         "Genre": "Comedy",
-        "Seasons/episodes": "2 seasons, 20 episodes",
+        "Seasons/episodes": "3 seasons, 30 episodes",
         "Show creator(s)": "Mike McMahan",
         "Original release": "August 6, 2020 – present",
         "Network": "Paramount+",
@@ -2701,7 +2701,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 12 episodes",
         "Show creator(s)": "Mark Gravas",
-        "Original release": "October 22, 2021 – present",
+        "Original release": "October 22, 2021",
         "Network": "Netflix",
         "Studio": "Mission Control Media",
         "Age rating": "TV-14",
@@ -2797,7 +2797,7 @@
         "Genre": "Live-action animated",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Ben Jones",
-        "Original release": "December 10, 2021",
+        "Original release": "December 10, 2021 - present",
         "Network": "Netflix",
         "Studio": "Georgia Entertainment Industries",
         "Age rating": "TV-14",
@@ -2903,7 +2903,7 @@
       {
         "Title": "Little Demon",
         "Genre": "Black comedy",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Darcy Fowler",
         "Original release": "August 25, 2022 – present",
         "Network": "FXX",
@@ -2956,8 +2956,20 @@
         "Original release": "March 22, 2023 – present",
         "Network": "Comedy Central",
         "Studio": "Dandyflower Productions",
-        "Age rating": "TV-MA",
+        "Age rating": "TV-14",
         "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Fired on Mars",
+        "Genre": "Sci-fi",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Carson Mell",
+        "Original release": "April 20, 2023 – present",
+        "Network": "HBO Max",
+        "Studio": "TBA",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]
@@ -3361,7 +3373,7 @@
       {
         "Title": "Megaliga MTV de VJs Paladinos",
         "Country": "Brazil",
-        "Genre": "Comedy",
+        "Genre": "Comedy, Sitcom",
         "Seasons/episodes": "3 seasons, 56 episodes",
         "Show creator(s)": "Marco Pavão",
         "Original release": "October 7, 2003 – August 3, 2007",
@@ -3372,7 +3384,7 @@
       {
         "Title": "Fudêncio e Seus Amigos",
         "Country": "Brazil",
-        "Genre": "Sitcom",
+        "Genre": "Comedy, Sitcom",
         "Seasons/episodes": "6 seasons, 179 episodes",
         "Show creator(s)": "Thiago Martins",
         "Original release": "August 23, 2005&#160;– August 25, 2011",
@@ -3392,36 +3404,25 @@
         "Source": ""
       },
       {
-        "Title": "The Jorges",
+        "Title": "Rockstar Ghost",
         "Country": "Brazil",
-        "Genre": "Comedy",
-        "Seasons/episodes": "2 seasons, 9 episodes",
+        "Genre": "Comedy, Sitcom",
+        "Seasons/episodes": "1 season, 9 episodes",
         "Show creator(s)": "Marco Pavão",
-        "Original release": "September 4, 2007 – September 17, 2008",
+        "Original release": "September 4, 2007 – September 20, 2007",
         "Network": "MTV Brasil",
         "Studio": "Estricnina Desenhos Animados",
         "Source": ""
       },
       {
-        "Title": "La familia del barrio",
-        "Country": "Mexico",
-        "Genre": "Black comedy",
-        "Seasons/episodes": "5 seasons, 94 episodes",
-        "Show creator(s)": "Sergio Lebrija",
-        "Original release": "May 5, 2013 – 2018",
-        "Network": "MTV Latin America",
-        "Studio": "FireflyFilms",
-        "Source": ""
-      },
-      {
-        "Title": "Super Drags",
+        "Title": "The Jorges",
         "Country": "Brazil",
-        "Genre": "Superhero",
-        "Seasons/episodes": "1 season, 5 episodes",
-        "Show creator(s)": "Anderson Mahanski",
-        "Original release": "November 9, 2018",
-        "Network": "Netflix",
-        "Studio": "Combo Estúdio",
+        "Genre": "Comedy, Sitcom",
+        "Seasons/episodes": "2 seasons, 9 episodes",
+        "Show creator(s)": "Marco Pavão",
+        "Original release": "September 4, 2007 – September 17, 2008",
+        "Network": "MTV Brasil",
+        "Studio": "Estricnina Desenhos Animados",
         "Source": ""
       }
     ]
@@ -3753,6 +3754,36 @@
   {
     "category": [
       "List",
+      "Latin America"
+    ],
+    "data": [
+      {
+        "Title": "La familia del barrio",
+        "Country": "Mexico",
+        "Genre": "Black comedy",
+        "Seasons/episodes": "5 seasons, 94 episodes",
+        "Show creator(s)": "Sergio Lebrija",
+        "Original release": "May 5, 2013 – 2018",
+        "Network": "MTV Latin America",
+        "Studio": "FireflyFilms",
+        "Source": ""
+      },
+      {
+        "Title": "Super Drags",
+        "Country": "Brazil",
+        "Genre": "Superhero",
+        "Seasons/episodes": "1 season, 5 episodes",
+        "Show creator(s)": "Anderson Mahanski",
+        "Original release": "November 9, 2018",
+        "Network": "Netflix",
+        "Studio": "Combo Estúdio",
+        "Source": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "List",
       "Australia"
     ],
     "data": [
@@ -3838,18 +3869,6 @@
         "Source": ""
       },
       {
-        "Title": "Clone High",
-        "Genre": "Sitcom",
-        "Seasons, episodes": "2 seasons",
-        "Show creator": "Phil Lord",
-        "Release date": "2023",
-        "Original channel": "HBO Max",
-        "Studio": "MTV Entertainment Studios",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
         "Title": "Exploding Kittens",
         "Genre": "Comedy",
         "Seasons, episodes": "TBA",
@@ -3891,10 +3910,58 @@
         "Seasons, episodes": "TBA",
         "Show creator": "Joe Bennett",
         "Release date": "2023",
-        "Original channel": "HBO Max",
+        "Original channel": "Max",
         "Studio": "Titmouse, Inc.",
         "Age rating": "",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Mulligan",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Robert Carlock",
+        "Release date": "May 12, 2023",
+        "Original channel": "Netflix",
+        "Studio": "Little Stranger, Inc.",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Clone High",
+        "Genre": "Sitcom",
+        "Seasons, episodes": "2 seasons",
+        "Show creator": "Phil Lord",
+        "Release date": "May 23, 2023",
+        "Original channel": "Max",
+        "Studio": "MTV Entertainment Studios",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "This World Can't Tear Me Down",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Zerocalcare",
+        "Release date": "June 9, 2023",
+        "Original channel": "Netflix",
+        "Studio": "Movements Production",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Praise Petey",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Anna Drezen",
+        "Release date": "July 21, 2023",
+        "Original channel": "Freeform",
+        "Studio": "20th Television Animation",
+        "Age rating": "",
+        "Technique": "",
         "Source": ""
       },
       {

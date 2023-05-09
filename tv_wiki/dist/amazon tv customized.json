@@ -227,7 +227,7 @@
         "Genre": "Young adult romantic drama",
         "Premiere": "June 17, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on July 14, 2023"
       },
       {
         "Title": "The Terminal List",
@@ -311,7 +311,7 @@
         "Genre": "Drama",
         "Premiere": "March 31, 2023",
         "Seasons": "1 season, 9 episodes",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Dead Ringers",
@@ -325,7 +325,14 @@
         "Genre": "Spy thriller",
         "Premiere": "April 28, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Renewed"
+        "Status": "Season 1 ongoingRenewed"
+      },
+      {
+        "Title": "The Horror of Dolores Roach",
+        "Genre": "Horror",
+        "Premiere": "July 7, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -451,8 +458,8 @@
         "Title": "The Marvelous Mrs. Maisel",
         "Genre": "Comedy drama",
         "Premiere": "November 29, 2017",
-        "Seasons": "4 seasons, 34 episodes",
-        "Status": "Final season due to premiere on April 14, 2023"
+        "Seasons": "5 seasons, 43 episodes",
+        "Status": "Final season ongoing"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -536,7 +543,7 @@
         "Genre": "Romantic comedy",
         "Premiere": "December 17, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on June 2, 2023"
       },
       {
         "Title": "As We See It",
@@ -572,6 +579,13 @@
         "Premiere": "March 17, 2023",
         "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Deadloch",
+        "Genre": "Comedy",
+        "Premiere": "June 2, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -584,7 +598,7 @@
     "data": [
       {
         "Title": "Undone",
-        "Genre": "Comedy drama",
+        "Genre": "Psychological comedy drama",
         "Premiere": "September 13, 2019",
         "Seasons": "2 seasons, 16 episodes",
         "Status": "Pending"
@@ -662,6 +676,13 @@
         "Premiere": "February 18, 2022",
         "Seasons": "1 season, 8 episodes",
         "Status": "Ended"
+      },
+      {
+        "Title": "Greek Salad",
+        "Genre": "Comedy drama",
+        "Premiere": "April 14, 2023",
+        "Seasons": "8 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -712,6 +733,13 @@
         "Genre": "Drama",
         "Premiere": "March 3, 2023",
         "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hohlbeins' – The Gryphon",
+        "Genre": "Fantasy drama",
+        "Premiere": "May 26, 2023",
+        "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -897,6 +925,27 @@
         "Premiere": "February 18, 2022",
         "Seasons": "8 episodes",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Farzi",
+        "Genre": "Black comedy crime thriller",
+        "Premiere": "February 10, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Jubilee",
+        "Genre": "Period drama",
+        "Premiere": "April 7, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dahaad",
+        "Genre": "Crime procedural",
+        "Premiere": "May 12, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1097,8 +1146,8 @@
         "Title": "Dom",
         "Genre": "Crime drama",
         "Premiere": "June 4, 2021",
-        "Seasons": "2 seasons, 11 episodes",
-        "Status": "Final season ongoing"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "September Mornings",
@@ -1211,8 +1260,8 @@
         "Title": "The Boarding School: Las Cumbres",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
-        "Seasons": "2 seasons, 16 episodes",
-        "Status": "Final season due to premiere on April 7, 2023"
+        "Seasons": "3 seasons, 24 episodes",
+        "Status": "Ended"
       },
       {
         "Title": "The Vineyard",
@@ -1234,6 +1283,13 @@
         "Premiere": "October 29, 2021",
         "Seasons": "1 season, 10 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Porn and Ice Cream",
+        "Genre": "Comedy",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Yosi, the Regretful Spy",
@@ -1303,14 +1359,14 @@
       {
         "Title": "Breathe",
         "Genre": "Crime drama",
-        "Premiere": "January&#160;28, 2018",
+        "Premiere": "January 28, 2018",
         "Seasons": "1 season, 8 episodes",
         "Status": "Ended"
       },
       {
         "Title": "Putham Pudhu Kaalai Vidiyaadhaa",
         "Genre": "Anthology series",
-        "Premiere": "January&#160;14, 2022",
+        "Premiere": "January 14, 2022",
         "Seasons": "1 season, 4 episodes",
         "Status": "Ended"
       },
@@ -1556,7 +1612,7 @@
         "Premiere": "December 30, 2022",
         "Seasons": "1 season, 12 episodes",
         "Language": "Korean",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1667,6 +1723,24 @@
         "Prime Video exclusive region": "United States, Canada, Australia, and New Zealand",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "German Crime Story",
+        "Genre": "Crime drama",
+        "Premiere": "January 13, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "Germany",
+        "Language": "German",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dark Hearts",
+        "Genre": "Political action drama",
+        "Premiere": "February 3, 2023",
+        "Seasons": "6 episodes",
+        "Prime Video exclusive region": "French",
+        "Language": "France, Belgium, Switzerland and Luxembourg",
+        "Status": "Pending"
       }
     ]
   },

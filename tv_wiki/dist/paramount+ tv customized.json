@@ -66,8 +66,8 @@
         "Genre": "Science fiction",
         "Premiere": "January 23, 2020",
         "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "39–58 min.",
-        "Status": "Final season ongoing"
+        "Runtime": "39–62 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Interrogation",
@@ -162,24 +162,24 @@
         "Genre": "Supernatural teen drama",
         "Premiere": "March 9, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–49 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "44–52 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Rabbit Hole",
         "Genre": "Spy drama",
         "Premiere": "March 26, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–46 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "42–56 min.",
+        "Status": "Pending"
       },
       {
         "Title": "Fatal Attraction",
-        "Genre": "Psychological thriller miniseries",
+        "Genre": "Psychological thriller",
         "Premiere": "April 30, 2023",
-        "Seasons": "8 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "53–60 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -242,8 +242,8 @@
         "Genre": "Musical comedy",
         "Premiere": "April 6, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "48–59 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -282,9 +282,9 @@
         "Title": "Mike Judge's Beavis and Butt-Head",
         "Genre": "Adult animated comedy",
         "Premiere": "August 4, 2022",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "20–22 min.",
-        "Status": "Season 2 due to premiere on April 20, 2023"
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -318,7 +318,7 @@
         "Partner/Country": "TVING/South Korea",
         "Premiere": "April 11, 2023",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "30–36 min.",
         "Status": "Miniseries"
       }
     ]
@@ -354,7 +354,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "61–83 min.",
-        "Status": "Renewed"
+        "Status": "Season 8 due to premiere on May 12, 2023"
       },
       {
         "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
@@ -363,7 +363,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "21 min.",
-        "Status": "Renewed"
+        "Status": "Season 5 due to premiere on May 12, 2023"
       },
       {
         "Title": "Inside the NFL (seasons 44–45)",
@@ -372,7 +372,7 @@
         "Premiere": "September 7, 2021",
         "Seasons": "2 seasons, 48 episodes",
         "Runtime": "9–70 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "SEAL Team (seasons 5B–6)",
@@ -444,6 +444,15 @@
         "Premiere": "January 18, 2023January 19, 2023&#91;g&#93;February 1, 2023&#91;h&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–46 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Joe Pickett (season 2)",
+        "Genre": "Neo-Western crime drama",
+        "Prev. network(s)": "Spectrum Originals",
+        "Premiere": "June 4, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -526,7 +535,7 @@
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Renewed"
+        "Status": "Season 4 due to premiere on May 14, 2023"
       },
       {
         "Title": "More Than This",
@@ -651,7 +660,7 @@
         "Premiere": "October 12, 2022",
         "Seasons": "4 episodes",
         "Runtime": "45 min.",
-        "Exclusive region(s)": "United Kingdom",
+        "Exclusive region(s)": "United Kingdom and Australia",
         "Status": "Miniseries"
       },
       {
@@ -692,13 +701,22 @@
       },
       {
         "Title": "Last King of the Cross",
-        "Genre": "Drama miniseries",
+        "Genre": "Drama",
         "Premiere": "February 17, 2023",
         "Seasons": "10 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
     ]
   },
   {
@@ -728,7 +746,7 @@
       },
       {
         "Title": "The Chemistry of Death",
-        "Genre": "Psychological crime drama miniseries",
+        "Genre": "Psychological crime drama",
         "Premiere": "January 19, 2023",
         "Seasons": "6 episodes",
         "Runtime": "45 min.",
@@ -742,7 +760,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Germany, Switzerland and Austria",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -894,7 +912,7 @@
         "Premiere": "November 3, 2022December 1, 2022&#91;f&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–54 min.",
-        "Exclusive region(s)": "Spain, Australia, Latin America and the United States",
+        "Exclusive region(s)": "Spain, Australia, Latin America, United States and Canada",
         "Status": "Pending"
       }
     ]
