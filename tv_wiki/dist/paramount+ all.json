@@ -178,8 +178,24 @@
         "Genre": "Psychological thriller",
         "Premiere": "April 30, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "53–60 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "53–62 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Special Ops: Lioness",
+        "Genre": "Spy drama",
+        "Premiere": "July 23, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -209,9 +225,9 @@
         "Title": "iCarly",
         "Genre": "Sitcom",
         "Premiere": "June 17, 2021",
-        "Seasons": "2 seasons, 23 episodes",
+        "Seasons": "3 seasons, 26 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Renewed"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Guilty Party",
@@ -251,7 +267,7 @@
         "Premiere": "April 6, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "48–59 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -290,7 +306,7 @@
         "Title": "Mike Judge's Beavis and Butt-Head",
         "Genre": "Adult animated comedy",
         "Premiere": "August 4, 2022",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "2 seasons, 21 episodes",
         "Runtime": "20–22 min.",
         "Status": "Season 2 ongoing"
       }
@@ -309,7 +325,7 @@
         "Premiere": "March 4, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "22–23 min.",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Season 2 due to premiere in 2024"
       },
       {
         "Title": "Rugrats",
@@ -317,7 +333,7 @@
         "Premiere": "May 27, 2021",
         "Seasons": "2 seasons, 37 episodes",
         "Runtime": "22–44 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "Star Trek: Prodigy",
@@ -354,7 +370,7 @@
     "data": [
       {
         "Title": "That Animal Rescue Show",
-        "Genre": "Nature",
+        "Subject": "Nature",
         "Premiere": "October 29, 2020",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–34 min.",
@@ -362,7 +378,7 @@
       },
       {
         "Title": "Texas 6",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "November 26, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "30–41 min.",
@@ -370,7 +386,7 @@
       },
       {
         "Title": "From Cradle to Stage",
-        "Genre": "Music",
+        "Subject": "Music/Behind the scenes",
         "Premiere": "May 6, 2021",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–54 min.",
@@ -378,7 +394,7 @@
       },
       {
         "Title": "Behind the Music",
-        "Genre": "Music",
+        "Subject": "Music/Behind the scenes",
         "Premiere": "July 29, 2021",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "47–62 min.",
@@ -386,7 +402,7 @@
       },
       {
         "Title": "Indivisible: Healing Hate",
-        "Genre": "Politics",
+        "Subject": "Politics",
         "Premiere": "January 6, 2022",
         "Seasons": "6 episodes",
         "Runtime": "46–59 min.",
@@ -394,7 +410,7 @@
       },
       {
         "Title": "Wasteland",
-        "Genre": "Docuseries",
+        "Subject": "Environmental impact",
         "Premiere": "February 24, 2022",
         "Seasons": "4 episodes",
         "Runtime": "27–30 min.",
@@ -402,7 +418,7 @@
       },
       {
         "Title": "Clive Davis: Most Iconic Performances",
-        "Genre": "Music",
+        "Subject": "Music",
         "Premiere": "March 23, 2022",
         "Seasons": "3 episodes",
         "Runtime": "38–45 min.",
@@ -410,7 +426,7 @@
       },
       {
         "Title": "Ghislaine: Partner in Crime",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "April 7, 2022",
         "Seasons": "4 episodes",
         "Runtime": "49–51 min.",
@@ -418,7 +434,7 @@
       },
       {
         "Title": "Never Seen Again",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "May 10, 2022",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "23–29 min.",
@@ -426,7 +442,7 @@
       },
       {
         "Title": "Black Gold",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "May 17, 2022",
         "Seasons": "3 episodes",
         "Runtime": "49–55 min.",
@@ -434,7 +450,7 @@
       },
       {
         "Title": "11 Minutes",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "September 27, 2022",
         "Seasons": "4 episodes",
         "Runtime": "46–52 min.",
@@ -442,7 +458,7 @@
       },
       {
         "Title": "The Checkup with Dr. David Agus",
-        "Genre": "Docuseries",
+        "Subject": "Mental health",
         "Premiere": "December 6, 2022",
         "Seasons": "6 episodes",
         "Runtime": "27–36 min.",
@@ -450,7 +466,7 @@
       },
       {
         "Title": "Sampled",
-        "Genre": "Music",
+        "Subject": "Music",
         "Premiere": "December 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "21–22 min.",
@@ -458,7 +474,7 @@
       },
       {
         "Title": "Sometimes When We Touch",
-        "Genre": "Music",
+        "Subject": "Music",
         "Premiere": "January 3, 2023",
         "Seasons": "3 episodes",
         "Runtime": "45–50 min.",
@@ -466,7 +482,7 @@
       },
       {
         "Title": "Murder of God's Banker",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "February 24, 2023",
         "Seasons": "4 episodes",
         "Runtime": "43–52 min.",
@@ -474,15 +490,15 @@
       },
       {
         "Title": "FBI True",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "February 28, 2023",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "22–28 min.",
-        "Status": "Pending"
+        "Status": "Season 3 due to premiere on June 20, 2023"
       },
       {
         "Title": "Family Legacy",
-        "Genre": "Music",
+        "Subject": "Music",
         "Premiere": "April 25, 2023",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "26–27 min.",
@@ -490,11 +506,19 @@
       },
       {
         "Title": "Thalía's Mixtape: El Soundtrack de mi Vida",
-        "Genre": "Music",
+        "Subject": "Music",
         "Premiere": "May 2, 2023",
         "Seasons": "3 episodes",
         "Runtime": "30 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Destination: European Nights",
+        "Subject": "Sports",
+        "Premiere": "June 6, 2023",
+        "Seasons": "5 episodes",
+        "Runtime": "18–23 min.",
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -539,7 +563,7 @@
       },
       {
         "Title": "Love Island: Exclusive Episodes",
-        "Genre": "Reality",
+        "Genre": "Dating show",
         "Premiere": "July 12, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "42–43 min.",
@@ -547,7 +571,7 @@
       },
       {
         "Title": "Love Island: The Drop",
-        "Genre": "Reality",
+        "Genre": "Dating show",
         "Premiere": "July 13, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "43–44 min.",
@@ -555,7 +579,7 @@
       },
       {
         "Title": "Love Island: Laid Bare",
-        "Genre": "Reality",
+        "Genre": "Dating show",
         "Premiere": "July 16, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "43–45 min.",
@@ -565,9 +589,9 @@
         "Title": "Queen of the Universe",
         "Genre": "Music competition",
         "Premiere": "December 2, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "45 min.",
-        "Status": "Season 2 due to premiere on June 2, 2023"
+        "Seasons": "2 seasons, 9 episodes",
+        "Runtime": "45–47 min.",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Hip Hop My House",
@@ -599,23 +623,23 @@
         "Premiere": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}March 8, 2023March 9, 2023&#91;c&#93;March 15, 2023&#91;d&#93;",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "45–71 min.",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
+        "Status": "Pending"
       },
       {
         "Title": "The Family Stallone",
         "Genre": "Reality",
         "Premiere": "May 17, 2023",
-        "Seasons": "8 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "21–25 min.",
+        "Status": "Season 1 ongoingRenewed"
+      },
+      {
+        "Title": "Love ALLways",
+        "Genre": "Dating show",
+        "Premiere": "June 2, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "39–48 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -638,7 +662,7 @@
         "Title": "The Ready Room",
         "Genre": "Aftershow",
         "Premiere": "January 26, 2019",
-        "Seasons": "80 episodes",
+        "Seasons": "86 episodes",
         "Runtime": "14–56 min.",
         "Status": "Ongoing"
       },
@@ -720,31 +744,31 @@
         "Status": "Renewed"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
+        "Title": "RuPaul's Drag Race All Stars (seasons 6–8)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 24 episodes",
+        "Seasons": "3 seasons, 28 episodes",
         "Runtime": "61–83 min.",
-        "Status": "Season 8 due to premiere on May 12, 2023"
+        "Status": "Season 8 ongoing"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
+        "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–5)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (season 1)VH1 (season 2)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 24 episodes",
-        "Runtime": "21 min.",
-        "Status": "Season 5 due to premiere on May 12, 2023"
+        "Seasons": "3 seasons, 28 episodes",
+        "Runtime": "21–22 min.",
+        "Status": "Season 5 ongoing"
       },
       {
-        "Title": "Inside the NFL (seasons 44–45)",
-        "Genre": "Sports",
-        "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
+        "Title": "Inside the NFL (seasons 45–46)",
+        "Genre": "Sports talk show",
+        "Prev. network(s)": "HBO (seasons 1–31)Showtime (seasons 32–44)",
         "Premiere": "September 7, 2021",
         "Seasons": "2 seasons, 48 episodes",
         "Runtime": "9–70 min.",
-        "Status": "Ended"
+        "Status": "Moved to The CW"
       },
       {
         "Title": "SEAL Team (seasons 5B–6)",
@@ -819,22 +843,13 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Prev. network(s)": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Joe Pickett (season 2)",
         "Genre": "Neo-Western crime drama",
         "Prev. network(s)": "Spectrum Originals",
         "Premiere": "June 4, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "45–53 min.",
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -910,13 +925,13 @@
     ],
     "data": [
       {
-        "Title": "Five Bedrooms (seasons 2–3)",
+        "Title": "Five Bedrooms (seasons 2–4)",
         "Genre": "Comedy drama",
         "Premiere": "August 11, 2021",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "3 seasons, 24 episodes",
         "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Season 4 due to premiere on May 14, 2023"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "Spreadsheet",
@@ -967,10 +982,10 @@
         "Title": "The Box",
         "Genre": "Docuseries",
         "Premiere": "August 11, 2022",
-        "Seasons": "1 season, 3 episodes",
+        "Seasons": "3 episodes",
         "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "The Disappearance of Gabby Petito",
@@ -1058,7 +1073,7 @@
         "Genre": "Docuseries",
         "Premiere": "October 14, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "45–48 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -1070,6 +1085,15 @@
         "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
+      },
+      {
+        "Title": "Monster: The Loch Ness Mystery",
+        "Genre": "Docuseries",
+        "Premiere": "November 17, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "52 min.",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Miniseries"
       },
       {
         "Title": "The Flatshare",
@@ -1094,7 +1118,7 @@
         "Genre": "Drama",
         "Premiere": "February 17, 2023",
         "Seasons": "10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "44–62 min.",
         "Exclusive region(s)": "Australia",
         "Status": "Miniseries"
       },
@@ -1112,9 +1136,18 @@
         "Genre": "Docuseries",
         "Premiere": "March 1, 2023",
         "Seasons": "2 episodes",
-        "Runtime": "TBA",
+        "Runtime": "66 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "No Escape",
+        "Genre": "Thriller",
+        "Premiere": "May 18, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom, Ireland and Canada",
+        "Status": "Pending"
       },
       {
         "Title": "Awaiting release",
@@ -1126,13 +1159,13 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "No Escape",
-        "Genre": "Thriller",
-        "Premiere": "May 18, 2023",
-        "Seasons": "TBA",
+        "Title": "The Betoota Advocate Presents",
+        "Genre": "Satirical historical drama",
+        "Premiere": "June 14, 2023",
+        "Seasons": "4 episodes",
         "Runtime": "TBA",
-        "Exclusive region(s)": "United Kingdom, Ireland and Canada",
-        "Status": "Pending"
+        "Exclusive region(s)": "Australia",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1185,7 +1218,7 @@
         "Premiere": "December 22, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–51 min.",
-        "Exclusive region(s)": "Germany, Switzerland and Austria",
+        "Exclusive region(s)": "Germany, Switzerland, Austria and Australia",
         "Status": "Pending"
       },
       {
@@ -1205,6 +1238,15 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Germany, Switzerland and Austria",
         "Status": "Pending"
+      },
+      {
+        "Title": "Kohlrabenschwarz",
+        "Genre": "Mystery drama",
+        "Premiere": "June 8, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Germany",
+        "Status": "Pending"
       }
     ]
   },
@@ -1216,10 +1258,10 @@
     ],
     "data": [
       {
-        "Title": "Are You the One? Italy",
+        "Title": "Are You the One? Italia",
         "Genre": "Dating show",
         "Premiere": "February 15, 2023",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Italy",
         "Status": "Pending"
@@ -1394,7 +1436,7 @@
         "Partner/Country": "RAI/ItalyZDFneo/Germany",
         "Premiere": "October 26, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "49–53 min.",
         "Language": "Italian",
         "Exclusive region(s)": "Italy, France, United Kingdom, Canada, Australia, Latin America and South Korea",
         "Status": "Pending"
@@ -1444,7 +1486,7 @@
         "Title": "Guy Montgomery By Name, Guy Montgomery By Nature",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 5 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1452,7 +1494,7 @@
         "Title": "Michelle Brasier: Average Bear",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 1 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1460,7 +1502,7 @@
         "Title": "Sammy J: Symphony in J Minor",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "55 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1468,7 +1510,7 @@
         "Title": "Luke Heggie: I Already Told You",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "54 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1476,7 +1518,7 @@
         "Title": "Kirsty Webeck: Silver Linings",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 2 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1484,7 +1526,7 @@
         "Title": "Dane Simpson: Didgeridoozy",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "56 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1492,7 +1534,7 @@
         "Title": "Ivan Aristeguieta: Happy Papi",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1500,7 +1542,7 @@
         "Title": "Harley Breen: Flat Out",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 5 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       }
@@ -1523,14 +1565,6 @@
       {
         "Title": "Lawmen: Bass Reeves",
         "Genre": "Western drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Special Ops: Lioness",
-        "Genre": "Spy drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1684,8 +1718,16 @@
     ],
     "data": [
       {
+        "Title": "Crush",
+        "Subject": "Crowd crush",
+        "Premiere": "Late 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "48 Hours Original: The Lie Detector",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1693,7 +1735,7 @@
       },
       {
         "Title": "The Changemakers",
-        "Genre": "Docuseries",
+        "Subject": "Activism",
         "Premiere": "TBA",
         "Seasons": "8 episodes",
         "Runtime": "TBA",
@@ -1701,7 +1743,7 @@
       },
       {
         "Title": "Insta Docs",
-        "Genre": "Docuseries",
+        "Subject": "Short documentary",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1709,7 +1751,7 @@
       },
       {
         "Title": "Lolla: The Story of Lollapalooza",
-        "Genre": "Music",
+        "Subject": "Music",
         "Premiere": "TBA",
         "Seasons": "3 episodes",
         "Runtime": "TBA",
@@ -1717,7 +1759,7 @@
       },
       {
         "Title": "Mafia Spies",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Runtime": "TBA",
@@ -1725,7 +1767,7 @@
       },
       {
         "Title": "Not a Bride",
-        "Genre": "Docuseries",
+        "Subject": "Child marriage",
         "Premiere": "TBA",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "TBA",
@@ -1733,15 +1775,7 @@
       },
       {
         "Title": "The Real Criminal Minds",
-        "Genre": "True crime",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Stories from the Beautiful Game",
-        "Genre": "Sports",
+        "Subject": "True crime",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1947,6 +1981,22 @@
     ],
     "data": [
       {
+        "Title": "The Burning Girls",
+        "Genre": "Horror thriller",
+        "Premiere": "2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "60 min.",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "NCIS: Sydney",
+        "Genre": "Military action",
+        "Premiere": "2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "Sexy Beast",
         "Genre": "Drama",
         "Premiere": "2023",
@@ -1963,20 +2013,28 @@
         "Status": "Series order"
       },
       {
-        "Title": "NCIS: Sydney",
-        "Genre": "Military action",
-        "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Paper Dolls",
         "Genre": "Drama miniseries",
         "Premiere": "2023",
         "Seasons": "8 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
+      },
+      {
+        "Title": "Untitled The Inspired Unemployed series",
+        "Genre": "Comedy",
+        "Premiere": "2023",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Doll Factory",
+        "Genre": "Historical thriller",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "60 min.",
+        "Status": "Filming"
       },
       {
         "Title": "North Shore",
@@ -2003,18 +2061,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Betoota Advocate Presents",
-        "Genre": "Satirical historical drama",
+        "Title": "Carpe Demon",
+        "Genre": "Paranormal fiction",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Burning Girls",
-        "Genre": "Horror thriller",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
         "Runtime": "60 min.",
         "Status": "Series order"
       },
@@ -2035,19 +2085,19 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Doll Factory",
-        "Genre": "Historical thriller",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
-        "Runtime": "60 min.",
-        "Status": "Series order"
-      },
-      {
         "Title": "Fashion House",
         "Genre": "Anthology",
         "Premiere": "TBA",
         "Seasons": "1 season, 3 episodes",
         "Runtime": "90 min.",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Hate the Player: The Ben Johnson Story",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Series order"
       },
       {
@@ -2075,18 +2125,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "Monster: The Mystery of Loch Ness",
-        "Genre": "Docuseries",
+        "Title": "Len &amp; Cub",
+        "Genre": "Biopic miniseries",
         "Premiere": "TBA",
-        "Seasons": "3 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Premiership: Rise of the Billionaires",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "4 episodes",
+        "Seasons": "6 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -2095,6 +2137,14 @@
         "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "They Drive at Night",
+        "Genre": "Dark comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -2135,14 +2185,6 @@
       {
         "Title": "Anywhere",
         "Genre": "Supernatural comedy drama",
-        "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Kohlrabenschwarz",
-        "Genre": "Mystery drama",
         "Premiere": "2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2223,6 +2265,14 @@
     ],
     "data": [
       {
+        "Title": "Marcelo, Marmelo, Martelo",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Anderson \"The Spider\" Silva",
         "Genre": "Docuseries",
         "Premiere": "TBA",
@@ -2264,6 +2314,14 @@
         "Status": "Post-production"
       },
       {
+        "Title": "Dr. Ballí",
+        "Genre": "Docuseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "Medusa",
         "Genre": "Thriller drama",
         "Premiere": "TBA",
@@ -2288,8 +2346,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "Dr. Ballí",
-        "Genre": "Docuseries",
+        "Title": "Futuro Desierto",
+        "Genre": "Dystopian thriller",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2304,24 +2362,16 @@
         "Status": "Series order"
       },
       {
-        "Title": "First Lady of Sinaloa",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Futuro Desierto",
-        "Genre": "Dystopian thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "RuPaul's Drag Race Mexico",
         "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Sinaloa's First Lady",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",

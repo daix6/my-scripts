@@ -124,14 +124,6 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "41–50 min.",
         "Status": "Pending"
-      },
-      {
-        "Title": "Mrs. Davis",
-        "Genre": "Science fiction",
-        "Premiere": "April 20, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "48–60 min.",
-        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -223,7 +215,7 @@
       },
       {
         "Title": "Paul T. Goldman",
-        "Genre": "Mockumentary",
+        "Genre": "True crime docu-comedy",
         "Premiere": "January 1, 2023",
         "Seasons": "6 episodes",
         "Length": "31–63 min.",
@@ -238,6 +230,14 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Mrs. Davis",
+        "Genre": "Science fiction dark comedy",
+        "Premiere": "April 20, 2023",
+        "Seasons": "8 episodes",
+        "Length": "49–61 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Bupkis",
         "Genre": "Comedy",
         "Premiere": "May 4, 2023",
@@ -250,7 +250,7 @@
         "Genre": "Comedy thriller",
         "Premiere": "June 8, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "23–44 min.",
         "Status": "Pending"
       },
       {
@@ -297,16 +297,16 @@
         "Title": "Babble Bop!",
         "Genre": "Musical",
         "Premiere": "December 23, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Pending"
       },
       {
         "Title": "Supernatural Academy",
         "Genre": "Fantasy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
-        "Length": "30 min.",
+        "Length": "22–23 min.",
         "Status": "Ended"
       }
     ]
@@ -384,7 +384,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "6 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on July 27, 2023"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -393,7 +393,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "5 seasons, 32 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on June 15, 2023"
       },
       {
         "Title": "Wolf Like Me",
@@ -446,7 +446,7 @@
         "Premiere": "July 15, 2020",
         "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Where's Waldo? (season 2)",
@@ -500,7 +500,7 @@
         "Premiere": "December 16, 2021",
         "Seasons": "2 seasons, 33 episodes",
         "Length": "41–43 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Love Island (season 4)",
@@ -610,6 +610,12 @@
         "Title": "Caillou: The Silver Knight",
         "Genre": "Family animation",
         "Premiere": "November 13, 2022",
+        "Length": "44 min."
+      },
+      {
+        "Title": "Caillou's Perfect Christmas",
+        "Genre": "Family animation",
+        "Premiere": "December 2, 2022",
         "Length": "44 min."
       }
     ]

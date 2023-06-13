@@ -87,7 +87,7 @@
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
         "Seasons": "3 seasons, 24 episodes",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on June 30, 2023"
       },
       {
         "Title": "The Romanoffs",
@@ -199,7 +199,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed for seasons 2–3"
+        "Status": "Season 2 due to premiere on September 1, 2023Renewed"
       },
       {
         "Title": "Reacher",
@@ -293,7 +293,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Daisy Jones &amp; The Six",
+        "Title": "Daisy Jones &amp; the Six",
         "Genre": "Musical drama",
         "Premiere": "March 3, 2023",
         "Seasons": "10 episodes",
@@ -311,7 +311,7 @@
         "Genre": "Drama",
         "Premiere": "March 31, 2023",
         "Seasons": "1 season, 9 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Dead Ringers",
@@ -325,7 +325,7 @@
         "Genre": "Spy thriller",
         "Premiere": "April 28, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "The Horror of Dolores Roach",
@@ -333,6 +333,13 @@
         "Premiere": "July 7, 2023",
         "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Lost Flowers of Alice Hart",
+        "Genre": "Drama",
+        "Premiere": "August 4, 2023",
+        "Seasons": "7 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -459,7 +466,7 @@
         "Genre": "Comedy drama",
         "Premiere": "November 29, 2017",
         "Seasons": "5 seasons, 43 episodes",
-        "Status": "Final season ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -542,8 +549,8 @@
         "Title": "With Love",
         "Genre": "Romantic comedy",
         "Premiere": "December 17, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Status": "Season 2 due to premiere on June 2, 2023"
+        "Seasons": "2 seasons, 11 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "As We See It",
@@ -556,8 +563,8 @@
         "Title": "The Lake",
         "Genre": "Comedy",
         "Premiere": "June 17, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "A League of Their Own",
@@ -585,6 +592,13 @@
         "Genre": "Comedy",
         "Premiere": "June 2, 2023",
         "Seasons": "1 season, 8 episodes",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "I'm a Virgo",
+        "Genre": "Dark comedy",
+        "Premiere": "June 23, 2023",
+        "Seasons": "1 season, 7 episodes",
         "Status": "Pending"
       }
     ]
@@ -601,7 +615,7 @@
         "Genre": "Psychological comedy drama",
         "Premiere": "September 13, 2019",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Invincible",
@@ -615,7 +629,7 @@
         "Genre": "Comedy",
         "Premiere": "October 29, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Legend of Vox Machina",
@@ -678,6 +692,13 @@
         "Status": "Ended"
       },
       {
+        "Title": "Miskina, Poor Thing",
+        "Genre": "Comedy",
+        "Premiere": "September 29, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Greek Salad",
         "Genre": "Comedy drama",
         "Premiere": "April 14, 2023",
@@ -736,9 +757,9 @@
         "Status": "Pending"
       },
       {
-        "Title": "Hohlbeins' – The Gryphon",
+        "Title": "The Gryphon",
         "Genre": "Fantasy drama",
-        "Premiere": "May 26, 2023",
+        "Premiere": "May 25, 2023",
         "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
@@ -925,6 +946,20 @@
         "Premiere": "February 18, 2022",
         "Seasons": "8 episodes",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Modern Love Mumbai",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "May 13, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hush Hush",
+        "Genre": "Drama",
+        "Premiere": "September 22, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Farzi",
@@ -1176,6 +1211,13 @@
         "Premiere": "April 15, 2022",
         "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Elected",
+        "Genre": "Comedy",
+        "Premiere": "October 7, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1320,10 +1362,31 @@
         "Status": "Pending"
       },
       {
+        "Title": "Filthy Envy",
+        "Genre": "Comedy drama",
+        "Premiere": "October 7, 2022",
+        "Seasons": "6 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "The End of Love",
         "Genre": "Comedy drama",
         "Premiere": "November 4, 2022",
         "Seasons": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Out Loud",
+        "Genre": "Comedy drama",
+        "Premiere": "November 11, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Head of Joaquín Murrieta",
+        "Genre": "Western",
+        "Premiere": "February 17, 2023",
+        "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
       },
       {
@@ -1375,6 +1438,13 @@
         "Genre": "Thriller",
         "Premiere": "June 17, 2022",
         "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Modern Love Chennai",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "May 18, 2023",
+        "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -1504,7 +1574,7 @@
         "Premiere": "May 31, 2019",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Season 2 due to premiere in 2023"
+        "Status": "Season 2 due to premiere on July 28, 2023"
       },
       {
         "Title": "The Feed",
@@ -1549,6 +1619,15 @@
         "Premiere": "March 13, 2020",
         "Seasons": "2 episodes",
         "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Inés of My Soul",
+        "Genre": "Historical drama",
+        "Partner": "RTVE/SpainBoomerang TV/SpainChilevisión/Chile",
+        "Premiere": "July 31, 2020",
+        "Seasons": "8 episodes",
+        "Language": "Spanish",
         "Status": "Miniseries"
       },
       {
@@ -1647,7 +1726,7 @@
         "Premiere": "May 13, 2022",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1738,8 +1817,17 @@
         "Genre": "Political action drama",
         "Premiere": "February 3, 2023",
         "Seasons": "6 episodes",
-        "Prime Video exclusive region": "French",
-        "Language": "France, Belgium, Switzerland and Luxembourg",
+        "Prime Video exclusive region": "France, Belgium, Switzerland and Luxembourg",
+        "Language": "French",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Cattleya Killer",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 1, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "Philippines",
+        "Language": "Filipino",
         "Status": "Pending"
       }
     ]
@@ -1856,7 +1944,7 @@
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "United Kingdom",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1914,7 +2002,7 @@
         "Seasons": "2 seasons, 12 episodes",
         "Prime Video exclusive region": "United States, Canada, Australia, New Zealand and Nordic countries",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Stories to Stay Awake",

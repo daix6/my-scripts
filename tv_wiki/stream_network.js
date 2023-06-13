@@ -56,7 +56,28 @@ const STREAM_NETWORKS = [
   },
   {
     name: 'hulu',
-    wiki: ['List of Hulu original programming'],
+    wiki: ['List of Hulu original programming', 'List of ended Hulu original programming'],
+    combineBy([current, ended]) {
+      const currentByCategory = _.keyBy(current, table => table.category.join('~'));
+      const endedByCategory = _.keyBy(ended.map(table => ({
+        ...table,
+        category: ['Original programming', ...table.category]
+      })), table => table.category.join('~'));
+
+      const allKeys = _.uniq([..._.keys(currentByCategory), ..._.keys(endedByCategory)]);
+
+      const ret = [];
+      for (const key of allKeys) {
+        ret.push({
+          category: key.split('~'),
+          data: _.orderBy([
+            ...(currentByCategory[key]?.data ?? []),
+            ...(endedByCategory[key]?.data ?? []),
+          ], item => moment(item.Premiere || item["Release date"]).unix()),
+        });
+      }
+      return ret;
+    },
     filter(data) {
       return data.filter(table => {
         if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film, ...TYPICAL_HEADERS.exclusive].includes(table.category[0]?.toLowerCase())) return false;

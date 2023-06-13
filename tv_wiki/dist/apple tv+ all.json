@@ -10,7 +10,7 @@
         "Genre": "Alternate history",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "46–82 min.",
+        "Runtime": "46–82 min",
         "Status": "Renewed"
       },
       {
@@ -18,7 +18,7 @@
         "Genre": "Drama",
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "50–66 min.",
+        "Runtime": "50–66 min",
         "Status": "Season 3 due to premiere in late 2023Renewed"
       },
       {
@@ -26,7 +26,7 @@
         "Genre": "Science fiction",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 24 episodes",
-        "Runtime": "42–62 min.",
+        "Runtime": "42–62 min",
         "Status": "Ended"
       },
       {
@@ -34,7 +34,7 @@
         "Genre": "Psychological horror",
         "Premiere": "November 28, 2019",
         "Seasons": "4 seasons, 40 episodes",
-        "Runtime": "24–36 min.",
+        "Runtime": "24–36 min",
         "Status": "Ended"
       },
       {
@@ -42,7 +42,7 @@
         "Genre": "Legal drama",
         "Premiere": "December 6, 2019",
         "Seasons": "3 seasons, 28 episodes",
-        "Runtime": "39–52 min.",
+        "Runtime": "39–52 min",
         "Status": "Ended"
       },
       {
@@ -50,7 +50,7 @@
         "Genre": "Science fiction anthology",
         "Premiere": "March 6, 2020",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "47–53 min.",
+        "Runtime": "47–53 min",
         "Status": "Ended"
       },
       {
@@ -58,7 +58,7 @@
         "Genre": "Mystery drama",
         "Premiere": "April 3, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "41–57 min.",
+        "Runtime": "41–57 min",
         "Status": "Ended"
       },
       {
@@ -66,7 +66,7 @@
         "Genre": "Legal drama",
         "Premiere": "April 24, 2020",
         "Seasons": "8 episodes",
-        "Runtime": "45–65 min.",
+        "Runtime": "45–65 min",
         "Status": "Miniseries"
       },
       {
@@ -74,7 +74,7 @@
         "Genre": "Musical drama",
         "Premiere": "July 10, 2020",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "25–34 min.",
+        "Runtime": "25–34 min",
         "Status": "Ended"
       },
       {
@@ -82,7 +82,7 @@
         "Genre": "Action thriller",
         "Premiere": "April 30, 2021",
         "Seasons": "2 seasons, 17 episodes",
-        "Runtime": "39–57 min.",
+        "Runtime": "39–57 min",
         "Status": "Ended"
       },
       {
@@ -90,7 +90,7 @@
         "Genre": "Romance horror",
         "Premiere": "June 4, 2021",
         "Seasons": "8 episodes",
-        "Runtime": "46–56 min.",
+        "Runtime": "46–56 min",
         "Status": "Miniseries"
       },
       {
@@ -98,15 +98,15 @@
         "Genre": "Science fiction",
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "45–69 min.",
-        "Status": "Season 2 due to premiere in mid-2023"
+        "Runtime": "45–69 min",
+        "Status": "Season 2 due to premiere on July 14, 2023"
       },
       {
         "Title": "Invasion",
         "Genre": "Science fiction",
         "Premiere": "October 22, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "33–58 min.",
+        "Runtime": "33–58 min",
         "Status": "Renewed"
       },
       {
@@ -114,15 +114,15 @@
         "Genre": "Sports drama",
         "Premiere": "October 29, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "45–59 min.",
-        "Status": "Season 2 due to premiere in June 2023"
+        "Runtime": "45–59 min",
+        "Status": "Season 2 due to premiere on June 23, 2023"
       },
       {
         "Title": "The Shrink Next Door",
         "Genre": "Psychological drama",
         "Premiere": "November 12, 2021",
         "Seasons": "8 episodes",
-        "Runtime": "35–49 min.",
+        "Runtime": "35–49 min",
         "Status": "Miniseries"
       },
       {
@@ -130,7 +130,7 @@
         "Genre": "Political thriller",
         "Premiere": "February 4, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–50 min.",
+        "Runtime": "44–50 min",
         "Status": "Ended"
       },
       {
@@ -138,7 +138,7 @@
         "Genre": "Science fiction thriller",
         "Premiere": "February 18, 2022",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "40–57 min.",
+        "Runtime": "40–57 min",
         "Status": "Renewed"
       },
       {
@@ -146,7 +146,7 @@
         "Genre": "Drama",
         "Premiere": "March 11, 2022",
         "Seasons": "6 episodes",
-        "Runtime": "49–57 min.",
+        "Runtime": "49–57 min",
         "Status": "Miniseries"
       },
       {
@@ -154,23 +154,15 @@
         "Genre": "Drama",
         "Premiere": "March 18, 2022",
         "Seasons": "8 episodes",
-        "Runtime": "48–61 min.",
+        "Runtime": "48–61 min",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Pachinko",
-        "Genre": "Period drama",
-        "Premiere": "March 25, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "47–63 min.",
-        "Status": "Renewed"
       },
       {
         "Title": "Slow Horses",
         "Genre": "Spy thriller",
         "Premiere": "April 1, 2022",
         "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "41–53 min.",
+        "Runtime": "41–53 min",
         "Status": "Renewed for seasons 3–4"
       },
       {
@@ -178,7 +170,7 @@
         "Genre": "Feminist drama anthology",
         "Premiere": "April 15, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "29–37 min.",
+        "Runtime": "29–37 min",
         "Status": "Ended"
       },
       {
@@ -186,7 +178,7 @@
         "Genre": "Supernatural thriller",
         "Premiere": "April 29, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "41–59 min.",
+        "Runtime": "41–59 min",
         "Status": "Pending"
       },
       {
@@ -194,7 +186,7 @@
         "Genre": "Period drama",
         "Premiere": "May 13, 2022",
         "Seasons": "6 episodes",
-        "Runtime": "42–50 min.",
+        "Runtime": "42–50 min",
         "Status": "Miniseries"
       },
       {
@@ -202,7 +194,7 @@
         "Genre": "True crime drama",
         "Premiere": "July 8, 2022",
         "Seasons": "6 episodes",
-        "Runtime": "54–60 min.",
+        "Runtime": "54–60 min",
         "Status": "Miniseries"
       },
       {
@@ -210,7 +202,7 @@
         "Genre": "Psychological thriller",
         "Premiere": "July 29, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–53 min.",
+        "Runtime": "43–53 min",
         "Status": "Renewed"
       },
       {
@@ -218,7 +210,7 @@
         "Genre": "Medical drama",
         "Premiere": "August 12, 2022",
         "Seasons": "8 episodes",
-        "Runtime": "39–54 min.",
+        "Runtime": "39–54 min",
         "Status": "Miniseries"
       },
       {
@@ -226,7 +218,7 @@
         "Genre": "Dark comedy thriller",
         "Premiere": "August 19, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "49–55 min.",
+        "Runtime": "49–55 min",
         "Status": "Renewed"
       },
       {
@@ -234,7 +226,7 @@
         "Genre": "Adventure drama",
         "Premiere": "October 14, 2022",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "44–60 min.",
+        "Runtime": "44–60 min",
         "Status": "Ended"
       },
       {
@@ -242,7 +234,7 @@
         "Genre": "Action thriller",
         "Premiere": "November 23, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "42–61 min.",
+        "Runtime": "42–61 min",
         "Status": "Pending"
       },
       {
@@ -250,7 +242,7 @@
         "Genre": "Drama",
         "Premiere": "February 3, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "45–54 min.",
+        "Runtime": "45–54 min",
         "Status": "Ended"
       },
       {
@@ -258,7 +250,7 @@
         "Genre": "Science fiction comedy drama",
         "Premiere": "February 17, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "31–33 min.",
+        "Runtime": "31–33 min",
         "Status": "Pending"
       },
       {
@@ -266,7 +258,7 @@
         "Genre": "Drama anthology",
         "Premiere": "March 17, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "45–58 min.",
+        "Runtime": "45–58 min",
         "Status": "Pending"
       },
       {
@@ -274,16 +266,32 @@
         "Genre": "Thriller",
         "Premiere": "April 14, 2023",
         "Seasons": "7 episodes",
-        "Runtime": "39–45 min.",
-        "Status": "Miniseries ongoing"
+        "Runtime": "39–45 min",
+        "Status": "Miniseries"
       },
       {
         "Title": "Silo",
-        "Genre": "Science fiction",
+        "Genre": "Dystopian science fiction",
         "Premiere": "May 5, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "47–59 min.",
+        "Runtime": "45–62 min",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "City on Fire",
+        "Genre": "Crime drama",
+        "Premiere": "May 12, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "46–58 min",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Crowded Room",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 9, 2023",
+        "Seasons": "10 episodes",
+        "Runtime": "42–56 min",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Awaiting release",
@@ -294,26 +302,18 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "City on Fire",
-        "Genre": "Crime drama",
-        "Premiere": "May 12, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Crowded Room",
-        "Genre": "Psychological thriller",
-        "Premiere": "June 9, 2023",
-        "Seasons": "10 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Hijack",
         "Genre": "Thriller",
         "Premiere": "June 28, 2023",
         "Seasons": "7 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Lessons in Chemistry",
+        "Genre": "Period drama",
+        "Premiere": "October 13, 2023",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Miniseries"
       }
@@ -330,7 +330,7 @@
         "Genre": "Period comedy",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "25–34 min.",
+        "Runtime": "25–34 min",
         "Status": "Ended"
       },
       {
@@ -338,7 +338,7 @@
         "Genre": "Comedy drama anthology",
         "Premiere": "January 17, 2020",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "29–36 min.",
+        "Runtime": "29–36 min",
         "Status": "Pending"
       },
       {
@@ -346,7 +346,7 @@
         "Genre": "Workplace comedy",
         "Premiere": "February 7, 2020",
         "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "24–37 min.",
+        "Runtime": "24–37 min",
         "Status": "Renewed"
       },
       {
@@ -354,7 +354,7 @@
         "Genre": "Comedy",
         "Premiere": "May 1, 2020",
         "Seasons": "3 seasons, 24 episodes",
-        "Runtime": "26–30 min.",
+        "Runtime": "26–30 min",
         "Status": "Renewed"
       },
       {
@@ -362,23 +362,23 @@
         "Genre": "Sports comedy",
         "Premiere": "August 14, 2020",
         "Seasons": "3 seasons, 34 episodes",
-        "Runtime": "29–49 min.",
-        "Status": "Season 3 ongoing"
+        "Runtime": "29–75 min",
+        "Status": "Pending"
       },
       {
         "Title": "Physical",
         "Genre": "Dark comedy",
         "Premiere": "June 18, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "27–34 min.",
-        "Status": "Renewed"
+        "Runtime": "27–34 min",
+        "Status": "Final season due to premiere on August 2, 2023"
       },
       {
         "Title": "Schmigadoon!",
         "Genre": "Musical comedy",
         "Premiere": "July 16, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "25–34 min.",
+        "Runtime": "25–34 min",
         "Status": "Pending"
       },
       {
@@ -386,7 +386,7 @@
         "Genre": "Comedy drama",
         "Premiere": "August 6, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "23–34 min.",
+        "Runtime": "23–34 min",
         "Status": "Ended"
       },
       {
@@ -394,7 +394,7 @@
         "Genre": "Comedy",
         "Premiere": "October 8, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "26–36 min.",
+        "Runtime": "26–36 min",
         "Status": "Renewed"
       },
       {
@@ -402,7 +402,7 @@
         "Genre": "Murder mystery comedy",
         "Premiere": "January 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "31–48 min.",
+        "Runtime": "31–48 min",
         "Status": "Season 2 due to premiere on July 12, 2023"
       },
       {
@@ -410,7 +410,7 @@
         "Genre": "Comedy",
         "Premiere": "June 24, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "23–33 min.",
+        "Runtime": "23–33 min",
         "Status": "Renewed"
       },
       {
@@ -418,7 +418,7 @@
         "Genre": "Comedy drama",
         "Premiere": "January 27, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "28–37 min.",
+        "Runtime": "28–37 min",
         "Status": "Renewed"
       },
       {
@@ -426,32 +426,24 @@
         "Genre": "Comedy",
         "Premiere": "March 29, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30–35 min.",
-        "Status": "Season 1 ongoingRenewed"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
+        "Runtime": "29–35 min",
+        "Status": "Renewed"
       },
       {
         "Title": "High Desert",
         "Genre": "Comedy",
         "Premiere": "May 17, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
+        "Runtime": "25–37 min",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Platonic",
         "Genre": "Comedy",
         "Premiere": "May 24, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
-        "Status": "Pending"
+        "Runtime": "27–32 min",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -466,7 +458,7 @@
         "Genre": "Family mystery",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 39 episodes",
-        "Runtime": "22–31 min.",
+        "Runtime": "22–31 min",
         "Status": "Pending"
       },
       {
@@ -474,7 +466,7 @@
         "Genre": "Educational/puppetry",
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 40 episodes",
-        "Runtime": "22–31 min.",
+        "Runtime": "22–31 min",
         "Status": "Pending"
       },
       {
@@ -482,7 +474,7 @@
         "Genre": "Puppetry",
         "Premiere": "April 21, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "5–8 min.",
+        "Runtime": "5–8 min",
         "Status": "Ended"
       },
       {
@@ -490,7 +482,7 @@
         "Genre": "Educational/puppetry",
         "Premiere": "April 24, 2020",
         "Seasons": "6 episodes",
-        "Runtime": "1–3 min.",
+        "Runtime": "1–3 min",
         "Status": "Miniseries"
       },
       {
@@ -498,7 +490,7 @@
         "Genre": "Family adventure",
         "Premiere": "October 15, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "19–26 min.",
+        "Runtime": "19–26 min",
         "Status": "Pending"
       },
       {
@@ -506,7 +498,7 @@
         "Genre": "Children's educational",
         "Premiere": "November 5, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "21–22 min.",
+        "Runtime": "21–22 min",
         "Status": "Pending"
       },
       {
@@ -514,7 +506,7 @@
         "Genre": "Children's puppetry",
         "Premiere": "January 21, 2022",
         "Seasons": "1 season, 14 episodes",
-        "Runtime": "25–29 min.",
+        "Runtime": "25–29 min",
         "Status": "Renewed"
       },
       {
@@ -522,15 +514,15 @@
         "Genre": "Live-action animated family comedy",
         "Premiere": "June 10, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "21–27 min.",
-        "Status": "Pending"
+        "Runtime": "21–27 min",
+        "Status": "Season 2 due to premiere on June 16, 2023"
       },
       {
         "Title": "Best Foot Forward",
         "Genre": "Family comedy",
         "Premiere": "July 22, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–26 min.",
+        "Runtime": "21–26 min",
         "Status": "Pending"
       },
       {
@@ -538,7 +530,7 @@
         "Genre": "Family comedy",
         "Premiere": "July 29, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–26 min.",
+        "Runtime": "21–26 min",
         "Status": "Ended"
       },
       {
@@ -546,7 +538,7 @@
         "Genre": "Family mystery drama",
         "Premiere": "August 19, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "22–25 min.",
+        "Runtime": "22–25 min",
         "Status": "Pending"
       },
       {
@@ -554,7 +546,7 @@
         "Genre": "Family drama",
         "Premiere": "September 2, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–27 min.",
+        "Runtime": "21–27 min",
         "Status": "Pending"
       },
       {
@@ -562,7 +554,7 @@
         "Genre": "Children's puppetry",
         "Premiere": "November 4, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "21–22 min.",
+        "Runtime": "21–22 min",
         "Status": "Pending"
       },
       {
@@ -570,7 +562,7 @@
         "Genre": "Science fiction anthology",
         "Premiere": "November 11, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "21–31 min.",
+        "Runtime": "21–31 min",
         "Status": "Pending"
       },
       {
@@ -578,7 +570,7 @@
         "Genre": "Live-action animated family drama",
         "Premiere": "April 14, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "22–26 min.",
+        "Runtime": "22–26 min",
         "Status": "Pending"
       }
     ]
@@ -595,7 +587,7 @@
         "Genre": "Musical sitcom",
         "Premiere": "May 29, 2020",
         "Seasons": "3 seasons, 39 episodes",
-        "Runtime": "21–31 min.",
+        "Runtime": "21–31 min",
         "Status": "Pending"
       }
     ]
@@ -612,7 +604,7 @@
         "Genre": "Adventure",
         "Premiere": "November 1, 2019",
         "Seasons": "2 seasons, 24 episodes",
-        "Runtime": "8 min.",
+        "Runtime": "8 min",
         "Status": "Ended"
       },
       {
@@ -620,23 +612,23 @@
         "Genre": "Adventure",
         "Premiere": "November 13, 2020",
         "Seasons": "2 season, 26 episodes",
-        "Runtime": "23 min.",
+        "Runtime": "23 min",
         "Status": "Ended"
       },
       {
         "Title": "Stillwater",
         "Genre": "Comedy",
         "Premiere": "December 4, 2020",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "23–25 min.",
-        "Status": "Season 3 due to premiere on May 19, 2023"
+        "Seasons": "3 seasons, 30 episodes",
+        "Runtime": "23–25 min",
+        "Status": "Pending"
       },
       {
         "Title": "The Snoopy Show",
         "Genre": "Comedy",
         "Premiere": "February 5, 2021",
-        "Seasons": "2 seasons, 26 episodes",
-        "Runtime": "22 min.",
+        "Seasons": "3 seasons, 38 episodes",
+        "Runtime": "22 min",
         "Status": "Pending"
       },
       {
@@ -644,7 +636,7 @@
         "Genre": "Fantasy",
         "Premiere": "September 24, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "24–27 min.",
+        "Runtime": "24–27 min",
         "Status": "Pending"
       },
       {
@@ -652,7 +644,7 @@
         "Genre": "Adventure",
         "Premiere": "October 8, 2021",
         "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "23 min.",
+        "Runtime": "23 min",
         "Status": "Pending"
       },
       {
@@ -660,7 +652,7 @@
         "Genre": "Mystery",
         "Premiere": "November 19, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "23–24 min.",
+        "Runtime": "23–24 min",
         "Status": "Pending"
       },
       {
@@ -668,7 +660,7 @@
         "Genre": "Family",
         "Premiere": "January 7, 2022",
         "Seasons": "3 episodes",
-        "Runtime": "24–28 min.",
+        "Runtime": "24–28 min",
         "Status": "Miniseries"
       },
       {
@@ -676,7 +668,7 @@
         "Genre": "Animation",
         "Premiere": "February 11, 2022",
         "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "23 min.",
+        "Runtime": "23 min",
         "Status": "Pending"
       },
       {
@@ -684,23 +676,23 @@
         "Genre": "Adventure",
         "Premiere": "April 8, 2022",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "23 min.",
+        "Runtime": "23 min",
         "Status": "Pending"
       },
       {
         "Title": "Duck &amp; Goose",
         "Genre": "Education",
         "Premiere": "July 8, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "23 min.",
-        "Status": "Pending"
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "23 min",
+        "Status": "Season 2 due to premiere on July 7, 2023"
       },
       {
         "Title": "Sago Mini Friends",
         "Genre": "Education",
         "Premiere": "September 16, 2022",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "23 min.",
+        "Runtime": "23 min",
         "Status": "Pending"
       },
       {
@@ -708,7 +700,7 @@
         "Genre": "Education",
         "Premiere": "November 18, 2022",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "23 min.",
+        "Runtime": "23–26 min",
         "Status": "Pending"
       },
       {
@@ -716,7 +708,7 @@
         "Genre": "Education",
         "Premiere": "January 20, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–24 min.",
+        "Runtime": "22–24 min",
         "Status": "Pending"
       },
       {
@@ -724,15 +716,15 @@
         "Genre": "Adventure",
         "Premiere": "March 31, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "23 min.",
-        "Status": "Pending"
+        "Runtime": "23 min",
+        "Status": "New episodes due to premiere on August 4, 2023"
       },
       {
         "Title": "Frog and Toad",
         "Genre": "Fantasy",
         "Premiere": "April 28, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–24 min.",
+        "Runtime": "22–24 min",
         "Status": "Pending"
       }
     ]
@@ -748,8 +740,17 @@
         "Genre": "Science fiction thriller",
         "Premiere": "November 3, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "49–68 min.",
+        "Runtime": "49–68 min",
         "Language": "Korean",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Pachinko",
+        "Genre": "Period drama",
+        "Premiere": "March 25, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47–63 min",
+        "Language": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}KoreanJapaneseEnglish",
         "Status": "Renewed"
       },
       {
@@ -757,8 +758,8 @@
         "Genre": "Thriller",
         "Premiere": "May 20, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "47–65 min.",
-        "Language": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}SpanishEnglish",
+        "Runtime": "47–65 min",
+        "Language": "SpanishEnglish",
         "Status": "Pending"
       },
       {
@@ -766,7 +767,7 @@
         "Genre": "Thriller",
         "Premiere": "February 24, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "50–56 min.",
+        "Runtime": "50–56 min",
         "Language": "FrenchEnglish",
         "Status": "Pending"
       }
@@ -781,203 +782,203 @@
     "data": [
       {
         "Title": "Visible: Out on Television",
-        "Genre": "Docuseries",
+        "Subject": "LGBT culture/Television",
         "Premiere": "February 14, 2020",
         "Seasons": "5 episodes",
-        "Runtime": "50–72 min.",
+        "Runtime": "50–72 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Home",
-        "Genre": "Docuseries",
+        "Subject": "Architecture",
         "Premiere": "April 17, 2020",
         "Seasons": "2 season, 19 episodes",
-        "Runtime": "27–39 min.",
+        "Runtime": "27–39 min",
         "Status": "Pending"
       },
       {
         "Title": "Dear...",
-        "Genre": "Docuseries",
+        "Subject": "Celebrity",
         "Premiere": "June 5, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "23–38 min.",
+        "Runtime": "23–38 min",
         "Status": "Pending"
       },
       {
         "Title": "Greatness Code",
-        "Genre": "Docuseries",
+        "Subject": "Sports",
         "Premiere": "July 10, 2020",
         "Seasons": "2 seasons, 13 episodes",
-        "Runtime": "5–11 min.",
-        "Status": "Pending"
+        "Runtime": "5–11 min",
+        "Status": "Ended"
       },
       {
         "Title": "Long Way Up",
-        "Genre": "Travel show",
+        "Subject": "Travel",
         "Premiere": "September 18, 2020",
         "Seasons": "11 episodes",
-        "Runtime": "43–52 min.",
+        "Runtime": "43–52 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Tiny World",
-        "Genre": "Nature docuseries",
+        "Subject": "Nature",
         "Premiere": "October 2, 2020",
         "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "25–32 min.",
+        "Runtime": "25–32 min",
         "Status": "Ended"
       },
       {
         "Title": "Becoming You",
-        "Genre": "Docuseries",
+        "Subject": "Developmental psychology",
         "Premiere": "November 13, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "39–43 min.",
+        "Runtime": "39–43 min",
         "Status": "Ended"
       },
       {
         "Title": "Earth at Night in Color",
-        "Genre": "Nature docuseries",
+        "Subject": "Nature",
         "Premiere": "December 4, 2020",
         "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "27–29 min.",
+        "Runtime": "27–29 min",
         "Status": "Ended"
       },
       {
         "Title": "1971: The Year That Music Changed Everything",
-        "Genre": "Docuseries",
+        "Subject": "Music",
         "Premiere": "May 21, 2021",
         "Seasons": "8 episodes",
-        "Runtime": "42–49 min.",
+        "Runtime": "42–49 min",
         "Status": "Miniseries"
       },
       {
         "Title": "The Me You Can't See",
-        "Genre": "Docuseries",
+        "Subject": "Mental health",
         "Premiere": "May 21, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "46–91 min.",
+        "Runtime": "46–91 min",
         "Status": "Ended"
       },
       {
         "Title": "Watch the Sound with Mark Ronson",
-        "Genre": "Music docuseries",
+        "Subject": "Music",
         "Premiere": "July 30, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "33–36 min.",
+        "Runtime": "33–36 min",
         "Status": "Ended"
       },
       {
         "Title": "The Line",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "November 19, 2021",
         "Seasons": "4 episodes",
-        "Runtime": "53–58 min.",
+        "Runtime": "53–58 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Lincoln's Dilemma",
-        "Genre": "Biographical docuseries",
+        "Subject": "Biography",
         "Premiere": "February 18, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "52–58 min.",
+        "Runtime": "52–58 min",
         "Status": "Miniseries"
       },
       {
         "Title": "The Long Game: Bigger Than Basketball",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "April 22, 2022",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "48–53 min.",
-        "Status": "Pending"
+        "Runtime": "48–53 min",
+        "Status": "Ended"
       },
       {
         "Title": "They Call Me Magic",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "April 22, 2022",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "56–61 min.",
-        "Status": "Pending"
+        "Runtime": "56–61 min",
+        "Status": "Ended"
       },
       {
         "Title": "Make or Break",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "April 29, 2022",
         "Seasons": "2 seasons, 15 episodes",
-        "Runtime": "33–49 min.",
+        "Runtime": "33–49 min",
         "Status": "Pending"
       },
       {
         "Title": "The Big Conn",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "May 6, 2022",
         "Seasons": "4 episodes",
-        "Runtime": "54–59 min.",
+        "Runtime": "54–59 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Prehistoric Planet",
-        "Genre": "Natural history",
+        "Subject": "Natural history",
         "Premiere": "May 23, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "39–42 min.",
-        "Status": "Season 2 due to premiere on May 22, 2023"
+        "Seasons": "2 seasons, 10 episodes",
+        "Runtime": "37–46 min",
+        "Status": "Pending"
       },
       {
         "Title": "Gutsy",
-        "Genre": "Docuseries",
+        "Subject": "Social justice/Culture",
         "Premiere": "September 9, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "38–42 min.",
+        "Runtime": "38–42 min",
         "Status": "Pending"
       },
       {
         "Title": "Super League: The War for Football",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "January 13, 2023",
         "Seasons": "4 episodes",
-        "Runtime": "53–59 min.",
+        "Runtime": "53–59 min",
         "Status": "Miniseries"
       },
       {
         "Title": "The Reluctant Traveler",
-        "Genre": "Travel show",
+        "Subject": "Travel",
         "Premiere": "February 24, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "33–38 min.",
+        "Runtime": "33–38 min",
         "Status": "Renewed"
       },
       {
         "Title": "Real Madrid: Until the End",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "March 10, 2023",
         "Seasons": "3 episodes",
-        "Runtime": "47–60 min.",
+        "Runtime": "47–60 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Monster Factory",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "March 17, 2023",
         "Seasons": "6 episodes",
-        "Runtime": "29–36 min.",
+        "Runtime": "29–36 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Boom! Boom! The World Vs Boris Becker",
-        "Genre": "Sports/True crime",
+        "Subject": "Sports/True crime",
         "Premiere": "April 7, 2023",
         "Seasons": "2 episodes",
-        "Runtime": "67–113 min.",
+        "Runtime": "67–113 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Big Beasts",
-        "Genre": "Nature docuseries",
+        "Subject": "Natural history",
         "Premiere": "April 21, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "28–29 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "28–29 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -993,7 +994,7 @@
         "Genre": "Reality competition",
         "Premiere": "March 24, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "41–45 min.",
+        "Runtime": "41–45 min",
         "Status": "Pending"
       }
     ]
@@ -1009,14 +1010,14 @@
         "Title": "Countdown to First Pitch",
         "Genre": "Sports broadcast",
         "Premiere": "April 7, 2022",
-        "Runtime": "15–45 min.",
+        "Runtime": "15–45 min",
         "Status": "Pending"
       },
       {
         "Title": "MLB Daily Recap",
         "Genre": "Sports broadcast",
         "Premiere": "April 7, 2022",
-        "Runtime": "30–45 min.",
+        "Runtime": "30–45 min",
         "Status": "Pending"
       },
       {
@@ -1040,7 +1041,7 @@
         "Genre": "Book club",
         "Premiere": "November 1, 2019",
         "Seasons": "1 season, 14 episodes",
-        "Runtime": "8–66 min.",
+        "Runtime": "8–66 min",
         "Status": "Ended"
       },
       {
@@ -1048,7 +1049,7 @@
         "Genre": "Interview",
         "Premiere": "March 21, 2020",
         "Seasons": "1 season, 13 episodes",
-        "Runtime": "15–45 min.",
+        "Runtime": "15–45 min",
         "Status": "Ended"
       },
       {
@@ -1056,7 +1057,7 @@
         "Genre": "Talk show",
         "Premiere": "July 30, 2020",
         "Seasons": "1 season, 15 episodes",
-        "Runtime": "32–79 min.",
+        "Runtime": "32–79 min",
         "Status": "Ended"
       },
       {
@@ -1064,7 +1065,7 @@
         "Genre": "News/talk show",
         "Premiere": "September 30, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "41–57 min.",
+        "Runtime": "41–57 min",
         "Status": "Pending"
       }
     ]
@@ -1081,7 +1082,7 @@
         "Partner": "Kan 11",
         "Premiere": "September 25, 2020",
         "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "37–51 min.",
+        "Runtime": "37–51 min",
         "Language": "HebrewPersianEnglish",
         "Status": "Renewed"
       },
@@ -1091,7 +1092,7 @@
         "Partner": "Hot",
         "Premiere": "January 22, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–55 min.",
+        "Runtime": "42–55 min",
         "Language": "Hebrew",
         "Status": "Ended"
       },
@@ -1101,7 +1102,7 @@
         "Partner": "Canal+",
         "Premiere": "March 19, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Runtime": "13–20 min.",
+        "Runtime": "13–20 min",
         "Language": "English",
         "Status": "Ended"
       },
@@ -1111,9 +1112,9 @@
         "Partner": "France TelevisionHulu Japan",
         "Premiere": "April 21, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "52–57 min.",
+        "Runtime": "49–58 min",
         "Language": "EnglishFrenchJapanese",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1129,17 +1130,8 @@
         "Prev. network(s)": "Apple Music/Apple TV",
         "Premiere": "May 27, 2022",
         "Seasons": "1 season, 14 episodes",
-        "Runtime": "12–23 min.",
+        "Runtime": "12–23 min",
         "Status": "Season 6 due to premiere on June 23, 2023"
-      },
-      {
-        "Title": "Apple Music Live (season 2)",
-        "Genre": "Concert",
-        "Prev. network(s)": "Apple Music/Apple TV",
-        "Premiere": "May 10, 2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Season 2 due to premiere on May 10, 2023"
       }
     ]
   },
@@ -1153,25 +1145,37 @@
         "Title": "Snoopy Presents: For Auld Lang Syne",
         "Genre": "Animation",
         "Release": "December 10, 2021",
-        "Runtime": "38 min."
+        "Runtime": "38 min"
       },
       {
         "Title": "Snoopy Presents: It's The Small Things, Charlie Brown",
         "Genre": "Animation",
         "Release": "April 15, 2022",
-        "Runtime": "38 min."
+        "Runtime": "38 min"
       },
       {
         "Title": "Snoopy Presents: To Mom (and Dad), With Love",
         "Genre": "Animation",
         "Release": "May 6, 2022",
-        "Runtime": "38 min."
+        "Runtime": "38 min"
       },
       {
         "Title": "Snoopy Presents: Lucy's School",
         "Genre": "Animation",
         "Release": "August 12, 2022",
-        "Runtime": "38 min."
+        "Runtime": "38 min"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Release": "Awaiting release",
+        "Runtime": "Awaiting release"
+      },
+      {
+        "Title": "Snoopy Presents: One-of-a-Kind Marcie",
+        "Genre": "Animation",
+        "Release": "August 18, 2023",
+        "Runtime": "TBA"
       }
     ]
   },
@@ -1182,18 +1186,18 @@
     ],
     "data": [
       {
-        "Title": "Masters of the Air",
-        "Genre": "War drama miniseries",
-        "Premiere": "Early 2023",
-        "Seasons": "9 episodes",
+        "Title": "Manhunt",
+        "Genre": "Political drama miniseries",
+        "Premiere": "August 2023",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Post-production"
       },
       {
-        "Title": "Lessons in Chemistry",
-        "Genre": "Drama",
-        "Premiere": "Late 2023",
-        "Seasons": "TBA",
+        "Title": "Masters of the Air",
+        "Genre": "War drama miniseries",
+        "Premiere": "Mid-2023",
+        "Seasons": "9 episodes",
         "Runtime": "TBA",
         "Status": "Post-production"
       },
@@ -1210,6 +1214,14 @@
         "Genre": "Horror fantasy",
         "Premiere": "2023",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Sugar",
+        "Genre": "Science fiction drama",
+        "Premiere": "2023",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Post-production"
       },
@@ -1242,7 +1254,7 @@
         "Genre": "Crime thriller",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "60 min.",
+        "Runtime": "60 min",
         "Status": "Post-production"
       },
       {
@@ -1278,24 +1290,8 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Manhunt",
-        "Genre": "Political drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
         "Title": "The New Look",
         "Genre": "Epic historical drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Sugar",
-        "Genre": "Science fiction drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1424,7 +1420,7 @@
       {
         "Title": "Palm Royale",
         "Genre": "Period comedy miniseries",
-        "Premiere": "TBA",
+        "Premiere": "2023",
         "Seasons": "10 episodes",
         "Runtime": "TBA",
         "Status": "Post-production"
@@ -1450,7 +1446,7 @@
         "Genre": "Dark comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Status": "Post-production"
       },
       {
@@ -1458,7 +1454,7 @@
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Runtime": "30 min.",
+        "Runtime": "30 min",
         "Status": "Series order"
       },
       {
@@ -1511,6 +1507,13 @@
     ],
     "data": [
       {
+        "Title": "Camp Snoopy",
+        "Genre": "Animation",
+        "Premiere": "2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Be@rbrick",
         "Genre": "CG animation",
         "Premiere": "TBA",
@@ -1529,7 +1532,7 @@
         "Genre": "Animation",
         "Premiere": "TBA",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "30 min."
+        "Runtime": "30 min"
       }
     ]
   },
@@ -1540,11 +1543,19 @@
     ],
     "data": [
       {
+        "Title": "Carême",
+        "Genre": "Period drama",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Language": "French"
+      },
+      {
         "Title": "Las Azules",
         "Genre": "Crime drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "60 min.",
+        "Runtime": "60 min",
         "Language": "Spanish"
       },
       {
@@ -1566,56 +1577,63 @@
     "data": [
       {
         "Title": "The Dynasty",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "TBA",
         "Seasons": "10 episodes",
         "Runtime": "TBA"
       },
       {
         "Title": "Earthsound",
-        "Genre": "Natural history",
+        "Subject": "Natural history",
         "Premiere": "TBA",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "30 min."
+        "Runtime": "30 min"
       },
       {
         "Title": "The Jet",
-        "Genre": "True crime miniseries",
+        "Subject": "True crime miniseries",
         "Premiere": "TBA",
         "Seasons": "4 episodes",
         "Runtime": "TBA"
       },
       {
         "Title": "Omnivore",
-        "Genre": "Travel",
+        "Subject": "Travel",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "60 min."
+        "Runtime": "60 min"
       },
       {
         "Title": "The Supermodels",
-        "Genre": "Fashion",
+        "Subject": "Fashion",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA"
       },
       {
         "Title": "Untitled Carlos Ghosn docuseries",
-        "Genre": "Docuseries",
+        "Subject": "Business/True crime",
         "Premiere": "TBA",
         "Seasons": "4 episodes",
         "Runtime": "TBA"
       },
       {
         "Title": "Untitled K-pop docuseries",
-        "Genre": "Docuseries",
+        "Subject": "Music",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Runtime": "TBA"
       },
       {
+        "Title": "Untitled Lionel Messi docuseries",
+        "Subject": "Sports",
+        "Premiere": "TBA",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA"
+      },
+      {
         "Title": "Untitled Oprah Winfrey biographical docuseries",
-        "Genre": "Biographical docuseries",
+        "Subject": "Biography",
         "Premiere": "TBA",
         "Seasons": "2 episodes",
         "Runtime": "TBA"
@@ -1641,13 +1659,23 @@
   {
     "category": [
       "Upcoming original programming",
-      "In development"
+      "Specials"
     ],
     "data": [
       {
-        "Title": "The Custom of the Country",
-        "Genre": "Drama miniseries"
-      },
+        "Title": "Snoopy Presents: Welcome Home, Franklin",
+        "Genre": "Animation",
+        "Release": "2024",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "In development"
+    ],
+    "data": [
       {
         "Title": "Everything I Never Told You",
         "Genre": "Drama miniseries"
@@ -1669,10 +1697,6 @@
         "Genre": "Period drama"
       },
       {
-        "Title": "Hedy Lamarr",
-        "Genre": "Biopic miniseries"
-      },
-      {
         "Title": "Lazarus",
         "Genre": "Drama"
       },
@@ -1687,6 +1711,14 @@
       {
         "Title": "Raising Wild",
         "Genre": "Psychological thriller"
+      },
+      {
+        "Title": "Small Mercies",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Untitled The Eternal Champion series",
+        "Genre": "Science fiction"
       },
       {
         "Title": "Untitled Justin Timberlake series",
@@ -1709,7 +1741,7 @@
         "Genre": "Crime drama"
       },
       {
-        "Title": "Untitled Young Lords project",
+        "Title": "Untitled Young Lords series",
         "Genre": "Drama"
       },
       {

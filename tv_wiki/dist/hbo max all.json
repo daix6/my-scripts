@@ -74,8 +74,24 @@
         "Genre": "True crime drama",
         "Premiere": "April 27, 2023",
         "Seasons": "7 episodes",
-        "Runtime": "51–58 min.",
-        "Status": "Miniseries ongoing"
+        "Runtime": "45–58 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Full Circle",
+        "Genre": "Mystery",
+        "Premiere": "July 13, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -99,7 +115,7 @@
         "Premiere": "November 26, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "37–48 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Generation",
@@ -123,7 +139,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "19–23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Hacks",
@@ -147,7 +163,7 @@
         "Premiere": "December 9, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "34–43 min.",
-        "Status": "Season 2 due to premiere in June 2023"
+        "Status": "Season 2 due to premiere on June 22, 2023"
       },
       {
         "Title": "Peacemaker",
@@ -259,8 +275,8 @@
         "Genre": "Sitcom",
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–26 min",
-        "Status": "Renewed"
+        "Runtime": "24–26 min.",
+        "Status": "Season 2 due to premiere on June 29, 2023"
       },
       {
         "Title": "Santa Inc.",
@@ -283,24 +299,8 @@
         "Genre": "Science fiction workplace comedy",
         "Premiere": "April 20, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "23–27 min.",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "Clone High",
-        "Genre": "Satirical science fiction sitcom",
-        "Premiere": "May 23, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Renewed"
+        "Runtime": "23–31 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -392,20 +392,12 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Gremlins: Secrets of the Mogwai",
         "Genre": "Fantasy comedy",
         "Premiere": "May 23, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "22 min.",
-        "Status": "Renewed"
+        "Runtime": "23–24 min.",
+        "Status": "Season 1 ongoingRenewed"
       }
     ]
   },
@@ -427,7 +419,7 @@
       {
         "Title": "Dafne and the Rest",
         "Genre": "Comedy drama",
-        "Premiere": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}October 26, 2021December 10, 2021&#91;e&#93;",
+        "Premiere": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}October 26, 2021December 10, 2021&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Language": "Spanish",
@@ -512,7 +504,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "49–54 min.",
         "Language": "Polish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Headless Chickens",
@@ -524,22 +516,22 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Spy/Master",
         "Genre": "Spy drama",
         "Premiere": "May 19, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "50 min.",
+        "Runtime": "45–51 min.",
         "Language": "Romanian",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "VGLY",
+        "Genre": "Coming-of-age drama",
+        "Premiere": "May 25, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "29–34 min.",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -776,20 +768,20 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Subject": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
+        "Title": "How to Create a Sex Scandal",
+        "Subject": "Sex scandal",
+        "Premiere": "May 23, 2023",
+        "Seasons": "3 episodes",
+        "Runtime": "45 min.",
+        "Language": "English",
+        "Status": "Miniseries"
       },
       {
         "Title": "SmartLess: On the Road",
         "Subject": "Comedy",
         "Premiere": "May 23, 2023",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "42–51 min.",
         "Language": "English",
         "Status": "Miniseries"
       },
@@ -798,9 +790,36 @@
         "Subject": "Food",
         "Premiere": "May 23, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "24–27 min.",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "100 Years of Warner Bros.",
+        "Subject": "Entertainment industry",
+        "Premiere": "May 25, 2023",
+        "Seasons": "4 episodes",
+        "Runtime": "53–60 min.",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Naked.Loud.Proud",
+        "Subject": "Drag/Burlesque",
+        "Premiere": "June 1, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "31–40 min.",
+        "Language": "Polish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "First Five",
+        "Subject": "Politics",
+        "Premiere": "June 9, 2023",
+        "Seasons": "3 episodes",
+        "Runtime": "34–41 min.",
+        "Language": "Finnish",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -967,7 +986,7 @@
       {
         "Title": "The Cut",
         "Genre": "Reality competition",
-        "Premiere": "November 25, 2021January 27, 2022&#91;e&#93;",
+        "Premiere": "November 25, 2021January 27, 2022&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–49 min.",
         "Language": "Portuguese",
@@ -976,7 +995,7 @@
       {
         "Title": "40 Means Nothing",
         "Genre": "Reality",
-        "Premiere": "December 2, 2021February 3, 2022&#91;e&#93;",
+        "Premiere": "December 2, 2021February 3, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "33–51 min.",
         "Language": "Spanish",
@@ -1012,7 +1031,7 @@
       {
         "Title": "Queen Stars",
         "Genre": "Reality competition",
-        "Premiere": "March 22, 2022April 7, 2022&#91;e&#93;",
+        "Premiere": "March 22, 2022April 7, 2022&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "45–50 min.",
         "Language": "Portuguese",
@@ -1053,6 +1072,33 @@
         "Runtime": "38–51 min.",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Swiping America",
+        "Genre": "Dating show",
+        "Premiere": "June 15, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Downey's Dream Cars",
+        "Genre": "Reality",
+        "Premiere": "June 22, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -1075,7 +1121,7 @@
       {
         "Title": "Astral Journey",
         "Genre": "Talk show",
-        "Premiere": "December 21, 2021January 20, 2022&#91;e&#93;",
+        "Premiere": "December 21, 2021January 20, 2022&#91;d&#93;",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "36–41 min.",
         "Language": "Portuguese",
@@ -1204,9 +1250,9 @@
         "Partner/Country": "RTL+/Germany",
         "Premiere": "May 8, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–44 min.",
+        "Runtime": "43–51 min.",
         "Language": "German",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1276,8 +1322,8 @@
         "Prev. network(s)": "DC Universe",
         "Premiere": "August 12, 2021",
         "Seasons": "2 seasons, 25 episodes",
-        "Runtime": "40–55 min.",
-        "Status": "Final season ongoing"
+        "Runtime": "40–56 min.",
+        "Status": "Ended"
       },
       {
         "Title": "The Other Two (seasons 2–3)",
@@ -1285,7 +1331,7 @@
         "Prev. network(s)": "Comedy Central",
         "Premiere": "August 26, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "25–27 min.",
+        "Runtime": "25–35 min.",
         "Status": "Season 3 ongoing"
       },
       {
@@ -1294,7 +1340,7 @@
         "Prev. network(s)": "Boomerang",
         "Premiere": "October 1, 2021",
         "Seasons": "1 season, 11 episodes",
-        "Runtime": "22 min",
+        "Runtime": "22 min.",
         "Status": "Ended"
       },
       {
@@ -1328,7 +1374,7 @@
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 5, 2021December 23, 2021&#91;e&#93;",
+        "Premiere": "December 5, 2021December 23, 2021&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Ended"
@@ -1352,13 +1398,13 @@
         "Status": "Ended"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Prev. network(s)": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
+        "Title": "Clone High (season 2)",
+        "Genre": "Satirical science fiction sitcom",
+        "Prev. network(s)": "MTV",
+        "Premiere": "May 23, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "25–27 min.",
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "Kendra Sells Hollywood (season 2)",
@@ -1366,8 +1412,17 @@
         "Prev. network(s)": "Discovery+",
         "Premiere": "May 26, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "24–29 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Prev. network(s)": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
       },
       {
         "Title": "Warrior (season 3)",
@@ -1463,7 +1518,7 @@
       {
         "Title": "The Missing",
         "Genre": "Crime drama",
-        "Premiere": "July 22, 2021October 14, 2021&#91;e&#93;",
+        "Premiere": "July 22, 2021October 14, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45 min.",
         "Exclusive region(s)": "Americas",
@@ -1473,7 +1528,7 @@
       {
         "Title": "Love Spells (Amarres)",
         "Genre": "Romantic comedy drama",
-        "Premiere": "August 12, 2021October 14, 2021&#91;e&#93;",
+        "Premiere": "August 12, 2021October 14, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44–51 min.",
         "Exclusive region(s)": "Americas",
@@ -1483,12 +1538,12 @@
       {
         "Title": "Rap Battlefield",
         "Genre": "Coming-of-age music drama",
-        "Premiere": "September 16, 2021November 4, 2021&#91;e&#93;",
+        "Premiere": "September 16, 2021November 4, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "39–52 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Status": "Season 2 due to premiere on June 15, 2023"
       },
       {
         "Title": "Before I Forget (Asesino del Olvido)",
@@ -1503,7 +1558,7 @@
       {
         "Title": "A Thousand Fangs",
         "Genre": "Military action drama",
-        "Premiere": "October 28, 2021December 9, 2021&#91;e&#93;",
+        "Premiere": "October 28, 2021December 9, 2021&#91;d&#93;",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "44–54 min.",
         "Exclusive region(s)": "Americas",
@@ -1523,7 +1578,7 @@
       {
         "Title": "Juanpa + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;e&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
         "Exclusive region(s)": "Americas",
@@ -1533,7 +1588,7 @@
       {
         "Title": "Sandy + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;e&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
         "Exclusive region(s)": "Americas",
@@ -1553,7 +1608,7 @@
       {
         "Title": "Búnker",
         "Genre": "Action comedy",
-        "Premiere": "December 23, 2021January 27, 2022&#91;e&#93;",
+        "Premiere": "December 23, 2021January 27, 2022&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Exclusive region(s)": "Americas",
@@ -1625,14 +1680,6 @@
     ],
     "data": [
       {
-        "Title": "Full Circle",
-        "Genre": "Mystery miniseries",
-        "Premiere": "2023",
-        "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
         "Title": "The Penguin",
         "Genre": "Superhero crime drama miniseries",
         "Premiere": "2024",
@@ -1662,6 +1709,14 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min.",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Welcome to Derry",
+        "Genre": "Supernatural horror",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -1697,14 +1752,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Uninhabitable Earth",
-        "Genre": "Realistic anthology drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Untitled Harry Potter series",
         "Genre": "Fantasy drama",
         "Premiere": "TBA",
@@ -1715,14 +1762,6 @@
       {
         "Title": "Waller",
         "Genre": "Superhero drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Welcome to Derry",
-        "Genre": "Supernatural horror",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1757,8 +1796,8 @@
         "Title": "Scavengers Reign",
         "Genre": "Science fiction drama",
         "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "24 min.",
         "Status": "Series order"
       },
       {
@@ -1767,7 +1806,7 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "In production"
       },
       {
         "Title": "Noonan's",
@@ -1811,6 +1850,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Mermicorno: Starfall",
+        "Genre": "Fantasy",
+        "Premiere": "2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Jade Armor",
         "Genre": "Comedy",
         "Premiere": "TBA",
@@ -1836,6 +1883,14 @@
       },
       {
         "Title": "Bea's Block",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Hop",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1921,15 +1976,6 @@
     ],
     "data": [
       {
-        "Title": "Warner Bros. 100 Years",
-        "Genre": "Docuseries",
-        "Premiere": "2023",
-        "Seasons": "3 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
-        "Status": "Series order"
-      },
-      {
         "Title": "Lost Women of Highway 20",
         "Genre": "True crime",
         "Premiere": "2023",
@@ -1939,17 +1985,17 @@
         "Status": "Series order"
       },
       {
-        "Title": "Amy Learns To...",
-        "Genre": "Docuseries",
+        "Title": "Conan O'Brien Must Go",
+        "Genre": "Travel",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 4 episodes",
         "Runtime": "TBA",
         "Language": "English",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Breath of Fire",
-        "Genre": "Docuseries",
+        "Genre": "Biography",
         "Premiere": "TBA",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "TBA",
@@ -1967,7 +2013,7 @@
       },
       {
         "Title": "Untitled DC Comics docuseries",
-        "Genre": "Docuseries",
+        "Genre": "Comic book industry",
         "Premiere": "TBA",
         "Seasons": "3 episodes",
         "Runtime": "TBA",
@@ -1993,18 +2039,18 @@
         "Status": "Series order"
       },
       {
-        "Title": "Barbie Dream House Challenge",
-        "Genre": "Reality competition",
-        "Premiere": "Mid-2023",
+        "Title": "Love &amp; Translation",
+        "Genre": "Dating show",
+        "Premiere": "Late 2023",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Series order"
       },
       {
-        "Title": "Love &amp; Translation",
-        "Genre": "Dating show",
-        "Premiere": "Late 2023",
+        "Title": "Amy Learns To...",
+        "Genre": "Reality",
+        "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "English",
@@ -2020,39 +2066,12 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Greatest Space",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "60 min.",
-        "Language": "English",
-        "Status": "Series order"
-      },
-      {
         "Title": "Untitled Spanish adaptation of The Traitors",
         "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "Spanish",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Unscripted",
-      "Variety"
-    ],
-    "data": [
-      {
-        "Title": "Untitled Conan O'Brien weekly variety show",
-        "Genre": "Variety",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "English",
         "Status": "Series order"
       }
     ]
@@ -2240,10 +2259,6 @@
         "Genre": "Adult animated comedy"
       },
       {
-        "Title": "Here She Lies",
-        "Genre": "Dark comedy"
-      },
-      {
         "Title": "Hot Robot",
         "Genre": "Comedy"
       },
@@ -2338,10 +2353,6 @@
       {
         "Title": "Public Figures",
         "Genre": "Comedy drama"
-      },
-      {
-        "Title": "Rashomon",
-        "Genre": "Psychological thriller"
       },
       {
         "Title": "Rip Crew",
@@ -2444,6 +2455,10 @@
         "Genre": "Drama"
       },
       {
+        "Title": "Untitled Rashomon-inspired series",
+        "Genre": "Psychological thriller"
+      },
+      {
         "Title": "Untitled Shawtane Bowen &amp; Jerah Milligan comedy",
         "Genre": "Mystery comedy"
       },
@@ -2482,10 +2497,6 @@
       {
         "Title": "You Brought Me the Ocean",
         "Genre": "Comedy drama"
-      },
-      {
-        "Title": "Young People",
-        "Genre": "Comedy"
       }
     ]
   }

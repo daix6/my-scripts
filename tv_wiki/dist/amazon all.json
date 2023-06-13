@@ -87,7 +87,7 @@
         "Genre": "Political thriller",
         "Premiere": "August 31, 2018",
         "Seasons": "3 seasons, 24 episodes",
-        "Status": "Renewed for final season"
+        "Status": "Final season due to premiere on June 30, 2023"
       },
       {
         "Title": "The Romanoffs",
@@ -199,7 +199,7 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed for seasons 2–3"
+        "Status": "Season 2 due to premiere on September 1, 2023Renewed"
       },
       {
         "Title": "Reacher",
@@ -293,7 +293,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Daisy Jones &amp; The Six",
+        "Title": "Daisy Jones &amp; the Six",
         "Genre": "Musical drama",
         "Premiere": "March 3, 2023",
         "Seasons": "10 episodes",
@@ -311,7 +311,7 @@
         "Genre": "Drama",
         "Premiere": "March 31, 2023",
         "Seasons": "1 season, 9 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Dead Ringers",
@@ -325,7 +325,7 @@
         "Genre": "Spy thriller",
         "Premiere": "April 28, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Awaiting release",
@@ -340,6 +340,13 @@
         "Premiere": "July 7, 2023",
         "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Lost Flowers of Alice Hart",
+        "Genre": "Drama",
+        "Premiere": "August 4, 2023",
+        "Seasons": "7 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -466,7 +473,7 @@
         "Genre": "Comedy drama",
         "Premiere": "November 29, 2017",
         "Seasons": "5 seasons, 43 episodes",
-        "Status": "Final season ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "The Dangerous Book for Boys",
@@ -549,8 +556,8 @@
         "Title": "With Love",
         "Genre": "Romantic comedy",
         "Premiere": "December 17, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Status": "Season 2 due to premiere on June 2, 2023"
+        "Seasons": "2 seasons, 11 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "As We See It",
@@ -563,8 +570,8 @@
         "Title": "The Lake",
         "Genre": "Comedy",
         "Premiere": "June 17, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "A League of Their Own",
@@ -588,18 +595,18 @@
         "Status": "Pending"
       },
       {
+        "Title": "Deadloch",
+        "Genre": "Comedy",
+        "Premiere": "June 2, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Season 1 ongoing"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
         "Seasons": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "Deadloch",
-        "Genre": "Comedy",
-        "Premiere": "June 2, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
       },
       {
         "Title": "I'm a Virgo",
@@ -622,7 +629,7 @@
         "Genre": "Psychological comedy drama",
         "Premiere": "September 13, 2019",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Invincible",
@@ -636,7 +643,7 @@
         "Genre": "Comedy",
         "Premiere": "October 29, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Legend of Vox Machina",
@@ -899,16 +906,9 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "Hohlbeins' – The Gryphon",
+        "Title": "The Gryphon",
         "Genre": "Fantasy drama",
-        "Premiere": "May 26, 2023",
+        "Premiere": "May 25, 2023",
         "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
@@ -1104,6 +1104,13 @@
         "Status": "Pending"
       },
       {
+        "Title": "Modern Love Mumbai",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "May 13, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Crash Course",
         "Genre": "Sports teen drama",
         "Premiere": "August 4, 2022",
@@ -1130,13 +1137,6 @@
         "Premiere": "April 7, 2023",
         "Seasons": "1 season, 10 episodes",
         "Status": "Pending"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Status": "Awaiting release"
       },
       {
         "Title": "Dahaad",
@@ -1630,6 +1630,13 @@
         "Premiere": "January 27, 2023",
         "Seasons": "1 season, 5 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Modern Love Chennai",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "May 18, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1691,7 +1698,7 @@
     "data": [
       {
         "Title": "The New Yorker Presents",
-        "Genre": "Docuseries",
+        "Subject": "Investigative journalism",
         "Premiere": "February 16, 2016",
         "Seasons": "1 season, 11 episodes",
         "Language": "English",
@@ -1699,7 +1706,7 @@
       },
       {
         "Title": "Invisible Tokyo",
-        "Genre": "Docuseries",
+        "Subject": "Culture",
         "Premiere": "July 15, 2016",
         "Seasons": "1 season, 8 episodes",
         "Language": "Japanese",
@@ -1707,7 +1714,7 @@
       },
       {
         "Title": "All or Nothing",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "July 1, 2016",
         "Seasons": "5 seasons, 40 episodes",
         "Language": "English",
@@ -1715,7 +1722,7 @@
       },
       {
         "Title": "Eat the World with Emeril Lagasse",
-        "Genre": "Culinary art",
+        "Subject": "Travel",
         "Premiere": "September 1, 2016",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1723,15 +1730,15 @@
       },
       {
         "Title": "The Grand Tour",
-        "Genre": "Motoring",
+        "Subject": "Motoring",
         "Premiere": "November 18, 2016",
         "Seasons": "5 seasons, 43 episodes",
         "Language": "English",
-        "Status": "Season 5 ongoing"
+        "Status": "New episode due to premiere on June 16, 2023"
       },
       {
         "Title": "American Playboy: The Hugh Hefner Story",
-        "Genre": "Docudrama",
+        "Subject": "Biography",
         "Premiere": "April 6, 2017",
         "Seasons": "1 season, 10 episodes",
         "Language": "English",
@@ -1739,7 +1746,7 @@
       },
       {
         "Title": "Long Strange Trip",
-        "Genre": "Docuseries",
+        "Subject": "Music",
         "Premiere": "June 2, 2017",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1747,7 +1754,7 @@
       },
       {
         "Title": "Le Mans: Racing Is Everything",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "June 9, 2017",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1755,7 +1762,7 @@
       },
       {
         "Title": "GRAND PRIX Driver",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "February 9, 2018",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -1763,7 +1770,7 @@
       },
       {
         "Title": "All or Nothing: The Michigan Wolverines",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "April 7, 2018",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -1771,7 +1778,7 @@
       },
       {
         "Title": "All or Nothing: New Zealand All Blacks",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "June 1, 2018",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1779,7 +1786,7 @@
       },
       {
         "Title": "Six Dreams",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "July 26, 2018",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1787,7 +1794,7 @@
       },
       {
         "Title": "Eat. Race. Win.",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "July 27, 2018",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1795,7 +1802,7 @@
       },
       {
         "Title": "Pistorius",
-        "Genre": "Docuseries",
+        "Subject": "True crime/Sports",
         "Premiere": "August 1, 2018",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -1803,7 +1810,7 @@
       },
       {
         "Title": "Harmony with A. R. Rahman",
-        "Genre": "Travel docuseries",
+        "Subject": "Travel",
         "Premiere": "August 15, 2018",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1811,7 +1818,7 @@
       },
       {
         "Title": "All or Nothing: Manchester City",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 17, 2018",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -1819,7 +1826,7 @@
       },
       {
         "Title": "The Gymkhana Files",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "November 16, 2018",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1827,7 +1834,7 @@
       },
       {
         "Title": "Inside Jokes",
-        "Genre": "Comedy docuseries",
+        "Subject": "Comedy",
         "Premiere": "November 30, 2018",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1835,7 +1842,7 @@
       },
       {
         "Title": "Luis, el sabio del éxito",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "December 21, 2018",
         "Seasons": "1 season, 2 episodes",
         "Language": "Spanish",
@@ -1843,7 +1850,7 @@
       },
       {
         "Title": "Lorena",
-        "Genre": "Docuseries",
+        "Subject": "True crime",
         "Premiere": "February 15, 2019",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -1851,7 +1858,7 @@
       },
       {
         "Title": "This Giant Beast That Is the Global Economy",
-        "Genre": "Docuseries",
+        "Subject": "Economics",
         "Premiere": "February 22, 2019",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -1859,7 +1866,7 @@
       },
       {
         "Title": "This Is Football",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 2, 2019",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -1867,7 +1874,7 @@
       },
       {
         "Title": "Free Meek",
-        "Genre": "Docuseries",
+        "Subject": "Social justice/Music",
         "Premiere": "August 9, 2019",
         "Seasons": "1 season, 5 episodes",
         "Language": "English",
@@ -1875,7 +1882,7 @@
       },
       {
         "Title": "Inside Borussia Dortmund",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 16, 2019",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -1883,7 +1890,7 @@
       },
       {
         "Title": "Take Us Home: Leeds United",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 16, 2019",
         "Seasons": "2 seasons, 8 episodes",
         "Language": "English",
@@ -1891,7 +1898,7 @@
       },
       {
         "Title": "El corazón de Sergio Ramos",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "September 13, 2019",
         "Seasons": "2 seasons, 14 episodes",
         "Language": "Spanish",
@@ -1899,7 +1906,7 @@
       },
       {
         "Title": "Jestination Unknown",
-        "Genre": "Travel docuseries",
+        "Subject": "Travel",
         "Premiere": "October 18, 2019",
         "Seasons": "1 season, 6 episodes",
         "Language": "Hindi",
@@ -1907,7 +1914,7 @@
       },
       {
         "Title": "James May: Our Man in...",
-        "Genre": "Travel docuseries",
+        "Subject": "Travel",
         "Premiere": "January 3, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Language": "English",
@@ -1915,7 +1922,7 @@
       },
       {
         "Title": "All or Nothing: Brazil National Team",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "January 31, 2020",
         "Seasons": "1 season, 5 episodes",
         "Language": "English",
@@ -1923,7 +1930,7 @@
       },
       {
         "Title": "Ted Bundy: Falling for a Killer",
-        "Genre": "Docuseries",
+        "Subject": "True crime",
         "Premiere": "January 31, 2020",
         "Seasons": "1 season, 5 episodes",
         "Language": "English",
@@ -1931,7 +1938,7 @@
       },
       {
         "Title": "The Test: A New Era for Australia's Team",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "March 12, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Language": "English",
@@ -1939,7 +1946,7 @@
       },
       {
         "Title": "Regular Heroes",
-        "Genre": "Docuseries",
+        "Subject": "Social issues",
         "Premiere": "May 8, 2020",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -1947,7 +1954,7 @@
       },
       {
         "Title": "De la vida al plato",
-        "Genre": "Cooking docuseries",
+        "Subject": "Cooking",
         "Premiere": "July 24, 2020",
         "Seasons": "1 season, 8 episodes",
         "Language": "Spanish",
@@ -1955,7 +1962,7 @@
       },
       {
         "Title": "The Last Narc",
-        "Genre": "True crime docuseries",
+        "Subject": "True crime",
         "Premiere": "July 31, 2020",
         "Seasons": "4 episodes",
         "Language": "English",
@@ -1963,7 +1970,7 @@
       },
       {
         "Title": "All or Nothing: Tottenham Hotspur",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 31, 2020",
         "Seasons": "1 season, 9 episodes",
         "Language": "English",
@@ -1971,7 +1978,7 @@
       },
       {
         "Title": "Fernando",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "September 25, 2020",
         "Seasons": "2 seasons, 9 episodes",
         "Language": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}SpanishEnglish",
@@ -1979,7 +1986,7 @@
       },
       {
         "Title": "The Challenge: ETA",
-        "Genre": "Docuseries",
+        "Subject": "Politics/Global affairs",
         "Premiere": "October 30, 2020",
         "Seasons": "1 season, 8 episodes",
         "Language": "Spanish",
@@ -1987,15 +1994,15 @@
       },
       {
         "Title": "James May: Oh Cook!",
-        "Genre": "Cooking show",
+        "Subject": "Cooking show",
         "Premiere": "November 13, 2020",
-        "Seasons": "1 season, 7 episodes",
+        "Seasons": "2 seasons, 14 episodes",
         "Language": "English",
-        "Status": "Season 2 due to premiere on May 24, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Making Their Mark",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "March 12, 2021",
         "Seasons": "1 season, 7 episodes",
         "Language": "English",
@@ -2003,7 +2010,7 @@
       },
       {
         "Title": "Head Above Water",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "June 4, 2021",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -2011,7 +2018,7 @@
       },
       {
         "Title": "Clarkson's Farm",
-        "Genre": "Docuseries",
+        "Subject": "Agriculture",
         "Premiere": "June 11, 2021",
         "Seasons": "2 seasons, 16 episodes",
         "Language": "English",
@@ -2019,7 +2026,7 @@
       },
       {
         "Title": "LuLaRich",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "September 10, 2021",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -2027,7 +2034,7 @@
       },
       {
         "Title": "Dinner Club",
-        "Genre": "Cooking/travel docuseries",
+        "Subject": "Cooking/Travel",
         "Premiere": "September 24, 2021",
         "Seasons": "1 season, 6 episodes",
         "Language": "Italian",
@@ -2035,7 +2042,7 @@
       },
       {
         "Title": "Spain's Elite Police: Beyond Limits",
-        "Genre": "Docuseries",
+        "Subject": "Law enforcement",
         "Premiere": "October 15, 2021",
         "Seasons": "1 season, 8 episodes",
         "Language": "Spanish",
@@ -2043,7 +2050,7 @@
       },
       {
         "Title": "FC Bayern: Behind the Legend",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "November 2, 2021",
         "Seasons": "1 season, 6 episodes",
         "Language": "German",
@@ -2051,7 +2058,7 @@
       },
       {
         "Title": "Always Jane",
-        "Genre": "Docuseries",
+        "Subject": "LGBT",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -2059,7 +2066,7 @@
       },
       {
         "Title": "Everybody Loves Natti",
-        "Genre": "Docuseries",
+        "Subject": "Music",
         "Premiere": "November 18, 2021",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -2067,7 +2074,7 @@
       },
       {
         "Title": "All or Nothing: Juventus",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "November 24, 2021",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -2075,7 +2082,7 @@
       },
       {
         "Title": "Sainz: Live to Compete",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "December 2, 2021",
         "Seasons": "1 season, 6 episodes",
         "Language": "SpanishEnglish",
@@ -2083,15 +2090,15 @@
       },
       {
         "Title": "The Ferragnez",
-        "Genre": "Docu-reality",
+        "Subject": "Docu-reality",
         "Premiere": "December 9, 2021",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Language": "Italian",
-        "Status": "Season 2 due to premiere on May 18, 2023"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Phat Tuesdays: The Era of Hip Hop Comedy",
-        "Genre": "Docuseries",
+        "Subject": "Comedy",
         "Premiere": "February 4, 2022",
         "Seasons": "3 episodes",
         "Language": "English",
@@ -2099,7 +2106,7 @@
       },
       {
         "Title": "The Challenge: 11M",
-        "Genre": "Docuseries",
+        "Subject": "Politics/Global affairs",
         "Premiere": "March 10, 2022",
         "Seasons": "1 season, 4 episodes",
         "Language": "Spanish",
@@ -2107,7 +2114,7 @@
       },
       {
         "Title": "MotoGP: Unlimited",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 4, 2022",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -2115,7 +2122,7 @@
       },
       {
         "Title": "The Unsolved Murder of Beverly Lynn Smith",
-        "Genre": "True crime docuseries",
+        "Subject": "True crime",
         "Premiere": "May 6, 2022",
         "Seasons": "4 episodes",
         "Language": "English",
@@ -2123,7 +2130,7 @@
       },
       {
         "Title": "The Kids in the Hall: Comedy Punks",
-        "Genre": "Docuseries",
+        "Subject": "Comedy/Television",
         "Premiere": "May 20, 2022",
         "Seasons": "2 episodes",
         "Language": "English",
@@ -2131,7 +2138,7 @@
       },
       {
         "Title": "All or Nothing: Arsenal",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "August 4, 2022",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -2139,7 +2146,7 @@
       },
       {
         "Title": "Academy Dreams: Leeds United",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "September 23, 2022",
         "Seasons": "6 episodes",
         "Language": "English",
@@ -2147,7 +2154,7 @@
       },
       {
         "Title": "Life After",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "October 18, 2022",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
@@ -2155,7 +2162,7 @@
       },
       {
         "Title": "Good Rivals",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "November 24, 2022",
         "Seasons": "3 episodes",
         "Language": "EnglishSpanish",
@@ -2163,7 +2170,7 @@
       },
       {
         "Title": "The Confession",
-        "Genre": "True crime docuseries",
+        "Subject": "True crime",
         "Premiere": "November 25, 2022",
         "Seasons": "2 episodes",
         "Language": "English",
@@ -2171,7 +2178,7 @@
       },
       {
         "Title": "Coach Prime",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "December 29, 2022",
         "Seasons": "1 season, 4 episodes",
         "Language": "English",
@@ -2179,7 +2186,7 @@
       },
       {
         "Title": "Marc Márquez: All In",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "February 20, 2023",
         "Seasons": "5 episodes",
         "Language": "English",
@@ -2187,8 +2194,24 @@
       },
       {
         "Title": "Redefined: J. R. Smith",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "April 4, 2023",
+        "Seasons": "4 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Ride",
+        "Subject": "Sports",
+        "Premiere": "May 30, 2023",
+        "Seasons": "8 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Shiny Happy People: Duggar Family Secrets",
+        "Subject": "True crime/Scandal",
+        "Premiere": "June 2, 2023",
         "Seasons": "4 episodes",
         "Language": "English",
         "Status": "Miniseries"
@@ -2206,9 +2229,9 @@
         "Title": "Hitoshi Matsumoto Presents Documental",
         "Genre": "Comedy competition",
         "Premiere": "November 30, 2016",
-        "Seasons": "11 seasons, 51 episodes",
+        "Seasons": "12 seasons, 55 episodes",
         "Language": "Japanese",
-        "Status": "Ended"
+        "Status": "Pending"
       },
       {
         "Title": "Caligula",
@@ -2244,7 +2267,7 @@
       },
       {
         "Title": "This Is Family",
-        "Genre": "Reality show",
+        "Genre": "Reality",
         "Premiere": "September 28, 2018",
         "Seasons": "4 seasons, 20 episodes",
         "Language": "English",
@@ -2276,7 +2299,7 @@
       },
       {
         "Title": "Wild and Free: Florianópolis",
-        "Genre": "Reality show",
+        "Genre": "Reality",
         "Premiere": "March 20, 2020",
         "Seasons": "2 seasons, 32 episodes",
         "Language": "Portuguese",
@@ -2324,7 +2347,7 @@
       },
       {
         "Title": "The Great Escapists",
-        "Genre": "Survivalist reality show",
+        "Genre": "Survivalist reality",
         "Premiere": "January 29, 2021",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
@@ -2505,6 +2528,14 @@
         "Seasons": "1 season, 6 episodes",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "LOL: Last One Laughing Poland",
+        "Genre": "Comedy competition",
+        "Premiere": "April 14, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "Polish",
+        "Status": "Pending"
       }
     ]
   },
@@ -2641,7 +2672,7 @@
         "Premiere": "May 31, 2019",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Season 2 due to premiere in 2023"
+        "Status": "Season 2 due to premiere on July 28, 2023"
       },
       {
         "Title": "The Feed",
@@ -2793,7 +2824,7 @@
         "Premiere": "May 13, 2022",
         "Seasons": "1 season, 8 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -2893,8 +2924,35 @@
         "Genre": "Political action drama",
         "Premiere": "February 3, 2023",
         "Seasons": "6 episodes",
-        "Prime Video exclusive region": "French",
-        "Language": "France, Belgium, Switzerland and Luxembourg",
+        "Prime Video exclusive region": "France, Belgium, Switzerland and Luxembourg",
+        "Language": "French",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Cattleya Killer",
+        "Genre": "Psychological thriller",
+        "Premiere": "June 1, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "Philippines",
+        "Language": "Filipino",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Prime Video exclusive region": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Jee Karda",
+        "Genre": "Romantic drama",
+        "Premiere": "June 15, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Prime Video exclusive region": "India",
+        "Language": "Hindi",
         "Status": "Pending"
       }
     ]
@@ -3020,7 +3078,7 @@
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "United Kingdom",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Me Contro Te – La Famiglia Reale",
@@ -3060,7 +3118,7 @@
     "data": [
       {
         "Title": "Prime Japan",
-        "Genre": "Docuseries",
+        "Subject": "Culture",
         "Premiere": "May 15, 2016",
         "Seasons": "1 season, 12 episodes",
         "Prime Video exclusive region": "Japan",
@@ -3069,7 +3127,7 @@
       },
       {
         "Title": "Ishi-chan no Sake Tabi",
-        "Genre": "Cooking docuseries",
+        "Subject": "Food/Travel",
         "Premiere": "February 3, 2017",
         "Seasons": "1 season, 20 episodes",
         "Prime Video exclusive region": "Japan",
@@ -3078,7 +3136,7 @@
       },
       {
         "Title": "Huesca, más allá de un sueño",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "October 1, 2019",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Spain",
@@ -3087,7 +3145,7 @@
       },
       {
         "Title": "Una Vida, Una Cena",
-        "Genre": "Culinary art",
+        "Subject": "Culinary art",
         "Premiere": "December 17, 2019",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Spain",
@@ -3096,7 +3154,7 @@
       },
       {
         "Title": "Soccer Players Living Abroad",
-        "Genre": "Sports docuseries",
+        "Subject": "Sports",
         "Premiere": "June 5, 2020",
         "Seasons": "1 season, 4 episodes",
         "Prime Video exclusive region": "Spain",
@@ -3105,12 +3163,21 @@
       },
       {
         "Title": "True Story",
-        "Genre": "Comedy docudrama",
+        "Subject": "Comedy",
         "Premiere": "June 26, 2020",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "France",
         "Language": "French",
         "Status": "Ended"
+      },
+      {
+        "Title": "One for All",
+        "Subject": "Sports",
+        "Premiere": "May 25, 2023",
+        "Seasons": "4 episodes",
+        "Prime Video exclusive region": "France",
+        "Language": "French",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -3191,7 +3258,7 @@
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Bridge: Denmark",
@@ -3402,7 +3469,7 @@
         "Seasons": "2 seasons, 12 episodes",
         "Prime Video exclusive region": "United States, Canada, Australia, New Zealand and Nordic countries",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Stories to Stay Awake",
@@ -3501,6 +3568,12 @@
         "Seasons": "TBA"
       },
       {
+        "Title": "Butterfly",
+        "Genre": "Spy thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes"
+      },
+      {
         "Title": "Cross",
         "Genre": "Crime thriller",
         "Premiere": "TBA",
@@ -3541,12 +3614,6 @@
         "Genre": "Thriller miniseries",
         "Premiere": "TBA",
         "Seasons": "TBA"
-      },
-      {
-        "Title": "The Lost Flowers of Alice Hart",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 7 episodes"
       },
       {
         "Title": "On Call",
@@ -3599,6 +3666,12 @@
         "Seasons": "TBA"
       },
       {
+        "Title": "The Office Australia",
+        "Genre": "Sitcom",
+        "Premiere": "2024",
+        "Seasons": "TBA"
+      },
+      {
         "Title": "The Sticky",
         "Genre": "Heist comedy",
         "Premiere": "2024",
@@ -3625,6 +3698,12 @@
       "Kids &amp; family"
     ],
     "data": [
+      {
+        "Title": "Angry Birds Mystery Island",
+        "Genre": "Mystery comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 24 episodes"
+      },
       {
         "Title": "Batman: Caped Crusader",
         "Genre": "Superhero",
@@ -3748,13 +3827,19 @@
     "category": [
       "Upcoming original programming",
       "Non-English language scripted",
-      "Japanese"
+      "Italian"
     ],
     "data": [
       {
-        "Title": "My Lovely Yokai Girlfriend",
-        "Genre": "Horror romantic comedy",
+        "Title": "Everybody Loves Diamonds",
+        "Genre": "Heist drama",
         "Premiere": "2023",
+        "Seasons": "TBA"
+      },
+      {
+        "Title": "Citadel: Diana",
+        "Genre": "Spy thriller",
+        "Premiere": "2024",
         "Seasons": "TBA"
       }
     ]
@@ -3806,11 +3891,11 @@
     ],
     "data": [
       {
-        "Title": "Everybody Loves Diamonds",
-        "Genre": "Heist drama",
+        "Title": "My Lovely Yokai Girlfriend",
+        "Genre": "Horror romantic comedy",
         "Premiere": "2023",
         "Seasons": "TBA",
-        "Language": "Italian"
+        "Language": "Japanese"
       }
     ]
   },
@@ -3823,77 +3908,77 @@
     "data": [
       {
         "Title": "Untitled Overtime Elite docuseries",
-        "Genre": "Sports docuseries",
+        "Genre": "Sports",
         "Premiere": "Mid-2023",
         "Seasons": "TBA",
         "Language": "English"
       },
       {
         "Title": "Fake Sheikh",
-        "Genre": "True crime docuseries",
+        "Genre": "True crime",
         "Premiere": "2023",
         "Seasons": "3 episodes",
         "Language": "English"
       },
       {
         "Title": "The Greatest Show Never Made",
-        "Genre": "True crime docuseries",
+        "Genre": "True crime",
         "Premiere": "2023",
         "Seasons": "2 episodes",
         "Language": "English"
       },
       {
-        "Title": "The Ride",
-        "Genre": "Sports docuseries",
-        "Premiere": "2023",
-        "Seasons": "8 episodes",
+        "Title": "99",
+        "Genre": "Sports",
+        "Premiere": "2024",
+        "Seasons": "TBA",
         "Language": "English"
       },
       {
         "Title": "All or Nothing: German National Team",
-        "Genre": "Sports docuseries",
+        "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "German"
       },
       {
         "Title": "Gefesselt",
-        "Genre": "True crime docuseries",
+        "Genre": "True crime",
         "Premiere": "TBA",
         "Seasons": "1 season, 6 episodes",
         "Language": "German"
       },
       {
         "Title": "Hunted",
-        "Genre": "Docuseries",
+        "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "1 season, 4 episodes",
         "Language": "German"
       },
       {
         "Title": "Three Mothers",
-        "Genre": "True crime docuseries",
+        "Genre": "True crime",
         "Premiere": "TBA",
         "Seasons": "3 episodes",
         "Language": "English"
       },
       {
         "Title": "Untitled American Basketball Association docuseries",
-        "Genre": "Sports docuseries",
+        "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "English"
       },
       {
         "Title": "Untitled Newcastle United F.C. docuseries",
-        "Genre": "Sports docuseries",
+        "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "English"
       },
       {
         "Title": "Untitled Paris Saint-Germain F.C. docuseries",
-        "Genre": "Sports docuseries",
+        "Genre": "Sports",
         "Premiere": "TBA",
         "Seasons": "1 season, 4 episodes",
         "Language": "French"
@@ -3952,6 +4037,13 @@
       {
         "Title": "LOL: Last One Laughing Naija",
         "Genre": "Comedy competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Luxe Listings Toronto",
+        "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "English"
@@ -4026,10 +4118,6 @@
       {
         "Title": "Boys Come First",
         "Genre": "Drama"
-      },
-      {
-        "Title": "Butterfly",
-        "Genre": "Spy thriller"
       },
       {
         "Title": "Clans of the Alphane Moon",

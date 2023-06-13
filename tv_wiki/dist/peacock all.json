@@ -124,14 +124,6 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "41–50 min.",
         "Status": "Pending"
-      },
-      {
-        "Title": "Mrs. Davis",
-        "Genre": "Science fiction",
-        "Premiere": "April 20, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "48–60 min.",
-        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -231,7 +223,7 @@
       },
       {
         "Title": "Paul T. Goldman",
-        "Genre": "Mockumentary",
+        "Genre": "True crime docu-comedy",
         "Premiere": "January 1, 2023",
         "Seasons": "6 episodes",
         "Length": "31–63 min.",
@@ -246,11 +238,27 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Mrs. Davis",
+        "Genre": "Science fiction dark comedy",
+        "Premiere": "April 20, 2023",
+        "Seasons": "8 episodes",
+        "Length": "49–61 min.",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Bupkis",
         "Genre": "Comedy",
         "Premiere": "May 4, 2023",
         "Seasons": "1 season, 8 episodes",
         "Length": "23–32 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Based on a True Story",
+        "Genre": "Comedy thriller",
+        "Premiere": "June 8, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "23–44 min.",
         "Status": "Pending"
       },
       {
@@ -260,14 +268,6 @@
         "Seasons": "Awaiting release",
         "Length": "Awaiting release",
         "Status": "Awaiting release"
-      },
-      {
-        "Title": "Based on a True Story",
-        "Genre": "Comedy thriller",
-        "Premiere": "June 8, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
       },
       {
         "Title": "Twisted Metal",
@@ -313,17 +313,25 @@
         "Title": "Babble Bop!",
         "Genre": "Musical",
         "Premiere": "December 23, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Length": "30 min.",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Pending"
       },
       {
         "Title": "Supernatural Academy",
         "Genre": "Fantasy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
-        "Length": "30 min.",
+        "Length": "22–23 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Dino Pops",
+        "Genre": "Family comedy",
+        "Premiere": "May 25, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "19 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -336,7 +344,7 @@
     "data": [
       {
         "Title": "Lost Speedways",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "24–28 min.",
@@ -344,7 +352,7 @@
       },
       {
         "Title": "True Colors",
-        "Genre": "Docuseries",
+        "Subject": "Biography/Culture/Celebrity",
         "Premiere": "September 29, 2020",
         "Seasons": "1 season, 8 episodes",
         "Length": "11–26 min.",
@@ -352,7 +360,7 @@
       },
       {
         "Title": "John Wayne Gacy: Devil in Disguise",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "March 25, 2021",
         "Seasons": "1 season, 6 episodes",
         "Length": "48–55 min.",
@@ -360,7 +368,7 @@
       },
       {
         "Title": "Michael Phelps: Medals, Memories, and More",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "April 14, 2021",
         "Seasons": "3 episodes",
         "Length": "64–95 min.",
@@ -368,7 +376,7 @@
       },
       {
         "Title": "The '96 Effect",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "June 17, 2021",
         "Seasons": "3 episodes",
         "Length": "24–38 min.",
@@ -376,7 +384,7 @@
       },
       {
         "Title": "Golden: The Journey of USA's Elite Gymnasts",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "June 27, 2021",
         "Seasons": "6 episodes",
         "Length": "45–47 min.",
@@ -384,7 +392,7 @@
       },
       {
         "Title": "For Ball and Country",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "July 19, 2021",
         "Seasons": "7 episodes",
         "Length": "22–52 min.",
@@ -392,7 +400,7 @@
       },
       {
         "Title": "Dr. Death: The Undoctored Story",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "July 29, 2021",
         "Seasons": "4 episodes",
         "Length": "42–48 min.",
@@ -400,7 +408,7 @@
       },
       {
         "Title": "Born for Business",
-        "Genre": "Docuseries",
+        "Subject": "Business",
         "Premiere": "August 23, 2021",
         "Seasons": "1 season, 10 episodes",
         "Length": "22 min.",
@@ -408,7 +416,7 @@
       },
       {
         "Title": "Monster in the Shadows",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "August 26, 2021",
         "Seasons": "3 episodes",
         "Length": "44–47 min.",
@@ -416,7 +424,7 @@
       },
       {
         "Title": "Unidentified with Demi Lovato",
-        "Genre": "Paranormal",
+        "Subject": "Paranormal",
         "Premiere": "September 30, 2021",
         "Seasons": "4 episodes",
         "Length": "43–47 min.",
@@ -424,7 +432,7 @@
       },
       {
         "Title": "Joe Montana: Cool Under Pressure",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "January 6, 2022",
         "Seasons": "6 episodes",
         "Length": "43–60 min.",
@@ -432,7 +440,7 @@
       },
       {
         "Title": "Meddling",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "January 6, 2022",
         "Seasons": "4 episodes",
         "Length": "33–43 min.",
@@ -440,7 +448,7 @@
       },
       {
         "Title": "True Story with Ed and Randall",
-        "Genre": "Docu-comedy",
+        "Subject": "Comedy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "29–42 min.",
@@ -448,7 +456,7 @@
       },
       {
         "Title": "American Rock Stars",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "January 26, 2022",
         "Seasons": "4 episodes",
         "Length": "26–34 min.",
@@ -456,7 +464,7 @@
       },
       {
         "Title": "Perfect World: A Deadly Game",
-        "Genre": "Docuseries",
+        "Subject": "True crime",
         "Premiere": "March 8, 2022",
         "Seasons": "2 episodes",
         "Length": "48–50 min.",
@@ -464,7 +472,7 @@
       },
       {
         "Title": "WWE Evil",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Premiere": "March 24, 2022",
         "Seasons": "8 episodes",
         "Length": "40–52 min.",
@@ -472,7 +480,7 @@
       },
       {
         "Title": "Preaching Evil: A Wife on the Run With Warren Jeffs",
-        "Genre": "Docuseries",
+        "Subject": "True crime",
         "Premiere": "April 26, 2022",
         "Seasons": "4 episodes",
         "Length": "43–50 min.",
@@ -480,7 +488,7 @@
       },
       {
         "Title": "The Hillside Strangler: Devil in Disguise",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "August 2, 2022",
         "Seasons": "4 episodes",
         "Length": "52–56 min.",
@@ -488,7 +496,7 @@
       },
       {
         "Title": "The End Is Nye",
-        "Genre": "Science",
+        "Subject": "Science",
         "Premiere": "August 25, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "41–45 min.",
@@ -496,7 +504,7 @@
       },
       {
         "Title": "Shadowland",
-        "Genre": "Docuseries",
+        "Subject": "Conspiracy theories/Journalism",
         "Premiere": "September 21, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "49–62 min.",
@@ -504,7 +512,7 @@
       },
       {
         "Title": "I Love You, You Hate Me",
-        "Genre": "Docuseries",
+        "Subject": "Television industry",
         "Premiere": "October 12, 2022",
         "Seasons": "2 episodes",
         "Length": "53–58 min.",
@@ -512,7 +520,7 @@
       },
       {
         "Title": "Once Upon a Time in Londongrad",
-        "Genre": "Docuseries",
+        "Subject": "True crime",
         "Premiere": "November 15, 2022",
         "Seasons": "6 episodes",
         "Length": "26–29 min.",
@@ -520,7 +528,7 @@
       },
       {
         "Title": "Casey Anthony: Where the Truth Lies",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "November 29, 2022",
         "Seasons": "3 episodes",
         "Length": "60–78 min.",
@@ -528,7 +536,7 @@
       },
       {
         "Title": "Who Killed Jenni Rivera?",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "December 6, 2022",
         "Seasons": "3 episodes",
         "Length": "44–48 min.",
@@ -536,7 +544,7 @@
       },
       {
         "Title": "The Battle for Justina Pelletier",
-        "Genre": "Docuseries",
+        "Subject": "Patients' rights",
         "Premiere": "December 13, 2022",
         "Seasons": "4 episodes",
         "Length": "40–57 min.",
@@ -544,7 +552,7 @@
       },
       {
         "Title": "Who Killed Robert Wone?",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "March 7, 2023",
         "Seasons": "2 episodes",
         "Length": "61–75 min.",
@@ -552,26 +560,18 @@
       },
       {
         "Title": "Menendez + Menudo: Boys Betrayed",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "May 2, 2023",
         "Seasons": "3 episodes",
         "Length": "54–62 min.",
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Rainn Wilson and the Geography of Bliss",
-        "Genre": "Travel docuseries",
+        "Subject": "Travel",
         "Premiere": "May 18, 2023",
         "Seasons": "1 season, 5 episodes",
-        "Length": "TBA",
+        "Length": "47–55 min.",
         "Status": "Pending"
       }
     ]
@@ -669,7 +669,7 @@
         "Premiere": "March 17, 2022",
         "Seasons": "1 season, 17 episodes",
         "Length": "43–54 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "The Traitors",
@@ -843,7 +843,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "6 seasons, 39 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Season 7 due to premiere on July 27, 2023"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -852,7 +852,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "5 seasons, 32 episodes",
         "Length": "22 min.",
-        "Status": "Pending"
+        "Status": "Season 6 due to premiere on June 15, 2023"
       },
       {
         "Title": "Wolf Like Me",
@@ -914,7 +914,7 @@
         "Premiere": "July 15, 2020",
         "Seasons": "6 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Where's Waldo? (season 2)",
@@ -968,7 +968,7 @@
         "Premiere": "December 16, 2021",
         "Seasons": "2 seasons, 33 episodes",
         "Length": "41–43 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Love Island (season 4)",
@@ -1079,6 +1079,12 @@
         "Genre": "Family animation",
         "Premiere": "November 13, 2022",
         "Length": "44 min."
+      },
+      {
+        "Title": "Caillou's Perfect Christmas",
+        "Genre": "Family animation",
+        "Premiere": "December 2, 2022",
+        "Length": "44 min."
       }
     ]
   },
@@ -1127,7 +1133,7 @@
       {
         "Title": "Five Bedrooms",
         "Genre": "Comedy drama",
-        "Partner/Country": "Network 10 (season 1) Paramount+ Australia (season 2–present)/Australia",
+        "Partner/Country": "Network 10 (season 1)/AustraliaParamount+ Australia (season 2)/Australia",
         "Premiere": "April 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "44–46 min.",
@@ -1145,29 +1151,29 @@
       {
         "Title": "Intelligence",
         "Genre": "Sitcom",
-        "Partner/Country": "Sky One/United Kingdom",
+        "Partner/Country": "Sky One (seasons 1−2)/United KingdomSky Comedy (special)/United Kingdom",
         "Premiere": "July 15, 2020",
-        "Seasons": "2 seasons, 12 episodes",
+        "Seasons": "2 seasons, 13 episodes",
         "Length": "20–22 min.",
-        "Status": "New one-hour special due to premiere on May 11, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Hitmen",
         "Genre": "Crime comedy drama",
-        "Partner/Country": "Sky One (season 1) Sky Comedy (season 2)/United Kingdom",
+        "Partner/Country": "Sky One (season 1)/United KingdomSky Comedy (season 2)/United Kingdom",
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
-        "Title": "Save Me",
+        "Title": "Save Me (season 2)",
         "Genre": "Crime drama",
         "Partner/Country": "Sky Atlantic/United Kingdom",
         "Premiere": "September 3, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "46–50 min.",
-        "Status": "Ended; Previously aired on Starz in the US in 2019 during season 1"
+        "Status": "Ended"
       },
       {
         "Title": "Noughts + Crosses",
@@ -1190,7 +1196,7 @@
       {
         "Title": "Code 404",
         "Genre": "Police procedural comedy drama",
-        "Partner/Country": "Sky One (season 1) Sky Comedy Sky Showcase (season 2–present)/United Kingdom",
+        "Partner/Country": "Sky One (season 1)/United KingdomSky Comedy and Sky Showcase (season 2)/United Kingdom",
         "Premiere": "October 8, 2020",
         "Seasons": "3 seasons, 18 episodes",
         "Length": "26–31 min.",
@@ -1292,16 +1298,16 @@
         "Runtime": "1 hour, 50 min."
       },
       {
+        "Title": "Shooting Stars",
+        "Genre": "Biopic",
+        "Release": "June 2, 2023",
+        "Runtime": "1 hour, 55 min."
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Release": "Awaiting release",
         "Runtime": "Awaiting release"
-      },
-      {
-        "Title": "Shooting Stars",
-        "Genre": "Biopic",
-        "Release": "June 2, 2023",
-        "Runtime": "TBA"
       },
       {
         "Title": "Untitled Please Don't Destroy film",
@@ -1319,121 +1325,127 @@
     "data": [
       {
         "Title": "Dreams Live On: Countdown to Tokyo",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "July 15, 2020",
         "Runtime": "57 min."
       },
       {
         "Title": "In Deep with Ryan Lochte",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "July 15, 2020",
         "Runtime": "1 hour, 3 min."
       },
       {
         "Title": "Kamome",
-        "Genre": "Documentary",
+        "Subject": "Natural disaster/Culture",
         "Release": "July 15, 2020",
         "Runtime": "23 min."
       },
       {
         "Title": "Black Boys",
-        "Genre": "Documentary",
+        "Subject": "Racial justice",
         "Release": "September 10, 2020",
         "Runtime": "1 hour, 30 min."
       },
       {
         "Title": "The Sit-In: Harry Belafonte Hosts The Tonight Show",
-        "Genre": "Documentary",
+        "Subject": "Entertainment",
         "Release": "September 10, 2020",
         "Runtime": "1 hour, 17 min."
       },
       {
         "Title": "Madness in the Hills",
-        "Genre": "Documentary",
+        "Subject": "Natural disaster",
         "Release": "October 9, 2020",
         "Runtime": "21 min."
       },
       {
         "Title": "Freedia Got a Gun",
-        "Genre": "Documentary",
+        "Subject": "Music",
         "Release": "October 15, 2020",
         "Runtime": "1 hour, 25 min."
       },
       {
         "Title": "My Pursuit: Life, Legacy &amp; Jordan Burroughs",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "April 1, 2021",
         "Runtime": "34 min."
       },
       {
         "Title": "The Greatest Race",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "June 10, 2021",
         "Runtime": "1 hour, 9 min."
       },
       {
         "Title": "Civil War (Or, Who Do We Think We Are)",
-        "Genre": "Documentary",
+        "Subject": "History/Education",
         "Release": "June 17, 2021",
         "Runtime": "1 hour, 40 min."
       },
       {
         "Title": "Sisters of '96: The 1996 Women's Olympic Soccer Team",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "July 14, 2021",
         "Runtime": "58 min."
       },
       {
         "Title": "Chase",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "August 25, 2021",
         "Runtime": "52 min."
       },
       {
         "Title": "The Toolbox Killer",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Release": "September 23, 2021",
         "Runtime": "1 hour, 27 min."
       },
       {
         "Title": "The Murder of Gabby Petito: Truth, Lies and Social Media",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Release": "December 17, 2021",
         "Runtime": "1 hour, 25 min."
       },
       {
         "Title": "Picabo",
-        "Genre": "Sports",
+        "Subject": "Sports",
         "Release": "January 21, 2022",
         "Runtime": "1 hour, 30 min."
       },
       {
+        "Title": "Hell of a Cruise",
+        "Subject": "Epidemiology",
+        "Release": "September 14, 2022",
+        "Runtime": "1 hour, 18 min."
+      },
+      {
         "Title": "Prince Andrew: Banished",
-        "Genre": "Documentary",
+        "Subject": "Celebrity/Scandal",
         "Release": "October 5, 2022",
         "Runtime": "1 hour, 19 min."
       },
       {
         "Title": "The Rebellious Life of Mrs. Rosa Parks",
-        "Genre": "Biography",
+        "Subject": "Biography",
         "Release": "October 19, 2022",
         "Runtime": "1 hour, 36 min."
       },
       {
         "Title": "Woooooo! Becoming Ric Flair",
-        "Genre": "Biography",
+        "Subject": "Biography",
         "Release": "December 26, 2022",
         "Runtime": "1 hour, 51 min."
       },
       {
         "Title": "Amber: The Girl Behind The Alert",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Release": "January 17, 2023",
         "Runtime": "1 hour, 32 min."
       },
       {
         "Title": "Cocaine Bear: The True Story",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Release": "April 15, 2023",
         "Runtime": "52 min."
       }
@@ -1610,14 +1622,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Dino Pops",
-        "Genre": "Family comedy",
-        "Premiere": "2023",
-        "Seasons": "1 season, 52 episodes",
-        "Length": "5 min.",
-        "Status": "Series order"
-      },
-      {
         "Title": "Lil' Stompers",
         "Genre": "Family comedy",
         "Premiere": "2023",
@@ -1683,16 +1687,8 @@
     ],
     "data": [
       {
-        "Title": "Diamond Princess",
-        "Genre": "Docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Downey Wrote That",
-        "Genre": "Biography",
+        "Subject": "Biography",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1700,7 +1696,7 @@
       },
       {
         "Title": "Run Through the Line",
-        "Genre": "Business",
+        "Subject": "Business",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1708,7 +1704,7 @@
       },
       {
         "Title": "Untitled 50 Cent unscripted true crime series",
-        "Genre": "True crime",
+        "Subject": "True crime",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1795,7 +1791,7 @@
     "data": [
       {
         "Title": "Gente sana",
-        "Genre": "Docuseries",
+        "Subject": "Mental health",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Length": "TBA",
@@ -1804,7 +1800,7 @@
       },
       {
         "Title": "Mysteries &amp; Scandals",
-        "Genre": "Docuseries",
+        "Subject": "Docuseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1820,9 +1816,18 @@
     ],
     "data": [
       {
+        "Title": "Fight Krewe",
+        "Genre": "Animated horror",
+        "Partner": "Hulu",
+        "Premiere": "2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Lockerbie",
-        "Partner": "Sky Max",
         "Genre": "Drama miniseries",
+        "Partner": "Sky Max",
         "Premiere": "2023",
         "Seasons": "5 episodes",
         "Length": "TBA",
@@ -1830,8 +1835,8 @@
       },
       {
         "Title": "The Tattooist of Auschwitz",
-        "Partner": "Sky Max",
         "Genre": "Period drama miniseries",
+        "Partner": "Sky Max",
         "Premiere": "TBA",
         "Seasons": "6 episodes",
         "Length": "TBA",
@@ -1839,8 +1844,8 @@
       },
       {
         "Title": "The Day of the Jackal",
-        "Partner": "Sky Max",
         "Genre": "Political thriller",
+        "Partner": "Sky Max",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1923,10 +1928,6 @@
         "Genre": "Period crime drama"
       },
       {
-        "Title": "Law &amp; Order: Hate Crimes",
-        "Genre": "Crime drama"
-      },
-      {
         "Title": "Let Me Hear a Rhyme",
         "Genre": "Drama"
       },
@@ -1997,10 +1998,6 @@
       {
         "Title": "Untitled Snoop Dogg project",
         "Genre": "Reality"
-      },
-      {
-        "Title": "Washed Up",
-        "Genre": "Comedy"
       },
       {
         "Title": "What She Said",

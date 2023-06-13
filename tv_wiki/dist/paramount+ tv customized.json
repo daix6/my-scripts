@@ -178,8 +178,16 @@
         "Genre": "Psychological thriller",
         "Premiere": "April 30, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "53–60 min.",
-        "Status": "Season 1 ongoing"
+        "Runtime": "53–62 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Special Ops: Lioness",
+        "Genre": "Spy drama",
+        "Premiere": "July 23, 2023",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -209,9 +217,9 @@
         "Title": "iCarly",
         "Genre": "Sitcom",
         "Premiere": "June 17, 2021",
-        "Seasons": "2 seasons, 23 episodes",
+        "Seasons": "3 seasons, 26 episodes",
         "Runtime": "23–26 min.",
-        "Status": "Renewed"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Guilty Party",
@@ -243,7 +251,7 @@
         "Premiere": "April 6, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "48–59 min.",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -282,7 +290,7 @@
         "Title": "Mike Judge's Beavis and Butt-Head",
         "Genre": "Adult animated comedy",
         "Premiere": "August 4, 2022",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "2 seasons, 21 episodes",
         "Runtime": "20–22 min.",
         "Status": "Season 2 ongoing"
       }
@@ -348,31 +356,31 @@
         "Status": "Renewed"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars (seasons 6–7)",
+        "Title": "RuPaul's Drag Race All Stars (seasons 6–8)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 24 episodes",
+        "Seasons": "3 seasons, 28 episodes",
         "Runtime": "61–83 min.",
-        "Status": "Season 8 due to premiere on May 12, 2023"
+        "Status": "Season 8 ongoing"
       },
       {
-        "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–4)",
+        "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–5)",
         "Genre": "Reality competition",
         "Prev. network(s)": "Logo (season 1)VH1 (season 2)",
         "Premiere": "June 24, 2021",
-        "Seasons": "2 seasons, 24 episodes",
-        "Runtime": "21 min.",
-        "Status": "Season 5 due to premiere on May 12, 2023"
+        "Seasons": "3 seasons, 28 episodes",
+        "Runtime": "21–22 min.",
+        "Status": "Season 5 ongoing"
       },
       {
-        "Title": "Inside the NFL (seasons 44–45)",
-        "Genre": "Sports",
-        "Prev. network(s)": "HBO (seasons 1–30)Showtime (seasons 31–43)",
+        "Title": "Inside the NFL (seasons 45–46)",
+        "Genre": "Sports talk show",
+        "Prev. network(s)": "HBO (seasons 1–31)Showtime (seasons 32–44)",
         "Premiere": "September 7, 2021",
         "Seasons": "2 seasons, 48 episodes",
         "Runtime": "9–70 min.",
-        "Status": "Ended"
+        "Status": "Moved to The CW"
       },
       {
         "Title": "SEAL Team (seasons 5B–6)",
@@ -452,8 +460,8 @@
         "Prev. network(s)": "Spectrum Originals",
         "Premiere": "June 4, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "45–53 min.",
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -529,13 +537,13 @@
     ],
     "data": [
       {
-        "Title": "Five Bedrooms (seasons 2–3)",
+        "Title": "Five Bedrooms (seasons 2–4)",
         "Genre": "Comedy drama",
         "Premiere": "August 11, 2021",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "3 seasons, 24 episodes",
         "Runtime": "44–46 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Season 4 due to premiere on May 14, 2023"
+        "Status": "Season 4 ongoing"
       },
       {
         "Title": "More Than This",
@@ -577,10 +585,10 @@
         "Title": "The Box",
         "Genre": "Docuseries",
         "Premiere": "August 11, 2022",
-        "Seasons": "1 season, 3 episodes",
+        "Seasons": "3 episodes",
         "Runtime": "60 min.",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "The Disappearance of Gabby Petito",
@@ -668,7 +676,7 @@
         "Genre": "Docuseries",
         "Premiere": "October 14, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "45–48 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -704,8 +712,17 @@
         "Genre": "Drama",
         "Premiere": "February 17, 2023",
         "Seasons": "10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "44–62 min.",
         "Exclusive region(s)": "Australia",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "1939: Secrets of Hollywood's Golden Year",
+        "Genre": "Docuseries",
+        "Premiere": "March 1, 2023",
+        "Seasons": "2 episodes",
+        "Runtime": "66 min.",
+        "Exclusive region(s)": "United Kingdom",
         "Status": "Miniseries"
       }
     ]
@@ -716,8 +733,7 @@
       "Regional original programming",
       "Non-English language"
     ],
-    "data": [
-    ]
+    "data": []
   },
   {
     "category": [
@@ -742,6 +758,15 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "40–50 min.",
         "Exclusive region(s)": "Germany, Switzerland and Austria",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Sheik",
+        "Genre": "Comedy drama",
+        "Premiere": "December 22, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "41–51 min.",
+        "Exclusive region(s)": "Germany, Switzerland, Austria and Australia",
         "Status": "Pending"
       },
       {
@@ -772,10 +797,10 @@
     ],
     "data": [
       {
-        "Title": "Are You the One? Italy",
+        "Title": "Are You the One? Italia",
         "Genre": "Dating show",
         "Premiere": "February 15, 2023",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Italy",
         "Status": "Pending"
@@ -941,7 +966,7 @@
         "Partner/Country": "RAI/ItalyZDFneo/Germany",
         "Premiere": "October 26, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "49–53 min.",
         "Language": "Italian",
         "Exclusive region(s)": "Italy, France, United Kingdom, Canada, Australia, Latin America and South Korea",
         "Status": "Pending"
@@ -991,7 +1016,7 @@
         "Title": "Guy Montgomery By Name, Guy Montgomery By Nature",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 5 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -999,7 +1024,7 @@
         "Title": "Michelle Brasier: Average Bear",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 1 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1007,7 +1032,7 @@
         "Title": "Sammy J: Symphony in J Minor",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "55 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1015,7 +1040,7 @@
         "Title": "Luke Heggie: I Already Told You",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "54 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1023,7 +1048,7 @@
         "Title": "Kirsty Webeck: Silver Linings",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 2 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1031,7 +1056,7 @@
         "Title": "Dane Simpson: Didgeridoozy",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "56 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1039,7 +1064,7 @@
         "Title": "Ivan Aristeguieta: Happy Papi",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       },
@@ -1047,7 +1072,7 @@
         "Title": "Harley Breen: Flat Out",
         "Genre": "Stand-up comedy",
         "Premiere": "November 11, 2022",
-        "Runtime": "TBA",
+        "Runtime": "1 hour, 5 min.",
         "Language": "English",
         "Exclusive region(s)": "Australia"
       }

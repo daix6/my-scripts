@@ -695,11 +695,11 @@
       {
         "Title": "Clone High",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 13 episodes",
+        "Seasons/episodes": "2 seasons, 15 episodes",
         "Show creator(s)": "Phil Lord",
-        "Original release": "November 2, 2002 – April 13, 2003",
+        "Original release": "November 2, 2002 – present",
         "Network": "MTV",
-        "Studio": "Doozer",
+        "Studio": "Touchstone Television",
         "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
@@ -2967,9 +2967,21 @@
         "Show creator(s)": "Carson Mell",
         "Original release": "April 20, 2023 – present",
         "Network": "HBO Max",
-        "Studio": "TBA",
+        "Studio": "Pat &amp; Mike Productions",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Mulligan",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Robert Carlock",
+        "Original release": "May 12, 2023 – present",
+        "Network": "Netflix",
+        "Studio": "Little Stranger, Inc.",
+        "Age rating": "TV-14",
+        "Technique": "Flash",
         "Source": ""
       }
     ]
@@ -3460,7 +3472,7 @@
         "Title": "Delta State",
         "Country": "France",
         "Genre": "Science fiction",
-        "Seasons/episodes": "1 season, 13 episodes",
+        "Seasons/episodes": "1 season, 26 episodes",
         "Show creator(s)": "Brent Donnelly",
         "Original release": "September 11, 2004&#160;– February 27, 2005",
         "Network": "France 2",
@@ -3912,30 +3924,6 @@
         "Release date": "2023",
         "Original channel": "Max",
         "Studio": "Titmouse, Inc.",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "Mulligan",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Robert Carlock",
-        "Release date": "May 12, 2023",
-        "Original channel": "Netflix",
-        "Studio": "Little Stranger, Inc.",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Clone High",
-        "Genre": "Sitcom",
-        "Seasons, episodes": "2 seasons",
-        "Show creator": "Phil Lord",
-        "Release date": "May 23, 2023",
-        "Original channel": "Max",
-        "Studio": "MTV Entertainment Studios",
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""

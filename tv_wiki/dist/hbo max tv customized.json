@@ -74,8 +74,16 @@
         "Genre": "True crime drama",
         "Premiere": "April 27, 2023",
         "Seasons": "7 episodes",
-        "Runtime": "51–58 min.",
-        "Status": "Miniseries ongoing"
+        "Runtime": "45–58 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Full Circle",
+        "Genre": "Mystery",
+        "Premiere": "July 13, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -99,7 +107,7 @@
         "Premiere": "November 26, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "37–48 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Generation",
@@ -123,7 +131,7 @@
         "Premiere": "May 6, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "19–23 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Hacks",
@@ -147,7 +155,7 @@
         "Premiere": "December 9, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "34–43 min.",
-        "Status": "Season 2 due to premiere in June 2023"
+        "Status": "Season 2 due to premiere on June 22, 2023"
       },
       {
         "Title": "Peacemaker",
@@ -259,8 +267,8 @@
         "Genre": "Sitcom",
         "Premiere": "September 30, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–26 min",
-        "Status": "Renewed"
+        "Runtime": "24–26 min.",
+        "Status": "Season 2 due to premiere on June 29, 2023"
       },
       {
         "Title": "Santa Inc.",
@@ -283,16 +291,8 @@
         "Genre": "Science fiction workplace comedy",
         "Premiere": "April 20, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "23–27 min.",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Clone High",
-        "Genre": "Satirical science fiction sitcom",
-        "Premiere": "May 23, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Renewed"
+        "Runtime": "23–31 min.",
+        "Status": "Pending"
       }
     ]
   },
@@ -314,7 +314,7 @@
       {
         "Title": "Dafne and the Rest",
         "Genre": "Comedy drama",
-        "Premiere": "October 26, 2021December 10, 2021&#91;e&#93;",
+        "Premiere": "October 26, 2021December 10, 2021&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Language": "Spanish",
@@ -366,6 +366,24 @@
         "Status": "Pending"
       },
       {
+        "Title": "This Is Luna",
+        "Genre": "Romantic comedy",
+        "Premiere": "November 13, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "29–35 min.",
+        "Language": "Portuguese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Poor Devil",
+        "Genre": "Adult animation",
+        "Premiere": "February 17, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "15–23 min.",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
         "Title": "Mariachis",
         "Genre": "Comedy drama",
         "Premiere": "March 2, 2023",
@@ -381,16 +399,25 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "49–54 min.",
         "Language": "Polish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Spy/Master",
         "Genre": "Spy drama",
         "Premiere": "May 19, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "50 min.",
+        "Runtime": "45–51 min.",
         "Language": "Romanian",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "VGLY",
+        "Genre": "Coming-of-age drama",
+        "Premiere": "May 25, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "29–34 min.",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -506,9 +533,9 @@
         "Partner/Country": "RTL+/Germany",
         "Premiere": "May 8, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–44 min.",
+        "Runtime": "43–51 min.",
         "Language": "German",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -578,8 +605,8 @@
         "Prev. network(s)": "DC Universe",
         "Premiere": "August 12, 2021",
         "Seasons": "2 seasons, 25 episodes",
-        "Runtime": "40–55 min.",
-        "Status": "Final season ongoing"
+        "Runtime": "40–56 min.",
+        "Status": "Ended"
       },
       {
         "Title": "The Other Two (seasons 2–3)",
@@ -587,7 +614,7 @@
         "Prev. network(s)": "Comedy Central",
         "Premiere": "August 26, 2021",
         "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "25–27 min.",
+        "Runtime": "25–35 min.",
         "Status": "Season 3 ongoing"
       },
       {
@@ -596,7 +623,7 @@
         "Prev. network(s)": "Boomerang",
         "Premiere": "October 1, 2021",
         "Seasons": "1 season, 11 episodes",
-        "Runtime": "22 min",
+        "Runtime": "22 min.",
         "Status": "Ended"
       },
       {
@@ -630,7 +657,7 @@
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 5, 2021December 23, 2021&#91;e&#93;",
+        "Premiere": "December 5, 2021December 23, 2021&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
         "Status": "Ended"
@@ -652,6 +679,15 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–51 min.",
         "Status": "Ended"
+      },
+      {
+        "Title": "Clone High (season 2)",
+        "Genre": "Satirical science fiction sitcom",
+        "Prev. network(s)": "MTV",
+        "Premiere": "May 23, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "25–27 min.",
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "Warrior (season 3)",
@@ -747,7 +783,7 @@
       {
         "Title": "The Missing",
         "Genre": "Crime drama",
-        "Premiere": "July 22, 2021October 14, 2021&#91;e&#93;",
+        "Premiere": "July 22, 2021October 14, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45 min.",
         "Exclusive region(s)": "Americas",
@@ -757,7 +793,7 @@
       {
         "Title": "Love Spells (Amarres)",
         "Genre": "Romantic comedy drama",
-        "Premiere": "August 12, 2021October 14, 2021&#91;e&#93;",
+        "Premiere": "August 12, 2021October 14, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44–51 min.",
         "Exclusive region(s)": "Americas",
@@ -767,12 +803,12 @@
       {
         "Title": "Rap Battlefield",
         "Genre": "Coming-of-age music drama",
-        "Premiere": "September 16, 2021November 4, 2021&#91;e&#93;",
+        "Premiere": "September 16, 2021November 4, 2021&#91;d&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "39–52 min.",
         "Exclusive region(s)": "Americas",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Status": "Season 2 due to premiere on June 15, 2023"
       },
       {
         "Title": "Before I Forget (Asesino del Olvido)",
@@ -787,7 +823,7 @@
       {
         "Title": "A Thousand Fangs",
         "Genre": "Military action drama",
-        "Premiere": "October 28, 2021December 9, 2021&#91;e&#93;",
+        "Premiere": "October 28, 2021December 9, 2021&#91;d&#93;",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "44–54 min.",
         "Exclusive region(s)": "Americas",
@@ -807,7 +843,7 @@
       {
         "Title": "Juanpa + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;e&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
         "Exclusive region(s)": "Americas",
@@ -817,7 +853,7 @@
       {
         "Title": "Sandy + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;e&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min.",
         "Exclusive region(s)": "Americas",
@@ -837,7 +873,7 @@
       {
         "Title": "Búnker",
         "Genre": "Action comedy",
-        "Premiere": "December 23, 2021January 27, 2022&#91;e&#93;",
+        "Premiere": "December 23, 2021January 27, 2022&#91;d&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min.",
         "Exclusive region(s)": "Americas",
