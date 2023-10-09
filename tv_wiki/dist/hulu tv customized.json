@@ -15,6 +15,15 @@
         "Notes": ""
       },
       {
+        "Title": "11.22.63",
+        "Genre": "Science fiction thriller",
+        "Premiere": "February 15, 2016",
+        "Finale": "April 4, 2016",
+        "Seasons": "8 episodes",
+        "Length": "44–81 min",
+        "Notes": ""
+      },
+      {
         "Title": "The Path",
         "Genre": "Drama",
         "Premiere": "March 30, 2016",
@@ -59,6 +68,15 @@
         "Notes": ""
       },
       {
+        "Title": "The Looming Tower",
+        "Genre": "Political drama",
+        "Premiere": "February 28, 2018",
+        "Finale": "April 18, 2018",
+        "Seasons": "10 episodes",
+        "Length": "50–51 min",
+        "Notes": ""
+      },
+      {
         "Title": "Castle Rock",
         "Genre": "Psychological horror anthology",
         "Premiere": "July 25, 2018",
@@ -86,6 +104,15 @@
         "Notes": ""
       },
       {
+        "Title": "The Act",
+        "Genre": "True crime drama",
+        "Premiere": "March 20, 2019",
+        "Finale": "May 1, 2019",
+        "Seasons": "8 episodes",
+        "Length": "48–60 min",
+        "Notes": ""
+      },
+      {
         "Title": "Wu-Tang: An American Saga",
         "Genre": "Drama",
         "Premiere": "September 4, 2019",
@@ -95,12 +122,48 @@
         "Notes": ""
       },
       {
+        "Title": "Looking for Alaska",
+        "Genre": "Teen drama",
+        "Premiere": "October 18, 2019",
+        "Finale": "October 18, 2019",
+        "Seasons": "8 episodes",
+        "Length": "48–57 min",
+        "Notes": ""
+      },
+      {
         "Title": "Reprisal",
         "Genre": "Drama",
         "Premiere": "December 6, 2019",
         "Finale": "December 6, 2019",
         "Seasons": "1 season, 10 episodes",
         "Length": "41–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Devs",
+        "Genre": "Science fiction drama",
+        "Premiere": "March 5, 2020",
+        "Finale": "April 16, 2020",
+        "Seasons": "8 episodes",
+        "Length": "43–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Little Fires Everywhere",
+        "Genre": "Drama",
+        "Premiere": "March 18, 2020",
+        "Finale": "April 22, 2020",
+        "Seasons": "8 episodes",
+        "Length": "53–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Mrs. America",
+        "Genre": "Historical drama",
+        "Premiere": "April 15, 2020",
+        "Finale": "May 27, 2020",
+        "Seasons": "9 episodes",
+        "Length": "43–48 min",
         "Notes": ""
       },
       {
@@ -131,12 +194,29 @@
         "Notes": ""
       },
       {
+        "Title": "A Teacher",
+        "Genre": "Drama",
+        "Premiere": "November 10, 2020",
+        "Finale": "December 29, 2020",
+        "Seasons": "10 episodes",
+        "Length": "21–29 min",
+        "Notes": ""
+      },
+      {
         "Title": "American Horror Stories",
         "Genre": "Horror anthology",
         "Premiere": "July 15, 2021",
         "Seasons": "2 seasons, 15 episodes",
         "Length": "38–49 min",
-        "Status": "Pending"
+        "Status": "Season 3 due to premiere on October 26, 2023"
+      },
+      {
+        "Title": "Nine Perfect Strangers",
+        "Genre": "Drama",
+        "Premiere": "August 18, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "42–55 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Y: The Last Man",
@@ -157,6 +237,87 @@
         "Notes": ""
       },
       {
+        "Title": "Dopesick",
+        "Genre": "Drama",
+        "Premiere": "October 13, 2021",
+        "Finale": "November 17, 2021",
+        "Seasons": "8 episodes",
+        "Length": "57–63 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Pam &amp; Tommy",
+        "Genre": "Biographical drama",
+        "Premiere": "February 2, 2022",
+        "Finale": "March 9, 2022",
+        "Seasons": "8 episodes",
+        "Length": "43–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Dropout",
+        "Genre": "True crime drama",
+        "Premiere": "March 3, 2022",
+        "Finale": "April 7, 2022",
+        "Seasons": "8 episodes",
+        "Length": "45–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Girl from Plainville",
+        "Genre": "True crime drama",
+        "Premiere": "March 29, 2022",
+        "Finale": "May 3, 2022",
+        "Seasons": "8 episodes",
+        "Length": "41–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Under the Banner of Heaven",
+        "Genre": "True crime drama",
+        "Premiere": "April 28, 2022",
+        "Finale": "June 2, 2022",
+        "Seasons": "7 episodes",
+        "Length": "63−68 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Candy",
+        "Genre": "True crime drama",
+        "Premiere": "May 9, 2022",
+        "Finale": "May 13, 2022",
+        "Seasons": "5 episodes",
+        "Length": "48−55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Pistol",
+        "Genre": "Biographical drama",
+        "Premiere": "May 31, 2022",
+        "Finale": "May 31, 2022",
+        "Seasons": "6 episodes",
+        "Length": "45−56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Mike",
+        "Genre": "Biographical drama",
+        "Premiere": "August 25, 2022",
+        "Finale": "September 15, 2022",
+        "Seasons": "8 episodes",
+        "Length": "21–33 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Patient",
+        "Genre": "Psychological thriller",
+        "Premiere": "August 30, 2022",
+        "Finale": "October 25, 2022",
+        "Seasons": "10 episodes",
+        "Length": "21–46 min",
+        "Notes": ""
+      },
+      {
         "Title": "Tell Me Lies",
         "Genre": "Drama",
         "Premiere": "September 7, 2022",
@@ -173,6 +334,24 @@
         "Status": "Renewed"
       },
       {
+        "Title": "Fleishman Is in Trouble",
+        "Genre": "Drama",
+        "Premiere": "November 17, 2022",
+        "Finale": "December 29, 2022",
+        "Seasons": "8 episodes",
+        "Length": "47–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Welcome to Chippendales",
+        "Genre": "Biographical drama",
+        "Premiere": "November 22, 2022",
+        "Finale": "January 3, 2023",
+        "Seasons": "8 episodes",
+        "Length": "35–46 min",
+        "Notes": ""
+      },
+      {
         "Title": "Kindred",
         "Genre": "Science fiction drama",
         "Premiere": "December 13, 2022",
@@ -182,12 +361,47 @@
         "Notes": ""
       },
       {
+        "Title": "Tiny Beautiful Things",
+        "Genre": "Drama",
+        "Premiere": "April 7, 2023",
+        "Finale": "April 7, 2023",
+        "Seasons": "8 episodes",
+        "Length": "26–32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Saint X",
+        "Genre": "Psychological drama",
+        "Premiere": "April 26, 2023",
+        "Finale": "May 31, 2023",
+        "Seasons": "8 episodes",
+        "Length": "42–53 min",
+        "Notes": ""
+      },
+      {
         "Title": "Class of '09",
         "Genre": "Crime thriller",
         "Premiere": "May 10, 2023",
+        "Finale": "June 21, 2023",
         "Seasons": "8 episodes",
-        "Length": "38–48 min",
-        "Status": "Miniseries ongoing"
+        "Length": "37–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Black Cake",
+        "Genre": "Historical drama",
+        "Premiere": "November 1, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A Murder at the End of the World",
+        "Genre": "Murder mystery",
+        "Premiere": "November 14, 2023",
+        "Seasons": "7 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -291,9 +505,19 @@
         "Title": "Ramy",
         "Genre": "Comedy drama",
         "Premiere": "April 19, 2019",
+        "Finale": "September 30, 2022",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "23–34 min",
-        "Status": "Pending"
+        "Notes": ""
+      },
+      {
+        "Title": "Four Weddings and a Funeral",
+        "Genre": "Romantic comedy anthology series",
+        "Premiere": "July 31, 2019",
+        "Finale": "September 11, 2019",
+        "Seasons": "10 episodes",
+        "Length": "44–50 min",
+        "Notes": ""
       },
       {
         "Title": "Dollface",
@@ -317,9 +541,10 @@
         "Title": "The Great",
         "Genre": "Historical comedy",
         "Premiere": "May 15, 2020",
+        "Finale": "May 12, 2023",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "48–57 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Woke",
@@ -334,25 +559,27 @@
         "Title": "Reservation Dogs",
         "Genre": "Teen comedy drama",
         "Premiere": "August 9, 2021",
-        "Seasons": "2 seasons, 18 episodes",
-        "Length": "24–32 min",
-        "Status": "Season 3 due to premiere on August 2, 2023"
+        "Finale": "September 27, 2023",
+        "Seasons": "3 seasons, 28 episodes",
+        "Length": "24–34 min",
+        "Notes": ""
       },
       {
         "Title": "Only Murders in the Building",
-        "Genre": "Comedy drama/Mystery",
+        "Genre": "Mystery comedy drama",
         "Premiere": "August 31, 2021",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Length": "28–37 min",
-        "Status": "Season 3 due to premiere on August 8, 2023"
+        "Status": "Renewed"
       },
       {
         "Title": "How I Met Your Father",
         "Genre": "Sitcom",
         "Premiere": "January 18, 2022",
+        "Finale": "July 11, 2023",
         "Seasons": "2 seasons, 30 episodes",
         "Length": "22–25 min",
-        "Status": "Season 2 ongoing"
+        "Notes": ""
       },
       {
         "Title": "Life &amp; Beth",
@@ -366,9 +593,9 @@
         "Title": "The Bear",
         "Genre": "Comedy drama",
         "Premiere": "June 23, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "20–47 min",
-        "Status": "Season 2 due to premiere on June 22, 2023"
+        "Seasons": "2 seasons, 18 episodes",
+        "Length": "20–66 min",
+        "Status": "Pending"
       },
       {
         "Title": "Maggie",
@@ -383,9 +610,9 @@
         "Title": "This Fool",
         "Genre": "Comedy",
         "Premiere": "August 12, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "22–31 min",
-        "Status": "Season 2 due to premiere on July 28, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Reboot",
@@ -394,6 +621,15 @@
         "Finale": "October 25, 2022",
         "Seasons": "1 season, 8 episodes",
         "Length": "22–33 min",
+        "Notes": ""
+      },
+      {
+        "Title": "History of the World, Part II",
+        "Genre": "Sketch comedy",
+        "Premiere": "March 6, 2023",
+        "Finale": "March 9, 2023",
+        "Seasons": "8 episodes",
+        "Length": "21–30 min",
         "Notes": ""
       },
       {
@@ -408,8 +644,25 @@
         "Title": "Up Here",
         "Genre": "Musical romantic comedy",
         "Premiere": "March 24, 2023",
+        "Finale": "March 24, 2023",
         "Seasons": "1 season, 8 episodes",
         "Length": "24–31 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Other Black Girl",
+        "Genre": "Dark comedy psychological thriller",
+        "Premiere": "September 13, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "25–32 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Goosebumps",
+        "Genre": "Horror comedy",
+        "Premiere": "October 13, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -424,9 +677,9 @@
         "Title": "Solar Opposites",
         "Genre": "Science fiction sitcom",
         "Premiere": "May 8, 2020",
-        "Seasons": "3 seasons, 29 episodes",
+        "Seasons": "4 seasons, 40 episodes",
         "Length": "22–25 min",
-        "Status": "Renewed for seasons 4–5"
+        "Status": "Renewed"
       },
       {
         "Title": "Hit-Monkey",
@@ -517,7 +770,7 @@
         "Genre": "Satire dark comedy",
         "Partner/Country": "Sky Italia/Italy",
         "Premiere": "May 17, 2019",
-        "Finale": "",
+        "Finale": "May 17, 2019",
         "Seasons": "6 episodes",
         "Length": "40–46 min",
         "Notes": ""
@@ -537,7 +790,7 @@
         "Genre": "Drama",
         "Partner/Country": "Channel 4/United Kingdom",
         "Premiere": "November 22, 2019",
-        "Finale": "",
+        "Finale": "November 22, 2019",
         "Seasons": "4 episodes",
         "Length": "47 min",
         "Notes": ""
@@ -567,7 +820,7 @@
         "Genre": "Drama",
         "Partner/Country": "BBC Three/United Kingdom",
         "Premiere": "April 29, 2020",
-        "Finale": "",
+        "Finale": "April 29, 2020",
         "Seasons": "12 episodes",
         "Length": "21–33 min",
         "Notes": ""
@@ -617,16 +870,17 @@
         "Genre": "Mystery teen drama",
         "Partner/Country": "YTV/Canada",
         "Premiere": "December 4, 2020",
-        "Seasons": "2 seasons, 23 episodes",
+        "Finale": "July 26, 2023",
+        "Seasons": "3 seasons, 31 episodes",
         "Length": "40–46 min",
-        "Status": "Final season due to premiere in July 2023"
+        "Notes": ""
       },
       {
         "Title": "The Sister",
         "Genre": "Psychological thriller",
         "Partner/Country": "ITV/United Kingdom",
         "Premiere": "January 22, 2021",
-        "Finale": "",
+        "Finale": "January 22, 2021",
         "Seasons": "4 episodes",
         "Length": "45–46 min",
         "Notes": ""
@@ -636,25 +890,25 @@
         "Genre": "Animated family comedy",
         "Partner/Country": "Peacock/United States",
         "Premiere": "September 23, 2021",
-        "Seasons": "6 seasons, 39 episodes",
+        "Seasons": "7 seasons, 45 episodes",
         "Length": "23 min",
-        "Status": "Season 7 due to premiere on July 27, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
         "Genre": "Animated adventure",
         "Partner/Country": "Peacock/United States",
         "Premiere": "December 23, 2021",
-        "Seasons": "5 seasons, 32 episodes",
+        "Seasons": "7 seasons, 46 episodes",
         "Length": "23 min",
-        "Status": "Season 6 due to premiere on June 15, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Conversations with Friends",
         "Genre": "Drama",
         "Partner/Country": "BBC Three/United Kingdom",
         "Premiere": "May 15, 2022",
-        "Finale": "",
+        "Finale": "May 15, 2022",
         "Seasons": "12 episodes",
         "Length": "25–31 min",
         "Notes": ""
@@ -701,9 +955,28 @@
         "Genre": "Comedy drama",
         "Partner/Country": "Disney+ (Star Hub)/United Kingdom",
         "Premiere": "June 14, 2023",
+        "Finale": "June 14, 2023",
         "Seasons": "8 episodes",
+        "Length": "38–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Spellbound",
+        "Genre": "Fantasy teen drama",
+        "Partner/Country": "France Television/FranceZDF/Germany",
+        "Premiere": "August 31, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "23–24 min",
+        "Status": "Season 1, part 2 due to premiere on November 20, 2023Renewed"
+      },
+      {
+        "Title": "Fright Krewe",
+        "Genre": "Animated horror",
+        "Partner/Country": "Peacock/United States",
+        "Premiere": "October 2, 2023",
+        "Seasons": "1 season, 10 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -748,9 +1021,10 @@
         "Genre": "Science fiction comedy-drama",
         "Prev. network(s)": "Fox",
         "Premiere": "June 2, 2022",
+        "Finale": "August 4, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "60–88 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Duncanville (season 3B)",
@@ -763,237 +1037,13 @@
         "Notes": ""
       },
       {
-        "Title": "Futurama (season 8)",
+        "Title": "Futurama (season 8A)",
         "Genre": "Animated science-fiction sitcom",
         "Prev. network(s)": "Fox (seasons 1–4)Comedy Central (seasons 5–7)",
         "Premiere": "July 24, 2023",
-        "Seasons": "1 season, 20 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Miniseries"
-    ],
-    "data": [
-      {
-        "Title": "11.22.63",
-        "Genre": "Science fiction thriller",
-        "Premiere": "February 15, 2016",
-        "Finale": "April 4, 2016",
-        "Seasons": "8 episodes",
-        "Length": "44–81 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Looming Tower",
-        "Genre": "Political drama",
-        "Premiere": "February 28, 2018",
-        "Finale": "April 18, 2018",
-        "Seasons": "10 episodes",
-        "Length": "50–51 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Act",
-        "Genre": "True crime drama",
-        "Premiere": "March 20, 2019",
-        "Finale": "May 1, 2019",
-        "Seasons": "8 episodes",
-        "Length": "48–60 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Four Weddings and a Funeral",
-        "Genre": "Romantic comedy anthology series",
-        "Premiere": "July 31, 2019",
-        "Finale": "September 11, 2019",
-        "Seasons": "10 episodes",
-        "Length": "44–50 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Looking for Alaska",
-        "Genre": "Teen drama",
-        "Premiere": "October 18, 2019",
-        "Finale": "October 18, 2019",
-        "Seasons": "8 episodes",
-        "Length": "48–57 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Devs",
-        "Genre": "Science fiction drama",
-        "Premiere": "March 5, 2020",
-        "Finale": "April 16, 2020",
-        "Seasons": "8 episodes",
-        "Length": "43–57 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Little Fires Everywhere",
-        "Genre": "Drama",
-        "Premiere": "March 18, 2020",
-        "Finale": "April 22, 2020",
-        "Seasons": "8 episodes",
-        "Length": "53–60 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Mrs. America",
-        "Genre": "Historical drama",
-        "Premiere": "April 15, 2020",
-        "Finale": "May 27, 2020",
-        "Seasons": "9 episodes",
-        "Length": "43–48 min",
-        "Notes": ""
-      },
-      {
-        "Title": "A Teacher",
-        "Genre": "Drama",
-        "Premiere": "November 10, 2020",
-        "Finale": "December 29, 2020",
-        "Seasons": "10 episodes",
-        "Length": "21–29 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Nine Perfect Strangers",
-        "Genre": "Drama",
-        "Premiere": "August 18, 2021",
-        "Finale": "September 22, 2021",
-        "Seasons": "8 episodes",
-        "Length": "42–55 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Dopesick",
-        "Genre": "Drama",
-        "Premiere": "October 13, 2021",
-        "Finale": "November 17, 2021",
-        "Seasons": "8 episodes",
-        "Length": "57–63 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Pam &amp; Tommy",
-        "Genre": "Biographical drama",
-        "Premiere": "February 2, 2022",
-        "Finale": "March 9, 2022",
-        "Seasons": "8 episodes",
-        "Length": "43–51 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Dropout",
-        "Genre": "True crime drama",
-        "Premiere": "March 3, 2022",
-        "Finale": "April 7, 2022",
-        "Seasons": "8 episodes",
-        "Length": "45–55 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Girl from Plainville",
-        "Genre": "True crime drama",
-        "Premiere": "March 29, 2022",
-        "Finale": "May 3, 2022",
-        "Seasons": "8 episodes",
-        "Length": "41–49 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Under the Banner of Heaven",
-        "Genre": "True crime drama",
-        "Premiere": "April 28, 2022",
-        "Finale": "June 2, 2022",
-        "Seasons": "7 episodes",
-        "Length": "63−68 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Candy",
-        "Genre": "True crime drama",
-        "Premiere": "May 9, 2022",
-        "Finale": "May 13, 2022",
-        "Seasons": "5 episodes",
-        "Length": "48−55 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Pistol",
-        "Genre": "Biographical drama",
-        "Premiere": "May 31, 2022",
-        "Finale": "May 31, 2022",
-        "Seasons": "6 episodes",
-        "Length": "45−56 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Mike",
-        "Genre": "Biographical drama",
-        "Premiere": "August 25, 2022",
-        "Finale": "September 15, 2022",
-        "Seasons": "8 episodes",
-        "Length": "21–33 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Patient",
-        "Genre": "Psychological thriller",
-        "Premiere": "August 30, 2022",
-        "Finale": "October 25, 2022",
-        "Seasons": "10 episodes",
-        "Length": "21–46 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Fleishman Is in Trouble",
-        "Genre": "Drama",
-        "Premiere": "November 17, 2022",
-        "Finale": "December 29, 2022",
-        "Seasons": "8 episodes",
-        "Length": "47–52 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Welcome to Chippendales",
-        "Genre": "Biographical drama",
-        "Premiere": "November 22, 2022",
-        "Finale": "January 3, 2023",
-        "Seasons": "8 episodes",
-        "Length": "35–46 min",
-        "Notes": ""
-      },
-      {
-        "Title": "History of the World, Part II",
-        "Genre": "Sketch comedy",
-        "Premiere": "March 6, 2023",
-        "Finale": "March 9, 2023",
-        "Seasons": "8 episodes",
-        "Length": "21–30 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Tiny Beautiful Things",
-        "Genre": "Drama",
-        "Premiere": "April 7, 2023",
-        "Finale": "April 7, 2023",
-        "Seasons": "8 episodes",
-        "Length": "26–32 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Saint X",
-        "Genre": "Psychological drama",
-        "Premiere": "April 26, 2023",
-        "Finale": "May 31, 2023",
-        "Seasons": "8 episodes",
-        "Length": "42–53 min",
-        "Notes": ""
+        "Seasons": "1 season, 10 episodes",
+        "Length": "25–26 min",
+        "Status": "Renewed"
       }
     ]
   },
@@ -1065,6 +1115,18 @@
         "Genre": "Reality",
         "Premiere": "April 13, 2023",
         "Length": "1 h 12 min"
+      },
+      {
+        "Title": "Impact x Nightline: Lizzo's Legal Limbo",
+        "Genre": "News magazine",
+        "Premiere": "September 28, 2023",
+        "Length": "TBA"
+      },
+      {
+        "Title": "Impact x Nightline: Ruby Franke: A Momfluencer's Double Life?",
+        "Genre": "News magazine",
+        "Premiere": "October 5, 2023",
+        "Length": "TBA"
       }
     ]
   }

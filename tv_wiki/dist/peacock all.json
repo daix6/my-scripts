@@ -124,6 +124,14 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "41–50 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Continental: From the World of John Wick",
+        "Genre": "Action thriller",
+        "Premiere": "September 22, 2023",
+        "Seasons": "3 episodes",
+        "Length": "79–97 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -193,17 +201,17 @@
         "Title": "Killing It",
         "Genre": "Comedy",
         "Premiere": "March 31, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Length": "28−32 min.",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "The Resort",
         "Genre": "Crime comedy",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "34–35 min.",
-        "Status": "Pending"
+        "Length": "31-39 min.",
+        "Status": "Ended"
       },
       {
         "Title": "Pitch Perfect: Bumper in Berlin",
@@ -211,7 +219,7 @@
         "Premiere": "November 23, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "27–31 min.",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "The Best Man: The Final Chapters",
@@ -251,30 +259,22 @@
         "Premiere": "May 4, 2023",
         "Seasons": "1 season, 8 episodes",
         "Length": "23–32 min.",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Based on a True Story",
         "Genre": "Comedy thriller",
         "Premiere": "June 8, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "23–44 min.",
+        "Length": "25–55 min.",
         "Status": "Pending"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
       },
       {
         "Title": "Twisted Metal",
         "Genre": "Action comedy",
         "Premiere": "July 27, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "30 min.",
+        "Length": "23–32 min.",
         "Status": "Pending"
       }
     ]
@@ -331,7 +331,7 @@
         "Premiere": "May 25, 2023",
         "Seasons": "1 season, 6 episodes",
         "Length": "19 min.",
-        "Status": "Pending"
+        "Status": "New episodes due to premiere on September 28, 2023"
       }
     ]
   },
@@ -573,6 +573,30 @@
         "Seasons": "1 season, 5 episodes",
         "Length": "47–55 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Myth of the Zodiac Killer",
+        "Subject": "True crime",
+        "Premiere": "July 11, 2023",
+        "Seasons": "2 episodes",
+        "Length": "60–70 min.",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Subject": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "John Carpenter's Suburban Screams",
+        "Subject": "Supernatural/Horror",
+        "Premiere": "October 13, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -609,7 +633,7 @@
       },
       {
         "Title": "Top Chef Family Style",
-        "Genre": "Reality competition",
+        "Genre": "Cooking competition",
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 9 episodes",
         "Length": "44 min.",
@@ -653,7 +677,7 @@
         "Premiere": "November 15, 2021",
         "Seasons": "3 seasons, 21 episodes",
         "Length": "21–55 min.",
-        "Status": "Renewed"
+        "Status": "Season 4 due to premiere in December 2023"
       },
       {
         "Title": "Baking It",
@@ -693,6 +717,22 @@
         "Premiere": "April 27, 2023",
         "Seasons": "1 season, 8 episodes",
         "Length": "46–56 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Love Island Games",
+        "Genre": "Reality competition",
+        "Premiere": "November 1, 2023",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -748,7 +788,7 @@
         "Title": "Hart to Heart",
         "Genre": "Talk show",
         "Premiere": "August 5, 2021",
-        "Seasons": "2 seasons, 22 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Length": "42–49 min.",
         "Status": "Pending"
       },
@@ -802,7 +842,7 @@
     "data": [
       {
         "Title": "Madagascar: A Little Wild",
-        "Partner": "Hulu",
+        "Partner/Region": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 7, 2020",
         "Seasons": "8 seasons, 50 episodes",
@@ -811,7 +851,7 @@
       },
       {
         "Title": "The Mighty Ones",
-        "Partner": "Hulu",
+        "Partner/Region": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 9, 2020",
         "Seasons": "4 seasons, 40 episodes",
@@ -820,7 +860,7 @@
       },
       {
         "Title": "Trolls: TrollsTopia",
-        "Partner": "Hulu",
+        "Partner/Region": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "November 19, 2020",
         "Seasons": "7 seasons, 52 episodes",
@@ -829,7 +869,7 @@
       },
       {
         "Title": "Epstein's Shadow: Ghislaine Maxwell",
-        "Partner": "Sky Documentaries",
+        "Partner/Region": "Sky Documentaries/United Kingdom",
         "Genre": "Docuseries",
         "Premiere": "June 24, 2021",
         "Seasons": "3 episodes",
@@ -838,34 +878,34 @@
       },
       {
         "Title": "The Croods: Family Tree",
-        "Partner": "Hulu",
+        "Partner/Region": "Hulu/United States",
         "Genre": "Animated family comedy",
         "Premiere": "September 23, 2021",
-        "Seasons": "6 seasons, 39 episodes",
+        "Seasons": "7 seasons, 45 episodes",
         "Length": "23 min.",
-        "Status": "Season 7 due to premiere on July 27, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
-        "Partner": "Hulu",
+        "Partner/Region": "Hulu/United States",
         "Genre": "Animated adventure",
         "Premiere": "December 23, 2021",
-        "Seasons": "5 seasons, 32 episodes",
+        "Seasons": "7 seasons, 46 episodes",
         "Length": "22 min.",
-        "Status": "Season 6 due to premiere on June 15, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Wolf Like Me",
-        "Partner": "Stan",
+        "Partner/Region": "Stan/Australia",
         "Genre": "Dark romantic comedy",
         "Premiere": "January 13, 2022",
         "Seasons": "1 season, 6 episodes",
         "Length": "22–28 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on October 19, 2023"
       },
       {
         "Title": "The Undeclared War",
-        "Partner": "Channel 4",
+        "Partner/Region": "Channel 4/United Kingdom",
         "Genre": "Cyber-thriller",
         "Premiere": "August 18, 2022",
         "Seasons": "6 episodes",
@@ -874,7 +914,7 @@
       },
       {
         "Title": "Last Light",
-        "Partner": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}StanViaplayMBC Group",
+        "Partner/Region": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}MBC Group/Middle East and North AfricaStan/AustraliaViaplay/Nordic countries",
         "Genre": "Thriller",
         "Premiere": "September 8, 2022",
         "Seasons": "5 episodes",
@@ -883,7 +923,7 @@
       },
       {
         "Title": "Abominable and the Invisible City",
-        "Partner": "Hulu",
+        "Partner/Region": "Hulu/United States",
         "Genre": "Animated adventure",
         "Premiere": "October 5, 2022",
         "Seasons": "2 seasons, 20 episodes",
@@ -892,11 +932,29 @@
       },
       {
         "Title": "The Makery",
-        "Partner": "Sky Kids",
+        "Partner/Region": "Sky Kids/United Kingdom",
         "Genre": "Educational",
         "Premiere": "January 12, 2023",
         "Seasons": "1 season, 13 episodes",
         "Length": "14–15 min.",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Partner/Region": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Fright Krewe",
+        "Partner/Region": "Animated horror",
+        "Genre": "Hulu/United States",
+        "Premiere": "October 2, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -962,7 +1020,7 @@
         "Status": "Ended"
       },
       {
-        "Title": "The Real Housewives of Miami (season 4–5)",
+        "Title": "The Real Housewives of Miami (seasons 4–5)",
         "Genre": "Reality",
         "Prev. network(s)": "Bravo",
         "Premiere": "December 16, 2021",
@@ -971,13 +1029,13 @@
         "Status": "Ended"
       },
       {
-        "Title": "Love Island (season 4)",
+        "Title": "Love Island (seasons 4–5)",
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "1 season, 38 episodes",
+        "Seasons": "2 seasons, 39 episodes",
         "Length": "42–65 min.",
-        "Status": "Renewed"
+        "Status": "Season 5 ongoing"
       },
       {
         "Title": "Days of Our Lives (season 58)",
@@ -1310,7 +1368,7 @@
         "Runtime": "Awaiting release"
       },
       {
-        "Title": "Untitled Please Don't Destroy film",
+        "Title": "Please Don't Destroy: The Treasure of Foggy Mountain",
         "Genre": "Comedy",
         "Release": "November 17, 2023",
         "Runtime": "TBA"
@@ -1448,6 +1506,12 @@
         "Subject": "True crime",
         "Release": "April 15, 2023",
         "Runtime": "52 min."
+      },
+      {
+        "Title": "American Nightmare: Becoming Cody Rhodes",
+        "Subject": "Biography",
+        "Release": "July 31, 2023",
+        "Runtime": "1 hour, 51 min."
       }
     ]
   },
@@ -1506,10 +1570,22 @@
         "Runtime": "1 hour, 27 min."
       },
       {
-        "Title": "Josh Jackson: Up Here Killing Myself",
+        "Title": "Josh Johnson: Up Here Killing Myself",
         "Genre": "Stand-up comedy",
         "Release": "February 17, 2023",
         "Runtime": "1 hour"
+      },
+      {
+        "Title": "Kevin Hart: Reality Check",
+        "Genre": "Stand-up comedy",
+        "Release": "July 6, 2023",
+        "Runtime": "58 min."
+      },
+      {
+        "Title": "Chris Fleming: Hell",
+        "Genre": "Comedy",
+        "Release": "August 18, 2023",
+        "Runtime": "1 hour, 9 min."
       }
     ]
   },
@@ -1533,14 +1609,6 @@
       "Drama"
     ],
     "data": [
-      {
-        "Title": "The Continental: From the World of John Wick",
-        "Genre": "Action-thriller",
-        "Premiere": "September 2023",
-        "Seasons": "3 episodes",
-        "Length": "TBA",
-        "Status": "Post-production"
-      },
       {
         "Title": "Apples Never Fall",
         "Genre": "Drama miniseries",
@@ -1596,14 +1664,6 @@
         "Seasons": "TBA",
         "Length": "1 season, 10 episodes",
         "Status": "Post-production"
-      },
-      {
-        "Title": "Untitled Jason Woliner series",
-        "Genre": "Mystery comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -1695,6 +1755,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "Orlando Bloom: To the Edge",
+        "Subject": "Extreme sports",
+        "Premiere": "TBA",
+        "Seasons": "3 episodes",
+        "Length": "60 min.",
+        "Status": "Series order"
+      },
+      {
         "Title": "Run Through the Line",
         "Subject": "Business",
         "Premiere": "TBA",
@@ -1720,20 +1788,62 @@
     ],
     "data": [
       {
-        "Title": "Love Island Games",
-        "Genre": "Reality",
-        "Premiere": "Late 2023",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Untitled non-monogamous island dating reality series",
         "Genre": "Dating show",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Lockerbie",
+        "Genre": "Drama miniseries",
+        "Partner": "Sky Max",
+        "Premiere": "2023",
+        "Seasons": "5 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Tattooist of Auschwitz",
+        "Genre": "Period drama miniseries",
+        "Partner": "Sky Atlantic",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "6 episodes",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Day of the Jackal",
+        "Genre": "Political thriller",
+        "Partner": "Sky Max",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Lego Jurassic Park: The Unofficial Retelling",
+        "Genre": "Science fiction comedy",
+        "Release": "Late 2023",
+        "Runtime": "22 min.",
+        "Language": "English"
       }
     ]
   },
@@ -1773,7 +1883,7 @@
       },
       {
         "Title": "Pulsaciones",
-        "Genre": "Medical drama",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1805,50 +1915,6 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Language": "Spanish",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "Fight Krewe",
-        "Genre": "Animated horror",
-        "Partner": "Hulu",
-        "Premiere": "2023",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Lockerbie",
-        "Genre": "Drama miniseries",
-        "Partner": "Sky Max",
-        "Premiere": "2023",
-        "Seasons": "5 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "The Tattooist of Auschwitz",
-        "Genre": "Period drama miniseries",
-        "Partner": "Sky Max",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Day of the Jackal",
-        "Genre": "Political thriller",
-        "Partner": "Sky Max",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
         "Status": "Series order"
       }
     ]
@@ -1920,10 +1986,6 @@
         "Genre": "Drama"
       },
       {
-        "Title": "Indivisible",
-        "Genre": "Fantasy animation"
-      },
-      {
         "Title": "The Islands",
         "Genre": "Period crime drama"
       },
@@ -1942,10 +2004,6 @@
       {
         "Title": "Lonely Hearts Club",
         "Genre": "Crime thriller comedy drama"
-      },
-      {
-        "Title": "Myth of the Zodiac Killer",
-        "Genre": "True crime docuseries"
       },
       {
         "Title": "Pure",
@@ -2010,6 +2068,10 @@
       {
         "Title": "World's Most Notorious Killers",
         "Genre": "True crime docuseries"
+      },
+      {
+        "Title": "You'll Never Believe What Happened to Lacey",
+        "Genre": "Comedy"
       },
       {
         "Title": "The Zone of Silence",

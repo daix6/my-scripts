@@ -60,18 +60,6 @@
         "Source": ""
       },
       {
-        "Title": "Paranormal Action Squad",
-        "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Show creator(s)": "Adam Montoya",
-        "Original release": "2016–present",
-        "Network": "YouTube Red",
-        "Studio": "Pickaxe Productions",
-        "Age rating": "—",
-        "Technique": "—",
-        "Source": ""
-      },
-      {
         "Title": "Freedom Fighters: The Ray",
         "Genre": "Action, Adventure, Science fiction, Superhero",
         "Seasons/episodes": "2 seasons, 12 episodes",
@@ -91,18 +79,6 @@
         "Original release": "2018–present",
         "Network": "CW Seed",
         "Studio": "Warner Bros. Animation",
-        "Age rating": "—",
-        "Technique": "—",
-        "Source": ""
-      },
-      {
-        "Title": "Dallas &amp; Robo",
-        "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 8 episodes",
-        "Show creator(s)": "Mike Roberts",
-        "Original release": "2018–present",
-        "Network": "YouTube Red",
-        "Studio": "ShadowMachine",
         "Age rating": "—",
         "Technique": "—",
         "Source": ""
@@ -167,7 +143,7 @@
       {
         "Title": "The Simpsons",
         "Genre": "Sitcom",
-        "Seasons/episodes": "33 seasons, 728 episodes",
+        "Seasons/episodes": "34 seasons, 750 episodes",
         "Show creator(s)": "Matt Groening",
         "Original release": "December 17, 1989 – present",
         "Network": "Fox",
@@ -695,7 +671,7 @@
       {
         "Title": "Clone High",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 seasons, 15 episodes",
+        "Seasons/episodes": "2 seasons, 23 episodes",
         "Show creator(s)": "Phil Lord",
         "Original release": "November 2, 2002 – present",
         "Network": "MTV",
@@ -785,7 +761,7 @@
         "Network": "MTV",
         "Studio": "Mainframe Entertainment",
         "Age rating": "TV-PG",
-        "Technique": "Traditional",
+        "Technique": "CGI",
         "Source": ""
       },
       {
@@ -1419,7 +1395,7 @@
         "Show creator(s)": "Pam Brady",
         "Original release": "June 7, 2010 – July 26, 2010",
         "Network": "TBS",
-        "Studio": "20th Television",
+        "Studio": "20th Century Fox Television",
         "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
@@ -1431,7 +1407,7 @@
         "Show creator(s)": "Dino Stamatopoulos",
         "Original release": "June 27, 2010 – March 25, 2012",
         "Network": "Adult Swim",
-        "Studio": "Fragical Productions (2010)",
+        "Studio": "Fragical Productions (season 1)",
         "Age rating": "TV-MA",
         "Technique": "Stop-motion",
         "Source": ""
@@ -1529,6 +1505,18 @@
         "Network": "Fox",
         "Studio": "Hess Films",
         "Age rating": "TV-PG",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Unsupervised",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 13 episodes",
+        "Show creator(s)": "David Hornsby",
+        "Original release": "January 19, 2012 –December 20, 2012",
+        "Network": "FX",
+        "Studio": "Floyd County Productions",
+        "Age rating": "TV-MA",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -1647,7 +1635,7 @@
         "Show creator(s)": "Justin Roiland",
         "Original release": "December 2, 2013 – present",
         "Network": "Adult Swim",
-        "Studio": "Justin Roiland's Solo Vanity Card Productions",
+        "Studio": "Justin Roiland's Solo Vanity Card Productions (seasons 1-6)",
         "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
@@ -1857,6 +1845,18 @@
         "Source": ""
       },
       {
+        "Title": "Paranormal Action Squad",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Adam Montoya",
+        "Original release": "November 16, 2016 – December 28, 2016",
+        "Network": "YouTube Red",
+        "Studio": "Pickaxe Productions",
+        "Age rating": "TV-14",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
         "Title": "Jeff &amp; Some Aliens",
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -1932,12 +1932,12 @@
         "Title": "The Jellies!",
         "Genre": "Sitcom",
         "Seasons/episodes": "2 season, 20 episodes",
-        "Show creator(s)": "Tyler, The Creator",
-        "Original release": "October 22, 2017 – June 23, 2019",
+        "Show creator(s)": "Tyler Okonma",
+        "Original release": "DOctober 22, 2017 – June 23, 2019",
         "Network": "Adult Swim",
         "Studio": "Bald Fade Productions",
-        "Age rating": "TV-14",
-        "Technique": "Flash",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -1947,7 +1947,7 @@
         "Show creator(s)": "Carson Mell",
         "Original release": "December 4, 2017 – December 25, 2017",
         "Network": "TBS",
-        "Studio": "• Rough Draft Studios",
+        "Studio": "Rough Draft Studios",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
         "Source": ""
@@ -1989,6 +1989,18 @@
         "Source": ""
       },
       {
+        "Title": "Dallas &amp; Robo",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Mike Roberts",
+        "Original release": "May 30, 2018",
+        "Network": "YouTube Red",
+        "Studio": "ShadowMachine",
+        "Age rating": "TV-14",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
         "Title": "Human Kind Of",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 21 episodes",
@@ -2027,11 +2039,11 @@
       {
         "Title": "Ballmastrz: 9009",
         "Genre": "Science fiction comedy",
-        "Seasons/episodes": "2 seasons, 20 episodes",
+        "Seasons/episodes": "2 seasons, 21 episodes",
         "Show creator(s)": "Christy Karacas",
-        "Original release": "April 9, 2018 – March 23, 2020",
+        "Original release": "April 9, 2018 – February 20, 2023",
         "Network": "Adult Swim",
-        "Studio": "Titmouse, Inc.",
+        "Studio": "Titmouse, Inc. (seasons 1-2)",
         "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
@@ -2039,9 +2051,9 @@
       {
         "Title": "Disenchantment",
         "Genre": "Sitcom",
-        "Seasons/episodes": "2 seasons, 40 episodes",
+        "Seasons/episodes": "3 seasons, 50 episodes",
         "Show creator(s)": "Matt Groening",
-        "Original release": "August 17, 2018 – February 9, 2022",
+        "Original release": "August 17, 2018 – September 1, 2023",
         "Network": "Netflix",
         "Studio": "The ULULU Company",
         "Age rating": "TV-14",
@@ -2067,7 +2079,7 @@
         "Show creator(s)": "Vernon Chatman",
         "Original release": "December 9, 2018 – June 14, 2020",
         "Network": "Adult Swim",
-        "Studio": "ShadowMachine",
+        "Studio": "ShadowMachine (season 1)",
         "Age rating": "TV-MA",
         "Technique": "Stop-motion",
         "Source": ""
@@ -2115,7 +2127,7 @@
         "Show creator(s)": "Max Simonet",
         "Original release": "April 1, 2019",
         "Network": "Adult Swim",
-        "Studio": "Awesome, Inc.",
+        "Studio": "Awesome Inc",
         "Age rating": "TV-MA",
         "Technique": "Flash",
         "Source": ""
@@ -2145,23 +2157,11 @@
         "Source": ""
       },
       {
-        "Title": "Tuca &amp; Bertie",
-        "Genre": "Surreal humor",
-        "Seasons/episodes": "2 seasons, 30 episodes",
-        "Show creator(s)": "Lisa Hanawalt",
-        "Original release": "",
-        "Network": "",
-        "Studio": "Williams Street (Season 2-onwards)",
-        "Age rating": "TV-14 (Season 2 -onwards)",
-        "Technique": "",
-        "Source": ""
-      },
-      {
         "Title": "Hell Den",
         "Genre": "Sketch comedy",
         "Seasons/episodes": "2 seasons, 12 episodes",
         "Show creator(s)": "Sean Cowhig",
-        "Original release": "May 10, 2019 – present",
+        "Original release": "May 10, 2019 – December 12, 2020",
         "Network": "DrinkTV",
         "Studio": "Dr. God Productions",
         "Age rating": "TV-MA",
@@ -2173,7 +2173,7 @@
         "Genre": "Talk show",
         "Seasons/episodes": "2 seasons, 11 episodes",
         "Show creator(s)": "Brian Ash",
-        "Original release": "June 9, 2019 – present",
+        "Original release": "June 9, 2019 – October 25, 2020",
         "Network": "Fuse",
         "Studio": "This is Just a Test",
         "Age rating": "TV-MA",
@@ -2185,7 +2185,7 @@
         "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Raphael Bob-Waksberg",
-        "Original release": "September 13, 2019 – present",
+        "Original release": "September 13, 2019 – April 29, 2022",
         "Network": "Amazon Prime Video",
         "Studio": "The Tornante Company",
         "Age rating": "TV-MA",
@@ -2195,13 +2195,13 @@
       {
         "Title": "Cake",
         "Genre": "Anthology",
-        "Seasons/episodes": "3 seasons, 28 episodes",
+        "Seasons/episodes": "5 seasons, 47 episodes",
         "Show creator(s)": "—",
-        "Original release": "September 25, 2019 – present",
+        "Original release": "September 25, 2019 – December 9, 2021",
         "Network": "FXX",
         "Studio": "SLAQR",
         "Age rating": "TV-MA",
-        "Technique": "Flash",
+        "Technique": "Flash/live-action",
         "Source": ""
       },
       {
@@ -2221,7 +2221,7 @@
         "Genre": "Action",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Brad Graeber",
-        "Original release": "October 3, 2019 – present",
+        "Original release": "October 3, 2019",
         "Network": "Netflix",
         "Studio": "Powerhouse Animation Studios",
         "Age rating": "TV-MA",
@@ -2245,7 +2245,7 @@
         "Genre": "Horror-comedy",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Frank Lesser",
-        "Original release": "October 10, 2019 – present",
+        "Original release": "October 10, 2019",
         "Network": "IMDb TV",
         "Studio": "Grammnet Productions",
         "Age rating": "—",
@@ -2266,11 +2266,11 @@
       },
       {
         "Title": "Harley Quinn",
-        "Genre": "Sitcom",
-        "Seasons/episodes": "2 season, 26 episodes",
+        "Genre": "Black comedy",
+        "Seasons/episodes": "3 season, 37 episodes",
         "Show creator(s)": "Justin Halpern",
         "Original release": "November 29, 2019 – present",
-        "Network": "DC Universe (Seasons 1–2)HBO Max (season 3)",
+        "Network": "DC Universe (Seasons 1–2)",
         "Studio": "DC Entertainment",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
@@ -2302,7 +2302,7 @@
       },
       {
         "Title": "Duncanville",
-        "Genre": "Sitcom",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "3 seasons, 39 episodes",
         "Show creator(s)": "Mike Scully",
         "Original release": "February 16, 2020 – October 18, 2022",
@@ -2338,7 +2338,7 @@
       },
       {
         "Title": "Solar Opposites",
-        "Genre": "Sitcom",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "3 seasons, 27 episodes",
         "Show creator(s)": "Justin Roiland",
         "Original release": "May 8, 2020 – present",
@@ -2355,14 +2355,14 @@
         "Show creator(s)": "JJ Villard",
         "Original release": "May 11, 2020 – June 15, 2020",
         "Network": "Adult Swim",
-        "Studio": "Villard Films",
+        "Studio": "Villard Film",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
         "Source": ""
       },
       {
         "Title": "Central Park",
-        "Genre": "Sitcom",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "3 seasons, 29 episodes",
         "Show creator(s)": "Josh Gad",
         "Original release": "May 29, 2020 – present",
@@ -2374,7 +2374,7 @@
       },
       {
         "Title": "Crossing Swords",
-        "Genre": "Sitcom",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "2 seasons, 20 episodes",
         "Show creator(s)": "John Harvatine IV",
         "Original release": "June 12, 2020 – December 10, 2021",
@@ -2422,7 +2422,7 @@
       },
       {
         "Title": "Hoops",
-        "Genre": "Sitcom",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Ben Hoffman",
         "Original release": "August 21, 2020",
@@ -2571,7 +2571,7 @@
         "Show creator(s)": "Michael Ouweleen",
         "Original release": "April 4, 2021 – present",
         "Network": "Adult Swim",
-        "Studio": "Awesome Inc",
+        "Studio": "Awesome Inc (season 1)",
         "Age rating": "TV-14",
         "Technique": "Flash",
         "Source": ""
@@ -2590,7 +2590,7 @@
       },
       {
         "Title": "HouseBroken",
-        "Genre": "Sitcom",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "1 season, 11 episodes",
         "Show creator(s)": "Gabrielle Allan",
         "Original release": "May 31, 2021 – present",
@@ -2650,7 +2650,7 @@
       },
       {
         "Title": "Teenage Euthanasia",
-        "Genre": "Comedy",
+        "Genre": "Black comedy",
         "Seasons/episodes": "1 season, 7 episodes",
         "Show creator(s)": "Alyson Levy",
         "Original release": "September 6, 2021 – present",
@@ -2662,7 +2662,7 @@
       },
       {
         "Title": "The Harper House",
-        "Genre": "Comedy",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Brad Neely",
         "Original release": "September 16 –November 4, 2021",
@@ -2674,7 +2674,7 @@
       },
       {
         "Title": "Chicago Party Aunt",
-        "Genre": "Comedy",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "1 seasons, 8 episodes",
         "Show creator(s)": "Chris Witaske",
         "Original release": "September 17, 2021 – present",
@@ -2686,7 +2686,7 @@
       },
       {
         "Title": "Ten Year Old Tom",
-        "Genre": "Comedy",
+        "Genre": "Animated sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Steve Dildarian",
         "Original release": "September 30, 2021 – present",
@@ -2748,7 +2748,7 @@
         "Title": "The Freak Brothers",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 8 episodes",
-        "Show creator(s)": "TBA",
+        "Show creator(s)": "Gilbert Shelton (Original Characters)",
         "Original release": "November 14, 2021 – present",
         "Network": "Tubi",
         "Studio": "Lionsgate Television",
@@ -2817,18 +2817,6 @@
         "Source": ""
       },
       {
-        "Title": "Supernatural Academy",
-        "Genre": "Fantasy",
-        "Seasons/episodes": "1 season, 16 episodes",
-        "Show creator(s)": "TBA",
-        "Original release": "January 20, 2022 – present",
-        "Network": "Peacock",
-        "Studio": "41 Entertainment",
-        "Age rating": "TV-14",
-        "Technique": "CGI",
-        "Source": ""
-      },
-      {
         "Title": "The Legend of Vox Machina",
         "Genre": "Action",
         "Seasons/episodes": "2 seasons, 24 episodes",
@@ -2845,7 +2833,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "RJ Fried",
-        "Original release": "February 9, 2022 – present",
+        "Original release": "February 9, 2022 – March 30, 2022",
         "Network": "Comedy Central",
         "Studio": "Spartina Productions",
         "Age rating": "TV-MA",
@@ -2857,7 +2845,7 @@
         "Genre": "Superhero",
         "Seasons/episodes": "1 season, 7 episodes",
         "Show creator(s)": "Adi Shankar",
-        "Original release": "March 1, 2022 – present",
+        "Original release": "March 1, 2022",
         "Network": "Netflix",
         "Studio": "Bootleg Universe",
         "Age rating": "TV-MA",
@@ -2869,7 +2857,7 @@
         "Genre": "Anthology series",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "TBA",
-        "Original release": "March 4, 2022 – present",
+        "Original release": "March 4, 2022",
         "Network": "Amazon Prime Video",
         "Studio": "Sony Pictures Television",
         "Age rating": "TV-MA",
@@ -2881,7 +2869,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Nick Kroll",
-        "Original release": "March 18, 2022 – present",
+        "Original release": "March 18, 2022 – June 9, 2023",
         "Network": "Netflix",
         "Studio": "Brutus Pink",
         "Age rating": "TV-MA",
@@ -2973,6 +2961,18 @@
         "Source": ""
       },
       {
+        "Title": "Unicorn: Warriors Eternal",
+        "Genre": "Fantasy drama",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Genndy Tartakovsky",
+        "Original release": "May 5, 2023 – June 30, 2023",
+        "Network": "Adult Swim",
+        "Studio": "Cartoon Network Studios",
+        "Age rating": "TV-PG",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
         "Title": "Mulligan",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -2982,6 +2982,102 @@
         "Studio": "Little Stranger, Inc.",
         "Age rating": "TV-14",
         "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "My Adventures with Superman",
+        "Genre": "Superhero",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Show creator(s)": "Jake Wyatt",
+        "Original release": "July 7, 2023 – present",
+        "Network": "Adult Swim",
+        "Studio": "Warner Bros. Animation",
+        "Age rating": "TV-PG",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Praise Petey",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Anna Drezen",
+        "Original release": "July 21, 2023 – present",
+        "Network": "Freeform",
+        "Studio": "20th Television Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Captain Fall",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 20 episodes",
+        "Show creator(s)": "Joel Trussell",
+        "Original release": "July 28, 2023 – present",
+        "Network": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Strange Planet",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Dan Harmon",
+        "Original release": "August 9, 2023 – present",
+        "Network": "Apple TV+",
+        "Studio": "Apple Studios",
+        "Age rating": "",
+        "Technique": "",
+        "Source": "Traditional"
+      },
+      {
+        "Title": "Adventure Time: Fionna and Cake",
+        "Genre": "Science fantasy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Adam Muto",
+        "Original release": "August 31 –September 28, 2023",
+        "Network": "Max",
+        "Studio": "Cartoon Network Studios",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Young Love",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 12 episodes",
+        "Show creator(s)": "Matthew A. Cherry",
+        "Original release": "September 21, 2023  – present",
+        "Network": "Max",
+        "Studio": "Sony Pictures Animation",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Krapopolis",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 2 episodes",
+        "Show creator(s)": "Dan Harmon",
+        "Original release": "September 24, 2023 – present",
+        "Network": "Fox",
+        "Studio": "Fox Entertainment",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Castlevania: Nocturne",
+        "Genre": "Action",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Clive Bradley",
+        "Original release": "September 28, 2023 – present",
+        "Network": "Netflix",
+        "Studio": "Project 51 Productions",
+        "Age rating": "",
+        "Technique": "Traditional",
         "Source": ""
       }
     ]
@@ -3377,7 +3473,7 @@
         "Genre": "Satire",
         "Seasons/episodes": "5 seasons, 93 episodes",
         "Show creator(s)": "Martín de Francisco",
-        "Original release": "November 14, 2019 – Present",
+        "Original release": "November 14, 2019",
         "Network": "Canal A",
         "Studio": "Conexión Creativa",
         "Source": ""
@@ -3854,7 +3950,19 @@
         "Genre": "Comedy drama",
         "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Zerocalcare",
-        "Original release": "November 17, 2021 – present",
+        "Original release": "November 17, 2021",
+        "Network": "Netflix",
+        "Studio": "Movements Production",
+        "Technique": "TV-MA",
+        "Source": "Flash",
+        "": ""
+      },
+      {
+        "Title": "This World Can't Tear Me Down",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Show creator(s)": "Zerocalcare",
+        "Original release": "June 9, 2023",
         "Network": "Netflix",
         "Studio": "Movements Production",
         "Technique": "TV-MA",
@@ -3868,18 +3976,6 @@
       "Upcoming"
     ],
     "data": [
-      {
-        "Title": "Hazbin Hotel",
-        "Genre": "Horror Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Vivienne Medrano",
-        "Release date": "Summer 2023",
-        "Original channel": "TBA",
-        "Studio": "A24 Television",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
       {
         "Title": "Exploding Kittens",
         "Genre": "Comedy",
@@ -3905,23 +4001,11 @@
         "Source": ""
       },
       {
-        "Title": "Krapopolis",
-        "Genre": "Sitcom",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Dan Harmon",
-        "Release date": "2023",
-        "Original channel": "Fox",
-        "Studio": "Fox Entertainment",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "Scavengers Reign",
         "Genre": "Sci-fi",
-        "Seasons, episodes": "TBA",
+        "Seasons, episodes": "1 season, 12 episodes",
         "Show creator": "Joe Bennett",
-        "Release date": "2023",
+        "Release date": "October 19, 2023",
         "Original channel": "Max",
         "Studio": "Titmouse, Inc.",
         "Age rating": "",
@@ -3929,27 +4013,51 @@
         "Source": ""
       },
       {
-        "Title": "This World Can't Tear Me Down",
-        "Genre": "Comedy",
+        "Title": "Blue Eye Samurai",
+        "Genre": "Action",
         "Seasons, episodes": "TBA",
-        "Show creator": "Zerocalcare",
-        "Release date": "June 9, 2023",
+        "Show creator": "Michael Green",
+        "Release date": "November 3, 2023",
         "Original channel": "Netflix",
-        "Studio": "Movements Production",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
+        "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
-        "Title": "Praise Petey",
-        "Genre": "Comedy",
+        "Title": "Hazbin Hotel",
+        "Genre": "Horror Comedy",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "Vivienne Medrano",
+        "Release date": "January 2024",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Bento Box Entertainment",
+        "Age rating": "TV-MA",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Creature Commandos",
+        "Genre": "Action",
         "Seasons, episodes": "TBA",
-        "Show creator": "Anna Drezen",
-        "Release date": "July 21, 2023",
-        "Original channel": "Freeform",
-        "Studio": "20th Television Animation",
+        "Show creator": "James Gunn",
+        "Release date": "2024",
+        "Original channel": "Max",
+        "Studio": "Warner Bros. Animation",
         "Age rating": "",
         "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "Kite Man: Hell Yeah!",
+        "Genre": "Superhero",
+        "Seasons, episodes": "1 season, 10 episodes",
+        "Show creator": "Justin Halpern",
+        "Release date": "2024",
+        "Original channel": "Max",
+        "Studio": "Delicious Non-Sequitur",
+        "Age rating": "",
+        "Technique": "Traditional",
         "Source": ""
       },
       {

@@ -41,9 +41,9 @@
         "Title": "Loki",
         "Genre": "Superhero fantasy action-adventure",
         "Premiere": "June 9, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "44–56 min",
-        "Status": "Season 2 due to premiere on October 6, 2023"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "The Mysterious Benedict Society",
@@ -99,7 +99,7 @@
         "Premiere": "November 30, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "46–60 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "National Treasure: Edge of History",
@@ -118,6 +118,22 @@
         "Status": "Pending"
       },
       {
+        "Title": "Secret Invasion",
+        "Genre": "Superhero spy action-thriller",
+        "Premiere": "June 21, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "38–58 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Ahsoka",
+        "Genre": "Space opera",
+        "Premiere": "August 22, 2023",
+        "Seasons": "8 episodes",
+        "Runtime": "37–57 min",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Awaiting release",
         "Genre": "Awaiting release",
         "Premiere": "Awaiting release",
@@ -126,28 +142,12 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Secret Invasion",
-        "Genre": "Superhero spy action-thriller",
-        "Premiere": "June 21, 2023",
-        "Seasons": "6 episodes",
-        "Runtime": "40–50 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Ahsoka",
-        "Genre": "Space opera",
-        "Premiere": "August 23, 2023",
-        "Seasons": "8 episodes",
-        "Runtime": "40–50 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Echo",
-        "Genre": "Superhero action",
-        "Premiere": "November 29, 2023",
-        "Seasons": "TBA",
+        "Title": "Percy Jackson and the Olympians",
+        "Genre": "Fantasy adventure",
+        "Premiere": "December 20, 2023",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -161,9 +161,9 @@
         "Title": "High School Musical: The Musical: The Series",
         "Genre": "Musical/Mockumentary",
         "Premiere": "November 12, 2019",
-        "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "31–51 min",
-        "Status": "Renewed"
+        "Seasons": "4 seasons, 38 episodes",
+        "Runtime": "31–64 min",
+        "Status": "Ended"
       },
       {
         "Title": "Diary of a Future President",
@@ -203,7 +203,7 @@
         "Premiere": "September 8, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "30–41 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Just Beyond",
@@ -235,7 +235,7 @@
         "Premiere": "November 16, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–35 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on November 8, 2023"
       },
       {
         "Title": "The Muppets Mayhem",
@@ -251,6 +251,22 @@
         "Premiere": "May 24, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "32–45 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Goosebumps",
+        "Genre": "Horror comedy",
+        "Premiere": "October 13, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -281,7 +297,7 @@
         "Title": "Chip 'n' Dale: Park Life",
         "Genre": "Comedy",
         "Premiere": "July 28, 2021",
-        "Seasons": "2 seasons, 18 episodes",
+        "Seasons": "2 seasons, 24 episodes",
         "Runtime": "23 min",
         "Status": "Pending"
       },
@@ -291,7 +307,7 @@
         "Premiere": "August 11, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "32–38 min",
-        "Status": "Renewed for seasons 2–3"
+        "Status": "Season 2 due to premiere in December 2023Renewed for season 3"
       },
       {
         "Title": "The Proud Family: Louder and Prouder",
@@ -299,15 +315,15 @@
         "Premiere": "February 23, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–32 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Star Wars: Young Jedi Adventures",
         "Genre": "Space opera",
         "Premiere": "May 4, 2023",
-        "Seasons": "1 season, 7 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Runtime": "26–27 min",
-        "Status": "Pending"
+        "Status": "New episodes due to premiere on November 8, 2023"
       }
     ]
   },
@@ -428,7 +444,7 @@
         "Premiere": "July 21, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "39–48 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on November 1, 2023"
       },
       {
         "Title": "Growing Up Animal",
@@ -492,7 +508,7 @@
         "Premiere": "September 8, 2022",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "40–48 min",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "Growing Up",
@@ -500,7 +516,7 @@
         "Premiere": "September 8, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–29 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Super/Natural",
@@ -516,7 +532,7 @@
         "Premiere": "October 5, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "47–53 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Save Our Squad with David Beckham",
@@ -546,9 +562,9 @@
         "Title": "MPower",
         "Subject": "Comic book industry/Filmmaking",
         "Premiere": "March 8, 2023",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "4 episodes",
         "Runtime": "36–41 min",
-        "Status": "Pending"
+        "Status": "Miniseries"
       },
       {
         "Title": "Rennervations",
@@ -556,7 +572,7 @@
         "Premiere": "April 12, 2023",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "48–51 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Matildas: The World at Our Feet",
@@ -573,6 +589,14 @@
         "Seasons": "4 episodes",
         "Runtime": "31–34 min",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Animals Up Close with Bertie Gregory",
+        "Subject": "Nature",
+        "Premiere": "September 13, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "38–44 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -742,7 +766,7 @@
         "Premiere": "January 24, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "5–8 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Disney Insider",
@@ -774,15 +798,15 @@
         "Premiere": "November 18, 2020",
         "Seasons": "1 season, 20 episodes",
         "Runtime": "9 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "2 seasons, 35 episodes",
+        "Seasons": "2 seasons, 42 episodes",
         "Runtime": "5–12 min",
-        "Status": "New episodes due to premiere on June 14, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Pixar Popcorn",
@@ -804,9 +828,9 @@
         "Title": "Disney's Launchpad",
         "Genre": "Anthology series",
         "Premiere": "May 28, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "14–21 min",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "How to Stay at Home",
@@ -862,15 +886,15 @@
         "Premiere": "June 29, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "11–12 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "I Am Groot",
         "Genre": "CGI-animated comedy-action",
         "Premiere": "August 10, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "6 min",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 10 episodes",
+        "Runtime": "4–6 min",
+        "Status": "Pending"
       },
       {
         "Title": "Cars on the Road",
@@ -878,7 +902,7 @@
         "Premiere": "September 8, 2022",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "10–14 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Star Wars: Tales of the Jedi",
@@ -897,20 +921,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Kizazi Moto: Generation Fire",
         "Genre": "Animated science fiction anthology",
         "Premiere": "July 5, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "10 min",
-        "Status": "Miniseries"
+        "Runtime": "15–17 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -922,29 +938,29 @@
     "data": [
       {
         "Title": "Disney's Fairy Tale Weddings (season 2)",
-        "Genre": "Docuseries",
+        "Genre": "Wedding docuseries",
+        "Prev. network(s)": "Freeform",
         "Premiere": "February 14, 2020",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "36–41 min",
-        "Previous network(s)": "Freeform",
         "Status": "Ended"
       },
       {
         "Title": "Star Wars: The Clone Wars (season 7)",
-        "Genre": "Animation/Space opera",
+        "Genre": "Animated  space opera",
+        "Prev. network(s)": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Cartoon Network (seasons 1–5)Netflix (season 6)",
         "Premiere": "February 21, 2020",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "22–31 min",
-        "Previous network(s)": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Cartoon Network (seasons 1–5)Netflix (season 6)",
         "Status": "Ended"
       },
       {
         "Title": "Weird but True! (season 3)",
-        "Genre": "Docuseries",
+        "Genre": "Educational children's docuseries",
+        "Prev. network(s)": "National Geographic",
         "Premiere": "August 14, 2020",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "23–26 min",
-        "Previous network(s)": "National Geographic",
         "Status": "Ended"
       }
     ]
@@ -1039,6 +1055,12 @@
         "Genre": "Making-of documentary",
         "Premiere": "January 25, 2023",
         "Runtime": "34 min"
+      },
+      {
+        "Title": "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Genre": "Animation",
+        "Premiere": "July 28, 2023",
+        "Runtime": "9 min"
       }
     ]
   },
@@ -1061,9 +1083,9 @@
         "Title": "Disney Gallery: The Mandalorian",
         "Genre": "Making-of docuseries",
         "Premiere": "May 4, 2020",
-        "Seasons": "2 seasons, 10 episodes",
+        "Seasons": "3 seasons, 11 episodes",
         "Runtime": "19–69 min",
-        "Status": "Season 3 due to premiere on June 28, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Into the Unknown: Making Frozen II",
@@ -1077,9 +1099,9 @@
         "Title": "Marvel Studios: Assembled",
         "Genre": "Making-of docuseries",
         "Premiere": "March 12, 2021",
-        "Seasons": "1 season, 14 episodes",
+        "Seasons": "2 seasons, 17 episodes",
         "Runtime": "42–67 min",
-        "Status": "New episode due to premiere on June 14, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "Voices Rising: The Music of Wakanda Forever",
@@ -1123,7 +1145,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "35–44 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Chorus: Success, Here I Go",
@@ -1141,6 +1163,15 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "20–37 min",
         "Language": "Spanish",
+        "Status": "Ended"
+      },
+      {
+        "Title": "FreeKs",
+        "Genre": "Musical/Mystery drama",
+        "Premiere": "June 28, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "25–46 min",
+        "Language": "Spanish",
         "Status": "Pending"
       },
       {
@@ -1153,13 +1184,13 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "FreeKs",
-        "Genre": "Drama/Mystery/Musical",
-        "Premiere": "June 28, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "40 min",
+        "Title": "4EVER",
+        "Genre": "Musical drama",
+        "Premiere": "October 11, 2023",
+        "Seasons": "5 episodes",
+        "Runtime": "30 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1183,19 +1214,19 @@
         "Title": "Weekend Family",
         "Genre": "Comedy",
         "Premiere": "February 23, 2022March 9, 2022&#91;g&#93;",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "25–33 min",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "25–37 min",
         "Language": "French",
-        "Status": "Season 2 due to premiere on June 28, 2023"
+        "Status": "Pending"
       },
       {
         "Title": "All the Same... or Not",
         "Genre": "Comedy drama",
         "Premiere": "May 25, 2022July 20, 2022&#91;g&#93;",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Runtime": "34–45 min",
         "Language": "Portuguese",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Daddies on Request",
@@ -1250,6 +1281,24 @@
         "Runtime": "28–36 min",
         "Language": "Portuguese",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "C.H.U.E.C.O",
+        "Genre": "Sitcom",
+        "Premiere": "July 14, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "19–34 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "L-POP",
+        "Genre": "Musical comedy drama",
+        "Premiere": "September 27, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "29–43 min",
+        "Language": "Spanish",
+        "Status": "Pending"
       }
     ]
   },
@@ -1268,25 +1317,6 @@
         "Runtime": "40–62 min",
         "Language": "Spanish",
         "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "In the Soop: Friendcation",
-        "Genre": "Reality",
-        "Partner/Country": "JTBC/South Korea",
-        "Premiere": "July 22, 2022October 19, 2022&#91;g&#93;",
-        "Seasons": "4 episodes",
-        "Runtime": "53–62 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
       }
     ]
   },
@@ -1351,6 +1381,99 @@
         "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Three Detectives",
+        "Genre": "Teen drama/Crime procedural",
+        "Premiere": "September 6, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "34–41 min",
+        "Exclusive region(s)": "Selected territories",
+        "Language": "German",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Language": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "The Artful Dodger",
+        "Genre": "Action-adventure drama",
+        "Premiere": "November 29, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "60 min",
+        "Exclusive region(s)": "Australia",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "In the Soop: Friendcation",
+        "Genre": "Reality",
+        "Partner/Region": "JTBC/South Korea",
+        "Premiere": "July 22, 2022October 19, 2022&#91;g&#93;",
+        "Seasons": "4 episodes",
+        "Runtime": "53–62 min",
+        "Exclusive region(s)": "Selected territories",
+        "Language": "Korean",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "A música está servida",
+        "Genre": "Cooking show",
+        "Partner/Region": "Radio Disney/Latin America",
+        "Premiere": "August 25, 2023",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "24–26 min",
+        "Exclusive region(s)": "Brazil",
+        "Language": "Portuguese",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "La música está servida",
+        "Genre": "Cooking show",
+        "Partner/Region": "Radio Disney/Latin America",
+        "Premiere": "August 25, 2023",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "24–28 min",
+        "Exclusive region(s)": "Latin America excluding Brazil",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Mi música, mi tierra",
+        "Genre": "Music docuseries",
+        "Partner/Region": "Radio Disney/Latin America",
+        "Premiere": "September 1, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "30–46 min",
+        "Exclusive region(s)": "Latin America excluding Brazil",
+        "Language": "Spanish",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Minha música, minha tierra",
+        "Genre": "Music docuseries",
+        "Partner/Region": "Radio Disney/Latin America",
+        "Premiere": "September 1, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "28–30 min",
+        "Exclusive region(s)": "Brazil",
+        "Language": "Portuguese",
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -1370,6 +1493,17 @@
         "Exclusive region(s)": "North America",
         "Language": "English",
         "Status": "Ended"
+      },
+      {
+        "Title": "Italia's Got Talent (season 13)",
+        "Genre": "Reality competition",
+        "Premiere": "September 1, 2023",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "49–96 min",
+        "Previous network(s)": "Canale 5 (seasons 1–5)Sky Uno/TV8 (seasons 6–12)",
+        "Exclusive region(s)": "Italy",
+        "Language": "Italian",
+        "Status": "Pending"
       }
     ]
   },
@@ -1421,11 +1555,11 @@
         "Genre": "Mystery teen drama",
         "Original network/Region": "Hulu/United StatesYTV/Canada",
         "Premiere date": "April 6, 2022",
-        "Seasons": "2 seasons, 23 episodes",
+        "Seasons": "3 seasons, 31 episodes",
         "Runtime": "40–46 min",
         "Exclusive region(s)": "Latin America",
         "Language": "English",
-        "Status": "Renewed for final season"
+        "Status": "Ended"
       },
       {
         "Title": "Delicacies Destiny",
@@ -1494,31 +1628,15 @@
         "Title": "Star Wars: Skeleton Crew",
         "Genre": "Space opera",
         "Premiere": "2023",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Daredevil: Born Again",
-        "Genre": "Superhero action",
-        "Premiere": "Early 2024",
-        "Seasons": "1 season, 18 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Ironheart",
-        "Genre": "Superhero action",
-        "Premiere": "2024",
-        "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Percy Jackson and the Olympians",
-        "Genre": "Fantasy adventure",
-        "Premiere": "2024",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Echo",
+        "Genre": "Superhero action",
+        "Premiere": "January 2024",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Post-production"
       },
@@ -1528,6 +1646,22 @@
         "Premiere": "2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Ironheart",
+        "Genre": "Superhero action",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Daredevil: Born Again",
+        "Genre": "Superhero action",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 18 episodes",
+        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -1536,22 +1670,6 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "45 min",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Nautilus",
-        "Genre": "Adventure",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Spiderwick Chronicles",
-        "Genre": "Fantasy adventure",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
         "Status": "Filming"
       }
     ]
@@ -1563,24 +1681,16 @@
     ],
     "data": [
       {
-        "Title": "Agatha: Coven of Chaos",
+        "Title": "Agatha: Darkhold Diaries",
         "Genre": "Supernatural superhero dark comedy",
-        "Premiere": "2024",
+        "Premiere": "Late 2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Post-production"
       },
       {
-        "Title": "Goosebumps",
-        "Genre": "Horror comedy",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Wonder Man",
-        "Genre": "Superhero action-comedy",
+        "Genre": "Superhero action comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1621,14 +1731,6 @@
         "Status": "In production"
       },
       {
-        "Title": "X-Men '97",
-        "Genre": "Superhero drama",
-        "Premiere": "Late 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "In productionRenewed"
-      },
-      {
         "Title": "Iwájú",
         "Genre": "Science fiction drama",
         "Premiere": "2023",
@@ -1643,6 +1745,14 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Status": "Pre-production"
+      },
+      {
+        "Title": "X-Men '97",
+        "Genre": "Superhero drama",
+        "Premiere": "Early 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "In productionRenewed"
       },
       {
         "Title": "Tiana",
@@ -1667,6 +1777,38 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "In production"
+      },
+      {
+        "Title": "The Doomies",
+        "Genre": "Adventure comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "In production"
+      },
+      {
+        "Title": "Dragon Striker",
+        "Genre": "Science fiction drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "In production"
+      },
+      {
+        "Title": "Magicampers",
+        "Genre": "Preschool",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Sunnyridge 3",
+        "Genre": "Comedy mystery",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -1758,14 +1900,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Parenting Without Borders",
-        "Subject": "Travel",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Photographer",
         "Subject": "Photography",
         "Premiere": "TBA",
@@ -1810,23 +1944,6 @@
   {
     "category": [
       "Upcoming original programming",
-      "Unscripted",
-      "Reality"
-    ],
-    "data": [
-      {
-        "Title": "The Maze",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
       "Shorts"
     ],
     "data": [
@@ -1848,7 +1965,7 @@
     "data": [
       {
         "Title": "Genius (season 4)",
-        "Genre": "Anthology/biographical drama",
+        "Genre": "Biographical drama anthology",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1880,34 +1997,10 @@
     ],
     "data": [
       {
-        "Title": "Releyendo Mafalda",
-        "Genre": "Animation docuseries",
-        "Premiere": "2023",
-        "Seasons": "4 episodes",
-        "Runtime": "30 min",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "C.H.U.E.C.O",
-        "Genre": "Sitcom",
-        "Premiere": "2023",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "30 min",
-        "Status": "Filming"
-      },
-      {
         "Title": "El poder de los girasoles",
         "Genre": "Drama",
         "Premiere": "2023",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "30 min",
-        "Status": "Filming"
-      },
-      {
-        "Title": "L-POP",
-        "Genre": "Musical comedy drama",
-        "Premiere": "2023",
-        "Seasons": "1 season, 6 episodes",
         "Runtime": "30 min",
         "Status": "Filming"
       },
@@ -1952,14 +2045,6 @@
         "Status": "Filming"
       },
       {
-        "Title": "4 Ever",
-        "Genre": "Musical drama",
-        "Premiere": "TBA",
-        "Seasons": "5 episodes",
-        "Runtime": "30 min",
-        "Status": "Post-production"
-      },
-      {
         "Title": "Champeta, el ritmo de la Tierra",
         "Genre": "Comedy drama/Musical/Fantasy",
         "Premiere": "TBA",
@@ -1968,12 +2053,12 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Mi música, mi tierra",
-        "Genre": "Music docuseries",
+        "Title": "El faro del fin del mundo",
+        "Genre": "Adventure drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       }
     ]
   },
@@ -1991,7 +2076,7 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "Portuguese",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
         "Title": "Tarã",
@@ -2000,15 +2085,15 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Language": "Portuguese",
-        "Status": "Filming"
+        "Status": "Post-production"
       },
       {
-        "Title": "Die drei&#160;!&#33;!",
-        "Genre": "Teen drama/Crime procedural",
-        "Premiere": "2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "30 min",
-        "Language": "German",
+        "Title": "To Cook a Bear",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Language": "Swedish",
         "Status": "Filming"
       },
       {
@@ -2019,15 +2104,6 @@
         "Runtime": "TBA",
         "Language": "Japanese",
         "Status": "In production"
-      },
-      {
-        "Title": "To Cook a Bear",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Language": "Swedish",
-        "Status": "Series order"
       },
       {
         "Title": "Martinha",
@@ -2053,83 +2129,8 @@
         "Premiere": "2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
+        "Exclusive region(s)": "Australia",
         "Status": "Filming"
-      },
-      {
-        "Title": "Brawn: The One Pound Formula 1 Team",
-        "Genre": "Sports docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Pre-production"
-      },
-      {
-        "Title": "Camden",
-        "Genre": "Pop culture docuseries",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Series order"
-      },
-      {
-        "Title": "In Vogue: The 1990s",
-        "Genre": "Fashion docuseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Wagatha Christie",
-        "Genre": "Scandal docuseries",
-        "Premiere": "TBA",
-        "Seasons": "3 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Selected territories",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "Art Attack: Modo Desafio (Argentina)",
-        "Genre": "DIY",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "22 min",
-        "Exclusive region(s)": "Latin America",
-        "Language": "Spanish",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Art Attack: Modo Desafio (Brasil)",
-        "Genre": "DIY",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "22 min",
-        "Exclusive region(s)": "Latin America",
-        "Language": "Portuguese",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Italia's Got Talent (season 13)",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Italy",
-        "Language": "Italian",
-        "Status": "Season order"
       }
     ]
   },
@@ -2151,7 +2152,7 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Doctor Who (season 14)",
+        "Title": "Doctor Who (seasons 14-15)",
         "Genre": "Science fiction/adventure drama",
         "Original network/Region": "BBC One/United Kingdom",
         "Premiere date": "Early 2024",
@@ -2159,7 +2160,7 @@
         "Runtime": "TBA",
         "Language": "English",
         "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
-        "Status": "Filming"
+        "Status": "Post-production; Renewed"
       }
     ]
   },
@@ -2196,10 +2197,6 @@
       {
         "Title": "Intercats",
         "Genre": "Animated sitcom"
-      },
-      {
-        "Title": "Lando",
-        "Genre": "Space opera"
       },
       {
         "Title": "Little Town",
@@ -2268,10 +2265,6 @@
       {
         "Title": "Untitled Detroit Youth Choir series",
         "Genre": "Musical drama"
-      },
-      {
-        "Title": "Untitled Indiana Jones series",
-        "Genre": "Action-adventure"
       },
       {
         "Title": "Untitled King Kong series",
