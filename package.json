@@ -6,6 +6,7 @@
   "author": "Shawn Dai",
   "license": "MIT",
   "dependencies": {
+    "https-proxy-agent": "^7.0.2",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "node-html-parser": "^4.1.3",

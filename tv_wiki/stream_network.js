@@ -89,7 +89,25 @@ const STREAM_NETWORKS = [
   },
   {
     name: 'amazon',
-    wiki: ['List of Amazon Prime Video original programming'],
+    wiki: ['List of Amazon Prime Video original programming', 'List of ended Amazon Prime Video original programming'],
+    combineBy([current, ended]) {
+      const currentByCategory = _.keyBy(current, table => table.category.join('~'));
+      const endedByCategory = _.keyBy(ended, table => table.category.join('~'));
+
+      const allKeys = _.uniq([..._.keys(currentByCategory), ..._.keys(endedByCategory)]);
+
+      const ret = [];
+      for (const key of allKeys) {
+        ret.push({
+          category: key.split('~'),
+          data: _.orderBy([
+            ...(currentByCategory[key]?.data ?? []),
+            ...(endedByCategory[key]?.data ?? []),
+          ], item => moment(item.Premiere || item["Release date"]).unix()),
+        });
+      }
+      return ret;
+    },
     filter(data) {
       return data.filter(table => {
         if ([...TYPICAL_HEADERS.upcoming, ...TYPICAL_HEADERS.film, ...TYPICAL_HEADERS.exclusive].includes(table.category[0]?.toLowerCase())) return false;
