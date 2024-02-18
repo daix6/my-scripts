@@ -19,7 +19,7 @@
         "Premiere": "September 24, 2017",
         "Seasons": "4 seasons, 55 episodes",
         "Runtime": "37–65 min.",
-        "Status": "Final season due to premiere in April 2024"
+        "Status": "Final season due to premiere on April 4, 2024"
       },
       {
         "Title": "Strange Angel",
@@ -113,9 +113,9 @@
         "Title": "Halo",
         "Genre": "Military science fiction",
         "Premiere": "March 24, 2022",
-        "Seasons": "1 season, 9 episodes",
+        "Seasons": "2 seasons, 17 episodes",
         "Runtime": "40–59 min.",
-        "Status": "Season 2 due to premiere on February 8, 2024"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "The Offer",
@@ -155,7 +155,7 @@
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "46–57 min.",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "School Spirits",
@@ -196,6 +196,14 @@
         "Seasons": "8 episodes",
         "Runtime": "32–57 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Sexy Beast",
+        "Genre": "Drama",
+        "Premiere": "January 25, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–55 min.",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -276,6 +284,22 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–30 min.",
         "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Knuckles",
+        "Genre": "Action-adventure comedy",
+        "Premiere": "April 26, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -615,6 +639,14 @@
         "Seasons": "8 episodes",
         "Runtime": "43–104 min.",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "#CyberSleuths: The Idaho Murders",
+        "Subject": "True crime",
+        "Premiere": "February 6, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "51–58 min.",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -727,7 +759,7 @@
         "Premiere": "May 17, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "21–26 min.",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on February 21, 2024"
       },
       {
         "Title": "Love ALLways",
@@ -837,22 +869,12 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Partner/Country": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "A Bloody Lucky Day",
         "Genre": "Psychological thriller",
         "Partner/Country": "TVING/South Korea",
         "Premiere": "February 1, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "46–65 min.",
         "Language": "Korean",
         "Status": "Pending"
       }
@@ -880,7 +902,7 @@
         "Premiere": "June 20, 2021",
         "Seasons": "2 seasons, 23 episodes",
         "Runtime": "45–57 min.",
-        "Status": "Season 4 due to premiere in 2024"
+        "Status": "Final season  due to premiere in May 2024"
       },
       {
         "Title": "RuPaul's Drag Race All Stars (seasons 6–8)",
@@ -1159,16 +1181,16 @@
         "Status": "Ended"
       },
       {
-        "Title": "Who Killed Meredith Kercher?",
+        "Title": "Who Murdered Meredith Kercher?",
         "Genre": "True crime docuseries",
         "Premiere": "August 25, 2022",
         "Seasons": "2 episodes",
-        "Runtime": "TBA",
+        "Runtime": "66–67 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Miniseries"
       },
       {
-        "Title": "The Girl in the Box: The True Story",
+        "Title": "Girl in the Box: The True Story",
         "Genre": "True crime docuseries",
         "Premiere": "September 19, 2022",
         "Seasons": "2 episodes",
@@ -1218,7 +1240,7 @@
         "Premiere": "October 12, 2022",
         "Seasons": "4 episodes",
         "Runtime": "45 min.",
-        "Exclusive region(s)": "Germany, Switzerland, Austria, Australia and the United Kingdom",
+        "Exclusive region(s)": "Germany, Switzerland, Austria, Australia and United Kingdom",
         "Status": "Miniseries"
       },
       {
@@ -1235,7 +1257,7 @@
         "Genre": "Paranormal docuseries",
         "Premiere": "October 28, 2022",
         "Seasons": "1 season, 4 episodes",
-        "Runtime": "60 min.",
+        "Runtime": "45–46 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Ended"
       },
@@ -1254,7 +1276,7 @@
         "Premiere": "December 1, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
         "Status": "Ended"
       },
       {
@@ -1291,7 +1313,7 @@
         "Seasons": "1 season, 7 episodes",
         "Runtime": "52–60 min.",
         "Exclusive region(s)": "United Kingdom, Ireland, Canada and Australia",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Betoota Advocate Presents",
@@ -1307,7 +1329,7 @@
         "Genre": "Reality",
         "Premiere": "August 3, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "42–48 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -1326,7 +1348,7 @@
         "Premiere": "September 1, 2023",
         "Seasons": "6 episodes",
         "Runtime": "52 min.",
-        "Exclusive region(s)": "Australia and the United Kingdom",
+        "Exclusive region(s)": "Australia and United Kingdom",
         "Status": "Miniseries"
       },
       {
@@ -1354,15 +1376,15 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45–56 min.",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "NCIS: Sydney",
         "Genre": "Military action",
         "Premiere": "November 10, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–44 min.",
-        "Exclusive region(s)": "Australia and the United Kingdom",
+        "Runtime": "42–44 min.",
+        "Exclusive region(s)": "Australia and United Kingdom",
         "Status": "Pending"
       },
       {
@@ -1381,14 +1403,14 @@
         "Seasons": "8 episodes",
         "Runtime": "40–43 min.",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "The Serial Killer's Wife",
         "Genre": "Crime drama",
         "Premiere": "December 15, 2023",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
+        "Runtime": "44–47 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Miniseries"
       },
@@ -1397,7 +1419,7 @@
         "Genre": "Thriller",
         "Premiere": "December 26, 2023",
         "Seasons": "1 season, 5 episodes",
-        "Runtime": "60 min.",
+        "Runtime": "47–52 min.",
         "Exclusive region(s)": "United Kingdom",
         "Status": "Pending"
       },
@@ -1411,12 +1433,12 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Sexy Beast",
-        "Genre": "Drama",
-        "Premiere": "January 25, 2024",
+        "Title": "A Gentleman in Moscow",
+        "Genre": "Historical thriller",
+        "Premiere": "March 29, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Exclusive region(s)": "All markets",
+        "Exclusive region(s)": "Canada, United Kingdom and Australia",
         "Status": "Pending"
       }
     ]
@@ -1434,7 +1456,7 @@
         "Premiere": "December 22, 2022",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "41–43 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
         "Status": "Renewed"
       }
     ]
@@ -1452,17 +1474,17 @@
         "Premiere": "December 8, 2022",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "23–25 min.",
-        "Exclusive region(s)": "Germany, Switzerland, Austria and the United Kingdom",
+        "Exclusive region(s)": "Germany, Switzerland, Austria and United Kingdom",
         "Status": "Ended"
       },
       {
         "Title": "Germany Shore (seasons 2–3)",
         "Genre": "Reality",
         "Premiere": "December 15, 2022",
-        "Seasons": "2 seasons, 19 episodes",
-        "Runtime": "40–63 min.",
+        "Seasons": "2 seasons, 26 episodes",
+        "Runtime": "43–71 min.",
         "Exclusive region(s)": "Germany, Switzerland and Austria",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "The Sheikh",
@@ -1470,17 +1492,17 @@
         "Premiere": "December 22, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–51 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
         "Status": "Ended"
       },
       {
         "Title": "The Chemistry of Death",
         "Genre": "Psychological crime drama",
         "Premiere": "January 19, 2023",
-        "Seasons": "6 episodes",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "43–49 min.",
-        "Exclusive region(s)": "All markets except the United States",
-        "Status": "Miniseries"
+        "Exclusive region(s)": "All markets except United States",
+        "Status": "Ended"
       },
       {
         "Title": "A Thin Line",
@@ -1488,7 +1510,7 @@
         "Premiere": "February 16, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–51 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
         "Status": "Pending"
       },
       {
@@ -1501,12 +1523,21 @@
         "Status": "Pending"
       },
       {
+        "Title": "Drag Race Germany",
+        "Genre": "Reality competition",
+        "Premiere": "September 5, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "58–66 min.",
+        "Exclusive region(s)": "Germany, Switzerland and Austria",
+        "Status": "Pending"
+      },
+      {
         "Title": "One Trillion Dollars",
         "Genre": "Thriller",
         "Premiere": "November 23, 2023",
         "Seasons": "6 episodes",
         "Runtime": "46–53 min.",
-        "Exclusive region(s)": "Germany, Canada and the United Kingdom",
+        "Exclusive region(s)": "Germany, Canada and United Kingdom",
         "Status": "Miniseries"
       }
     ]
@@ -1519,11 +1550,56 @@
     ],
     "data": [
       {
+        "Title": "Ex on the Beach Italia (seasons 4–5)",
+        "Genre": "Reality",
+        "Premiere": "November 30, 2022",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "40–50 min.",
+        "Exclusive region(s)": "Italy",
+        "Status": "Pending"
+      },
+      {
         "Title": "Are You the One? Italia",
         "Genre": "Dating show",
         "Premiere": "February 15, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "53–62 min.",
+        "Exclusive region(s)": "Italy",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Vita da Carlo (season 2)",
+        "Genre": "Comedy",
+        "Premiere": "September 15, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "28–35 min.",
+        "Exclusive region(s)": "Italy",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Drag Race Italia (season 3)",
+        "Genre": "Reality competition",
+        "Premiere": "October 13, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "51–75 min.",
+        "Exclusive region(s)": "Italy",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Runtime": "Awaiting release",
+        "Exclusive region(s)": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Italia Shore",
+        "Genre": "Reality",
+        "Premiere": "March 4, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Exclusive region(s)": "Italy",
         "Status": "Pending"
       }
@@ -1542,8 +1618,8 @@
         "Premiere": "September 30, 2021",
         "Seasons": "3 seasons, 36 episodes",
         "Runtime": "50–59 min.",
-        "Exclusive region(s)": "Latin America and the United States",
-        "Status": "Pending"
+        "Exclusive region(s)": "Latin America and United States",
+        "Status": "Ended"
       },
       {
         "Title": "The Followers",
@@ -1560,7 +1636,7 @@
         "Premiere": "July 21, 2022",
         "Seasons": "3 episodes",
         "Runtime": "41–45 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
         "Status": "Miniseries"
       },
       {
@@ -1569,7 +1645,16 @@
         "Premiere": "July 8, 2023",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "27–34 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Drag Race Brasil",
+        "Genre": "Reality competition",
+        "Premiere": "August 30, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "60–68 min.",
+        "Exclusive region(s)": "Brazil",
         "Status": "Pending"
       },
       {
@@ -1578,7 +1663,7 @@
         "Premiere": "November 16, 2023",
         "Seasons": "5 episodes",
         "Runtime": "39–49 min.",
-        "Exclusive region(s)": "All markets except the United States",
+        "Exclusive region(s)": "All markets except United States",
         "Status": "Miniseries"
       }
     ]
@@ -1638,7 +1723,7 @@
       {
         "Title": "The Envoys",
         "Genre": "Horror thriller",
-        "Premiere": "December 12, 2021January 20, 2022&#91;r&#93;",
+        "Premiere": "December 12, 2021January 20, 2022&#91;u&#93;",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "43–63 min.",
         "Exclusive region(s)": "All markets",
@@ -1647,7 +1732,7 @@
       {
         "Title": "Cecilia",
         "Genre": "Family comedy drama",
-        "Premiere": "December 21, 2021April 14, 2022&#91;r&#93;",
+        "Premiere": "December 21, 2021April 14, 2022&#91;u&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30–44 min.",
         "Exclusive region(s)": "All markets",
@@ -1688,6 +1773,15 @@
         "Runtime": "46–54 min.",
         "Exclusive region(s)": "All markets",
         "Status": "Ended"
+      },
+      {
+        "Title": "Drag Race México",
+        "Genre": "Reality competition",
+        "Premiere": "June 22, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "57–62 min.",
+        "Exclusive region(s)": "Latin America",
+        "Status": "Pending"
       }
     ]
   },
@@ -1698,6 +1792,17 @@
       "Co-productions"
     ],
     "data": [
+      {
+        "Title": "Circeo",
+        "Genre": "True crime drama",
+        "Partner/Country": "RAI/Italy",
+        "Premiere": "September 15, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "52–56 min.",
+        "Language": "Italian",
+        "Exclusive region(s)": "Italy, France, Germany, Switzerland and Austria",
+        "Status": "Miniseries"
+      },
       {
         "Title": "Pervert: Hunting the Strip Search Caller",
         "Genre": "True crime docuseries",
@@ -1740,7 +1845,7 @@
         "Runtime": "24–32 min.",
         "Language": "English",
         "Exclusive region(s)": "United States",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -1852,20 +1957,20 @@
         "Status": "Series order"
       },
       {
+        "Title": "Landman",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "The Turkish Detective",
         "Genre": "Crime thriller",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
-      },
-      {
-        "Title": "American Tragedy",
-        "Genre": "Crime drama anthology",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
       },
       {
         "Title": "Flashdance",
@@ -1878,14 +1983,6 @@
       {
         "Title": "The Italian Job",
         "Genre": "Heist action thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Land Man",
-        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -1932,14 +2029,6 @@
     ],
     "data": [
       {
-        "Title": "Knuckles",
-        "Genre": "Action-adventure comedy miniseries",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Dora the Explorer",
         "Genre": "Adventure comedy",
         "Premiere": "TBA",
@@ -1974,16 +2063,16 @@
     ],
     "data": [
       {
-        "Title": "Dora",
-        "Genre": "Educational children's comedy",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Tales of the Teenage Mutant Ninja Turtles",
         "Genre": "Superhero",
+        "Premiere": "Mid-2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "In production"
+      },
+      {
+        "Title": "Dora",
+        "Genre": "Educational children's comedy",
         "Premiere": "2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2106,15 +2195,6 @@
         "Status": "Awaiting release"
       },
       {
-        "Title": "Circeo",
-        "Genre": "True crime drama",
-        "Partner/Country": "RAI/Italy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Dongjae, The Good or The Bastard",
         "Genre": "Thriller drama",
         "Partner/Country": "TVING/South Korea",
@@ -2143,7 +2223,7 @@
       },
       {
         "Title": "Pyramid Game",
-        "Genre": "Action thriller",
+        "Genre": "Psychological thriller",
         "Partner/Country": "TVING/South Korea",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -2266,8 +2346,16 @@
         "Status": "Series order"
       },
       {
+        "Title": "Insomnia",
+        "Genre": "Thriller",
+        "Premiere": "2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Top Gear Australia (season 5)",
-        "Genre": "Motoring miniseries",
+        "Genre": "Reality",
         "Premiere": "2024",
         "Seasons": "8 episodes",
         "Runtime": "TBA",
@@ -2291,7 +2379,7 @@
       },
       {
         "Title": "Chalet Girls",
-        "Genre": "Docuseries",
+        "Genre": "Travel docuseries",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min.",
@@ -2306,24 +2394,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "A Gentleman in Moscow",
-        "Genre": "Historical thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Hate the Player: The Ben Johnson Story",
         "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Insomnia",
-        "Genre": "Thriller",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2371,6 +2443,14 @@
     ],
     "data": [
       {
+        "Title": "Impact",
+        "Genre": "Eco-thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "MASK: Marie Antoinette Serial Killer",
         "Genre": "Horror thriller",
         "Premiere": "TBA",
@@ -2402,30 +2482,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Zeit Crime",
-        "Genre": "True crime anthology",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "60 min.",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Impact",
-        "Genre": "Eco-thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "RuPaul's Drag Race Germany",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -2436,72 +2492,6 @@
       "Non-English language"
     ],
     "data": [
-      {
-        "Title": "Ex on the Beach (season 4)",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Season order"
-      },
-      {
-        "Title": "Miss Fallaci",
-        "Genre": "Biopic",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "RuPaul's Drag Race Italy",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Vita da Carlo (season 2)",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Season order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "RuPaul's Drag Race Brazil",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Regional original programming",
-      "Non-English language"
-    ],
-    "data": [
-      {
-        "Title": "Fleeting Lies",
-        "Genre": "Comedy thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
       {
         "Title": "Medusa",
         "Genre": "Thriller drama",
@@ -2553,14 +2543,6 @@
       {
         "Title": "The Greatest Wave",
         "Genre": "Biopic",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "RuPaul's Drag Race Mexico",
-        "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2627,12 +2609,12 @@
         "Genre": "Fantasy thriller"
       },
       {
-        "Title": "Soapdish",
-        "Genre": "Comedy drama"
-      },
-      {
         "Title": "Shuga: Baltimore",
         "Genre": "Drama"
+      },
+      {
+        "Title": "Soapdish",
+        "Genre": "Comedy drama"
       },
       {
         "Title": "Untitled Kenya Barris project",
