@@ -10,7 +10,7 @@
         "Genre": "Science fiction",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 9 episodes",
-        "Length": "41–56 min.",
+        "Length": "41–56 min",
         "Status": "Ended"
       },
       {
@@ -18,7 +18,7 @@
         "Genre": "True crime drama",
         "Premiere": "July 15, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "44–63 min.",
+        "Length": "44–63 min",
         "Status": "Pending"
       },
       {
@@ -26,7 +26,7 @@
         "Genre": "Soap opera",
         "Premiere": "September 6, 2021",
         "Seasons": "2 seasons, 10 episodes",
-        "Length": "38–50 min.",
+        "Length": "38–50 min",
         "Status": "Ended"
       },
       {
@@ -34,7 +34,7 @@
         "Genre": "Mystery",
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Length": "40–51 min.",
+        "Length": "40–51 min",
         "Status": "Ended"
       },
       {
@@ -42,7 +42,7 @@
         "Genre": "Teen mystery drama",
         "Premiere": "October 7, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "41–51 min.",
+        "Length": "41–51 min",
         "Status": "Ended"
       },
       {
@@ -50,7 +50,7 @@
         "Genre": "Supernatural horror",
         "Premiere": "October 21, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "24–30 min.",
+        "Length": "24–30 min",
         "Status": "Ended"
       },
       {
@@ -58,7 +58,7 @@
         "Genre": "Teen drama",
         "Premiere": "February 13, 2022",
         "Seasons": "2 seasons, 20 episodes",
-        "Length": "40–60 min.",
+        "Length": "40–60 min",
         "Status": "Renewed"
       },
       {
@@ -66,7 +66,7 @@
         "Genre": "Biographical drama",
         "Premiere": "March 3, 2022",
         "Seasons": "8 episodes",
-        "Length": "46–54 min.",
+        "Length": "46–54 min",
         "Status": "Miniseries"
       },
       {
@@ -74,7 +74,7 @@
         "Genre": "Biographical drama",
         "Premiere": "May 19, 2022",
         "Seasons": "5 episodes",
-        "Length": "42–52 min.",
+        "Length": "42–52 min",
         "Status": "Miniseries"
       },
       {
@@ -82,7 +82,7 @@
         "Genre": "Drama",
         "Premiere": "June 9, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "42–56 min.",
+        "Length": "42–56 min",
         "Status": "Ended"
       },
       {
@@ -90,7 +90,7 @@
         "Genre": "Supernatural drama",
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "45–55 min.",
+        "Length": "45–55 min",
         "Status": "Ended"
       },
       {
@@ -98,7 +98,7 @@
         "Genre": "Crime drama",
         "Premiere": "October 6, 2022",
         "Seasons": "9 episodes",
-        "Length": "49–58 min.",
+        "Length": "49–58 min",
         "Status": "Miniseries"
       },
       {
@@ -106,7 +106,7 @@
         "Genre": "Crime drama",
         "Premiere": "November 10, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "40–47 min.",
+        "Length": "40–47 min",
         "Status": "Ended"
       },
       {
@@ -114,7 +114,7 @@
         "Genre": "Crime drama",
         "Premiere": "November 17, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "23–34 min.",
+        "Length": "23–34 min",
         "Status": "Ended"
       },
       {
@@ -122,7 +122,7 @@
         "Genre": "Crime comedy thriller",
         "Premiere": "November 30, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "41–50 min.",
+        "Length": "41–50 min",
         "Status": "Ended"
       },
       {
@@ -130,23 +130,15 @@
         "Genre": "Action thriller",
         "Premiere": "September 22, 2023",
         "Seasons": "3 episodes",
-        "Length": "79–97 min.",
+        "Length": "79–97 min",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
       },
       {
         "Title": "Apples Never Fall",
         "Genre": "Mystery drama",
         "Premiere": "March 14, 2024",
         "Seasons": "7 episodes",
-        "Length": "TBA",
+        "Length": "46–66 min",
         "Status": "Miniseries"
       }
     ]
@@ -162,7 +154,7 @@
         "Genre": "Sitcom",
         "Premiere": "November 25, 2020",
         "Seasons": "2 seasons, 20 episodes",
-        "Length": "24–33 min.",
+        "Length": "24–33 min",
         "Status": "Ended"
       },
       {
@@ -170,7 +162,7 @@
         "Genre": "Sitcom",
         "Premiere": "February 25, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Length": "24–28 min.",
+        "Length": "24–28 min",
         "Status": "Ended"
       },
       {
@@ -178,7 +170,7 @@
         "Genre": "Sitcom",
         "Premiere": "April 22, 2021",
         "Seasons": "2 seasons, 18 episodes",
-        "Length": "23–30 min.",
+        "Length": "23–30 min",
         "Status": "Ended"
       },
       {
@@ -186,7 +178,7 @@
         "Genre": "Musical comedy",
         "Premiere": "May 6, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "26–32 min.",
+        "Length": "26–32 min",
         "Status": "Ended"
       },
       {
@@ -194,7 +186,7 @@
         "Genre": "Action comedy",
         "Premiere": "December 16, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "25–35 min.",
+        "Length": "25–35 min",
         "Status": "Ended"
       },
       {
@@ -202,7 +194,7 @@
         "Genre": "Musical comedy",
         "Premiere": "February 24, 2022",
         "Seasons": "1 season, 10 episodes",
-        "Length": "23–25 min.",
+        "Length": "23–25 min",
         "Status": "Ended"
       },
       {
@@ -210,7 +202,7 @@
         "Genre": "Comedy",
         "Premiere": "March 10, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "26–30 min.",
+        "Length": "26–30 min",
         "Status": "Ended"
       },
       {
@@ -218,7 +210,7 @@
         "Genre": "Comedy",
         "Premiere": "March 31, 2022",
         "Seasons": "2 seasons, 18 episodes",
-        "Length": "28−32 min.",
+        "Length": "28−32 min",
         "Status": "Pending"
       },
       {
@@ -226,7 +218,7 @@
         "Genre": "Crime comedy",
         "Premiere": "July 28, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "31-39 min.",
+        "Length": "31–39 min",
         "Status": "Ended"
       },
       {
@@ -234,7 +226,7 @@
         "Genre": "Musical comedy",
         "Premiere": "November 23, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "27–31 min.",
+        "Length": "27–31 min",
         "Status": "Ended"
       },
       {
@@ -242,7 +234,7 @@
         "Genre": "Comedy drama",
         "Premiere": "December 22, 2022",
         "Seasons": "8 episodes",
-        "Length": "41–56 min.",
+        "Length": "41–56 min",
         "Status": "Miniseries"
       },
       {
@@ -250,7 +242,7 @@
         "Genre": "True crime docu-comedy",
         "Premiere": "January 1, 2023",
         "Seasons": "6 episodes",
-        "Length": "31–63 min.",
+        "Length": "31–63 min",
         "Status": "Miniseries"
       },
       {
@@ -258,7 +250,7 @@
         "Genre": "Mystery comedy",
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "47–67 min.",
+        "Length": "47–67 min",
         "Status": "Renewed"
       },
       {
@@ -266,7 +258,7 @@
         "Genre": "Science fiction dark comedy",
         "Premiere": "April 20, 2023",
         "Seasons": "8 episodes",
-        "Length": "49–61 min.",
+        "Length": "49–61 min",
         "Status": "Miniseries"
       },
       {
@@ -274,15 +266,15 @@
         "Genre": "Comedy",
         "Premiere": "May 4, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "23–32 min.",
-        "Status": "Renewed"
+        "Length": "23–32 min",
+        "Status": "Ended"
       },
       {
         "Title": "Based on a True Story",
         "Genre": "Comedy thriller",
         "Premiere": "June 8, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "25–55 min.",
+        "Length": "25–55 min",
         "Status": "Renewed"
       },
       {
@@ -290,7 +282,7 @@
         "Genre": "Action comedy",
         "Premiere": "July 27, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "23–32 min.",
+        "Length": "23–32 min",
         "Status": "Renewed"
       },
       {
@@ -298,7 +290,7 @@
         "Genre": "Comedy",
         "Premiere": "January 11, 2024",
         "Seasons": "7 episodes",
-        "Length": "34–51 min.",
+        "Length": "34–51 min",
         "Status": "Miniseries"
       }
     ]
@@ -314,7 +306,7 @@
         "Genre": "Science fiction",
         "Premiere": "April 15, 2020",
         "Seasons": "3 seasons, 26 episodes",
-        "Length": "22 min.",
+        "Length": "22 min",
         "Status": "Ended"
       },
       {
@@ -322,7 +314,7 @@
         "Genre": "Family comedy",
         "Premiere": "February 18, 2021",
         "Seasons": "4 seasons, 24 episodes",
-        "Length": "22 min.",
+        "Length": "22 min",
         "Status": "Ended"
       },
       {
@@ -330,7 +322,7 @@
         "Genre": "Family action-adventure",
         "Premiere": "November 24, 2021",
         "Seasons": "4 seasons, 24 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -338,7 +330,7 @@
         "Genre": "Musical",
         "Premiere": "December 23, 2021",
         "Seasons": "2 seasons, 13 episodes",
-        "Length": "30 min.",
+        "Length": "30 min",
         "Status": "Pending"
       },
       {
@@ -346,7 +338,7 @@
         "Genre": "Fantasy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 16 episodes",
-        "Length": "22–23 min.",
+        "Length": "22–23 min",
         "Status": "Ended"
       },
       {
@@ -354,7 +346,7 @@
         "Genre": "Family comedy",
         "Premiere": "May 25, 2023",
         "Seasons": "1 season, 13 episodes",
-        "Length": "19 min.",
+        "Length": "19 min",
         "Status": "Pending"
       },
       {
@@ -362,23 +354,23 @@
         "Genre": "Family comedy",
         "Premiere": "October 12, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Length": "21 min.",
+        "Length": "21 min",
         "Status": "Pending"
       },
       {
         "Title": "L'il Stompers",
         "Genre": "Family comedy",
         "Premiere": "October 26, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "25 min.",
-        "Status": "New episodes due to premiere on February 29, 2024"
+        "Seasons": "1 season, 13 episodes",
+        "Length": "25 min",
+        "Status": "Pending"
       },
       {
         "Title": "In the Know",
         "Genre": "Adult workplace comedy/talk show hybrid",
         "Premiere": "January 25, 2024",
         "Seasons": "1 season, 6 episodes",
-        "Length": "22–27 min.",
+        "Length": "22–27 min",
         "Status": "Pending"
       },
       {
@@ -386,23 +378,15 @@
         "Genre": "Family comedy",
         "Premiere": "February 15, 2024",
         "Seasons": "1 season, 7 episodes",
-        "Length": "22 min.",
-        "Status": "Season 1 ongoing"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
+        "Length": "22 min",
+        "Status": "Pending"
       },
       {
         "Title": "Megamind Rules!",
         "Genre": "Family comedy",
         "Premiere": "March 1, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "23 min",
         "Status": "Pending"
       }
     ]
@@ -419,7 +403,7 @@
         "Subject": "Sports",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "24–28 min.",
+        "Length": "24–28 min",
         "Status": "Ended"
       },
       {
@@ -427,7 +411,7 @@
         "Subject": "Biography/Culture/Celebrity",
         "Premiere": "September 29, 2020",
         "Seasons": "1 season, 8 episodes",
-        "Length": "11–26 min.",
+        "Length": "11–26 min",
         "Status": "Ended"
       },
       {
@@ -435,7 +419,7 @@
         "Subject": "True crime",
         "Premiere": "March 25, 2021",
         "Seasons": "6 episodes",
-        "Length": "48–55 min.",
+        "Length": "48–55 min",
         "Status": "Miniseries"
       },
       {
@@ -443,7 +427,7 @@
         "Subject": "Sports",
         "Premiere": "April 14, 2021",
         "Seasons": "3 episodes",
-        "Length": "64–95 min.",
+        "Length": "64–95 min",
         "Status": "Miniseries"
       },
       {
@@ -451,7 +435,7 @@
         "Subject": "Sports",
         "Premiere": "June 17, 2021",
         "Seasons": "3 episodes",
-        "Length": "24–38 min.",
+        "Length": "24–38 min",
         "Status": "Miniseries"
       },
       {
@@ -459,7 +443,7 @@
         "Subject": "Sports",
         "Premiere": "June 27, 2021",
         "Seasons": "6 episodes",
-        "Length": "45–47 min.",
+        "Length": "45–47 min",
         "Status": "Miniseries"
       },
       {
@@ -467,7 +451,7 @@
         "Subject": "Sports",
         "Premiere": "July 19, 2021",
         "Seasons": "7 episodes",
-        "Length": "22–52 min.",
+        "Length": "22–52 min",
         "Status": "Miniseries"
       },
       {
@@ -475,7 +459,7 @@
         "Subject": "True crime",
         "Premiere": "July 29, 2021",
         "Seasons": "4 episodes",
-        "Length": "42–48 min.",
+        "Length": "42–48 min",
         "Status": "Miniseries"
       },
       {
@@ -483,7 +467,7 @@
         "Subject": "Business",
         "Premiere": "August 23, 2021",
         "Seasons": "1 season, 10 episodes",
-        "Length": "22 min.",
+        "Length": "22 min",
         "Status": "Ended"
       },
       {
@@ -491,7 +475,7 @@
         "Subject": "True crime",
         "Premiere": "August 26, 2021",
         "Seasons": "3 episodes",
-        "Length": "44–47 min.",
+        "Length": "44–47 min",
         "Status": "Miniseries"
       },
       {
@@ -499,7 +483,7 @@
         "Subject": "Paranormal",
         "Premiere": "September 30, 2021",
         "Seasons": "4 episodes",
-        "Length": "43–47 min.",
+        "Length": "43–47 min",
         "Status": "Miniseries"
       },
       {
@@ -507,7 +491,7 @@
         "Subject": "Sports",
         "Premiere": "January 6, 2022",
         "Seasons": "6 episodes",
-        "Length": "43–60 min.",
+        "Length": "43–60 min",
         "Status": "Miniseries"
       },
       {
@@ -515,7 +499,7 @@
         "Subject": "Sports",
         "Premiere": "January 6, 2022",
         "Seasons": "4 episodes",
-        "Length": "33–43 min.",
+        "Length": "33–43 min",
         "Status": "Miniseries"
       },
       {
@@ -523,7 +507,7 @@
         "Subject": "Comedy",
         "Premiere": "January 20, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "29–42 min.",
+        "Length": "29–42 min",
         "Status": "Ended"
       },
       {
@@ -531,7 +515,7 @@
         "Subject": "Sports",
         "Premiere": "January 23, 2022",
         "Seasons": "5 episodes",
-        "Length": "43–56 min.",
+        "Length": "43–56 min",
         "Status": "Miniseries"
       },
       {
@@ -539,7 +523,7 @@
         "Subject": "Sports",
         "Premiere": "January 26, 2022",
         "Seasons": "4 episodes",
-        "Length": "26–34 min.",
+        "Length": "26–34 min",
         "Status": "Miniseries"
       },
       {
@@ -547,7 +531,7 @@
         "Subject": "True crime",
         "Premiere": "March 8, 2022",
         "Seasons": "2 episodes",
-        "Length": "48–50 min.",
+        "Length": "48–50 min",
         "Status": "Miniseries"
       },
       {
@@ -555,7 +539,7 @@
         "Subject": "Sports",
         "Premiere": "March 24, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "40–52 min.",
+        "Length": "40–52 min",
         "Status": "Ended"
       },
       {
@@ -563,7 +547,7 @@
         "Subject": "True crime",
         "Premiere": "April 26, 2022",
         "Seasons": "4 episodes",
-        "Length": "43–50 min.",
+        "Length": "43–50 min",
         "Status": "Miniseries"
       },
       {
@@ -571,7 +555,7 @@
         "Subject": "True crime",
         "Premiere": "May 24, 2022",
         "Seasons": "2 episodes",
-        "Length": "52–58 min.",
+        "Length": "52–58 min",
         "Status": "Miniseries"
       },
       {
@@ -579,7 +563,7 @@
         "Subject": "True crime",
         "Premiere": "August 2, 2022",
         "Seasons": "4 episodes",
-        "Length": "52–56 min.",
+        "Length": "52–56 min",
         "Status": "Miniseries"
       },
       {
@@ -587,7 +571,7 @@
         "Subject": "Science",
         "Premiere": "August 25, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "41–45 min.",
+        "Length": "41–45 min",
         "Status": "Ended"
       },
       {
@@ -595,7 +579,7 @@
         "Subject": "Conspiracy theories/Journalism",
         "Premiere": "September 21, 2022",
         "Seasons": "6 episodes",
-        "Length": "49–62 min.",
+        "Length": "49–62 min",
         "Status": "Miniseries"
       },
       {
@@ -603,7 +587,7 @@
         "Subject": "Television industry",
         "Premiere": "October 12, 2022",
         "Seasons": "2 episodes",
-        "Length": "53–58 min.",
+        "Length": "53–58 min",
         "Status": "Miniseries"
       },
       {
@@ -611,7 +595,7 @@
         "Subject": "True crime",
         "Premiere": "November 15, 2022",
         "Seasons": "6 episodes",
-        "Length": "26–29 min.",
+        "Length": "26–29 min",
         "Status": "Miniseries"
       },
       {
@@ -619,7 +603,7 @@
         "Subject": "True crime",
         "Premiere": "November 22, 2022",
         "Seasons": "3 episodes",
-        "Length": "54–59 min.",
+        "Length": "54–59 min",
         "Status": "Miniseries"
       },
       {
@@ -627,7 +611,7 @@
         "Subject": "True crime",
         "Premiere": "November 29, 2022",
         "Seasons": "3 episodes",
-        "Length": "60–78 min.",
+        "Length": "60–78 min",
         "Status": "Miniseries"
       },
       {
@@ -635,7 +619,7 @@
         "Subject": "True crime",
         "Premiere": "December 6, 2022",
         "Seasons": "3 episodes",
-        "Length": "44–48 min.",
+        "Length": "44–48 min",
         "Status": "Miniseries"
       },
       {
@@ -643,7 +627,7 @@
         "Subject": "Patients' rights",
         "Premiere": "December 13, 2022",
         "Seasons": "4 episodes",
-        "Length": "40–57 min.",
+        "Length": "40–57 min",
         "Status": "Miniseries"
       },
       {
@@ -651,7 +635,7 @@
         "Subject": "True crime",
         "Premiere": "March 7, 2023",
         "Seasons": "2 episodes",
-        "Length": "61–75 min.",
+        "Length": "61–75 min",
         "Status": "Miniseries"
       },
       {
@@ -659,7 +643,7 @@
         "Subject": "True crime",
         "Premiere": "May 2, 2023",
         "Seasons": "3 episodes",
-        "Length": "54–62 min.",
+        "Length": "54–62 min",
         "Status": "Miniseries"
       },
       {
@@ -667,7 +651,7 @@
         "Subject": "Travel",
         "Premiere": "May 18, 2023",
         "Seasons": "1 season, 5 episodes",
-        "Length": "47–55 min.",
+        "Length": "47–55 min",
         "Status": "Pending"
       },
       {
@@ -675,7 +659,7 @@
         "Subject": "True crime",
         "Premiere": "July 11, 2023",
         "Seasons": "2 episodes",
-        "Length": "60–70 min.",
+        "Length": "60–70 min",
         "Status": "Miniseries"
       },
       {
@@ -683,7 +667,7 @@
         "Subject": "Horror",
         "Premiere": "October 13, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Length": "39–44 min.",
+        "Length": "39–44 min",
         "Status": "Pending"
       },
       {
@@ -691,7 +675,7 @@
         "Subject": "True crime",
         "Premiere": "October 24, 2023",
         "Seasons": "3 episodes",
-        "Length": "52–53 min.",
+        "Length": "52–53 min",
         "Status": "Miniseries"
       },
       {
@@ -699,7 +683,7 @@
         "Subject": "Celebrity",
         "Premiere": "November 16, 2023",
         "Seasons": "3 episodes",
-        "Length": "49–53 min.",
+        "Length": "49–53 min",
         "Status": "Miniseries"
       },
       {
@@ -707,7 +691,23 @@
         "Subject": "Music",
         "Premiere": "February 1, 2024",
         "Seasons": "3 episodes",
-        "Length": "48–51 min.",
+        "Length": "48–51 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Subject": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Orlando Bloom: To the Edge",
+        "Subject": "Extreme sports",
+        "Premiere": "April 18, 2024",
+        "Seasons": "3 episodes",
+        "Length": "60 min",
         "Status": "Miniseries"
       }
     ]
@@ -724,7 +724,7 @@
         "Genre": "Reality",
         "Premiere": "June 9, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "21 min.",
+        "Length": "21 min",
         "Status": "Ended"
       },
       {
@@ -732,7 +732,7 @@
         "Genre": "Reality",
         "Premiere": "August 12, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "30–34 min.",
+        "Length": "30–34 min",
         "Status": "Ended"
       },
       {
@@ -740,7 +740,7 @@
         "Genre": "Reality competition",
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 13 episodes",
-        "Length": "40–42 min.",
+        "Length": "40–42 min",
         "Status": "Ended"
       },
       {
@@ -748,7 +748,7 @@
         "Genre": "Cooking competition",
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 14 episodes",
-        "Length": "44 min.",
+        "Length": "44 min",
         "Status": "Ended"
       },
       {
@@ -756,7 +756,7 @@
         "Genre": "Reality competition",
         "Premiere": "September 16, 2021",
         "Seasons": "1 season, 11 episodes",
-        "Length": "22–23 min.",
+        "Length": "22–23 min",
         "Status": "Ended"
       },
       {
@@ -764,7 +764,7 @@
         "Genre": "Reality competition",
         "Premiere": "October 7, 2021",
         "Seasons": "1 season, 11 episodes",
-        "Length": "21–23 min.",
+        "Length": "21–23 min",
         "Status": "Ended"
       },
       {
@@ -772,7 +772,7 @@
         "Genre": "Reality competition",
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "43–52 min.",
+        "Length": "43–52 min",
         "Status": "Ended"
       },
       {
@@ -780,7 +780,7 @@
         "Genre": "Reality",
         "Premiere": "November 11, 2021",
         "Seasons": "2 seasons, 21 episodes",
-        "Length": "31–59 min.",
+        "Length": "31–59 min",
         "Status": "Pending"
       },
       {
@@ -788,7 +788,7 @@
         "Genre": "Reality",
         "Premiere": "November 15, 2021",
         "Seasons": "4 seasons, 28 episodes",
-        "Length": "22–59 min.",
+        "Length": "22–59 min",
         "Status": "Season 5 due to premiere in 2024"
       },
       {
@@ -796,7 +796,7 @@
         "Genre": "Reality competition",
         "Premiere": "December 2, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "41–54 min.",
+        "Length": "41–54 min",
         "Status": "Ended"
       },
       {
@@ -804,23 +804,23 @@
         "Genre": "Reality",
         "Premiere": "March 17, 2022",
         "Seasons": "1 season, 17 episodes",
-        "Length": "43–54 min.",
+        "Length": "43–54 min",
         "Status": "Ended"
       },
       {
         "Title": "The Traitors",
         "Genre": "Reality competition",
         "Premiere": "January 12, 2023",
-        "Seasons": "2 seasons, 22 episodes",
-        "Length": "43–72 min.",
-        "Status": "Season 2 ongoingRenewed"
+        "Seasons": "2 seasons, 23 episodes",
+        "Length": "43–72 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Queens Court",
         "Genre": "Dating show",
         "Premiere": "March 16, 2023",
         "Seasons": "1 season, 10 episodes",
-        "Length": "50–59 min.",
+        "Length": "50–59 min",
         "Status": "Pending"
       },
       {
@@ -828,7 +828,7 @@
         "Genre": "Reality",
         "Premiere": "April 27, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Length": "47–57 min.",
+        "Length": "47–57 min",
         "Status": "Pending"
       },
       {
@@ -836,7 +836,7 @@
         "Genre": "Reality competition",
         "Premiere": "November 1, 2023",
         "Seasons": "1 season, 19 episodes",
-        "Length": "47–93 min.",
+        "Length": "47–93 min",
         "Status": "Pending"
       },
       {
@@ -844,8 +844,16 @@
         "Genre": "Dating show",
         "Premiere": "February 8, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Length": "45–53 min.",
-        "Status": "Season 1 ongoing"
+        "Length": "45–59 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The McBee Dynasty: Real American Cowboys",
+        "Genre": "Reality",
+        "Premiere": "March 11, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "40–47 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -861,7 +869,7 @@
         "Genre": "Variety show",
         "Premiere": "May 11, 2020",
         "Seasons": "1 season, 21 episodes",
-        "Length": "3–16 min.",
+        "Length": "3–16 min",
         "Status": "Ended"
       },
       {
@@ -869,7 +877,7 @@
         "Genre": "Late-night talk show",
         "Premiere": "September 18, 2020",
         "Seasons": "1 season, 11 episodes",
-        "Length": "23–30 min.",
+        "Length": "23–30 min",
         "Status": "Ended"
       },
       {
@@ -877,7 +885,7 @@
         "Genre": "Late-night talk show",
         "Premiere": "September 25, 2020",
         "Seasons": "3 seasons, 57 episodes",
-        "Length": "19–45 min.",
+        "Length": "19–45 min",
         "Status": "Ended"
       },
       {
@@ -885,7 +893,7 @@
         "Genre": "News",
         "Premiere": "January 16, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "15–21 min.",
+        "Length": "15–21 min",
         "Status": "Ended"
       },
       {
@@ -893,7 +901,7 @@
         "Genre": "Comedy sports news",
         "Premiere": "July 23, 2021",
         "Seasons": "1 season, 9 episodes",
-        "Length": "24–38 min.",
+        "Length": "24–38 min",
         "Status": "Ended"
       },
       {
@@ -901,7 +909,7 @@
         "Genre": "Talk show",
         "Premiere": "August 5, 2021",
         "Seasons": "3 seasons, 32 episodes",
-        "Length": "42–49 min.",
+        "Length": "42–49 min",
         "Status": "Pending"
       },
       {
@@ -909,7 +917,7 @@
         "Genre": "Children's late-night talk show",
         "Premiere": "October 14, 2021",
         "Seasons": "1 season, 20 episodes",
-        "Length": "11–18 min.",
+        "Length": "11–18 min",
         "Status": "Ended"
       },
       {
@@ -917,7 +925,7 @@
         "Genre": "Comedy clip show",
         "Premiere": "April 20, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "24–30 min.",
+        "Length": "24–30 min",
         "Status": "Ended"
       },
       {
@@ -925,16 +933,16 @@
         "Genre": "News",
         "Premiere": "June 14, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "43–54 min.",
+        "Length": "43–54 min",
         "Status": "Ended"
       },
       {
         "Title": "The Traitors: Postmortem",
         "Genre": "Aftershow",
-        "Premiere": "January 12, 2023",
-        "Seasons": "1 season, 11 episodes",
-        "Length": "9–12 min.",
-        "Status": "Season 1 ongoing"
+        "Premiere": "January 12, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "9–12 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -949,7 +957,7 @@
         "Genre": "Professional wrestling",
         "Premiere": "April 4, 2021",
         "Seasons": "11 seasons, 517 episodes",
-        "Length": "43–55 min.",
+        "Length": "43–55 min",
         "Status": "Pending"
       },
       {
@@ -957,7 +965,7 @@
         "Genre": "Professional wrestling",
         "Premiere": "February 18, 2022",
         "Seasons": "1 season, 28 episodes",
-        "Length": "30–60 min.",
+        "Length": "30–60 min",
         "Status": "Pending"
       }
     ]
@@ -974,7 +982,7 @@
         "Partner/Region": "Hulu/United States",
         "Premiere": "September 7, 2020",
         "Seasons": "8 seasons, 50 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -983,7 +991,7 @@
         "Partner/Region": "Hulu/United States",
         "Premiere": "November 9, 2020",
         "Seasons": "4 seasons, 40 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -992,7 +1000,7 @@
         "Partner/Region": "Hulu/United States",
         "Premiere": "November 19, 2020",
         "Seasons": "7 seasons, 52 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -1001,7 +1009,7 @@
         "Partner/Region": "Sky Documentaries/United Kingdom",
         "Premiere": "June 24, 2021",
         "Seasons": "3 episodes",
-        "Length": "46–58 min.",
+        "Length": "46–58 min",
         "Status": "Miniseries"
       },
       {
@@ -1010,7 +1018,7 @@
         "Partner/Region": "Hulu/United States",
         "Premiere": "September 23, 2021",
         "Seasons": "8 seasons, 52 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -1019,7 +1027,7 @@
         "Partner/Region": "Hulu/United States",
         "Premiere": "December 23, 2021",
         "Seasons": "8 seasons, 52 episodes",
-        "Length": "22 min.",
+        "Length": "22 min",
         "Status": "Ended"
       },
       {
@@ -1028,7 +1036,7 @@
         "Partner/Region": "Stan/Australia",
         "Premiere": "January 13, 2022",
         "Seasons": "2 seasons, 13 episodes",
-        "Length": "22–28 min.",
+        "Length": "22–28 min",
         "Status": "Pending"
       },
       {
@@ -1037,7 +1045,7 @@
         "Partner/Region": "Channel 4/United Kingdom",
         "Premiere": "August 18, 2022",
         "Seasons": "6 episodes",
-        "Length": "47–56 min.",
+        "Length": "47–56 min",
         "Status": "Miniseries"
       },
       {
@@ -1046,7 +1054,7 @@
         "Partner/Region": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}MBC Group/Middle East and North AfricaStan/AustraliaViaplay/Nordic countries",
         "Premiere": "September 8, 2022",
         "Seasons": "5 episodes",
-        "Length": "42–43 min.",
+        "Length": "42–43 min",
         "Status": "Miniseries"
       },
       {
@@ -1055,7 +1063,7 @@
         "Partner/Region": "Hulu/United States",
         "Premiere": "October 5, 2022",
         "Seasons": "2 seasons, 20 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -1064,7 +1072,7 @@
         "Partner/Region": "Sky Kids/United Kingdom",
         "Premiere": "January 12, 2023",
         "Seasons": "1 season, 25 episodes",
-        "Length": "14–15 min.",
+        "Length": "14–15 min",
         "Status": "Pending"
       },
       {
@@ -1072,9 +1080,9 @@
         "Genre": "Animated horror",
         "Partner/Region": "Hulu/United States",
         "Premiere": "October 2, 2023",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "21–22 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Awaiting release",
@@ -1087,8 +1095,8 @@
       },
       {
         "Title": "The Tattooist of Auschwitz",
-        "Genre": "Period drama miniseries",
-        "Partner/Region": "Sky Atlantic/United Kingdom",
+        "Genre": "Period drama",
+        "Partner/Region": "Sky Atlantic/United KingdomStan/Australia",
         "Premiere": "May 2, 2024",
         "Seasons": "6 episodes",
         "Length": "TBA",
@@ -1108,7 +1116,7 @@
         "Prev. network(s)": "PBS Kids",
         "Premiere": "July 15, 2020",
         "Seasons": "6 seasons, 45 episodes",
-        "Length": "23 min.",
+        "Length": "23 min",
         "Status": "Ended"
       },
       {
@@ -1117,7 +1125,7 @@
         "Prev. network(s)": "Universal Kids",
         "Premiere": "July 15, 2020",
         "Seasons": "1 season, 20 episodes",
-        "Length": "22 min.",
+        "Length": "22 min",
         "Status": "Ended"
       },
       {
@@ -1126,7 +1134,7 @@
         "Prev. network(s)": "NBC",
         "Premiere": "September 3, 2020",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "21–25 min.",
+        "Length": "21–25 min",
         "Status": "Ended"
       },
       {
@@ -1135,7 +1143,7 @@
         "Prev. network(s)": "NBC",
         "Premiere": "November 5, 2020",
         "Seasons": "1 season, 4 episodes",
-        "Length": "20–21 min.",
+        "Length": "20–21 min",
         "Status": "Ended"
       },
       {
@@ -1144,7 +1152,7 @@
         "Prev. network(s)": "Universal Kids",
         "Premiere": "September 9, 2021",
         "Seasons": "1 season, 15 episodes",
-        "Length": "42–45 min.",
+        "Length": "42–45 min",
         "Status": "Ended"
       },
       {
@@ -1153,7 +1161,7 @@
         "Prev. network(s)": "NBC",
         "Premiere": "November 12, 2021",
         "Seasons": "1 season, 5 episodes",
-        "Length": "43 min.",
+        "Length": "43 min",
         "Status": "Ended"
       },
       {
@@ -1162,7 +1170,7 @@
         "Prev. network(s)": "Bravo",
         "Premiere": "December 16, 2021",
         "Seasons": "2 seasons, 33 episodes",
-        "Length": "41–43 min.",
+        "Length": "41–43 min",
         "Status": "Ended"
       },
       {
@@ -1171,8 +1179,8 @@
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
         "Seasons": "2 seasons, 75 episodes",
-        "Length": "42–65 min.",
-        "Status": "Renewed for seasons 6–7"
+        "Length": "42–65 min",
+        "Status": "Season 6 due to premiere in mid-2024Renewed"
       },
       {
         "Title": "Days of Our Lives (seasons 58–59)",
@@ -1180,7 +1188,7 @@
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
         "Seasons": "2 seasons, 345 episodes",
-        "Length": "36–37 min.",
+        "Length": "36–37 min",
         "Status": "Season 59 ongoingRenewed for season 60"
       }
     ]
@@ -1195,73 +1203,49 @@
         "Title": "Madagascar: A Little Wild – A Fang-Tastic Halloween",
         "Genre": "Animated family comedy",
         "Premiere": "October 21, 2020",
-        "Length": "23 min."
-      },
-      {
-        "Title": "Snoop and Martha's Very Tasty Halloween",
-        "Genre": "Reality competition",
-        "Premiere": "October 21, 2020",
-        "Length": "52 min."
+        "Length": "23 min"
       },
       {
         "Title": "Chrisley Knows Thanksgiving",
         "Genre": "Reality",
         "Premiere": "November 18, 2021",
-        "Length": "42 min."
+        "Length": "42 min"
       },
       {
         "Title": "Madagascar: A Little Wild – Holiday Goose Chase",
         "Genre": "Animated family comedy",
         "Premiere": "November 26, 2021",
-        "Length": "23 min."
-      },
-      {
-        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
-        "Genre": "Comedy",
-        "Premiere": "December 28, 2021",
-        "Length": "1 hour, 12 min."
+        "Length": "23 min"
       },
       {
         "Title": "Caillou: Rosie the Giant",
         "Genre": "Family animation",
         "Premiere": "July 10, 2022",
-        "Length": "44 min."
+        "Length": "44 min"
       },
       {
         "Title": "Caillou: Adventures with Grandma and Grandpa",
         "Genre": "Family animation",
         "Premiere": "August 25, 2022",
-        "Length": "44 min."
+        "Length": "44 min"
       },
       {
         "Title": "Caillou: The Bravest Wolf Boy",
         "Genre": "Family animation",
         "Premiere": "October 15, 2022",
-        "Length": "44 min."
+        "Length": "44 min"
       },
       {
         "Title": "Caillou: The Silver Knight",
         "Genre": "Family animation",
         "Premiere": "November 13, 2022",
-        "Length": "44 min."
+        "Length": "44 min"
       },
       {
         "Title": "Caillou's Perfect Christmas",
         "Genre": "Family animation",
         "Premiere": "December 2, 2022",
-        "Length": "44 min."
-      },
-      {
-        "Title": "2022: Back That Year Up with Kevin Hart &amp; Kenan Thompson",
-        "Genre": "Comedy",
-        "Premiere": "December 23, 2022",
-        "Length": "1 hour, 12 min."
-      },
-      {
-        "Title": "2023: Back That Year Up with Kevin Hart &amp; Kenan Thompson",
-        "Genre": "Comedy",
-        "Premiere": "December 26, 2023",
-        "Length": "1 hour, 10 min."
+        "Length": "44 min"
       }
     ]
   },
@@ -1277,9 +1261,9 @@
         "Genre": "Comedy drama",
         "Premiere": "September 15, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "39–50 min.",
+        "Length": "39–50 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1295,9 +1279,9 @@
         "Genre": "Reality",
         "Premiere": "December 15, 2022",
         "Seasons": "1 season, 8 episodes",
-        "Length": "46–60 min.",
+        "Length": "46–60 min",
         "Language": "EnglishSpanish",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1313,7 +1297,7 @@
         "Partner/Region": "Network 10/Australia (season 1)Paramount+ Australia/Australia (season 2)",
         "Premiere": "April 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
-        "Length": "44–46 min.",
+        "Length": "44–46 min",
         "Status": "Ended"
       },
       {
@@ -1322,7 +1306,7 @@
         "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "56–69 min.",
+        "Length": "56–69 min",
         "Status": "Ended"
       },
       {
@@ -1331,7 +1315,7 @@
         "Partner/Region": "Sky One/United Kingdom (seasons 1−2)Sky Comedy/United Kingdom (special)",
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 13 episodes",
-        "Length": "20–22 min.",
+        "Length": "20–22 min",
         "Status": "Ended"
       },
       {
@@ -1340,7 +1324,7 @@
         "Partner/Region": "Sky One/United Kingdom (season 1)Sky Comedy/United Kingdom (season 2)",
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "21–25 min.",
+        "Length": "21–25 min",
         "Status": "Ended"
       },
       {
@@ -1349,7 +1333,7 @@
         "Partner/Region": "Sky Atlantic/United Kingdom",
         "Premiere": "September 3, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Length": "46–50 min.",
+        "Length": "46–50 min",
         "Status": "Ended"
       },
       {
@@ -1358,7 +1342,7 @@
         "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
-        "Length": "55–58 min.",
+        "Length": "55–58 min",
         "Status": "Renewed"
       },
       {
@@ -1367,7 +1351,7 @@
         "Partner/Region": "Global/Canada",
         "Premiere": "September 17, 2020",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "42–44 min.",
+        "Length": "42–44 min",
         "Status": "Renewed"
       },
       {
@@ -1376,7 +1360,7 @@
         "Partner/Region": "Sky One/United Kingdom (season 1)Sky Comedy/United Kingdom (seasons 2–3)",
         "Premiere": "October 8, 2020",
         "Seasons": "3 seasons, 18 episodes",
-        "Length": "26–31 min.",
+        "Length": "26–31 min",
         "Status": "Ended"
       },
       {
@@ -1385,7 +1369,7 @@
         "Partner/Region": "Movistar+ Spain/Spain",
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
-        "Length": "42–60 min.",
+        "Length": "42–60 min",
         "Status": "Miniseries"
       },
       {
@@ -1394,7 +1378,7 @@
         "Partner/Region": "Sky One/United Kingdom",
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "43–47 min.",
+        "Length": "43–47 min",
         "Status": "Ended"
       },
       {
@@ -1403,7 +1387,7 @@
         "Partner/Region": "Channel 4/United Kingdom",
         "Premiere": "June 3, 2021",
         "Seasons": "1 season, 6 episodes",
-        "Length": "24–25 min.",
+        "Length": "24–25 min",
         "Status": "Renewed"
       },
       {
@@ -1412,7 +1396,7 @@
         "Partner/Region": "RTÉ One/Ireland",
         "Premiere": "July 1, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "49–51 min.",
+        "Length": "49–51 min",
         "Status": "Renewed for final season"
       },
       {
@@ -1421,7 +1405,7 @@
         "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "December 23, 2021",
         "Seasons": "2 seasons, 12 episodes",
-        "Length": "54–59 min.",
+        "Length": "54–59 min",
         "Status": "Pending"
       },
       {
@@ -1430,7 +1414,7 @@
         "Partner/Region": "ITV/United Kingdom",
         "Premiere": "July 8, 2022",
         "Seasons": "1 season, 6 episodes",
-        "Length": "45–47 min.",
+        "Length": "45–47 min",
         "Status": "Renewed"
       },
       {
@@ -1439,8 +1423,8 @@
         "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "August 25, 2022",
         "Seasons": "1 season, 7 episodes",
-        "Length": "42–44 min.",
-        "Status": "Pending"
+        "Length": "42–44 min",
+        "Status": "Ended"
       },
       {
         "Title": "Moley",
@@ -1448,7 +1432,7 @@
         "Partner/Region": "Boomerang/United Kingdom",
         "Premiere": "July 7, 2023",
         "Seasons": "1 season, 52 episodes",
-        "Length": "9–13 min.",
+        "Length": "9–13 min",
         "Status": "Pending"
       }
     ]
@@ -1463,109 +1447,103 @@
         "Title": "Psych 2: Lassie Come Home",
         "Genre": "Detective comedy-drama",
         "Release": "July 15, 2020",
-        "Runtime": "1 hour, 28 min."
+        "Runtime": "1 hour, 28 min"
       },
       {
         "Title": "Curious George: Go West, Go Wild",
         "Genre": "Family animation",
         "Release": "September 8, 2020",
-        "Runtime": "1 hour, 25 min."
+        "Runtime": "1 hour, 25 min"
       },
       {
         "Title": "Curious George: Cape Ahoy",
         "Genre": "Family animation",
         "Release": "September 30, 2021",
-        "Runtime": "1 hour, 28 min."
+        "Runtime": "1 hour, 28 min"
       },
       {
         "Title": "Psych 3: This Is Gus",
         "Genre": "Detective comedy drama",
         "Release": "November 18, 2021",
-        "Runtime": "1 hour, 36 min."
+        "Runtime": "1 hour, 36 min"
       },
       {
         "Title": "The Housewives of the North Pole",
         "Genre": "Comedy",
         "Release": "December 9, 2021",
-        "Runtime": "1 hour, 24 min."
+        "Runtime": "1 hour, 24 min"
       },
       {
         "Title": "Days of Our Lives: A Very Salem Christmas",
         "Genre": "Soap opera",
         "Release": "December 16, 2021",
-        "Runtime": "1 hour, 18 min."
+        "Runtime": "1 hour, 18 min"
       },
       {
         "Title": "They/Them",
         "Genre": "Horror",
         "Release": "August 5, 2022",
-        "Runtime": "1 hour, 30 min."
+        "Runtime": "1 hour, 30 min"
       },
       {
         "Title": "Meet Cute",
         "Genre": "Science fiction romantic comedy",
         "Release": "September 21, 2022",
-        "Runtime": "1 hour, 29 min."
+        "Runtime": "1 hour, 29 min"
       },
       {
         "Title": "Sick",
         "Genre": "Horror",
         "Release": "January 13, 2023",
-        "Runtime": "1 hour, 23 min."
+        "Runtime": "1 hour, 23 min"
       },
       {
         "Title": "Praise This",
         "Genre": "Musical comedy",
         "Release": "April 7, 2023",
-        "Runtime": "1 hour, 50 min."
+        "Runtime": "1 hour, 50 min"
       },
       {
         "Title": "Shooting Stars",
         "Genre": "Biopic",
         "Release": "June 2, 2023",
-        "Runtime": "1 hour, 55 min."
+        "Runtime": "1 hour, 55 min"
       },
       {
         "Title": "If You Were the Last",
         "Genre": "Science fiction romantic comedy",
         "Release": "October 20, 2023",
-        "Runtime": "1 hour, 33 min."
+        "Runtime": "1 hour, 33 min"
       },
       {
         "Title": "Please Don't Destroy: The Treasure of Foggy Mountain",
         "Genre": "Comedy",
         "Release": "November 17, 2023",
-        "Runtime": "1 hour, 32 min."
+        "Runtime": "1 hour, 32 min"
       },
       {
         "Title": "Genie",
-        "Genre": "Comedy",
+        "Genre": "Holiday fantasy comedy",
         "Release": "November 22, 2023",
-        "Runtime": "1 hour, 33 min."
+        "Runtime": "1 hour, 33 min"
       },
       {
         "Title": "Mr. Monk's Last Case: A Monk Movie",
         "Genre": "Crime comedy",
         "Release": "December 8, 2023",
-        "Runtime": "1 hour, 37 min."
+        "Runtime": "1 hour, 37 min"
       },
       {
         "Title": "Bosco",
-        "Genre": "Biographical drama thriller",
+        "Genre": "Biopic thriller",
         "Release": "February 2, 2024",
-        "Runtime": "1 hour, 44 min."
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Release": "Awaiting release",
-        "Runtime": "Awaiting release"
+        "Runtime": "1 hour, 44 min"
       },
       {
         "Title": "Megamind vs. the Doom Syndicate",
         "Genre": "Family animation",
         "Release": "March 1, 2024",
-        "Runtime": "1 hour, 23 min."
+        "Runtime": "1 hour, 23 min"
       }
     ]
   },
@@ -1579,193 +1557,193 @@
         "Title": "Dreams Live On: Countdown to Tokyo",
         "Subject": "Sports",
         "Release": "July 15, 2020",
-        "Runtime": "57 min."
+        "Runtime": "57 min"
       },
       {
         "Title": "In Deep with Ryan Lochte",
         "Subject": "Sports",
         "Release": "July 15, 2020",
-        "Runtime": "1 hour, 3 min."
+        "Runtime": "1 hour, 3 min"
       },
       {
         "Title": "Kamome",
         "Subject": "Natural disaster/Culture",
         "Release": "July 15, 2020",
-        "Runtime": "23 min."
+        "Runtime": "23 min"
       },
       {
         "Title": "Black Boys",
         "Subject": "Racial justice",
         "Release": "September 10, 2020",
-        "Runtime": "1 hour, 30 min."
+        "Runtime": "1 hour, 30 min"
       },
       {
         "Title": "The Sit-In: Harry Belafonte Hosts The Tonight Show",
         "Subject": "Entertainment",
         "Release": "September 10, 2020",
-        "Runtime": "1 hour, 17 min."
+        "Runtime": "1 hour, 17 min"
       },
       {
         "Title": "Madness in the Hills",
         "Subject": "Natural disaster",
         "Release": "October 9, 2020",
-        "Runtime": "21 min."
+        "Runtime": "21 min"
       },
       {
         "Title": "Freedia Got a Gun",
         "Subject": "Music",
         "Release": "October 15, 2020",
-        "Runtime": "1 hour, 25 min."
+        "Runtime": "1 hour, 25 min"
       },
       {
         "Title": "My Pursuit: Life, Legacy &amp; Jordan Burroughs",
         "Subject": "Sports",
         "Release": "April 1, 2021",
-        "Runtime": "34 min."
+        "Runtime": "34 min"
       },
       {
         "Title": "The Greatest Race",
         "Subject": "Sports",
         "Release": "June 10, 2021",
-        "Runtime": "1 hour, 9 min."
+        "Runtime": "1 hour, 9 min"
       },
       {
         "Title": "Civil War (Or, Who Do We Think We Are)",
         "Subject": "History/Education",
         "Release": "June 17, 2021",
-        "Runtime": "1 hour, 40 min."
+        "Runtime": "1 hour, 40 min"
       },
       {
         "Title": "Sisters of '96: The 1996 Women's Olympic Soccer Team",
         "Subject": "Sports",
         "Release": "July 14, 2021",
-        "Runtime": "58 min."
+        "Runtime": "58 min"
       },
       {
         "Title": "Chase",
         "Subject": "Sports",
         "Release": "August 25, 2021",
-        "Runtime": "52 min."
+        "Runtime": "52 min"
       },
       {
         "Title": "The Toolbox Killer",
         "Subject": "True crime",
         "Release": "September 23, 2021",
-        "Runtime": "1 hour, 27 min."
+        "Runtime": "1 hour, 27 min"
       },
       {
         "Title": "Right to Try",
         "Subject": "HIV/AIDS",
         "Release": "December 1, 2021",
-        "Runtime": "26 min."
+        "Runtime": "26 min"
       },
       {
         "Title": "The Murder of Gabby Petito: Truth, Lies and Social Media",
         "Subject": "True crime",
         "Release": "December 17, 2021",
-        "Runtime": "1 hour, 25 min."
+        "Runtime": "1 hour, 25 min"
       },
       {
         "Title": "Use of Force: The Policing of Black America",
         "Subject": "Police brutality",
         "Release": "January 14, 2022",
-        "Runtime": "1 hour, 25 min."
+        "Runtime": "1 hour, 25 min"
       },
       {
         "Title": "Picabo",
         "Subject": "Sports",
         "Release": "January 21, 2022",
-        "Runtime": "1 hour, 30 min."
+        "Runtime": "1 hour, 30 min"
       },
       {
         "Title": "Hell of a Cruise",
         "Subject": "Epidemiology",
         "Release": "September 14, 2022",
-        "Runtime": "1 hour, 18 min."
+        "Runtime": "1 hour, 18 min"
       },
       {
         "Title": "Sex, Lies and the College Cult",
         "Subject": "True crime",
         "Release": "September 28, 2022",
-        "Runtime": "1 hour, 29 min."
+        "Runtime": "1 hour, 29 min"
       },
       {
         "Title": "Prince Andrew: Banished",
         "Subject": "Celebrity/Scandal",
         "Release": "October 5, 2022",
-        "Runtime": "1 hour, 19 min."
+        "Runtime": "1 hour, 19 min"
       },
       {
         "Title": "The Rebellious Life of Mrs. Rosa Parks",
         "Subject": "Biography",
         "Release": "October 19, 2022",
-        "Runtime": "1 hour, 36 min."
+        "Runtime": "1 hour, 36 min"
       },
       {
         "Title": "A Friend of the Family: True Evil",
         "Subject": "True crime",
         "Release": "November 15, 2022",
-        "Runtime": "1 hour, 30 min."
+        "Runtime": "1 hour, 30 min"
       },
       {
         "Title": "Woooooo! Becoming Ric Flair",
         "Subject": "Biography",
         "Release": "December 26, 2022",
-        "Runtime": "1 hour, 51 min."
+        "Runtime": "1 hour, 51 min"
       },
       {
         "Title": "Amber: The Girl Behind The Alert",
         "Subject": "True crime",
         "Release": "January 17, 2023",
-        "Runtime": "1 hour, 32 min."
+        "Runtime": "1 hour, 32 min"
       },
       {
         "Title": "Lowndes County and the Road to Black Power",
         "Subject": "Voters' rights",
         "Release": "February 2, 2023",
-        "Runtime": "1 hour, 29 min."
+        "Runtime": "1 hour, 29 min"
       },
       {
         "Title": "Cocaine Bear: The True Story",
         "Subject": "True crime",
         "Release": "April 15, 2023",
-        "Runtime": "52 min."
+        "Runtime": "52 min"
       },
       {
         "Title": "American Nightmare: Becoming Cody Rhodes",
         "Subject": "Biography",
         "Release": "July 31, 2023",
-        "Runtime": "1 hour, 51 min."
+        "Runtime": "1 hour, 51 min"
       },
       {
         "Title": "Commitment to Life",
         "Subject": "HIV/AIDS",
         "Release": "December 1, 2023",
-        "Runtime": "1 hour, 56 min."
+        "Runtime": "1 hour, 56 min"
       },
       {
         "Title": "We Dare to Dream",
         "Subject": "Sports",
         "Release": "December 1, 2023",
-        "Runtime": "1 hour, 37 min."
+        "Runtime": "1 hour, 37 min"
       },
       {
         "Title": "Dr. Death: Cutthroat Conman",
         "Subject": "True crime",
         "Release": "December 21, 2023",
-        "Runtime": "1 hour, 25 min."
-      },
-      {
-        "Title": "Awaiting release",
-        "Subject": "Awaiting release",
-        "Release": "Awaiting release",
-        "Runtime": "Awaiting release"
+        "Runtime": "1 hour, 25 min"
       },
       {
         "Title": "Stormy",
         "Subject": "Celebrity/Scandal",
-        "Release": "March 18, 2024 ",
-        "Runtime": "1 hour, 49 min."
+        "Release": "March 18, 2024",
+        "Runtime": "1 hour, 49 min"
+      },
+      {
+        "Title": "Bray Wyatt: Becoming Immortal",
+        "Subject": "Professional wrestling",
+        "Release": "April 1, 2024",
+        "Runtime": "2 hours, 2 min"
       }
     ]
   },
@@ -1776,58 +1754,76 @@
     ],
     "data": [
       {
+        "Title": "Snoop and Martha's Very Tasty Halloween",
+        "Genre": "Reality competition",
+        "Release": "October 21, 2020",
+        "Runtime": "52 min"
+      },
+      {
         "Title": "Sketchy Times with Lilly Singh",
         "Genre": "Sketch comedy",
         "Release": "October 29, 2020",
-        "Runtime": "42 min."
+        "Runtime": "42 min"
       },
       {
         "Title": "Carmen Christopher: Street Special",
         "Genre": "Stand-up comedy",
         "Release": "May 20, 2021",
-        "Runtime": "32 min."
+        "Runtime": "32 min"
       },
       {
         "Title": "Miley Cyrus Presents Stand By You",
         "Genre": "Concert film",
         "Release": "June 25, 2021",
-        "Runtime": "1 hour, 9 min."
+        "Runtime": "1 hour, 9 min"
       },
       {
         "Title": "Good Timing with Jo Firestone",
         "Genre": "Comedy",
         "Release": "October 15, 2021",
-        "Runtime": "49 min."
+        "Runtime": "49 min"
       },
       {
         "Title": "Joyelle Nicole Johnson: Love Joy",
         "Genre": "Stand-up comedy",
         "Release": "November 5, 2021",
-        "Runtime": "53 min."
+        "Runtime": "53 min"
+      },
+      {
+        "Title": "2021 and Done with Snoop Dogg &amp; Kevin Hart",
+        "Genre": "Comedy",
+        "Release": "December 28, 2021",
+        "Runtime": "1 hour, 12 min"
       },
       {
         "Title": "Would It Kill You to Laugh? Starring Kate Berlant + John Early",
         "Genre": "Sketch comedy",
         "Release": "June 24, 2022",
-        "Runtime": "53 min."
+        "Runtime": "53 min"
       },
       {
         "Title": "Alyssa Limperis: No Bad Days",
         "Genre": "Stand-up comedy",
         "Release": "August 12, 2022",
-        "Runtime": "56 min."
+        "Runtime": "56 min"
       },
       {
         "Title": "Jena Friedman: Ladykiller",
         "Genre": "Stand-up comedy",
         "Release": "September 30, 2022",
-        "Runtime": "58 min."
+        "Runtime": "58 min"
       },
       {
         "Title": "Sean Patton: Number One",
         "Genre": "Stand-up comedy",
         "Release": "December 2, 2022",
-        "Runtime": "1 hour, 27 min."
+        "Runtime": "1 hour, 27 min"
+      },
+      {
+        "Title": "2022: Back That Year Up with Kevin Hart &amp; Kenan Thompson",
+        "Genre": "Comedy",
+        "Release": "December 23, 2022",
+        "Runtime": "1 hour, 12 min"
       },
       {
         "Title": "Josh Johnson: Up Here Killing Myself",
@@ -1839,19 +1835,25 @@
         "Title": "Kevin Hart: Reality Check",
         "Genre": "Stand-up comedy",
         "Release": "July 6, 2023",
-        "Runtime": "58 min."
+        "Runtime": "58 min"
       },
       {
         "Title": "Chris Fleming: Hell",
         "Genre": "Stand-up comedy",
         "Release": "August 18, 2023",
-        "Runtime": "1 hour, 9 min."
+        "Runtime": "1 hour, 9 min"
       },
       {
         "Title": "Lego Jurassic Park: The Unofficial Retelling",
         "Genre": "Animation",
         "Release": "October 10, 2023",
-        "Runtime": "22 min."
+        "Runtime": "22 min"
+      },
+      {
+        "Title": "2023: Back That Year Up with Kevin Hart &amp; Kenan Thompson",
+        "Genre": "Comedy",
+        "Release": "December 26, 2023",
+        "Runtime": "1 hour, 10 min"
       }
     ]
   },
@@ -1865,7 +1867,7 @@
         "Title": "To: Gerard",
         "Genre": "Animation",
         "Release": "December 17, 2020",
-        "Runtime": "7 min."
+        "Runtime": "7 min"
       }
     ]
   },
@@ -1879,7 +1881,7 @@
         "Title": "Anthony",
         "Genre": "Drama",
         "Release": "September 4, 2020",
-        "Runtime": "1 hour, 24 min."
+        "Runtime": "1 hour, 24 min"
       }
     ]
   },
@@ -1938,6 +1940,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "The Good Daughter",
+        "Genre": "Suspense thriller miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Long Bright River",
         "Genre": "Suspense thriller miniseries",
         "Premiere": "TBA",
@@ -1984,6 +1994,14 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
+      },
+      {
+        "Title": "The Miniature Wife",
+        "Genre": "Romantic comedy drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
       }
     ]
   },
@@ -1998,7 +2016,7 @@
         "Genre": "Family comedy",
         "Premiere": "2024",
         "Seasons": "1 season, 52 episodes",
-        "Length": "11 min.",
+        "Length": "11 min",
         "Status": "Series order"
       },
       {
@@ -2006,7 +2024,7 @@
         "Genre": "Family comedy",
         "Premiere": "TBA",
         "Seasons": "2 seasons, 78 episodes",
-        "Length": "7 min.",
+        "Length": "7 min",
         "Status": "Series orderRenewed"
       },
       {
@@ -2014,7 +2032,7 @@
         "Genre": "Family comedy",
         "Premiere": "TBA",
         "Seasons": "1 season, 26 episodes",
-        "Length": "11 min.",
+        "Length": "11 min",
         "Status": "Series order"
       }
     ]
@@ -2032,14 +2050,6 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Orlando Bloom: To the Edge",
-        "Subject": "Extreme sports",
-        "Premiere": "TBA",
-        "Seasons": "3 episodes",
-        "Length": "60 min.",
         "Status": "Series order"
       },
       {

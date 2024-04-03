@@ -408,25 +408,26 @@
         "Title": "Death and Other Details",
         "Genre": "Murder mystery",
         "Premiere": "January 16, 2024",
+        "Finale": "March 5, 2024",
         "Seasons": "1 season, 10 episodes",
         "Length": "40–52 min",
-        "Status": "Season 1 ongoing"
+        "Notes": ""
       },
       {
         "Title": "Shōgun",
         "Genre": "Historical drama",
         "Premiere": "February 27, 2024",
         "Seasons": "10 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "53–70 min",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "We Were the Lucky Ones",
         "Genre": "Historical drama",
         "Premiere": "March 28, 2024",
         "Seasons": "8 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "50–56 min",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Under the Bridge",
@@ -438,7 +439,7 @@
       },
       {
         "Title": "The Veil",
-        "Genre": "Thriller",
+        "Genre": "Spy thriller",
         "Premiere": "April 30, 2024",
         "Seasons": "6 episodes",
         "Length": "TBA",
@@ -652,7 +653,7 @@
         "Premiere": "June 23, 2022",
         "Seasons": "2 seasons, 18 episodes",
         "Length": "20–66 min",
-        "Status": "Season 3 due to premiere in June 2024"
+        "Status": "Season 3 due to premiere in June 2024Renewed"
       },
       {
         "Title": "Maggie",
@@ -723,6 +724,14 @@
       "Animation"
     ],
     "data": [
+      {
+        "Title": "The Bravest Knight",
+        "Genre": "Family fantasy",
+        "Premiere": "June 21, 2019",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "12 min",
+        "Status": "Renewed"
+      },
       {
         "Title": "Solar Opposites",
         "Genre": "Science fiction sitcom",
@@ -967,9 +976,9 @@
         "Title": "Death in the Dorms",
         "Subject": "True crime",
         "Premiere": "January 5, 2023",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "55–56 min",
-        "Status": "Season 2 due to premiere in February 2024"
+        "Status": "Pending"
       },
       {
         "Title": "How I Caught My Killer",
@@ -1136,7 +1145,7 @@
         "Title": "Impact x Nightline",
         "Subject": "News magazine",
         "Premiere": "October 6, 2023",
-        "Seasons": "2 seasons, 51 episodes",
+        "Seasons": "2 seasons, 57 episodes",
         "Length": "24–49 min",
         "Status": "Season 2 ongoing"
       },
@@ -1186,18 +1195,26 @@
         "Notes": ""
       },
       {
-        "Title": "Spermworld",
-        "Subject": "Sperm donation",
-        "Premiere": "March 29, 2024",
-        "Seasons": "1 episode",
-        "Length": "83 minutes",
-        "Status": "Documentary film"
+        "Title": "Me Hereafter",
+        "Subject": "True crime",
+        "Premiere": "February 29, 2024",
+        "Seasons": "1 season, 4 episodes",
+        "Length": "53–58 min",
+        "Status": "Pending"
       },
       {
         "Title": "Thank You, Goodnight: The Bon Jovi Story",
         "Subject": "Music",
         "Premiere": "April 26, 2024",
         "Seasons": "4 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Black Twitter: A People's History",
+        "Subject": "Social media/African-American culture",
+        "Premiere": "May 9, 2024",
+        "Seasons": "3 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
       },
@@ -1259,7 +1276,7 @@
         "Premiere": "April 14, 2022",
         "Seasons": "4 seasons, 40 episodes",
         "Length": "39–56 min",
-        "Status": "Renewed for season 5 &amp; 6"
+        "Status": "Season 5 due to premiere on May 23, 2024"
       },
       {
         "Title": "Best in Dough",
@@ -1344,6 +1361,30 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "26–29 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Vanderpump Villa",
+        "Genre": "Reality",
+        "Premiere": "April 1, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "42–45 min",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "High Hopes",
+        "Genre": "Reality",
+        "Premiere": "April 20, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
       }
     ]
   },
@@ -1627,17 +1668,17 @@
         "Genre": "Animated horror",
         "Partner/Country": "Peacock/United States",
         "Premiere": "October 2, 2023",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Length": "21–22 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Davey &amp; Jonesie's Locker",
         "Genre": "Teen comedy",
-        "Partner/Country": "Amazon Prime Video/Canada, Australia, and New Zealand",
+        "Partner/Country": "Amazon Prime Video/Australia, Canada, and New Zealand",
         "Premiere": "March 22, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Length": "25–33 min",
         "Status": "Pending"
       },
       {
@@ -1742,18 +1783,18 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Washington Black",
-        "Genre": "Drama miniseries",
+        "Title": "La Máquina",
+        "Genre": "Sports drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "9 episodes",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Post-production"
       },
       {
-        "Title": "La Máquina",
-        "Genre": "Sports drama",
+        "Title": "Washington Black",
+        "Genre": "Drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "9 episodes",
         "Length": "TBA",
         "Status": "Post-production"
       },
@@ -1766,27 +1807,43 @@
         "Status": "Filming"
       },
       {
-        "Title": "The Plot",
+        "Title": "Paradise City",
         "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Plot",
+        "Genre": "Drama miniseries",
         "Premiere": "TBA",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Filming"
       },
       {
+        "Title": "Orphan",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Say Nothing",
-        "Genre": "Historical drama",
+        "Genre": "Historical drama miniseries",
         "Premiere": "TBA",
         "Seasons": "9 episodes",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "Untitled Dan Fogelman series",
-        "Genre": "Drama",
+        "Title": "Untitled Amanda Knox series",
+        "Genre": "True crime miniseries",
         "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "60 min",
         "Status": "Series order"
       }
     ]
@@ -1803,6 +1860,14 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Chad Powers",
+        "Genre": "Sports comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "30 min",
         "Status": "Series order"
       },
       {
@@ -1848,22 +1913,6 @@
     ],
     "data": [
       {
-        "Title": "Me Hereafter",
-        "Subject": "True crime",
-        "Premiere": "February 2024",
-        "Seasons": "1 season, 4 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Black Twitter",
-        "Subject": "Social media/Culture",
-        "Premiere": "TBA",
-        "Seasons": "3 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "It's All Country",
         "Subject": "Music",
         "Premiere": "TBA",
@@ -1896,14 +1945,6 @@
       "Reality"
     ],
     "data": [
-      {
-        "Title": "Vanderpump Villa",
-        "Genre": "Reality",
-        "Premiere": "Early 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Post-production"
-      },
       {
         "Title": "Burning Men",
         "Genre": "Cooking competition",
@@ -1960,15 +2001,6 @@
         "Seasons": "1 season, 6 episodes",
         "Length": "60 minutes",
         "Status": "Filming"
-      },
-      {
-        "Title": "Dinosaur",
-        "Genre": "Comedy",
-        "Partner/Country": "BBC Scotland/United KingdomBBC Three/United Kingdom",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "30 min",
-        "Status": "Series order"
       }
     ]
   },
@@ -2101,16 +2133,8 @@
         "Genre": "Sports drama"
       },
       {
-        "Title": "Untitled Amanda Knox series",
-        "Genre": "True crime"
-      },
-      {
         "Title": "Untitled Kim Kardashian/Ryan Murphy series",
         "Genre": "Legal drama"
-      },
-      {
-        "Title": "Untitled orphan project",
-        "Genre": "Drama"
       },
       {
         "Title": "Untitled Prison Break spin-off",
@@ -2186,15 +2210,6 @@
         "Finale": "May 25, 2018",
         "Seasons": "2 seasons, 62 episodes",
         "Length": "12–22 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Bravest Knight",
-        "Genre": "Fantasy",
-        "Premiere": "June 21, 2019",
-        "Finale": "October 11, 2019",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "12 min",
         "Notes": ""
       },
       {

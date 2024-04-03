@@ -115,7 +115,7 @@
         "Premiere": "April 5, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–36 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Secret Invasion",
@@ -154,7 +154,15 @@
         "Genre": "Swashbuckler fantasy adventure",
         "Premiere": "March 29, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "45 min",
+        "Runtime": "38–55 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Acolyte",
+        "Genre": "Space opera",
+        "Premiere": "June 4, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -281,9 +289,9 @@
         "Title": "Star Wars: The Bad Batch",
         "Genre": "Space opera",
         "Premiere": "May 4, 2021",
-        "Seasons": "2 seasons, 32 episodes",
+        "Seasons": "3 seasons, 47 episodes",
         "Runtime": "24–76 min",
-        "Status": "Final season due to premiere on February 21, 2024"
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Monsters at Work",
@@ -291,7 +299,7 @@
         "Premiere": "July 7, 2021",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–30 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 5, 2024"
       },
       {
         "Title": "Chip 'n' Dale: Park Life",
@@ -330,7 +338,7 @@
         "Genre": "Science fiction drama",
         "Premiere": "February 28, 2024",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "20–26 min",
         "Status": "Miniseries"
       },
       {
@@ -338,8 +346,8 @@
         "Genre": "Superhero drama",
         "Premiere": "March 20, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Renewed"
+        "Runtime": "30–33 min",
+        "Status": "Season 1 ongoingRenewed"
       }
     ]
   },
@@ -701,7 +709,7 @@
         "Title": "Iwájú: A Day Ahead",
         "Genre": "Making-of documentary",
         "Premiere": "February 28, 2024",
-        "Runtime": "TBA"
+        "Runtime": "1 h 11 min"
       }
     ]
   },
@@ -773,7 +781,7 @@
       {
         "Title": "It Was Always Me",
         "Genre": "Musical/Mystery drama",
-        "Premiere": "June 15, 2022July 20, 2022&#91;g&#93;",
+        "Premiere": "June 15, 2022July 20, 2022&#91;h&#93;",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "38–55 min",
         "Language": "Spanish",
@@ -791,7 +799,7 @@
       {
         "Title": "The Chorus: Success, Here I Go",
         "Genre": "Musical drama",
-        "Premiere": "September 28, 2022December 7, 2022&#91;i&#93;February 1, 2023&#91;g&#93;",
+        "Premiere": "September 28, 2022December 7, 2022&#91;j&#93;February 1, 2023&#91;h&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "37–45 min",
         "Language": "Portuguese",
@@ -818,7 +826,7 @@
       {
         "Title": "The Three Detectives",
         "Genre": "Teen drama/Crime procedural",
-        "Premiere": "September 6, 2023November 1, 2023&#91;g&#93;",
+        "Premiere": "September 6, 2023November 1, 2023&#91;h&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "34–41 min",
         "Language": "German",
@@ -863,16 +871,16 @@
       {
         "Title": "Weekend Family",
         "Genre": "Comedy",
-        "Premiere": "February 23, 2022March 9, 2022&#91;g&#93;",
+        "Premiere": "February 23, 2022March 9, 2022&#91;h&#93;",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "25–37 min",
         "Language": "French",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "All the Same... or Not",
         "Genre": "Comedy drama",
-        "Premiere": "May 25, 2022July 20, 2022&#91;g&#93;",
+        "Premiere": "May 25, 2022July 20, 2022&#91;h&#93;",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "34–45 min",
         "Language": "Portuguese",
@@ -881,7 +889,7 @@
       {
         "Title": "Daddies on Request",
         "Genre": "Musical comedy drama",
-        "Premiere": "July 13, 2022November 23, 2022&#91;g&#93;",
+        "Premiere": "July 13, 2022November 23, 2022&#91;h&#93;",
         "Seasons": "2 seasons, 17 episodes",
         "Runtime": "28–40 min",
         "Language": "Spanish",
@@ -908,7 +916,7 @@
       {
         "Title": "Mila in the Multiverse",
         "Genre": "Science fiction comedy drama",
-        "Premiere": "January 25, 2023February 15, 2023&#91;g&#93;",
+        "Premiere": "January 25, 2023February 15, 2023&#91;h&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "22–32 min",
         "Language": "Portuguese",
@@ -1052,7 +1060,7 @@
         "Title": "In the Soop: Friendcation",
         "Genre": "Reality",
         "Partner/Region": "JTBC/South Korea",
-        "Premiere": "July 22, 2022October 19, 2022&#91;g&#93;",
+        "Premiere": "July 22, 2022October 19, 2022&#91;h&#93;",
         "Seasons": "4 episodes",
         "Runtime": "53–62 min",
         "Exclusive region(s)": "Selected territories",
@@ -1068,7 +1076,7 @@
         "Runtime": "22–26 min",
         "Exclusive region(s)": "Brazil",
         "Language": "Portuguese",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Music on the Menu",
@@ -1079,7 +1087,7 @@
         "Runtime": "24–28 min",
         "Exclusive region(s)": "Latin America excluding Brazil",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "My Music, My Roots",
@@ -1137,20 +1145,51 @@
         "Runtime": "56 min",
         "Exclusive region(s)": "North America",
         "Language": "English"
+      },
+      {
+        "Title": "Doctor Who: The Star Beast",
+        "Genre": "Science fiction/adventure drama",
+        "Premiere": "November 25, 2023",
+        "Runtime": "58 min",
+        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Language": "English"
+      },
+      {
+        "Title": "Doctor Who: Wild Blue Yonder",
+        "Genre": "Science fiction/adventure drama",
+        "Premiere": "December 2, 2023",
+        "Runtime": "55 min",
+        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Language": "English"
+      },
+      {
+        "Title": "Doctor Who: The Giggle",
+        "Genre": "Science fiction/adventure drama",
+        "Premiere": "December 9, 2023",
+        "Runtime": "62 min",
+        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Language": "English"
+      },
+      {
+        "Title": "Doctor Who: The Church on Ruby Road",
+        "Genre": "Science fiction/adventure drama",
+        "Premiere": "December 25, 2023",
+        "Runtime": "56 min",
+        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Language": "English"
       }
     ]
   },
   {
     "category": [
-      "Exclusive international distribution",
-      "Series"
+      "Exclusive international distribution"
     ],
     "data": [
       {
         "Title": "Club Mickey Mouse Malaysia (season 4)",
         "Genre": "Variety",
         "Original network/Region": "Disney+ Hotstar/Malaysia",
-        "Premiere date": "November 12, 2021June 1, 2022&#91;g&#93;",
+        "Premiere date": "November 12, 2021June 1, 2022&#91;h&#93;",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "24–26 min",
         "Exclusive region(s)": "Selected territories",
@@ -1183,7 +1222,7 @@
         "Title": "Delicacies Destiny",
         "Genre": "Period romantic comedy",
         "Original network/Region": "Bilibili/China",
-        "Premiere date": "April 7, 2022June 8, 2022&#91;g&#93;",
+        "Premiere date": "April 7, 2022June 8, 2022&#91;h&#93;",
         "Seasons": "17 episodes",
         "Runtime": "27–51 min",
         "Exclusive region(s)": "Selected territories",
@@ -1227,7 +1266,7 @@
         "Title": "Moon Girl and Devil Dinosaur",
         "Genre": "Superhero comedy animation",
         "Original network/Region": "Disney Channel/United States",
-        "Premiere date": "February 15, 2023March 1, 2023&#91;u&#93;",
+        "Premiere date": "February 15, 2023March 1, 2023&#91;w&#93;",
         "Seasons": "2 seasons, 30 episodes",
         "Runtime": "22–44 min",
         "Exclusive region(s)": "Selected territories",
@@ -1244,50 +1283,6 @@
         "Exclusive region(s)": "United States",
         "Language": "Korean",
         "Status": "Miniseries"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Exclusive international distribution",
-      "Specials"
-    ],
-    "data": [
-      {
-        "Title": "Doctor Who: The Star Beast",
-        "Genre": "Science fiction/adventure drama",
-        "Original network/Region": "BBC One/United Kingdom",
-        "Premiere date": "November 25, 2023",
-        "Runtime": "58 min",
-        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
-        "Language": "English"
-      },
-      {
-        "Title": "Doctor Who: Wild Blue Yonder",
-        "Genre": "Science fiction/adventure drama",
-        "Original network/Region": "BBC One/United Kingdom",
-        "Premiere date": "December 2, 2023",
-        "Runtime": "55 min",
-        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
-        "Language": "English"
-      },
-      {
-        "Title": "Doctor Who: The Giggle",
-        "Genre": "Science fiction/adventure drama",
-        "Original network/Region": "BBC One/United Kingdom",
-        "Premiere date": "December 9, 2023",
-        "Runtime": "62 min",
-        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
-        "Language": "English"
-      },
-      {
-        "Title": "Doctor Who: The Church on Ruby Road",
-        "Genre": "Science fiction/adventure drama",
-        "Original network/Region": "BBC One/United Kingdom",
-        "Premiere date": "December 25, 2023",
-        "Runtime": "56 min",
-        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
-        "Language": "English"
       }
     ]
   }
