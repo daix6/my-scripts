@@ -59,7 +59,7 @@
         "Premiere": "February 13, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "40–60 min",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on August 15, 2024"
       },
       {
         "Title": "Joe vs. Carole",
@@ -139,6 +139,30 @@
         "Premiere": "March 14, 2024",
         "Seasons": "7 episodes",
         "Length": "46–66 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Those About to Die",
+        "Genre": "Historical drama",
+        "Premiere": "July 18, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Fight Night: The Million Dollar Heist",
+        "Genre": "Heist drama",
+        "Premiere": "September 5, 2024",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Miniseries"
       }
     ]
@@ -289,72 +313,25 @@
         "Title": "Ted",
         "Genre": "Comedy",
         "Premiere": "January 11, 2024",
-        "Seasons": "7 episodes",
+        "Seasons": "1 season, 7 episodes",
         "Length": "34–51 min",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       }
     ]
   },
   {
     "category": [
       "Original programming",
-      "Animation"
+      "Animation",
+      "Adult animation"
     ],
     "data": [
       {
-        "Title": "Cleopatra in Space",
-        "Genre": "Science fiction",
-        "Premiere": "April 15, 2020",
-        "Seasons": "3 seasons, 26 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Archibald's Next Big Thing Is Here!",
-        "Genre": "Family comedy",
-        "Premiere": "February 18, 2021",
-        "Seasons": "4 seasons, 24 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dragons Rescue Riders: Heroes of the Sky",
-        "Genre": "Family action-adventure",
-        "Premiere": "November 24, 2021",
-        "Seasons": "4 seasons, 24 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Babble Bop!",
-        "Genre": "Musical",
-        "Premiere": "December 23, 2021",
-        "Seasons": "2 seasons, 13 episodes",
-        "Length": "30 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Supernatural Academy",
-        "Genre": "Fantasy",
-        "Premiere": "January 20, 2022",
-        "Seasons": "1 season, 16 episodes",
-        "Length": "22–23 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "In the Know",
-        "Genre": "Adult workplace comedy/talk show hybrid",
+        "Genre": "Workplace comedy/talk show hybrid",
         "Premiere": "January 25, 2024",
         "Seasons": "1 season, 6 episodes",
         "Length": "22–27 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Megamind Rules!",
-        "Genre": "Family comedy",
-        "Premiere": "March 1, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "23 min",
         "Status": "Pending"
       }
     ]
@@ -432,7 +409,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "8 seasons, 52 episodes",
         "Length": "23 min",
-        "Status": "Ended"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -464,7 +441,7 @@
       {
         "Title": "Last Light",
         "Genre": "Thriller",
-        "Partner/Region": "MBC Group/Middle East and North AfricaStan/AustraliaViaplay/Nordic countries",
+        "Partner/Region": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}MBC Group/Middle East and North AfricaStan/AustraliaViaplay/Nordic countries",
         "Premiere": "September 8, 2022",
         "Seasons": "5 episodes",
         "Length": "42–43 min",
@@ -503,7 +480,7 @@
         "Partner/Region": "Sky Atlantic/United KingdomStan/Australia",
         "Premiere": "May 2, 2024",
         "Seasons": "6 episodes",
-        "Length": "TBA",
+        "Length": "50–58 min",
         "Status": "Miniseries"
       }
     ]
@@ -578,20 +555,20 @@
         "Status": "Ended"
       },
       {
-        "Title": "Love Island (seasons 4–5)",
+        "Title": "Love Island (seasons 4–6)",
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "2 seasons, 75 episodes",
+        "Seasons": "3 seasons, 77 episodes",
         "Length": "42–65 min",
-        "Status": "Season 6 due to premiere in mid-2024Renewed"
+        "Status": "Season 6 ongoingRenewed"
       },
       {
         "Title": "Days of Our Lives (seasons 58–59)",
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
-        "Seasons": "2 seasons, 345 episodes",
+        "Seasons": "2 seasons, 427 episodes",
         "Length": "36–37 min",
         "Status": "Season 59 ongoingRenewed for season 60"
       }

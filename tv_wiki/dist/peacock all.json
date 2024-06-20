@@ -59,7 +59,7 @@
         "Premiere": "February 13, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Length": "40–60 min",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on August 15, 2024"
       },
       {
         "Title": "Joe vs. Carole",
@@ -139,6 +139,30 @@
         "Premiere": "March 14, 2024",
         "Seasons": "7 episodes",
         "Length": "46–66 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Those About to Die",
+        "Genre": "Historical drama",
+        "Premiere": "July 18, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Fight Night: The Million Dollar Heist",
+        "Genre": "Heist drama",
+        "Premiere": "September 5, 2024",
+        "Seasons": "TBA",
+        "Length": "TBA",
         "Status": "Miniseries"
       }
     ]
@@ -289,16 +313,34 @@
         "Title": "Ted",
         "Genre": "Comedy",
         "Premiere": "January 11, 2024",
-        "Seasons": "7 episodes",
+        "Seasons": "1 season, 7 episodes",
         "Length": "34–51 min",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       }
     ]
   },
   {
     "category": [
       "Original programming",
-      "Animation"
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "In the Know",
+        "Genre": "Workplace comedy/talk show hybrid",
+        "Premiere": "January 25, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "22–27 min",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Kids &amp; family"
     ],
     "data": [
       {
@@ -366,18 +408,10 @@
         "Status": "Pending"
       },
       {
-        "Title": "In the Know",
-        "Genre": "Adult workplace comedy/talk show hybrid",
-        "Premiere": "January 25, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "22–27 min",
-        "Status": "Pending"
-      },
-      {
         "Title": "Caillou",
         "Genre": "Family comedy",
         "Premiere": "February 15, 2024",
-        "Seasons": "1 season, 7 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Length": "22 min",
         "Status": "Pending"
       },
@@ -387,7 +421,7 @@
         "Premiere": "March 1, 2024",
         "Seasons": "1 season, 8 episodes",
         "Length": "23 min",
-        "Status": "Pending"
+        "Status": "New episodes due to premiere on June 20, 2024"
       }
     ]
   },
@@ -695,19 +729,27 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Subject": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Orlando Bloom: To the Edge",
         "Subject": "Extreme sports",
         "Premiere": "April 18, 2024",
         "Seasons": "3 episodes",
-        "Length": "60 min",
+        "Length": "53–59 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Action",
+        "Subject": "Film/Stunt performance",
+        "Premiere": "April 26, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "42–51 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Bronx Zoo '90: Crime, Chaos and Baseball",
+        "Subject": "Sports",
+        "Premiere": "May 16, 2024",
+        "Seasons": "3 episodes",
+        "Length": "44–48 min",
         "Status": "Miniseries"
       }
     ]
@@ -854,6 +896,14 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "40–47 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Love Undercover",
+        "Genre": "Dating show",
+        "Premiere": "May 9, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "56–59 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -910,7 +960,7 @@
         "Premiere": "August 5, 2021",
         "Seasons": "3 seasons, 32 episodes",
         "Length": "42–49 min",
-        "Status": "Pending"
+        "Status": "Season 4 due to premiere on June 20, 2024"
       },
       {
         "Title": "The Kids Tonight Show",
@@ -941,7 +991,31 @@
         "Genre": "Aftershow",
         "Premiere": "January 12, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Length": "9–12 min",
+        "Length": "7–12 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Awaiting release",
+        "Genre": "Awaiting release",
+        "Premiere": "Awaiting release",
+        "Seasons": "Awaiting release",
+        "Length": "Awaiting release",
+        "Status": "Awaiting release"
+      },
+      {
+        "Title": "Love Island Aftersun",
+        "Genre": "Aftershow",
+        "Premiere": "June 15, 2024",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Olympic Highlights with Kevin Hart and Kenan Thompson",
+        "Genre": "Comedy sports news",
+        "Premiere": "July 26, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1019,7 +1093,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "8 seasons, 52 episodes",
         "Length": "23 min",
-        "Status": "Ended"
+        "Status": "Pending"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -1085,21 +1159,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Partner/Region": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "The Tattooist of Auschwitz",
         "Genre": "Period drama",
         "Partner/Region": "Sky Atlantic/United KingdomStan/Australia",
         "Premiere": "May 2, 2024",
         "Seasons": "6 episodes",
-        "Length": "TBA",
+        "Length": "50–58 min",
         "Status": "Miniseries"
       }
     ]
@@ -1174,20 +1239,20 @@
         "Status": "Ended"
       },
       {
-        "Title": "Love Island (seasons 4–5)",
+        "Title": "Love Island (seasons 4–6)",
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "2 seasons, 75 episodes",
+        "Seasons": "3 seasons, 77 episodes",
         "Length": "42–65 min",
-        "Status": "Season 6 due to premiere in mid-2024Renewed"
+        "Status": "Season 6 ongoingRenewed"
       },
       {
         "Title": "Days of Our Lives (seasons 58–59)",
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
-        "Seasons": "2 seasons, 345 episodes",
+        "Seasons": "2 seasons, 427 episodes",
         "Length": "36–37 min",
         "Status": "Season 59 ongoingRenewed for season 60"
       }
@@ -1386,9 +1451,9 @@
         "Genre": "Musical ensemble sitcom",
         "Partner/Region": "Channel 4/United Kingdom",
         "Premiere": "June 3, 2021",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Length": "24–25 min",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Smother",
@@ -1734,16 +1799,28 @@
         "Runtime": "1 hour, 25 min"
       },
       {
+        "Title": "Pathological: The Lies of Joran van der Sloot",
+        "Subject": "True crime",
+        "Release": "February 27, 2024",
+        "Runtime": "1 hour, 34 min"
+      },
+      {
         "Title": "Stormy",
         "Subject": "Celebrity/Scandal",
         "Release": "March 18, 2024",
-        "Runtime": "1 hour, 49 min"
+        "Runtime": "1 hour, 50 min"
       },
       {
         "Title": "Bray Wyatt: Becoming Immortal",
         "Subject": "Professional wrestling",
         "Release": "April 1, 2024",
         "Runtime": "2 hours, 2 min"
+      },
+      {
+        "Title": "Queer Planet",
+        "Subject": "Nature",
+        "Release": "June 6, 2024",
+        "Runtime": "1 hour, 30 min"
       }
     ]
   },
@@ -1854,6 +1931,12 @@
         "Genre": "Comedy",
         "Release": "December 26, 2023",
         "Runtime": "1 hour, 10 min"
+      },
+      {
+        "Title": "Good One: A Show About Jokes",
+        "Genre": "Stand-up comedy",
+        "Release": "March 26, 2024",
+        "Runtime": "47 min"
       }
     ]
   },
@@ -1892,24 +1975,8 @@
     ],
     "data": [
       {
-        "Title": "Fight Night: The Million Dollar Heist",
-        "Genre": "Heist drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Hysteria!",
         "Genre": "Drama thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Those About to Die",
-        "Genre": "Historical drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1924,16 +1991,16 @@
         "Status": "Series order"
       },
       {
-        "Title": "Crystal Lake",
-        "Genre": "Horror",
+        "Title": "Devil in Disguise: John Wayne Gacy",
+        "Genre": "Drama miniseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "Devil in Disguise: John Wayne Gacy",
-        "Genre": "Drama miniseries",
+        "Title": "Friday the 13th",
+        "Genre": "Horror",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -1988,7 +2055,15 @@
         "Status": "Series order"
       },
       {
-        "Title": "Mr. Throwback",
+        "Title": "The Miniature Wife",
+        "Genre": "Romantic comedy drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "The Paper",
         "Genre": "Mockumentary",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -1996,8 +2071,8 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Miniature Wife",
-        "Genre": "Romantic comedy drama",
+        "Title": "Untitled Adam Pally/Steph Curry series",
+        "Genre": "Mockumentary",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -2053,6 +2128,14 @@
         "Status": "Series order"
       },
       {
+        "Title": "The Hungry Games: Alaska's Big Bear Challenge",
+        "Subject": "Nature",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
         "Title": "Run Through the Line",
         "Subject": "Business",
         "Premiere": "TBA",
@@ -2063,6 +2146,31 @@
       {
         "Title": "Untitled 50 Cent unscripted true crime series",
         "Subject": "True crime",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled Jordan Peele black cowboy series",
+        "Subject": "History",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "Untitled Paris Hilton and Nicole Ritchie reality series",
+        "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -2092,7 +2200,24 @@
         "Premiere": "TBA",
         "Seasons": "5 episodes",
         "Length": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Law &amp; Order: Organized Crime (season 5)",
+        "Genre": "Crime procedural",
+        "Prev. network": "NBC",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Season order"
       }
     ]
   },
@@ -2229,6 +2354,10 @@
       {
         "Title": "Fear",
         "Genre": "Thriller"
+      },
+      {
+        "Title": "The Five-Star Weekend",
+        "Genre": "Drama"
       },
       {
         "Title": "Freeman",

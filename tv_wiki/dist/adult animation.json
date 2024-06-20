@@ -232,7 +232,7 @@
         "Original release": "January 26, 1994 – May 21, 1995",
         "Network": "ABC",
         "Studio": "Gracie Films",
-        "Age rating": "TV-PG",
+        "Age rating": "TV-PG/TV-14",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -2541,6 +2541,18 @@
         "Source": ""
       },
       {
+        "Title": "The Summoner",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Show creator(s)": "Charlie Hankin",
+        "Original release": "March 17, 2021 – April 21, 2021",
+        "Network": "Syfy",
+        "Studio": "Stoopid Buddy Stoodios",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Dota: Dragon's Blood",
         "Genre": "Action",
         "Seasons/episodes": "2 books, 16 episodes",
@@ -2555,7 +2567,7 @@
       {
         "Title": "Invincible",
         "Genre": "Superhero",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "2 seasons, 16 episodes",
         "Show creator(s)": "Robert Kirkman",
         "Original release": "March 26, 2021 – present",
         "Network": "Amazon Prime Video",
@@ -2651,7 +2663,7 @@
       {
         "Title": "Teenage Euthanasia",
         "Genre": "Black comedy",
-        "Seasons/episodes": "1 season, 7 episodes",
+        "Seasons/episodes": "2 seasons, 17 episodes",
         "Show creator(s)": "Alyson Levy",
         "Original release": "September 6, 2021 – present",
         "Network": "Adult Swim",
@@ -2949,6 +2961,18 @@
         "Source": ""
       },
       {
+        "Title": "Royal Crackers",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 5 episodes",
+        "Show creator(s)": "Jason Ruiz",
+        "Original release": "April 2, 2023 – present",
+        "Network": "Adult Swim",
+        "Studio": "The Cheesesteak Factory",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Fired on Mars",
         "Genre": "Sci-fi",
         "Seasons/episodes": "1 season, 8 episodes",
@@ -3172,6 +3196,18 @@
         "Original release": "February 23, 2024",
         "Network": "Amazon Prime Video",
         "Studio": "Animal Pictures",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Good Times",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season 8\nepisodes",
+        "Show creator(s)": "Carl Jones",
+        "Original release": "April 12, 2024",
+        "Network": "Netflix",
+        "Studio": "Act III Productions",
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""
@@ -4073,6 +4109,18 @@
     ],
     "data": [
       {
+        "Title": "Universal Basic Guys",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Adam and Craig Malamut",
+        "Release date": "Fall 2024",
+        "Original channel": "Fox",
+        "Studio": "Fox Entertainment",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Creature Commandos",
         "Genre": "Action",
         "Seasons, episodes": "TBA",
@@ -4080,18 +4128,6 @@
         "Release date": "2024",
         "Original channel": "Max",
         "Studio": "Warner Bros. Animation",
-        "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "Exploding Kittens",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "TBA",
-        "Release date": "2024",
-        "Original channel": "Netflix",
-        "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
         "Source": ""
@@ -4121,25 +4157,37 @@
         "Source": ""
       },
       {
+        "Title": "Exploding Kittens",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "TBA",
+        "Release date": "July 2024",
+        "Original channel": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Sausage Party: Foodtopia",
         "Genre": "Comedy",
         "Seasons, episodes": "1 season, 8 episodes",
         "Show creator": "TBA",
-        "Release date": "2024",
+        "Release date": "July 11, 2024",
         "Original channel": "Amazon Prime Video",
         "Studio": "Amazon MGM Studios",
         "Age rating": "",
-        "Technique": "",
+        "Technique": "CGI",
         "Source": ""
       },
       {
-        "Title": "Good Times",
-        "Genre": "Sitcom",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Carl Jones",
-        "Release date": "April 12, 2024",
-        "Original channel": "Netflix",
-        "Studio": "Act III Productions",
+        "Title": "Batman: Caped Crusader",
+        "Genre": "Action",
+        "Seasons, episodes": "1 season, 10 episodes",
+        "Show creator": "Bruce Timm",
+        "Release date": "August 1, 2024",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "6th &amp; Idaho",
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""

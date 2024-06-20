@@ -1,13 +1,13 @@
-// const wiki = require('../wiki/src/wiki').default;
+const wiki = require('../wiki/src/wiki').default
 const { parse } = require('node-html-parser');
 const parseTable = require('./utils').parseTable;
 const HttpsProxyAgent = require('https-proxy-agent');
 
-const agent =  new HttpsProxyAgent.HttpsProxyAgent('http://127.0.0.1:7890')
+// const agent =  new HttpsProxyAgent.HttpsProxyAgent('http://127.0.0.1:7890')
 
 async function runStreamNetwork(name) {
-  const wiki = (await import('../wiki/src/wiki.js')).default;
-  const result = await wiki({ agent }).page(name);
+  // const wiki = (await import('../wiki/src/wiki.js')).default;
+  const result = await wiki().page(name);
 
   const root = parse(await result.html());
   const nodes = root.querySelectorAll('.mw-parser-output > *');
