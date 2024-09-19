@@ -40,6 +40,7 @@ function parseTable(tableEl) {
     row.forEach((value, index) => {
       item[headers[index]] = value;
     });
+    if (item.Title === 'Awaiting release') return
     ret.push(item);
   });
 
