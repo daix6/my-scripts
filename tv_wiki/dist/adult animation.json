@@ -845,7 +845,7 @@
         "Network": "Nick at Nite",
         "Studio": "Smiley, Inc.",
         "Age rating": "TV-G",
-        "Technique": "Flash",
+        "Technique": "Traditional",
         "Source": ""
       },
       {
@@ -2937,6 +2937,18 @@
         "Source": ""
       },
       {
+        "Title": "Super Turbo Story Time",
+        "Genre": "",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "TBA",
+        "Original release": "March 14, 2023",
+        "Network": "Motortrend+",
+        "Studio": "Titmouse, Inc.",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
         "Title": "Agent Elvis",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 10 episodes",
@@ -3011,7 +3023,7 @@
       {
         "Title": "My Adventures with Superman",
         "Genre": "Superhero",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "2 seasons, 17 episodes",
         "Show creator(s)": "Jake Wyatt",
         "Original release": "July 7, 2023 – present",
         "Network": "Adult Swim",
@@ -3211,6 +3223,54 @@
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""
+      },
+      {
+        "Title": "Sausage Party: Foodtopia",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 8 episodes",
+        "Show creator(s)": "Seth Rogen",
+        "Original release": "July 11, 2024",
+        "Network": "Amazon Prime Video",
+        "Studio": "Amazon MGM Studios",
+        "Age rating": "TV-MA",
+        "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "Exploding Kittens",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "1 season, 9 episodes",
+        "Show creator(s)": "Matthew Inman",
+        "Original release": "July 12, 2024",
+        "Network": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "TV-14",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Kite Man: Hell Yeah!",
+        "Genre": "Superhero",
+        "Seasons/episodes": "TBA",
+        "Show creator(s)": "Justin Halpern",
+        "Original release": "July 18, 2024",
+        "Network": "Max",
+        "Studio": "Delicious Non-Sequitur",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Batman: Caped Crusader",
+        "Genre": "Action",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Bruce Timm",
+        "Original release": "August 1, 2024",
+        "Network": "Amazon Prime Video",
+        "Studio": "6th &amp; Idaho",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
       }
     ]
   },
@@ -3293,7 +3353,7 @@
       {
         "Title": "2DTV",
         "Genre": "Satire",
-        "Series/episodes": "5 series, 28 episodes",
+        "Seasons/episodes": "5 seasons, 28 episodes",
         "Show creator(s)": "Giles Pilbrow",
         "Original release": "October 14, 2001&#160;– December 23, 2004",
         "Network": "ITV",
@@ -3303,7 +3363,7 @@
       {
         "Title": "Aaagh! It's the Mr. Hell Show!",
         "Genre": "Comedy",
-        "Series/episodes": "1 series, 13 episodes",
+        "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "David Freedman",
         "Original release": "October 28, 2001&#160;– February 18, 2002",
         "Network": "BBC Two",
@@ -3313,7 +3373,7 @@
       {
         "Title": "Monkey Dust",
         "Genre": "Black comedy",
-        "Series/episodes": "3 series, 18 episodes",
+        "Seasons/episodes": "3 seasons, 18 episodes",
         "Show creator(s)": "Harry Thompson",
         "Original release": "February 9, 2003&#160;– February 8, 2005",
         "Network": "BBC Three",
@@ -3323,7 +3383,7 @@
       {
         "Title": "Empire Square",
         "Genre": "Comedy",
-        "Series/episodes": "1 series, 12 episodes",
+        "Seasons/episodes": "1 season, 12 episodes",
         "Show creator(s)": "Matt Morgan",
         "Original release": "2004 – 2006",
         "Network": "Channel 4",
@@ -3333,7 +3393,7 @@
       {
         "Title": "I Am Not an Animal",
         "Genre": "Black comedy",
-        "Series/episodes": "1 series, 6 episodes",
+        "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Peter Baynham",
         "Original release": "May 10, 2004 – June 14, 2004",
         "Network": "BBC Two",
@@ -3343,7 +3403,7 @@
       {
         "Title": "Modern Toss",
         "Genre": "Sketch comedy",
-        "Series/episodes": "2 series, 13 episodes",
+        "Seasons/episodes": "2 seasons, 13 episodes",
         "Show creator(s)": "Jon Link",
         "Original release": "July 11, 2006 – February 27, 2008",
         "Network": "Channel 4",
@@ -3353,7 +3413,7 @@
       {
         "Title": "Headcases",
         "Genre": "Satire",
-        "Series/episodes": "1 series, 8 episodes",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Henry Naylor",
         "Original release": "April 6, 2008 – June 15, 2008",
         "Network": "ITV",
@@ -3361,9 +3421,19 @@
         "Source": ""
       },
       {
+        "Title": "The Ricky Gervais Show",
+        "Genre": "Comedy",
+        "Seasons/episodes": "3 seasons, 39 episodes",
+        "Show creator(s)": "Ricky GervaisStephen MerchantKarl Pilkington",
+        "Original release": "February 19, 2010 – July 13, 2012",
+        "Network": "HBO (United States)Channel 4/E4 (United Kingdom)",
+        "Studio": "WildBrain EntertainmentMedia Rights CapitalHBO Entertainment",
+        "Source": ""
+      },
+      {
         "Title": "Full English",
         "Genre": "Sitcom",
-        "Series/episodes": "1 series, 6 episodes",
+        "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Jack Williams",
         "Original release": "November 12, 2012 – December 17, 2012",
         "Network": "Channel 4",
@@ -3373,7 +3443,7 @@
       {
         "Title": "Warren United",
         "Genre": "Comedy",
-        "Series/episodes": "1 series, 6 episodes",
+        "Seasons/episodes": "1 season, 6 episodes",
         "Show creator(s)": "Bill Freedman",
         "Original release": "April 22, 2014 – May 27, 2014",
         "Network": "ITV4",
@@ -3765,6 +3835,18 @@
     ],
     "data": [
       {
+        "Title": "Poor Devil",
+        "Genre": "Comedy",
+        "Seasons, episodes": "1 season, 8 episodes",
+        "Show creator": "TBA",
+        "Release date": "February 17, 2023",
+        "Original channel": "HBO Max",
+        "Studio": "Buendia Estudios",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
         "Title": "Arròs covat",
         "Genre": "Drama",
         "Seasons/episodes": "3 seasons, 36 episodes",
@@ -4109,42 +4191,6 @@
     ],
     "data": [
       {
-        "Title": "Universal Basic Guys",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Adam and Craig Malamut",
-        "Release date": "Fall 2024",
-        "Original channel": "Fox",
-        "Studio": "Fox Entertainment",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Creature Commandos",
-        "Genre": "Action",
-        "Seasons, episodes": "TBA",
-        "Show creator": "James Gunn",
-        "Release date": "2024",
-        "Original channel": "Max",
-        "Studio": "Warner Bros. Animation",
-        "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "Kite Man: Hell Yeah!",
-        "Genre": "Superhero",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Justin Halpern",
-        "Release date": "2024",
-        "Original channel": "Max",
-        "Studio": "Delicious Non-Sequitur",
-        "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
         "Title": "Marvel Zombies",
         "Genre": "Superhero",
         "Seasons, episodes": "TBA",
@@ -4157,39 +4203,63 @@
         "Source": ""
       },
       {
-        "Title": "Exploding Kittens",
+        "Title": "Universal Basic Guys",
         "Genre": "Comedy",
         "Seasons, episodes": "TBA",
-        "Show creator": "TBA",
-        "Release date": "July 2024",
-        "Original channel": "Netflix",
-        "Studio": "Netflix Animation",
+        "Show creator": "Adam and Craig Malamut",
+        "Release date": "September 8, 2024",
+        "Original channel": "Fox",
+        "Studio": "Leith Hill Productions",
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""
       },
       {
-        "Title": "Sausage Party: Foodtopia",
+        "Title": "Everybody Still Hates Chris",
         "Genre": "Comedy",
-        "Seasons, episodes": "1 season, 8 episodes",
+        "Seasons, episodes": "TBA",
         "Show creator": "TBA",
-        "Release date": "July 11, 2024",
+        "Release date": "September 25, 2024",
+        "Original channel": "Paramount+",
+        "Studio": "CBS Eye Animation Productions",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Creature Commandos",
+        "Genre": "Action",
+        "Seasons, episodes": "TBA",
+        "Show creator": "James Gunn",
+        "Release date": "December 2024",
+        "Original channel": "Max",
+        "Studio": "Warner Bros. Animation",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Secret Level",
+        "Genre": "Anthology",
+        "Seasons, episodes": "1 season, 15 episodes",
+        "Show creator": "Tim Miller",
+        "Release date": "December 10, 2024",
         "Original channel": "Amazon Prime Video",
-        "Studio": "Amazon MGM Studios",
+        "Studio": "Blur Studio",
         "Age rating": "",
         "Technique": "CGI",
         "Source": ""
       },
       {
-        "Title": "Batman: Caped Crusader",
-        "Genre": "Action",
-        "Seasons, episodes": "1 season, 10 episodes",
-        "Show creator": "Bruce Timm",
-        "Release date": "August 1, 2024",
-        "Original channel": "Amazon Prime Video",
-        "Studio": "6th &amp; Idaho",
+        "Title": "Long Story Short",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "TBA",
+        "Release date": "2025",
+        "Original channel": "Netflix",
+        "Studio": "The Tornante Company",
         "Age rating": "",
-        "Technique": "Traditional",
+        "Technique": "",
         "Source": ""
       }
     ]

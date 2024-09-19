@@ -23,7 +23,7 @@
       },
       {
         "Title": "Strange Angel",
-        "Genre": "Historical period drama",
+        "Genre": "Historical drama",
         "Premiere": "June 14, 2018",
         "Seasons": "2 seasons, 17 episodes",
         "Runtime": "46–54 min",
@@ -79,7 +79,7 @@
       },
       {
         "Title": "The Stand",
-        "Genre": "Apocalyptic horror fantasy drama",
+        "Genre": "Apocalyptic drama",
         "Premiere": "December 17, 2020",
         "Seasons": "9 episodes",
         "Runtime": "49–65 min",
@@ -97,9 +97,9 @@
         "Title": "Mayor of Kingstown",
         "Genre": "Crime thriller",
         "Premiere": "November 14, 2021",
-        "Seasons": "3 seasons, 21 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Runtime": "34–66 min",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "1883",
@@ -115,7 +115,7 @@
         "Premiere": "March 24, 2022",
         "Seasons": "2 seasons, 17 episodes",
         "Runtime": "40–61 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Offer",
@@ -131,15 +131,15 @@
         "Premiere": "May 5, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "46–63 min",
-        "Status": "Renewed for seasons 3–4"
+        "Status": "Season 3 due to premiere in 2025Renewed"
       },
       {
         "Title": "Tulsa King",
         "Genre": "Drama",
         "Premiere": "November 13, 2022",
-        "Seasons": "1 season, 9 episodes",
+        "Seasons": "2 seasons, 19 episodes",
         "Runtime": "36–43 min",
-        "Status": "Season 2 due to premiere in late 2024"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "1923",
@@ -187,7 +187,7 @@
         "Premiere": "July 23, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "38–57 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on October 27, 2024"
       },
       {
         "Title": "Lawmen: Bass Reeves",
@@ -203,6 +203,14 @@
         "Premiere": "January 25, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–55 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Landman",
+        "Genre": "Drama",
+        "Premiere": "November 17, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -223,7 +231,7 @@
       },
       {
         "Title": "Why Women Kill",
-        "Genre": "Dark comedy drama",
+        "Genre": "Dark comedy drama anthology",
         "Premiere": "August 15, 2019",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "45–56 min",
@@ -283,7 +291,7 @@
         "Premiere": "October 12, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–30 min",
-        "Status": "Season 2 due to premiere in late 2024"
+        "Status": "Season 2 due to premiere on September 19, 2024"
       },
       {
         "Title": "Knuckles",
@@ -316,7 +324,7 @@
         "Premiere": "August 6, 2020",
         "Seasons": "4 seasons, 40 episodes",
         "Runtime": "23–30 min",
-        "Status": "Final season due to premiere in late 2024"
+        "Status": "Final season due to premiere on October 24, 2024"
       },
       {
         "Title": "The Harper House",
@@ -355,9 +363,9 @@
         "Title": "Kamp Koral: SpongeBob's Under Years",
         "Genre": "Comedy",
         "Premiere": "March 4, 2021",
-        "Seasons": "1 season, 26 episodes",
+        "Seasons": "2 seasons, 39 episodes",
         "Runtime": "22–23 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Ended"
       },
       {
         "Title": "Rugrats",
@@ -395,24 +403,16 @@
         "Title": "Dora",
         "Genre": "Adventure",
         "Premiere": "April 12, 2024",
-        "Seasons": "1 season, 26 episodes",
+        "Seasons": "2 seasons, 52 episodes",
         "Runtime": "11–12 min",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
+        "Status": "Pending"
       },
       {
         "Title": "Tales of the Teenage Mutant Ninja Turtles",
         "Genre": "Superhero",
         "Premiere": "August 9, 2024",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "TBA",
+        "Runtime": "22-23 min",
         "Status": "Renewed"
       }
     ]
@@ -705,19 +705,11 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Subject": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Chopper Cops",
         "Subject": "Law enforcement",
         "Premiere": "June 18, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "72–79 min",
         "Status": "Pending"
       },
       {
@@ -725,7 +717,31 @@
         "Subject": "Music",
         "Premiere": "July 9, 2024",
         "Seasons": "2 episodes",
-        "Runtime": "TBA",
+        "Runtime": "58–60 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Mafia Spies",
+        "Subject": "History",
+        "Premiere": "July 16, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "49–61 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "PD True",
+        "Subject": "True crime",
+        "Premiere": "August 6, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24–29 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Nöthin' But a Good Time: The Uncensored Story of '80s Hair Metal",
+        "Subject": "Music",
+        "Premiere": "September 17, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "46 min",
         "Status": "Miniseries"
       }
     ]
@@ -767,7 +783,7 @@
         "Premiere": "April 1, 2021",
         "Seasons": "4 seasons, 37 episodes",
         "Runtime": "43–49 min",
-        "Status": "Season 4 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Love Island: Exclusive Episodes",
@@ -847,7 +863,15 @@
         "Premiere": "June 2, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "39–55 min",
-        "Status": "Pending"
+        "Status": "Ended"
+      },
+      {
+        "Title": "RuPaul's Drag Race Global All Stars",
+        "Genre": "Reality competition",
+        "Premiere": "August 16, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "45-53 min",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -960,11 +984,21 @@
       },
       {
         "Title": "Pyramid Game",
-        "Genre": "Teen drama psychological thriller",
+        "Genre": "Teen psychological thriller",
         "Partner/Country": "TVING/South Korea",
         "Premiere": "May 30, 2024",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "50–64 min",
+        "Language": "Korean",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dreaming of a Freaking Fairy Tale",
+        "Genre": "Romantic comedy",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "September 26, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40 min",
         "Language": "Korean",
         "Status": "Pending"
       }
@@ -992,7 +1026,7 @@
         "Premiere": "June 20, 2021",
         "Seasons": "3 seasons, 37 episodes",
         "Runtime": "45–57 min",
-        "Status": "Final season ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "RuPaul's Drag Race All Stars (seasons 6–9)",
@@ -1001,7 +1035,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "4 seasons, 48 episodes",
         "Runtime": "61–83 min",
-        "Status": "Season 9 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–6)",
@@ -1010,7 +1044,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "4 seasons, 48 episodes",
         "Runtime": "21–22 min",
-        "Status": "Season 6 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "Inside the NFL (seasons 45–46)",
@@ -1022,13 +1056,13 @@
         "Status": "Ended"
       },
       {
-        "Title": "SEAL Team (seasons 5B–6)",
+        "Title": "SEAL Team (seasons 5B–7)",
         "Genre": "Military action",
         "Prev. network(s)": "CBS",
         "Premiere": "November 1, 2021",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Runtime": "43–49 min",
-        "Status": "Final season due to premiere in 2024"
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Next Influencer (season 3)",
@@ -1082,7 +1116,7 @@
         "Premiere": "November 24, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "44–56 min",
-        "Status": "Season 17 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Are You the One? (season 9)",
@@ -1389,10 +1423,10 @@
         "Title": "Last King of the Cross",
         "Genre": "Drama",
         "Premiere": "February 17, 2023",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 20 episodes",
         "Runtime": "44–62 min",
         "Exclusive region(s)": "Australia and Canada",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "1939: Secrets of Hollywood's Golden Year",
@@ -1428,7 +1462,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "42–48 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Inspired Unemployed (Impractical) Jokers",
@@ -1533,10 +1567,10 @@
         "Title": "Celebrity Ex on the Beach (season 3)",
         "Genre": "Reality",
         "Premiere": "March 19, 2024",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "44 min",
         "Exclusive region(s)": "Australia and United Kingdom",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "A Gentleman in Moscow",
@@ -1554,7 +1588,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "58–64 min",
         "Exclusive region(s)": "All markets except Ireland, United Kingdom and United States",
-        "Status": "Season 5 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Insomnia",
@@ -1566,22 +1600,40 @@
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Exclusive region(s)": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Fake",
         "Genre": "Thriller",
         "Premiere": "July 4, 2024",
         "Seasons": "8 episodes",
+        "Runtime": "40 min",
+        "Exclusive region(s)": "Australia",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Stags",
+        "Genre": "Crime drama",
+        "Premiere": "August 15, 2024",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Dating Naked UK",
+        "Genre": "Dating show",
+        "Premiere": "August 23, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Aussie Shore",
+        "Genre": "Reality",
+        "Premiere": "October 3, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia and New Zealand",
+        "Status": "Pending"
       }
     ]
   },
@@ -1589,7 +1641,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "French"
     ],
     "data": [
       {
@@ -1607,7 +1659,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "German"
     ],
     "data": [
       {
@@ -1662,7 +1714,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–50 min",
         "Exclusive region(s)": "Austria, Germany and Switzerland",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Drag Race Germany",
@@ -1688,7 +1740,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "Italian"
     ],
     "data": [
       {
@@ -1742,7 +1794,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "Portuguese"
     ],
     "data": [
       {
@@ -1805,7 +1857,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Non-English language"
+      "Spanish"
     ],
     "data": [
       {
@@ -1914,7 +1966,7 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "57–62 min",
         "Exclusive region(s)": "Latin America",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1978,7 +2030,7 @@
         "Runtime": "24–32 min",
         "Language": "English",
         "Exclusive region(s)": "United States",
-        "Status": "Season 2 due to premiere in late 2024"
+        "Status": "Season 2 due to premiere on September 26, 2024"
       }
     ]
   },
@@ -1986,7 +2038,7 @@
     "category": [
       "Original programming",
       "Regional original programming",
-      "Specials"
+      "Stand-up comedy"
     ],
     "data": [
       {
@@ -2090,14 +2142,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Department",
-        "Genre": "Political thriller",
-        "Premiere": "2024",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Happy Face",
         "Genre": "True crime drama",
         "Premiere": "2025",
@@ -2106,8 +2150,16 @@
         "Status": "Filming"
       },
       {
-        "Title": "Landman",
-        "Genre": "Drama",
+        "Title": "NCIS: Tony &amp; Ziva",
+        "Genre": "Military action",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Star Trek: Starfleet Academy",
+        "Genre": "Science fiction",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2130,18 +2182,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "NCIS: Tony &amp; Ziva",
-        "Genre": "Military action",
+        "Title": "JonBenét Ramsey",
+        "Genre": "True crime drama miniseries",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Star Trek: Starfleet Academy",
-        "Genre": "Science fiction",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -2181,7 +2225,7 @@
       {
         "Title": "Everybody Still Hates Chris",
         "Genre": "Comedy",
-        "Premiere": "TBA",
+        "Premiere": "Late 2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
@@ -2200,14 +2244,6 @@
         "Subject": "Sports",
         "Premiere": "Late 2024",
         "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Mafia Spies",
-        "Subject": "True crime",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -2235,14 +2271,6 @@
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "RuPaul's Drag Race Global All Stars",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -2253,7 +2281,7 @@
     ],
     "data": [
       {
-        "Title": "The Queen 'Woo'",
+        "Title": "Queen Woo",
         "Genre": "Period drama",
         "Partner/Country": "TVING/South Korea",
         "Premiere": "TBA",
@@ -2273,15 +2301,6 @@
       {
         "Title": "Dongjae, The Good or The Bastard",
         "Genre": "Thriller drama",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Dreaming of a Freaking Fairy Tale",
-        "Genre": "Romantic comedy",
         "Partner/Country": "TVING/South Korea",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -2364,14 +2383,6 @@
     ],
     "data": [
       {
-        "Title": "Aussie Shore",
-        "Genre": "Reality",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "North Shore",
         "Genre": "Crime thriller",
         "Premiere": "TBA",
@@ -2444,14 +2455,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Stags",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "They Drive at Night",
         "Genre": "Dark comedy",
         "Premiere": "TBA",
@@ -2465,7 +2468,7 @@
     "category": [
       "Upcoming original programming",
       "Regional original programming",
-      "Non-English language"
+      "French"
     ],
     "data": [
       {
@@ -2498,7 +2501,7 @@
     "category": [
       "Upcoming original programming",
       "Regional original programming",
-      "Non-English language"
+      "German"
     ],
     "data": [
       {
@@ -2515,7 +2518,7 @@
     "category": [
       "Upcoming original programming",
       "Regional original programming",
-      "Non-English language"
+      "Spanish"
     ],
     "data": [
       {
@@ -2631,6 +2634,10 @@
         "Genre": "Comedy drama"
       },
       {
+        "Title": "Untitled Star Trek series",
+        "Genre": "Science fiction comedy"
+      },
+      {
         "Title": "Untitled Warrior series",
         "Genre": "Sports drama"
       },
@@ -2641,10 +2648,6 @@
       {
         "Title": "Vice City",
         "Genre": "Crime drama"
-      },
-      {
-        "Title": "Yellow Bird",
-        "Genre": "Drama"
       }
     ]
   }

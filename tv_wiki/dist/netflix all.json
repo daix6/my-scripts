@@ -232,9 +232,10 @@
         "Title": "Vikings: Valhalla",
         "Genre": "Historical drama",
         "Premiere": "February 25, 2022",
-        "Seasons": "2 seasons, 16 episodes",
+        "Finale": "July 11, 2024",
+        "Seasons": "3 seasons, 24 episodes",
         "Runtime": "43–59 min",
-        "Status": "Final season due to premiere on July 11, 2024"
+        "Notes": ""
       },
       {
         "Title": "Pieces of Her",
@@ -267,9 +268,9 @@
         "Title": "Savage Beauty",
         "Genre": "Drama",
         "Premiere": "May 12, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–54 min",
-        "Status": "Season 2 due to premiere on June 28, 2024"
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "42–54 min",
+        "Status": "Pending"
       },
       {
         "Title": "The Lincoln Lawyer",
@@ -277,7 +278,7 @@
         "Premiere": "May 13, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "43–55 min",
-        "Status": "Season 3 due to premiere in 2025"
+        "Status": "Season 3 due to premiere on October 17, 2024"
       },
       {
         "Title": "First Kill",
@@ -559,7 +560,7 @@
         "Premiere": "April 20, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "44–56 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Season 2 due to premiere on October 31, 2024"
       },
       {
         "Title": "Queen Charlotte: A Bridgerton Story",
@@ -583,9 +584,10 @@
         "Title": "Fatal Seduction",
         "Genre": "Thriller",
         "Premiere": "July 7, 2023",
+        "Finale": "August 4, 2023",
         "Seasons": "1 season, 14 episodes",
         "Runtime": "26–35 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Painkiller",
@@ -609,9 +611,10 @@
         "Title": "Miseducation",
         "Genre": "Coming-of-age drama",
         "Premiere": "September 15, 2023",
+        "Finale": "September 15, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "33–42 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Fall of the House of Usher",
@@ -723,9 +726,10 @@
         "Title": "Dead Boy Detectives",
         "Genre": "Supernatural drama",
         "Premiere": "April 25, 2024",
+        "Finale": "April 25, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "52–57 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "A Man in Full",
@@ -757,17 +761,59 @@
         "Title": "Supacell",
         "Genre": "Superhero drama",
         "Premiere": "June 27, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "46–59 min",
+        "Status": "Renewed"
       },
       {
         "Title": "The Decameron",
         "Genre": "Period drama",
         "Premiere": "July 25, 2024",
-        "Seasons": "1 season, 8 episodes",
+        "Finale": "July 25, 2024",
+        "Seasons": "8 episodes",
+        "Runtime": "48–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Perfect Couple",
+        "Genre": "Crime drama",
+        "Premiere": "September 5, 2024",
+        "Finale": "September 5, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "42–63 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Monsters: The Lyle and Erik Menendez Story",
+        "Genre": "Crime drama",
+        "Premiere": "September 19, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Beauty in Black",
+        "Genre": "Drama",
+        "Premiere": "October 24, 2024",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
+      },
+      {
+        "Title": "Territory",
+        "Genre": "Drama",
+        "Premiere": "October 24, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Madness",
+        "Genre": "Conspiracy thriller",
+        "Premiere": "November 28, 2024",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -930,9 +976,9 @@
         "Title": "That '90s Show",
         "Genre": "Period teen sitcom",
         "Premiere": "January 19, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–30 min",
-        "Status": "Season 2 part 1 due to premiere on June 27, 2024Season 2 part 2 due to premiere on October 24, 2024"
+        "Seasons": "3 parts, 26 episodes",
+        "Runtime": "20–30 min",
+        "Status": "Pending"
       },
       {
         "Title": "Freeridge",
@@ -956,9 +1002,9 @@
         "Title": "Unstable",
         "Genre": "Workplace comedy",
         "Premiere": "March 30, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "20–26 min",
-        "Status": "Season 2 due to premiere on August 1, 2024"
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "20–30 min",
+        "Status": "Pending"
       },
       {
         "Title": "Beef",
@@ -1041,7 +1087,7 @@
         "Premiere": "March 7, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–67 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Bodkin",
@@ -1065,6 +1111,14 @@
         "Premiere": "May 31, 2024",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "43–50 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Kaos",
+        "Genre": "Dark comedy",
+        "Premiere": "August 29, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "45–56 min",
         "Status": "Pending"
       },
       {
@@ -1364,10 +1418,11 @@
         "Title": "Skull Island",
         "Genre": "Adventure",
         "Premiere": "June 22, 2023",
+        "Finale": "June 22, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "19–25 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Captain Fall",
@@ -1408,7 +1463,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "Good Times",
+        "Title": "Good Times: Black Again",
         "Genre": "Sitcom",
         "Premiere": "April 12, 2024",
         "Seasons": "1 season, 10 episodes",
@@ -1420,8 +1475,8 @@
         "Title": "Exploding Kittens",
         "Genre": "Comedy",
         "Premiere": "July 12, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "24–27 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -1429,10 +1484,10 @@
         "Title": "Twilight of the Gods",
         "Genre": "Fantasy",
         "Premiere": "September 19, 2024",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1516,10 +1571,11 @@
         "Title": "Record of Ragnarok",
         "Genre": "Action",
         "Premiere": "June 17, 2021",
+        "Finale": "July 12, 2023",
         "Seasons": "2 seasons, 27 episodes",
         "Runtime": "23–26 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Resident Evil: Infinite Darkness",
@@ -1545,10 +1601,11 @@
         "Title": "Baki Hanma",
         "Genre": "Martial arts",
         "Premiere": "September 30, 2021",
+        "Finale": "August 24, 2023",
         "Seasons": "2 seasons, 39 episodes",
         "Runtime": "24–25 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Super Crooks",
@@ -1614,10 +1671,11 @@
         "Title": "Bastard!! -Heavy Metal, Dark Fantasy-",
         "Genre": "Dark fantasy",
         "Premiere": "June 30, 2022",
+        "Finale": "July 31, 2023",
         "Seasons": "2 seasons, 39 episodes",
         "Runtime": "23–25 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Kakegurui Twin",
@@ -1753,19 +1811,21 @@
         "Title": "Ōoku: The Inner Chambers",
         "Genre": "Historical drama",
         "Premiere": "June 29, 2023",
+        "Finale": "June 29, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–79 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Gamera Rebirth",
         "Genre": "Kaiju science fiction",
         "Premiere": "September 7, 2023",
+        "Finale": "September 7, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–47 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Castlevania: Nocturne",
@@ -1774,7 +1834,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "24–30 min",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in January 2025"
       },
       {
         "Title": "Good Night World",
@@ -1870,10 +1930,10 @@
         "Title": "T・P BON",
         "Genre": "Science fiction",
         "Premiere": "May 2, 2024",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "26–31 min",
+        "Seasons": "2 seasons, 24 episodes",
+        "Runtime": "26–33 min",
         "Language": "Japanese",
-        "Status": "Season 2 due to premiere on July 17, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Garouden: The Way of the Lone Wolf",
@@ -1888,25 +1948,34 @@
         "Title": "Rising Impact",
         "Genre": "Sports",
         "Premiere": "June 22, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "2 seasons, 26 episodes",
+        "Runtime": "22–28 min",
         "Language": "Japanese",
-        "Status": "Season 2 due to premiere on August 6, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Terminator Zero",
         "Genre": "Science fiction",
         "Premiere": "August 29, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
+        "Runtime": "25–29 min",
+        "Language": "Japanese",
         "Status": "Pending"
       },
       {
         "Title": "Tomb Raider: The Legend of Lara Croft",
         "Genre": "Action-adventure",
         "Premiere": "October 10, 2024",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Gundam: Requiem for Vengeance",
+        "Genre": "Mecha / military science fiction",
+        "Premiere": "October 17, 2024",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Pending"
@@ -2184,10 +2253,10 @@
         "Title": "The Dragon Prince",
         "Genre": "Fantasy action adventure",
         "Premiere": "September 14, 2018",
-        "Seasons": "5 seasons, 45 episodes",
+        "Seasons": "6 seasons, 54 episodes",
         "Runtime": "24–33 min",
         "Language": "English",
-        "Status": "Season 6 due to premiere on July 26, 2024Renewed for final season"
+        "Status": "Final season due to premiere on December 19, 2024"
       },
       {
         "Title": "Hilda",
@@ -2490,10 +2559,10 @@
         "Title": "Gabby's Dollhouse",
         "Genre": "Preschool adventure fantasy",
         "Premiere": "January 5, 2021",
-        "Seasons": "9 seasons, 64 episodes",
+        "Seasons": "10 seasons, 70 episodes",
         "Runtime": "23–30 min",
         "Language": "English",
-        "Status": "Season 10 due to premiere on August 5, 2024"
+        "Status": "Renewed"
       },
       {
         "Title": "Go, Dog. Go!",
@@ -2727,7 +2796,7 @@
         "Seasons": "3 chapters, 20 episodes",
         "Runtime": "27–29 min",
         "Language": "English",
-        "Status": "Chapter 4 due to premiere in 2024"
+        "Status": "Chapter 4 due to premiere on December 2, 2024"
       },
       {
         "Title": "Battle Kitty",
@@ -2857,21 +2926,21 @@
       },
       {
         "Title": "StoryBots: Answer Time",
-        "Genre": "Educational science fiction",
         "Premiere": "November 21, 2022",
+        "Finale": "July 10, 2023",
         "Seasons": "2 seasons, 22 episodes",
         "Runtime": "18–23 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Sonic Prime",
+        "Genre": "Fantasy action adventure",
         "Premiere": "December 15, 2022",
-        "Finale": "January 11, 2024",
         "Seasons": "3 seasons, 23 episodes",
         "Runtime": "21–43 min",
         "Language": "English",
-        "Notes": ""
+        "Status": "Pending"
       },
       {
         "Title": "Brown and Friends",
@@ -2947,12 +3016,12 @@
       },
       {
         "Title": "Mech Cadets",
-        "Genre": "Science fiction action",
         "Premiere": "August 10, 2023",
+        "Finale": "August 10, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "20–30 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Little Baby Bum: Music Time",
@@ -2967,17 +3036,17 @@
         "Title": "Unicorn Academy",
         "Genre": "Fantasy action adventure",
         "Premiere": "November 2, 2023",
-        "Seasons": "1 season, 9 episodes",
+        "Seasons": "2 chapters, 19 episodes",
         "Runtime": "24–75 min",
         "Language": "English",
-        "Status": "Chapter 2 to premiere on June 27, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "CoComelon Lane",
         "Genre": "Preschool musical",
         "Premiere": "November 17, 2023",
-        "Seasons": "2 seasons, 14 episodes",
-        "Runtime": "25–32 min",
+        "Seasons": "3 seasons, 15 episodes",
+        "Runtime": "25–33 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -3003,10 +3072,10 @@
         "Title": "Hot Wheels Let's Race",
         "Genre": "Adventure comedy",
         "Premiere": "March 4, 2024",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 15 episodes",
         "Runtime": "23–24 min",
         "Language": "English",
-        "Status": "Season 2 due to premiere in late 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Bad Dinosaurs",
@@ -3024,25 +3093,34 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23 min",
         "Language": "English",
-        "Status": "Season 2 due to premiere in late 2024"
+        "Status": "Season 2 due to premiere October 17, 2024"
       },
       {
         "Title": "Wonderoos",
         "Genre": "Preschool comedy",
         "Premiere": "July 15, 2024",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "14 min",
+        "Language": "English",
+        "Status": "Season 2 due to premiere on November 18, 2024"
+      },
+      {
+        "Title": "Mighty MonsterWheelies",
+        "Genre": "Preschool",
+        "Premiere": "October 14, 2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Pending"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
+        "Title": "Barbie Mysteries: The Great Horse Chase",
+        "Genre": "Adventure comedy",
+        "Premiere": "November 1, 2024",
+        "Seasons": "8 episodes",
+        "Runtime": "25 min",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -3075,7 +3153,7 @@
         "Premiere": "February 3, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–55 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Season 2 due to premiere on September 26, 2024"
       },
       {
         "Title": "Love, Life &amp; Everything in Between",
@@ -3116,9 +3194,10 @@
         "Title": "Tahir's House",
         "Genre": "Comedy drama",
         "Premiere": "September 6, 2023",
+        "Finale": "September 6, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "27–35 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Hard Broken",
@@ -3229,9 +3308,9 @@
         "Title": "Represent",
         "Genre": "Comedy",
         "Premiere": "January 20, 2023",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "26–34 min",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Thicker Than Water",
@@ -3342,9 +3421,9 @@
         "Title": "Kleo",
         "Genre": "Thriller",
         "Premiere": "August 19, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–56 min",
-        "Status": "Season 2 due to premiere on July 25, 2024"
+        "Seasons": "2 seasons, 14 episodes",
+        "Runtime": "41–56 min",
+        "Status": "Pending"
       },
       {
         "Title": "The Empress",
@@ -3387,7 +3466,15 @@
         "Premiere": "April 4, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "39–66 min",
-        "Status": "Pending"
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Murder Mindfully",
+        "Genre": "Dark comedy",
+        "Premiere": "October 31, 2024",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -3539,7 +3626,7 @@
       },
       {
         "Title": "Kaala Paani",
-        "Genre": "Drama",
+        "Genre": "Thriller drama",
         "Premiere": "October 18, 2023",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "57–70 min",
@@ -3572,11 +3659,28 @@
       },
       {
         "Title": "Heeramandi: The Diamond Bazaar",
-        "Genre": "Romantic drama",
+        "Genre": "Family drama",
         "Premiere": "May 1, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "46–67 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Tribhuvan Mishra CA Topper",
+        "Genre": "Dark comedy",
+        "Premiere": "July 18, 2024",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "44–67 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "IC 814: The Kandahar Hijack",
+        "Genre": "Thriller",
+        "Premiere": "August 29, 2024",
+        "Finale": "August 29, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "28–46 min",
+        "Notes": ""
       }
     ]
   },
@@ -3695,7 +3799,7 @@
         "Premiere": "October 14, 2022",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "42–49 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on September 26, 2024"
       },
       {
         "Title": "I Hate Christmas",
@@ -3754,6 +3858,14 @@
         "Seasons": "6 episodes",
         "Runtime": "47–50 min",
         "Notes": ""
+      },
+      {
+        "Title": "Deceitful Love",
+        "Genre": "Romantic drama",
+        "Premiere": "October 9, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -3830,9 +3942,10 @@
         "Title": "Burn the House Down",
         "Genre": "Mystery thriller",
         "Premiere": "July 13, 2023",
+        "Finale": "July 13, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–54 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "YuYu Hakusho",
@@ -3855,6 +3968,30 @@
         "Genre": "Crime thriller",
         "Premiere": "July 25, 2024",
         "Seasons": "1 season, 7 episodes",
+        "Runtime": "37–66 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Chastity High",
+        "Genre": "Teen drama",
+        "Premiere": "August 29, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–54 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Queen of Villains",
+        "Genre": "Sports drama",
+        "Premiere": "September 19, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Beyond Goodbye",
+        "Genre": "Romantic drama",
+        "Premiere": "November 14, 2024",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -3888,9 +4025,10 @@
         "Title": "D.P.",
         "Genre": "Military drama",
         "Premiere": "August 27, 2021",
+        "Finale": "July 28, 2023",
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "41–64 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Squid Game",
@@ -3898,7 +4036,7 @@
         "Premiere": "September 17, 2021",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "32–63 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Season 2 due to premiere on December 26, 2024Final season due to premiere in 2025"
       },
       {
         "Title": "My Name",
@@ -4090,9 +4228,10 @@
         "Title": "Song of the Bandits",
         "Genre": "Period action drama",
         "Premiere": "September 22, 2023",
+        "Finale": "September 22, 2023",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "48–69 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Doona!",
@@ -4116,7 +4255,7 @@
         "Premiere": "December 22, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "64–78 min",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Season 2 due to premiere on September 27, 2024"
       },
       {
         "Title": "The Bequeathed",
@@ -4184,9 +4323,19 @@
         "Title": "The Whirlwind",
         "Genre": "Political drama",
         "Premiere": "June 28, 2024",
+        "Finale": "June 28, 2024",
         "Seasons": "12 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "38–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Frog",
+        "Genre": "Mystery crime thriller",
+        "Premiere": "August 23, 2024",
+        "Finale": "August 23, 2024",
+        "Seasons": "8 episodes",
+        "Runtime": "49–68 min",
+        "Notes": ""
       }
     ]
   },
@@ -4265,6 +4414,22 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–58 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "GG Precinct",
+        "Genre": "Crime comedy",
+        "Premiere": "August 22, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "38–50 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Born for the Spotlight",
+        "Genre": "Drama",
+        "Premiere": "November 7, 2024",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -4341,9 +4506,9 @@
         "Title": "The Green Glove Gang",
         "Genre": "Dark comedy",
         "Premiere": "October 19, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "28–35 min",
-        "Status": "Season 2 due to premiere on July 17, 2024"
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "28–38 min",
+        "Status": "Pending"
       },
       {
         "Title": "Dead End",
@@ -4376,9 +4541,10 @@
         "Title": "Infamy",
         "Genre": "Drama",
         "Premiere": "September 6, 2023",
+        "Finale": "September 6, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "44–52 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Absolute Beginners",
@@ -4451,9 +4617,10 @@
         "Title": "Back to 15",
         "Genre": "Comedy",
         "Premiere": "February 25, 2022",
-        "Seasons": "2 seasons, 12 episodes",
+        "Finale": "August 21, 2024",
+        "Seasons": "3 seasons, 18 episodes",
         "Runtime": "34–44 min",
-        "Status": "Renewed for final season"
+        "Notes": ""
       },
       {
         "Title": "Smother-in-Law",
@@ -4539,9 +4706,10 @@
         "Title": "Reporting for Duty",
         "Genre": "Comedy",
         "Premiere": "September 6, 2023",
+        "Finale": "September 6, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–31 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Criminal Code",
@@ -4571,7 +4739,16 @@
         "Title": "Desperate Lies",
         "Genre": "Telenovela",
         "Premiere": "July 5, 2024",
-        "Seasons": "18 episodes",
+        "Finale": "July 5, 2024",
+        "Seasons": "17 episodes",
+        "Runtime": "36–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Senna",
+        "Genre": "Sports biopic",
+        "Premiere": "November 29, 2024",
+        "Seasons": "6 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
       }
@@ -4895,7 +5072,7 @@
         "Premiere": "December 30, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "30–40 min",
-        "Status": "Renewed"
+        "Status": "Renewed for seasons 3–4"
       },
       {
         "Title": "Against the Ropes",
@@ -4927,9 +5104,9 @@
         "Title": "Eva Lasting",
         "Genre": "Romantic drama",
         "Premiere": "February 15, 2023",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "36–46 min",
-        "Status": "Season 2 due to premiere on July 10, 2024"
+        "Seasons": "2 seasons, 23 episodes",
+        "Runtime": "36–50 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Community Squad",
@@ -5006,9 +5183,10 @@
         "Title": "The Chosen One",
         "Genre": "Supernatural drama",
         "Premiere": "August 16, 2023",
+        "Finale": "August 16, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "35–47 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Burning Body",
@@ -5129,6 +5307,166 @@
         "Title": "Gangs of Galicia",
         "Genre": "Crime drama",
         "Premiere": "June 21, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "41–56 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Accident",
+        "Genre": "Drama",
+        "Premiere": "August 21, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40–50 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Breathless",
+        "Genre": "Medical drama",
+        "Premiere": "August 30, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "40–51 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Envious",
+        "Genre": "Comedy",
+        "Premiere": "September 18, 2024",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "25–40 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "We Were Kings",
+        "Genre": "Drama",
+        "Premiere": "September 25, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Secret of the River",
+        "Genre": "Drama",
+        "Premiere": "October 9, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Last Night at Tremore Beach",
+        "Genre": "Thriller",
+        "Premiere": "October 25, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Bank Under Siege",
+        "Genre": "Heist",
+        "Premiere": "November 8, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Swedish"
+    ],
+    "data": [
+      {
+        "Title": "Snabba Cash",
+        "Genre": "Thriller",
+        "Premiere": "April 7, 2021",
+        "Finale": "September 22, 2022",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "38–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Young Royals",
+        "Genre": "Coming-of-age drama",
+        "Premiere": "July 1, 2021",
+        "Finale": "March 18, 2024",
+        "Seasons": "3 seasons, 18 episodes",
+        "Runtime": "40–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Unlikely Murderer",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "November 5, 2021",
+        "Finale": "November 5, 2021",
+        "Seasons": "5 episodes",
+        "Runtime": "43–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Anxious People",
+        "Genre": "Comedy drama",
+        "Premiere": "December 29, 2021",
+        "Finale": "December 29, 2021",
+        "Seasons": "6 episodes",
+        "Runtime": "23–34 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Clark",
+        "Genre": "Drama",
+        "Premiere": "May 5, 2022",
+        "Finale": "May 5, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "54–69 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Playlist",
+        "Genre": "Docu-drama miniseries",
+        "Premiere": "October 13, 2022",
+        "Finale": "October 13, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "45–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Barracuda Queens",
+        "Genre": "Heist crime drama",
+        "Premiere": "June 5, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "31–34 min",
+        "Status": "Season 2 due to premiere in 2025"
+      },
+      {
+        "Title": "Tore",
+        "Genre": "Coming-of-age comedy drama",
+        "Premiere": "October 27, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "29–34 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A Nearly Normal Family",
+        "Genre": "Crime thriller",
+        "Premiere": "November 24, 2023",
+        "Finale": "November 24, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "36–50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Deliver Me",
+        "Genre": "Crime drama",
+        "Premiere": "April 24, 2024",
+        "Finale": "April 24, 2024",
+        "Seasons": "5 episodes",
+        "Runtime": "38–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Helicopter Heist",
+        "Genre": "Heist drama",
+        "Premiere": "November 22, 2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -5181,17 +5519,19 @@
         "Title": "Delete",
         "Genre": "Science fiction thriller",
         "Premiere": "June 28, 2023",
+        "Finale": "June 28, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "40–54 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "6ixtynin9 The Series",
         "Genre": "Dark comedy thriller",
         "Premiere": "September 6, 2023",
+        "Finale": "September 6, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "40–66 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Analog Squad",
@@ -5229,8 +5569,16 @@
         "Title": "Master of the House",
         "Genre": "Drama",
         "Premiere": "July 18, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "44–62 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Terror Tuesday: Extreme",
+        "Genre": "Horror anthology",
+        "Premiere": "August 20, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "38–46 min",
         "Status": "Pending"
       }
     ]
@@ -5263,17 +5611,18 @@
         "Title": "The Club",
         "Genre": "Period drama",
         "Premiere": "November 5, 2021",
+        "Finale": "September 15, 2023",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "29–69 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Midnight at the Pera Palace",
         "Genre": "Drama",
         "Premiere": "March 3, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "40–47 min",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "36–52 min",
+        "Status": "Pending"
       },
       {
         "Title": "Wild Abandon",
@@ -5299,7 +5648,7 @@
         "Premiere": "May 13, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "38–56 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on October 10, 2024"
       },
       {
         "Title": "As the Crow Flies",
@@ -5314,9 +5663,9 @@
         "Title": "Another Self",
         "Genre": "Drama",
         "Premiere": "July 28, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "45–55 min",
-        "Status": "Season 2 due to premiere on July 11, 2024"
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "45–67 min",
+        "Status": "Pending"
       },
       {
         "Title": "Man on Pause",
@@ -5340,9 +5689,9 @@
         "Title": "Shahmaran",
         "Genre": "Fantasy",
         "Premiere": "January 20, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–59 min",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 14 episodes",
+        "Runtime": "43–59 min",
+        "Status": "Pending"
       },
       {
         "Title": "Who Were We Running From?",
@@ -5406,19 +5755,10 @@
         "Title": "Baby Fever",
         "Genre": "Romantic comedy drama",
         "Premiere": "June 8, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "27–33 min",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "27–35 min",
         "Language": "Danish",
-        "Status": "Season 2 due to premiere in late 2024"
-      },
-      {
-        "Title": "Barracuda Queens",
-        "Genre": "Heist crime drama",
-        "Premiere": "June 5, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "31–34 min",
-        "Language": "Swedish",
-        "Status": "Season 2 due to premiere in 2025"
+        "Status": "Pending"
       },
       {
         "Title": "Kohrra",
@@ -5427,16 +5767,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–50 min",
         "Language": "Punjabi",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Tore",
-        "Genre": "Coming-of-age comedy drama",
-        "Premiere": "October 27, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "29–34 min",
-        "Language": "Swedish",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Ferry: The Series",
@@ -5476,7 +5807,7 @@
       },
       {
         "Title": "Bros",
-        "Genre": "Drama",
+        "Genre": "Comedy drama",
         "Premiere": "April 18, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "29–43 min",
@@ -5484,13 +5815,22 @@
         "Status": "Pending"
       },
       {
-        "Title": "Òlòtūré: The Journey",
+        "Title": "Billionaire Island",
         "Genre": "Drama",
-        "Premiere": "June 28, 2024",
+        "Premiere": "September 12, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "44–47 min",
+        "Language": "Norwegian",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Blood Legacy",
+        "Genre": "Drama",
+        "Premiere": "September 20, 2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Language": "Nigerian Pidgin",
-        "Status": "Miniseries"
+        "Language": "Zulu",
+        "Status": "Pending"
       }
     ]
   },
@@ -5913,10 +6253,11 @@
         "Title": "Catching Killers",
         "Subject": "True crime",
         "Premiere": "November 4, 2021",
+        "Finale": "June 23, 2023",
         "Seasons": "3 seasons, 12 episodes",
         "Runtime": "31–46 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Where is Marta?",
@@ -6072,10 +6413,10 @@
         "Title": "Worst Roommate Ever",
         "Subject": "True crime",
         "Premiere": "March 1, 2022",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "2 seasons, 9 episodes",
         "Runtime": "39–62 min",
         "Language": "English",
-        "Status": "Season 2 due to premiere on June 26, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "The Andy Warhol Diaries",
@@ -6684,7 +7025,7 @@
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "39–49 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "African Queens: Njinga",
@@ -6700,10 +7041,11 @@
         "Title": "Murdaugh Murders: A Southern Scandal",
         "Subject": "True crime",
         "Premiere": "February 22, 2023",
+        "Finale": "September 20, 2023",
         "Seasons": "2 seasons, 6 episodes",
         "Runtime": "33–50 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Monique Olivier: Accessory to Evil",
@@ -6878,28 +7220,31 @@
         "Title": "The King Who Never Was",
         "Subject": "True crime",
         "Premiere": "July 4, 2023",
+        "Finale": "July 4, 2023",
         "Seasons": "1 season, 3 episodes",
         "Runtime": "39–47 min",
         "Language": "Italian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Quarterback",
         "Subject": "Sports",
         "Premiere": "July 12, 2023",
+        "Finale": "July 12, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–56 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "How to Become a Cult Leader",
         "Subject": "Cults",
         "Premiere": "July 28, 2023",
+        "Finale": "July 28, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29–32 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Last Hours of Mario Biondo",
@@ -6965,19 +7310,21 @@
         "Title": "Spy Ops",
         "Subject": "History",
         "Premiere": "September 8, 2023",
+        "Finale": "September 8, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "35–51 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Wrestlers",
         "Subject": "Sports",
         "Premiere": "September 13, 2023",
+        "Finale": "September 13, 2023",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "48–58 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Who Killed Jill Dando?",
@@ -6993,19 +7340,21 @@
         "Title": "Encounters",
         "Subject": "Extraterrestrials",
         "Premiere": "September 27, 2023",
+        "Finale": "September 27, 2023",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "44–52 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Vasco Rossi: Living It",
         "Subject": "Music/biography",
         "Premiere": "September 27, 2023",
+        "Finale": "September 27, 2023",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "44–53 min",
         "Language": "Italian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Beckham",
@@ -7271,7 +7620,7 @@
         "Status": "Pending"
       },
       {
-        "Title": "From Dreams to Tragedy: The Fire that Shook Brazilian Football",
+        "Title": "From Dreams to Tragedy: The Fire That Shook Brazilian Football",
         "Subject": "Sports",
         "Premiere": "March 14, 2024",
         "Seasons": "1 season, 3 episodes",
@@ -7293,10 +7642,10 @@
         "Title": "Homicide",
         "Subject": "True crime",
         "Premiere": "March 20, 2024",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "49–57 min",
+        "Seasons": "2 seasons, 10 episodes",
+        "Runtime": "49–59 min",
         "Language": "English",
-        "Status": "Season 2 due to premiere on July 16, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Testament: The Story of Moses",
@@ -7386,7 +7735,7 @@
         "Subject": "Sports",
         "Premiere": "June 20, 2024",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "45 min",
+        "Runtime": "52–60 min",
         "Language": "English",
         "Status": "Pending"
       },
@@ -7394,46 +7743,213 @@
         "Title": "Kaulitz &amp; Kaulitz",
         "Subject": "Music",
         "Premiere": "June 25, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "38–50 min",
         "Language": "German",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Sprint",
         "Subject": "Sports",
         "Premiere": "July 2, 2024",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "45 min",
+        "Runtime": "33–48 min",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on November 13, 2024"
       },
       {
         "Title": "The Man with 1000 Kids",
         "Subject": "True crime",
         "Premiere": "July 3, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Finale": "July 3, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "40–43 min",
         "Language": "English",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Receiver",
         "Subject": "Sports",
         "Premiere": "July 10, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "50 min",
+        "Runtime": "52–62 min",
         "Language": "English",
         "Status": "Pending"
       },
       {
         "Title": "LALIGA: All Access",
         "Subject": "Sports",
-        "Premiere": "July 19, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Premiere": "July 15, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–52 min",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "The Yara Gambirasio Case: Beyond Reasonable Doubt",
+        "Subject": "True crime",
+        "Premiere": "July 16, 2024",
+        "Finale": "July 16, 2024",
+        "Seasons": "5 episodes",
+        "Runtime": "46–55 min",
+        "Language": "Italian",
+        "Notes": ""
+      },
+      {
+        "Title": "Simone Biles: Rising",
+        "Subject": "Sports",
+        "Premiere": "July 17, 2024",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "49–55 min",
+        "Language": "English",
+        "Status": "New episodes due to premiere on October 25, 2024"
+      },
+      {
+        "Title": "Dirty Pop: The Boy Band Scam",
+        "Subject": "Music",
+        "Premiere": "July 24, 2024",
+        "Finale": "July 24, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "41–44 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "American Murder: Laci Peterson",
+        "Subject": "True crime",
+        "Premiere": "August 14, 2024",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "51–54 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Pop Star Academy: KATSEYE",
+        "Subject": "Music",
+        "Premiere": "August 21, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "50–55 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Wyatt Earp and the Cowboy War",
+        "Subject": "Docudrama/History",
+        "Premiere": "August 21, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30–49 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Worst Ex Ever",
+        "Subject": "True crime",
+        "Premiere": "August 28, 2024",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "51–63 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Caught in the Web: The Murders Behind Zona Divas",
+        "Subject": "True crime",
+        "Premiere": "September 5, 2024",
+        "Finale": "September 5, 2024",
+        "Seasons": "4 episodes",
+        "Runtime": "39–44 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Jack Whitehall: Fatherhood with My Father",
+        "Subject": "Travel",
+        "Premiere": "September 10, 2024",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "40–43 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Ángel Di María: Breaking Down the Wall",
+        "Subject": "Sports",
+        "Premiere": "September 12, 2024",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "54–57 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Into the Fire: The Lost Daughter",
+        "Subject": "True crime",
+        "Premiere": "September 12, 2024",
+        "Finale": "September 12, 2024",
+        "Seasons": "2 episodes",
+        "Runtime": "73–78 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "What's Next? The Future with Bill Gates",
+        "Subject": "Science/Technology",
+        "Premiere": "September 18, 2024",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "42–52 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mr. McMahon",
+        "Subject": "Sports",
+        "Premiere": "September 25, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Chef's Table: Noodles",
+        "Subject": "Food/Culinary art",
+        "Premiere": "October 2, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Starting 5",
+        "Subject": "Sports",
+        "Premiere": "October 9, 2024",
+        "Seasons": "10 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Comeback: The 2004 Red Sox",
+        "Subject": "Sports",
+        "Premiere": "October 23, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "This Is the Zodiac Speaking",
+        "Subject": "True crime",
+        "Premiere": "October 23, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Aaron Rodgers: Enigma",
+        "Subject": "Sports",
+        "Premiere": "December 17, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "60 min",
+        "Language": "English",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -7667,10 +8183,10 @@
         "Title": "Love Is Blind: Brazil",
         "Genre": "Dating show",
         "Premiere": "October 6, 2021",
-        "Seasons": "4 seasons, 36 episodes",
+        "Seasons": "4 seasons, 43 episodes",
         "Runtime": "42–89 min",
         "Language": "Portuguese",
-        "Status": "Season 4 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Baking Impossible",
@@ -7826,11 +8342,10 @@
         "Title": "I Am Georgina",
         "Genre": "Reality",
         "Premiere": "January 27, 2022",
-        "Finale": "March 24, 2023",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "38–45 min",
+        "Seasons": "3 seasons, 18 episodes",
+        "Runtime": "38–46 min",
         "Language": "Spanish",
-        "Notes": ""
+        "Status": "Pending"
       },
       {
         "Title": "Love Is Blind: Japan",
@@ -7942,10 +8457,10 @@
         "Title": "Rhythm + Flow France",
         "Genre": "Music competition",
         "Premiere": "June 9, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "36–48 min",
+        "Seasons": "3 seasons, 26 episodes",
+        "Runtime": "32–52 min",
         "Language": "French",
-        "Status": "Season 3 due to premiere on July 4, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Iron Chef: Quest for an Iron Legend",
@@ -8158,10 +8673,11 @@
         "Title": "Buying Beverly Hills",
         "Genre": "Reality",
         "Premiere": "November 4, 2022",
+        "Finale": "March 22, 2024",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "33–51 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Love Never Lies: Destination Sardinia",
@@ -8284,7 +8800,7 @@
       },
       {
         "Title": "Love Never Lies: Poland",
-        "Genre": "Dating competition",
+        "Genre": "Reality competition",
         "Premiere": "January 25, 2023",
         "Seasons": "2 seasons, 15 episodes",
         "Runtime": "42–57 min",
@@ -8296,9 +8812,9 @@
         "Genre": "Dating show",
         "Premiere": "February 14, 2023",
         "Seasons": "2 seasons, 22 episodes",
-        "Runtime": "38–64 min",
+        "Runtime": "38–106 min",
         "Language": "English",
-        "Status": "Season 2 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "Too Hot to Handle: Germany",
@@ -8323,10 +8839,10 @@
         "Title": "Outlast",
         "Genre": "Reality competition",
         "Premiere": "March 10, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "28–57 min",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "28–61 min",
         "Language": "English",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Pending"
       },
       {
         "Title": "The Law of the Jungle",
@@ -8419,74 +8935,79 @@
         "Title": "Tex Mex Motors",
         "Genre": "Reality",
         "Premiere": "June 9, 2023",
-        "Finale": "June 9, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "27–41 min",
         "Language": "English",
-        "Notes": ""
+        "Status": "Renewed"
       },
       {
         "Title": "Is She the Wolf?",
         "Genre": "Dating competition",
         "Premiere": "June 11, 2023",
+        "Finale": "August 20, 2023",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "34–58 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Social Currency",
         "Genre": "Reality game show",
         "Premiere": "June 22, 2023",
+        "Finale": "June 22, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–55 min",
         "Language": "Hindi",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Deep Fake Love",
         "Genre": "Dating competition",
         "Premiere": "July 6, 2023",
+        "Finale": "July 13, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "44–66 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Hack My Home",
         "Genre": "Home improvement reality",
         "Premiere": "July 7, 2023",
+        "Finale": "July 7, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30–36 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Nineteen to Twenty",
         "Genre": "Coming-of-age reality",
         "Premiere": "July 11, 2023",
+        "Finale": "August 1, 2023",
         "Seasons": "1 season, 13 episodes",
         "Runtime": "52–87 min",
         "Language": "Korean",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Sugar Rush: The Baking Point",
         "Genre": "Baking competition",
         "Premiere": "July 12, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "48–50 min",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "49–56 min",
         "Language": "Spanish",
-        "Status": "Season 2 due to premiere on July 10, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "The Big Nailed It Baking Challenge",
         "Genre": "Baking competition",
         "Premiere": "August 4, 2023",
+        "Finale": "August 4, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "36–50 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Zombieverse",
@@ -8495,16 +9016,17 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "40–66 min",
         "Language": "Korean",
-        "Status": "Season 2 due to premiere in 2024"
+        "Status": "Season 2 due to premiere in November 2024"
       },
       {
         "Title": "At Home with the Furys",
         "Genre": "Reality",
         "Premiere": "August 16, 2023",
+        "Finale": "August 16, 2023",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "28–42 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Devil's Plan",
@@ -8513,7 +9035,7 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "58–75 min",
         "Language": "Korean",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in early 2025"
       },
       {
         "Title": "Stranded with My Mother-in-Law",
@@ -8673,17 +9195,98 @@
         "Genre": "Reality",
         "Premiere": "June 28, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "45 min",
+        "Runtime": "38–49 min",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "The Boyfriend",
+        "Genre": "Dating show",
+        "Premiere": "July 9, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "37–53 min",
+        "Language": "Japanese",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Resurrected Rides",
+        "Genre": "Reality",
+        "Premiere": "July 24, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "36–41 min",
         "Language": "English",
         "Status": "Pending"
       },
       {
-        "Title": "The Boyfriend",
+        "Title": "Love Is Blind: Mexico",
+        "Genre": "Dating show",
+        "Premiere": "August 1, 2024",
+        "Seasons": "1 season, 11 episodes",
+        "Runtime": "46–75 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Influencer",
+        "Genre": "Reality competition",
+        "Premiere": "August 6, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "54–81 min",
+        "Language": "Korean",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Love Is Blind: UK",
+        "Genre": "Dating show",
+        "Premiere": "August 7, 2024",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "41–72 min",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Blue Ribbon Baking Championship",
+        "Genre": "Baking competition",
+        "Premiere": "August 9, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–50 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "A-List to Playlist",
         "Genre": "Reality",
-        "Premiere": "July 9, 2024",
-        "Seasons": "1 season, 10 episodes",
+        "Premiere": "August 30, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "31–81 min",
+        "Language": "Korean",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Culinary Class Wars",
+        "Genre": "Cooking competition",
+        "Premiere": "September 17, 2024",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "63–75 min",
+        "Language": "Korean",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Making It in Marbella",
+        "Genre": "Reality",
+        "Premiere": "October 1, 2024",
+        "Seasons": "TBA",
         "Runtime": "TBA",
-        "Language": "Japanese",
+        "Language": "Swedish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Love Never Lies: South Africa",
+        "Genre": "Reality competition",
+        "Premiere": "November 29, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "English",
         "Status": "Pending"
       }
     ]
@@ -8738,10 +9341,10 @@
         "Title": "Last One Standing",
         "Genre": "Crime comedy/variety show",
         "Premiere": "March 8, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "30–51 min",
+        "Seasons": "3 seasons, 24 episodes",
+        "Runtime": "30–54 min",
         "Language": "Japanese",
-        "Status": "Season 3 due to premiere in 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Alessandro Cattelan: One Simple Question",
@@ -8977,37 +9580,41 @@
         "Title": "Soccer-Inspired Workouts for All",
         "Genre": "Fitness",
         "Premiere": "July 26, 2023",
+        "Finale": "July 26, 2023",
         "Seasons": "1 volume, 5 episodes",
         "Runtime": "11–15 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Lighthouse",
         "Genre": "Talk show",
         "Premiere": "August 22, 2023",
+        "Finale": "August 22, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–38 min",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Risqué Business: Taiwan",
         "Genre": "Talk show",
         "Premiere": "August 29, 2023",
+        "Finale": "August 29, 2023",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "28–46 min",
         "Language": "Korean",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Baby Gorilla Cam",
         "Genre": "Live event",
         "Premiere": "September 7, 2023",
+        "Finale": "September 21, 2023",
         "Seasons": "1 season, 3 episodes",
         "Runtime": "100–121 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Baby Animal Cam",
@@ -9022,10 +9629,10 @@
         "Title": "Dinner Time Live with David Chang",
         "Genre": "Cooking show/Talk show",
         "Premiere": "January 25, 2024",
-        "Seasons": "1 season, 22 episodes",
-        "Runtime": "53–77 min",
+        "Seasons": "1 season, 26 episodes",
+        "Runtime": "51–71 min",
         "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Status": "Season 2 due to premiere on October 8, 2024"
       },
       {
         "Title": "Risqué Business: Netherlands &amp; Germany",
@@ -9040,10 +9647,10 @@
         "Title": "The Great Indian Kapil Show",
         "Genre": "Talk show",
         "Premiere": "March 30, 2024",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "1 season, 13 episodes",
         "Runtime": "38–71 min",
         "Language": "Hindi",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Season 2 due to premiere on September 21, 2024"
       },
       {
         "Title": "John Mulaney Presents: Everybody's in L.A.",
@@ -9053,6 +9660,15 @@
         "Runtime": "61–85 min",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "Live from the Other Side with Tyler Henry",
+        "Genre": "Paranormal/Talk show",
+        "Premiere": "September 17, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "43–85 min",
+        "Language": "English",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -9062,14 +9678,14 @@
     ],
     "data": [
       {
-        "Title": "Cobra Kai (seasons 3–5)",
+        "Title": "Cobra Kai (seasons 3–6)",
         "Genre": "Martial arts/action comedy drama",
         "Previous network(s)": "YouTube Premium",
         "Premiere": "January 1, 2021",
-        "Seasons": "3 seasons, 30 episodes",
+        "Seasons": "4 seasons, 35 episodes",
         "Runtime": "27–48 min",
         "Language": "English",
-        "Status": "Final season part 1 due to premiere on July 18, 2024Final season part 2 due to premiere on November 28, 2024&#91;205&#93;Final season part 3 due to premiere in 2025"
+        "Status": "Final season part 2 due to premiere on November 15, 2024Final season part 3 due to premiere in 2025"
       },
       {
         "Title": "Blown Away (seasons 2–4)",
@@ -9126,14 +9742,14 @@
         "Notes": ""
       },
       {
-        "Title": "Kota Factory (season 2)",
+        "Title": "Kota Factory (seasons 2–3)",
         "Genre": "Comedy drama",
         "Previous network(s)": "TVFPlay",
         "Premiere": "September 24, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "31–44 min",
+        "Seasons": "2 seasons, 10 episodes",
+        "Runtime": "31–61 min",
         "Language": "Hindi",
-        "Status": "Season 3 due to premiere on June 20, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Takki (season 3)",
@@ -9147,7 +9763,7 @@
         "Notes": ""
       },
       {
-        "Title": "El marginal (seasons 4–5)",
+        "Title": "El Marginal (seasons 4–5)",
         "Genre": "Crime drama",
         "Previous network(s)": "TV Pública",
         "Premiere": "January 19, 2022",
@@ -9160,7 +9776,7 @@
       {
         "Title": "Tiger &amp; Bunny (season 2)",
         "Genre": "Anime",
-        "Previous network(s)": "Tokyo MX, BS11, MBS",
+        "Previous network(s)": "Tokyo MX",
         "Premiere": "April 8, 2022",
         "Finale": "October 7, 2022",
         "Seasons": "1 season, 25 episodes",
@@ -9169,14 +9785,14 @@
         "Notes": ""
       },
       {
-        "Title": "The Mole (season 6)",
+        "Title": "The Mole (seasons 6–7)",
         "Genre": "Reality competition",
         "Previous network(s)": "ABC",
         "Premiere": "October 7, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "34–47 min",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "34–51 min",
         "Language": "English",
-        "Status": "Season 7 due to premiere on June 28, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Manifest (season 4)",
@@ -9200,14 +9816,2537 @@
         "Status": "Pending"
       },
       {
-        "Title": "Star Trek: Prodigy (season 2)",
-        "Genre": "Animated science fiction comedy",
-        "Previous network(s)": "Paramount+",
-        "Premiere": "July 1, 2024",
-        "Seasons": "1 season, 20 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
+        "Title": "From Me to You: Kimi ni Todoke (season 3)",
+        "Genre": "Anime",
+        "Previous network(s)": "Nippon TV",
+        "Premiere": "August 1, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "14–72 min",
+        "Language": "Japanese",
         "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Specials",
+      "Episodic"
+    ],
+    "data": [
+      {
+        "Title": "Mighty Little Bheem: Kite Festival",
+        "Genre": "Animation",
+        "Premiere": "January 8, 2021",
+        "Finale": "January 8, 2021",
+        "Seasons": "1 collection, 3 episodes",
+        "Runtime": "6–7 min",
+        "Language": "No spoken language",
+        "Notes": ""
+      },
+      {
+        "Title": "Lava Ka Dhaava",
+        "Genre": "Game show",
+        "Premiere": "May 5, 2021",
+        "Finale": "May 5, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24–37 min",
+        "Language": "Hindi",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Guzmán Caye Rebe",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 14, 2021",
+        "Finale": "June 14, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–15 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Nadia Guzmán",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 15, 2021",
+        "Finale": "June 15, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–14 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Omar Ander Alexis",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 16, 2021",
+        "Finale": "June 16, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "10–14 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Carla Samuel",
+        "Genre": "Crime teen drama",
+        "Premiere": "June 17, 2021",
+        "Finale": "June 17, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "13–16 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Revelations: The Masters of the Universe Revelation Aftershow",
+        "Genre": "Aftershow",
+        "Premiere": "July 23, 2021",
+        "Finale": "November 23, 2021",
+        "Seasons": "1 season, 2 episodes",
+        "Runtime": "25 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "The Ingenuity of the Househusband",
+        "Genre": "Comedy",
+        "Premiere": "August 29, 2021",
+        "Finale": "October 7, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "3–6 min",
+        "Language": "Japanese",
+        "Notes": ""
+      },
+      {
+        "Title": "Money Heist: From Tokyo to Berlin",
+        "Genre": "Docu-series",
+        "Premiere": "September 3, 2021",
+        "Finale": "December 3, 2021",
+        "Seasons": "2 volumes, 2 episodes",
+        "Runtime": "51–52 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Blown Away: Christmas",
+        "Genre": "Reality show",
+        "Premiere": "November 19, 2021",
+        "Finale": "November 19, 2021",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "28–29 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Phillipe Caye Felipe",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 15, 2021",
+        "Finale": "December 15, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "9–16 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Samuel Omar",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 20, 2021",
+        "Finale": "December 20, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "11–12 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Elite Short Stories: Patrick",
+        "Genre": "Crime teen drama",
+        "Premiere": "December 23, 2021",
+        "Finale": "December 23, 2021",
+        "Seasons": "1 season, 3 episodes",
+        "Runtime": "11–13 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Karma's World Music Videos",
+        "Genre": "Animation",
+        "Premiere": "February 24, 2022",
+        "Finale": "June 16, 2022",
+        "Seasons": "2 volumes, 10 episodes",
+        "Runtime": "4–6 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Squid Game: The Challenge",
+        "Genre": "Escape room competition",
+        "Premiere": "November 22, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40–57 min",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Cobra Kai: Inside the Dojo",
+        "Genre": "Behind the scenes",
+        "Premiere": "July 18, 2024",
+        "Seasons": "1 season, 1 episode",
+        "Runtime": "11 min",
+        "Language": "English",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming"
+    ],
+    "data": [
+      {
+        "Title": "Arcane",
+        "Genre": "Adult animated steampunk science fantasy",
+        "Premiere": "November 6, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "39–44 min",
+        "Language": "English",
+        "Netflix exclusive region": "All markets except China",
+        "Status": "Final season due to premiere in November 2024"
+      },
+      {
+        "Title": "Bad Exorcist (seasons 3–5)",
+        "Genre": "Adult animated horror comedy",
+        "Premiere": "October 14, 2022",
+        "Seasons": "3 seasons, 39 episodes",
+        "Runtime": "10–17 min",
+        "Language": "Polish",
+        "Netflix exclusive region": "Poland",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Ninjago: Dragons Rising",
+        "Genre": "Animated comedy",
+        "Premiere": "June 1, 2023",
+        "Seasons": "2 seasons, 30 episodes",
+        "Runtime": "22–23 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Ronja the Robber's Daughter",
+        "Genre": "Coming-of-age fantasy",
+        "Premiere": "March 28, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "42–45 min",
+        "Language": "Swedish",
+        "Netflix exclusive region": "Selected territories",
+        "Status": "Season 1 part 2 due to premiere in 2024"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Under Suspicion: Uncovering the Wesphael Case",
+        "Genre": "True crime",
+        "Partner/Country": "RTL-TVI/Belgium",
+        "Premiere": "March 17, 2021",
+        "Finale": "March 17, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "34–38 min",
+        "Language": "French",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "The Serpent",
+        "Genre": "True crime",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "April 2, 2021",
+        "Finale": "April 2, 2021",
+        "Seasons": "8 episodes",
+        "Runtime": "55–59 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Life in Colour with David Attenborough",
+        "Genre": "Nature docuseries",
+        "Partner/Country": "BBC Two/United Kingdom",
+        "Premiere": "April 22, 2021",
+        "Finale": "April 22, 2021",
+        "Seasons": "3 episodes",
+        "Runtime": "44–50 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Dive Club",
+        "Genre": "Mystery teen drama",
+        "Partner/Country": "Network 10/Australia",
+        "Premiere": "September 3, 2021",
+        "Finale": "September 3, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "26–27 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "On the Verge",
+        "Genre": "Comedy",
+        "Partner/Country": "Canal+/France",
+        "Premiere": "September 7, 2021",
+        "Finale": "September 7, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "28–35 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Single's Inferno",
+        "Genre": "Dating show",
+        "Partner/Country": "JTBC/South Korea",
+        "Premiere": "December 18, 2021",
+        "Seasons": "3 seasons, 29 episodes",
+        "Runtime": "56–90 min",
+        "Language": "Korean",
+        "Netflix exclusive regions": "All other markets",
+        "Status": "Season 4 due to premiere in January 2025"
+      },
+      {
+        "Title": "The Parisian Agency: Exclusive Properties (seasons 2–4)",
+        "Genre": "Property management reality",
+        "Partner/Country": "TMC/France",
+        "Premiere": "March 3, 2022",
+        "Seasons": "3 seasons, 24 episodes",
+        "Runtime": "51–70 min",
+        "Language": "French",
+        "Netflix exclusive regions": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Soil",
+        "Genre": "Comedy drama",
+        "Partner/Country": "Play4/Belgium",
+        "Premiere": "March 17, 2022",
+        "Finale": "March 17, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–51 min",
+        "Language": "Dutch",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "Borgen – Power &amp; Glory",
+        "Genre": "Political drama",
+        "Partner/Country": "DR/Denmark",
+        "Premiere": "April 14, 2022",
+        "Finale": "April 14, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "53–59 min",
+        "Language": "Danish",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "He's Expecting",
+        "Genre": "Comedy drama",
+        "Partner/Country": "TV Tokyo/Japan",
+        "Premiere": "April 21, 2022",
+        "Finale": "April 21, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "25 min",
+        "Language": "Japanese",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Surviving Summer",
+        "Genre": "Teen drama",
+        "Partner/Country": "ZDF/Germany",
+        "Premiere": "June 3, 2022",
+        "Finale": "September 15, 2023",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "26–30 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "The Perfect Mother",
+        "Genre": "Crime drama",
+        "Partner/Country": "TF1/FranceRTBF/BelgiumZDF/Germany",
+        "Premiere": "June 3, 2022",
+        "Finale": "June 3, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "46–50 min",
+        "Language": "French",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "You Don't Know Me",
+        "Genre": "Crime drama",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "June 17, 2022",
+        "Finale": "June 17, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "54–57 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Fakes",
+        "Genre": "Young adult crime comedy",
+        "Partner/Country": "CBC Gem/Canada",
+        "Premiere": "September 2, 2022",
+        "Finale": "September 2, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "21–28 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Entrapped",
+        "Genre": "Thriller",
+        "Partner/Country": "RÚV/IcelandZDF/Germany",
+        "Premiere": "September 8, 2022",
+        "Finale": "September 8, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "39–52 min",
+        "Language": "Icelandic",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "I Am a Stalker",
+        "Genre": "True crime docuseries",
+        "Partner/Country": "Crime + Investigation/United Kingdom",
+        "Premiere": "October 28, 2022",
+        "Finale": "October 28, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–45 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Inside Man",
+        "Genre": "Crime drama",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "October 31, 2022",
+        "Finale": "October 31, 2022",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "59–61 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Reign Supreme",
+        "Genre": "Music biopic",
+        "Partner/Country": "Arte/France",
+        "Premiere": "November 18, 2022",
+        "Finale": "November 18, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "47–51 min",
+        "Language": "French",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Irreverent",
+        "Genre": "Comedy drama/Crime",
+        "Partner/Country": "Peacock/United States",
+        "Premiere": "December 4, 2022",
+        "Finale": "December 4, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40–50 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "Don't Pick Up the Phone",
+        "Genre": "Docuseries",
+        "Partner/Country": "Paramount+/United Kingdom",
+        "Premiere": "December 14, 2022",
+        "Finale": "December 14, 2022",
+        "Seasons": "3 episodes",
+        "Runtime": "42–57 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Woman of the Dead",
+        "Genre": "Thriller",
+        "Partner/Country": "ORF/Austria",
+        "Premiere": "January 5, 2023",
+        "Finale": "January 5, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "45–49 min",
+        "Language": "German",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Cunk on Earth",
+        "Genre": "Mockumentary",
+        "Partner/Country": "BBC Two/United Kingdom",
+        "Premiere": "January 31, 2023",
+        "Finale": "January 31, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "28–29 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Red Rose",
+        "Genre": "Teen horror drama",
+        "Partner/Country": "BBC Three/United Kingdom",
+        "Premiere": "February 15, 2023",
+        "Finale": "February 15, 2023",
+        "Seasons": "8 episodes",
+        "Runtime": "37–49 min",
+        "Language": "English",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "From Me to You: Kimi ni Todoke",
+        "Genre": "Romantic comedy",
+        "Partner/Country": "TV Tokyo/Japan",
+        "Premiere": "March 30, 2023",
+        "Finale": "March 30, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "33–35 min",
+        "Language": "Japanese",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Rough Diamonds",
+        "Genre": "Drama",
+        "Partner/Country": "VRT/Belgium",
+        "Premiere": "April 21, 2023",
+        "Finale": "April 21, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47–55 min",
+        "Language": "Dutch",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Dance Brothers",
+        "Genre": "Teen drama",
+        "Partner/Country": "Yle/Finland",
+        "Premiere": "May 10, 2023",
+        "Finale": "May 10, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "19–25 min",
+        "Language": "Finnish",
+        "Netflix exclusive region": "All other markets",
+        "Notes": ""
+      },
+      {
+        "Title": "Tour de France: Unchained",
+        "Genre": "Sports docuseries",
+        "Partner/Country": "France Télévisions/France",
+        "Premiere": "June 8, 2023",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "34–49 min",
+        "Language": "French",
+        "Netflix exclusive regions": "All other markets",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Let's Get Divorced",
+        "Genre": "Romantic comedy drama",
+        "Partner/Country": "TBS/Japan",
+        "Premiere": "June 22, 2023",
+        "Finale": "June 22, 2023",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "57–68 min",
+        "Language": "Japanese",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "Five Star Chef",
+        "Genre": "Culinary competition",
+        "Partner/Country": "Channel 4/United Kingdom",
+        "Premiere": "July 14, 2023",
+        "Finale": "July 14, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "44–46 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "Predators",
+        "Genre": "Nature docuseries",
+        "Partner/Country": "Sky Nature/United Kingdom",
+        "Premiere": "September 6, 2023",
+        "Finale": "September 6, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "43–44 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "I Woke Up a Vampire",
+        "Genre": "Family supernatural comedy thriller",
+        "Partner/Country": "Family/Canada",
+        "Premiere": "October 17, 2023",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "23–27 min",
+        "Language": "English",
+        "Netflix exclusive regions": "Selected territories",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Power Rangers (seasons 29–30)",
+        "Genre": "Superhero science fiction",
+        "Previous network(s)": "Fox Kids (seasons 1–10A)ABC Kids/Jetix (seasons 10B–17)Nickelodeon (seasons 18–28)",
+        "Premiere": "March 3, 2022",
+        "Finale": "September 29, 2023",
+        "Seasons": "2 seasons, 32 episodes",
+        "Runtime": "22–25 min",
+        "Language": "English",
+        "Netflix exclusive region": "United States (season 29)Selected territories (season 30)",
+        "Notes": ""
+      },
+      {
+        "Title": "CoComelon (seasons 6–11)",
+        "Genre": "Preschool",
+        "Previous network(s)": "YouTube",
+        "Premiere": "September 5, 2022",
+        "Seasons": "6 seasons, 12 episodes",
+        "Runtime": "46–64 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Pernille (season 4)",
+        "Genre": "Comedy drama",
+        "Previous network(s)": "Viaplay",
+        "Premiere": "August 8, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "26–28 min",
+        "Language": "Norwegian",
+        "Netflix exclusive region": "Selected territories",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "American Primeval",
+        "Genre": "Western miniseries",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Baby Farm",
+        "Genre": "Thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Black Doves",
+        "Genre": "Thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "To Kill a Monkey",
+        "Genre": "Crime thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Adolescence",
+        "Genre": "Drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Choice",
+        "Genre": "Political Thriller",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Undertow",
+        "Genre": "Crime drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Witness",
+        "Genre": "Crime drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Abandons",
+        "Genre": "Western",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Apple Cider Vinegar",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Atomic",
+        "Genre": "Crime drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Baahubali: Before the Beginning",
+        "Genre": "Fantasy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Beast in Me",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "BET",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Black Rabbit",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Boroughs",
+        "Genre": "Supernatural mystery drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Covers",
+        "Genre": "Spy fiction",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Death by Lightning",
+        "Genre": "Period drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Department Q",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Forever",
+        "Genre": "Teen drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Grown Ups",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "His &amp; Hers",
+        "Genre": "Psychological thriller miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "House of Guinness",
+        "Genre": "Historical drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "How to Get to Heaven from Belfast",
+        "Genre": "Comedy drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "How to Kill Your Family",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Legends",
+        "Genre": "Crime drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Man on Fire",
+        "Genre": "Thriller drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Missing You",
+        "Genre": "Thriller drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Moon Represents My Heart",
+        "Genre": "Science fiction miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Out of the Dust",
+        "Genre": "Psychological thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Pulse",
+        "Genre": "Medical drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Ransom Canyon",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Residence",
+        "Genre": "Mystery drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Run Away",
+        "Genre": "Thriller drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Seven Dials Mystery",
+        "Genre": "Mystery drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Something Very Bad Is Going to Happen",
+        "Genre": "Horror",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Survivors",
+        "Genre": "Crime mystery miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "They Both Die at the End",
+        "Genre": "Teen drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Thumblite",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Toxic Town",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untamed",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Glenn Burke miniseries",
+        "Genre": "Biopic miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Monster Ed Gein series",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Tim McGraw series",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Waterfront",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Wayward",
+        "Genre": "Thriller miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Zero Day",
+        "Genre": "Political thriller miniseries",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "No Good Deed",
+        "Genre": "Dark comedy",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "A Man on the Inside",
+        "Genre": "Crime comedy",
+        "Premiere": "November 2024"
+      },
+      {
+        "Title": "Running Point",
+        "Genre": "Sports comedy",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Corps",
+        "Genre": "Military comedy drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Four Seasons",
+        "Genre": "Romantic comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Golf",
+        "Genre": "Sports comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Sirens",
+        "Genre": "Dark comedy miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Too Much",
+        "Genre": "Romantic comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Leanne Morgan series",
+        "Genre": "Sitcom",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Tom Segura series",
+        "Genre": "Dark comedy",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Long Story Short",
+        "Genre": "Comedy",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Gears of War",
+        "Genre": "Military science fiction",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Ghostbusters",
+        "Genre": "Horror comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Midnight Sun",
+        "Genre": "Supernatural horror",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Undervale",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Stranger Things animated series",
+        "Genre": "Science fiction horror",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Anime"
+    ],
+    "data": [
+      {
+        "Title": "Devil May Cry",
+        "Genre": "Dark fantasy action",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Moonrise",
+        "Genre": "Science fiction",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Tokyo Override",
+        "Genre": "Science fiction",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Leviathan",
+        "Genre": "Historical drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Army of the Dead: Lost Vegas",
+        "Genre": "Horror",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Beat &amp; Motion",
+        "Genre": "Slice of life",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Lady Napoleon",
+        "Genre": "Action",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The One Piece",
+        "Genre": "Adventure / science fantasy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Stranger Things: Tokyo",
+        "Genre": "Science fiction horror",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Jentry Chau vs. The Underworld",
+        "Genre": "Supernatural adventure",
+        "Language": "English",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Astérix and Obélix: The Big Fight",
+        "Genre": "Historical action adventure",
+        "Language": "French",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Motel Transylvania",
+        "Genre": "Horror comedy",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Wolf King",
+        "Genre": "Epic fantasy adventure",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Horton Hears a Who!",
+        "Genre": "Preschool",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Mafalda",
+        "Genre": "Comedy",
+        "Language": "Spanish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "One Fish, Two Fish, Red Fish, Blue Fish",
+        "Genre": "Preschool",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Seven Bears",
+        "Genre": "Fantasy comedy",
+        "Language": "TBA",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Rebel Moon series",
+        "Genre": "Space opera",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled The Witcher series",
+        "Genre": "Fantasy",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Wacky Wednesday",
+        "Genre": "Preschool",
+        "Language": "English",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Dutch"
+    ],
+    "data": [
+      {
+        "Title": "Amsterdam Empire",
+        "Genre": "Thriller",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Football Parents",
+        "Genre": "Comedy",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Roosters",
+        "Genre": "Comedy",
+        "Premiere": "2025"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "French"
+    ],
+    "data": [
+      {
+        "Title": "La Cage",
+        "Genre": "Sports drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "GIGN",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Les Lionnes",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Nero",
+        "Genre": "Historical drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Qui sème le vent",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Super Mâle",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Young Millionnaires",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "German"
+    ],
+    "data": [
+      {
+        "Title": "Cassandra",
+        "Genre": "Science fiction thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Plötzlich Kanzlerin",
+        "Genre": "Comedy drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Untitled adaptation of Alpha Males",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Hindi"
+    ],
+    "data": [
+      {
+        "Title": "Khakee: The Bengal Chapter",
+        "Genre": "Crime thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Dabba Cartel",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Rakt Bramhand – The Bloody Kingdom",
+        "Genre": "Action fantasy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Royals",
+        "Genre": "Romantic comedy",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Italian"
+    ],
+    "data": [
+      {
+        "Title": "The Leopard",
+        "Genre": "Drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Maschi veri",
+        "Genre": "Comedy",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "A.C.A.B. La serie",
+        "Genre": "Crime drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Adorazione",
+        "Genre": "Coming of age drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Il Mostro",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Lotto Gang",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Mrs Playmen",
+        "Genre": "Biopic",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Nemesis",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Sara",
+        "Genre": "Crime drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Storia della mia famiglia",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Japanese"
+    ],
+    "data": [
+      {
+        "Title": "Glass Heart",
+        "Genre": "Music drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Romantics Anonymous",
+        "Genre": "Romantic comedy",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Human Vapor",
+        "Genre": "Science fiction horror",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Soul Mate",
+        "Genre": "Romantic drama",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Korean"
+    ],
+    "data": [
+      {
+        "Title": "Hong Rang",
+        "Genre": "Period drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Mr. Plankton",
+        "Genre": "Romantic comedy",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "The Trunk",
+        "Genre": "Thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "When Life Gives You Tangerines",
+        "Genre": "Romantic drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Aema",
+        "Genre": "Historical drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "All the Love You Wish For",
+        "Genre": "Romantic comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Can This Love Be Translated?",
+        "Genre": "Romantic comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Cashero",
+        "Genre": "Superhero",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Karma",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Mercy for None",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Price of Confession",
+        "Genre": "Mystery thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Trigger",
+        "Genre": "Action thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Two Women",
+        "Genre": "Romantic drama",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Mandarin"
+    ],
+    "data": [
+      {
+        "Title": "Agent from Above",
+        "Genre": "Fantasy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Forget You Not",
+        "Genre": "Comedy drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Million-follower Detective",
+        "Genre": "Crime thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Nipple Talk",
+        "Genre": "Romantic comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Resurrected",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Norwegian"
+    ],
+    "data": [
+      {
+        "Title": "Detective Hole",
+        "Genre": "Crime drama",
+        "Premiere": "2026"
+      },
+      {
+        "Title": "The New Force",
+        "Genre": "Period drama",
+        "Premiere": "2026"
+      },
+      {
+        "Title": "La Palma",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Polish"
+    ],
+    "data": [
+      {
+        "Title": "Heweliusz",
+        "Genre": "Drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Go Ahead, Brother",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Just One Look",
+        "Genre": "Mystery",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Mothers of Penguins",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Project UFO",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Spanish"
+    ],
+    "data": [
+      {
+        "Title": "Bienvenidos a la familia",
+        "Genre": "Drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Celda 211",
+        "Genre": "Crime drama miniseries",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Gringo Hunters",
+        "Genre": "Crime thriller",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Las hermanas Guerra",
+        "Genre": "Drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Las muertas",
+        "Genre": "Crime drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Nadie nos vió partir",
+        "Genre": "Drama miniseries",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "One Hundred Years of Solitude",
+        "Genre": "Drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Caught",
+        "Genre": "Thriller miniseries",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Eternaut",
+        "Genre": "Science fiction",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "1992",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Animal Salvaje",
+        "Genre": "Comedy miniseries",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Gardener",
+        "Genre": "Thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "El refugio atómico",
+        "Genre": "Post-apocalyptic drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "En el barro",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Legado",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Los maldiciones",
+        "Genre": "Political thriller",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Manual para señoritas",
+        "Genre": "Period drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Olympo",
+        "Genre": "Teen drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Salvador",
+        "Genre": "Drama",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Serpientes y Escaleras",
+        "Genre": "Comedy",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Superestar",
+        "Genre": "Music biopic",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled adaptation of Claudia Piñeiro's El tiempo de las moscas and Tuya",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Swedish"
+    ],
+    "data": [
+      {
+        "Title": "The Breakthrough",
+        "Genre": "Crime drama",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Diary of a Ditched Girl",
+        "Genre": "Drama",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "The Glass Dome",
+        "Genre": "Crime drama",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language scripted",
+      "Other"
+    ],
+    "data": [
+      {
+        "Title": "Asaf",
+        "Genre": "Drama",
+        "Language": "Turkish",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Candelária",
+        "Genre": "Drama miniseries",
+        "Language": "Portuguese",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Echoes of the Past",
+        "Genre": "Crime drama",
+        "Language": "Arabic",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "The Town",
+        "Genre": "Crime drama",
+        "Language": "Turkish",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Don't Come Home",
+        "Genre": "Horror",
+        "Language": "Thai",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Jo Bachay Hain Sang Samait Lo",
+        "Genre": "Drama",
+        "Language": "Urdu",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "The Legend",
+        "Genre": "Crime drama",
+        "Language": "Danish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Pssica",
+        "Genre": "Drama miniseries",
+        "Language": "Portuguese",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Reservatet",
+        "Genre": "Crime drama",
+        "Language": "Danish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Subteran",
+        "Genre": "Crime drama",
+        "Language": "Romanian",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Tomorrow and I",
+        "Genre": "Science fiction anthology",
+        "Language": "Thai",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "The Greatest Rivalry: India vs Pakistan",
+        "Subject": "Sports",
+        "Language": "Hindi",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Our Oceans",
+        "Subject": "Nature",
+        "Language": "English",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Pinzner: German Hitman",
+        "Subject": "True crime",
+        "Language": "German",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Shirin David",
+        "Subject": "Music",
+        "Language": "German",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Untitled United States men's national basketball team docuseries",
+        "Subject": "Sports",
+        "Language": "English",
+        "Premiere": "Early 2025"
+      },
+      {
+        "Title": "Chef's Table: Legends",
+        "Subject": "Food/Culinary art",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Critical",
+        "Subject": "Emergency medical services",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "F1 Academy",
+        "Subject": "Sports",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Our Water World",
+        "Subject": "Nature",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Millennium Diamond Heist",
+        "Subject": "True crime",
+        "Language": "English",
+        "Premiere": "2026"
+      },
+      {
+        "Title": "Alcaraz, the Docuseries",
+        "Subject": "Sports",
+        "Language": "Spanish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Famous Last Words",
+        "Subject": "Culture",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Hunting Gary Glitter",
+        "Subject": "True crime",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Jack Unterweger",
+        "Subject": "True crime",
+        "Language": "German",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "This Blew Up",
+        "Subject": "Social media",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled 2016 Bitfinex hack docuseries",
+        "Subject": "True crime",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Alejandro Sanz docuseries",
+        "Subject": "Music",
+        "Language": "Spanish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Barry Hearn docuseries",
+        "Subject": "Sports",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Boston Red Sox docuseries",
+        "Subject": "Sports",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Carmen Cervera docuseries",
+        "Subject": "Celebrity",
+        "Language": "Spanish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Dallas Cowboys docuseries",
+        "Subject": "Sports",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Gilgo Beach serial killings docuseries",
+        "Subject": "True crime",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Gordon Ramsay docuseries",
+        "Subject": "Restaurant industry",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled John O'Keefe docuseries",
+        "Subject": "True crime",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Meghan Markle docuseries",
+        "Subject": "Lifestyle",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled polo docuseries",
+        "Subject": "Sports",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Take That docuseries",
+        "Subject": "Music",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Victoria Beckham docuseries",
+        "Subject": "Biography/Fashion",
+        "Language": "English",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "Love Is Blind: Argentina",
+        "Genre": "Dating show",
+        "Language": "Spanish",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Love Is Blind: Germany",
+        "Genre": "Dating show",
+        "Language": "German",
+        "Premiere": "2024"
+      },
+      {
+        "Title": "Comedy Revenge",
+        "Genre": "Reality competition",
+        "Language": "Korean",
+        "Premiere": "October 2024"
+      },
+      {
+        "Title": "Rugged Rugby: Conquer or Die",
+        "Genre": "Sports competition/Reality competition",
+        "Language": "Korean",
+        "Premiere": "December 2024"
+      },
+      {
+        "Title": "Kian's Bizarre B&amp;B",
+        "Genre": "Reality",
+        "Language": "Korean",
+        "Premiere": "Early 2025"
+      },
+      {
+        "Title": "Sneaky Links: Dating After Dark",
+        "Genre": "Dating show",
+        "Language": "English",
+        "Premiere": "Mid-2025"
+      },
+      {
+        "Title": "Bear Hunt",
+        "Genre": "Reality competition",
+        "Language": "English",
+        "Premiere": "2025"
+      },
+      {
+        "Title": "Battle Camp",
+        "Genre": "Reality competition",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Building the Band",
+        "Genre": "Music competition",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Cheaters: Unfinished Business",
+        "Genre": "Reality",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Love Is Blind: Habibi",
+        "Genre": "Dating show",
+        "Language": "Arabic",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Million Dollar Secret",
+        "Genre": "Reality competition",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Nova Cena",
+        "Genre": "Music competition",
+        "Language": "Portuguese",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Rhythm + Flow: Poland",
+        "Genre": "Music competition",
+        "Language": "Polish",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Selling the City",
+        "Genre": "Reality",
+        "Language": "English",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Winter Palace",
+        "Partner/Country": "RTS/Switzerland",
+        "Genre": "Period drama",
+        "Language": "EnglishFrench",
+        "Premiere": "Late 2024"
+      },
+      {
+        "Title": "Eddie's Lil' Homies",
+        "Partner/Country": "NITV/Australia",
+        "Genre": "Children's animation",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Lockerbie",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Genre": "Drama miniseries",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "North of North",
+        "Partner/Country": "APTN and CBC Television/Canada",
+        "Genre": "Comedy",
+        "Language": "English",
+        "Premiere": "TBA"
+      },
+      {
+        "Title": "Untitled Front Populaire miniseries",
+        "Partner/Country": "TF1/France",
+        "Genre": "Period drama miniseries",
+        "Language": "French",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "My Lover My Killer (season 2)",
+        "Genre": "True crime docuseries",
+        "Prev. network(s)": "Channel 5",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Weak Hero Class 1 (season 2)",
+        "Genre": "Coming-of-age action drama thriller",
+        "Prev. network(s)": "Wavve",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Korean"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Specials",
+      "One-time"
+    ],
+    "data": [
+      {
+        "Title": "Masameer Junior",
+        "Genre": "Adult animation comedy",
+        "Language": "Arabic",
+        "Premiere": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "In development"
+    ],
+    "data": [
+      {
+        "Title": "Anna O",
+        "Genre": "Crime thriller"
+      },
+      {
+        "Title": "Arbor Hall",
+        "Genre": "Teen mystery thriller"
+      },
+      {
+        "Title": "Bandi",
+        "Genre": "French-language crime drama"
+      },
+      {
+        "Title": "Barbaric",
+        "Genre": "Medieval fantasy"
+      },
+      {
+        "Title": "Bat Boy",
+        "Genre": "Young adult horror comedy"
+      },
+      {
+        "Title": "Birthright",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Calabasas",
+        "Genre": "Teen drama"
+      },
+      {
+        "Title": "Cashero",
+        "Genre": "Korean-language superhero drama"
+      },
+      {
+        "Title": "Coming Undone",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Death Note",
+        "Genre": "Supernatural drama"
+      },
+      {
+        "Title": "Dumped",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "East of Eden",
+        "Genre": "Drama miniseries"
+      },
+      {
+        "Title": "El cuco de cristal",
+        "Genre": "Drama thriller"
+      },
+      {
+        "Title": "Fatherhood",
+        "Genre": "Comedy drama"
+      },
+      {
+        "Title": "Forever, Interrupted",
+        "Genre": "Drama miniseries"
+      },
+      {
+        "Title": "The Grays",
+        "Genre": "Gothic"
+      },
+      {
+        "Title": "Happy Place",
+        "Genre": "Romantic comedy"
+      },
+      {
+        "Title": "The Hated",
+        "Genre": "Western"
+      },
+      {
+        "Title": "The Henna Artist",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Last Samurai Standing",
+        "Genre": "Japanese-language drama"
+      },
+      {
+        "Title": "Little Sky",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "Mind MGMT",
+        "Genre": "Thriller"
+      },
+      {
+        "Title": "Minor Threats",
+        "Genre": "Superhero"
+      },
+      {
+        "Title": "Nocterra",
+        "Genre": "Science fiction"
+      },
+      {
+        "Title": "One Day in December",
+        "Genre": "Romance drama"
+      },
+      {
+        "Title": "Our Love Is Here to Stay",
+        "Genre": "Biopic/musical comedy"
+      },
+      {
+        "Title": "Princess of South Beach",
+        "Genre": "Teen drama"
+      },
+      {
+        "Title": "Revenge Inc.",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Something Is Killing the Children",
+        "Genre": "Horror"
+      },
+      {
+        "Title": "Son of a Donkey",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "Stronger",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "They'll Never Catch Us",
+        "Genre": "Thriller"
+      },
+      {
+        "Title": "Untitled Charlie and the Chocolate Factory reality series",
+        "Genre": "Reality competition"
+      },
+      {
+        "Title": "Untitled A Different World sequel series",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "Untitled \"Daddy Ball\" series",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Untitled Frank Sinatra biopic series",
+        "Genre": "Biopic"
+      },
+      {
+        "Title": "Untitled Jeffrey Addiss and Will Matthews series",
+        "Genre": "TBA"
+      },
+      {
+        "Title": "Untitled John F. Kennedy miniseries",
+        "Genre": "Biopic miniseries"
+      },
+      {
+        "Title": "Untitled Julio Iglesias series",
+        "Genre": "Biopic"
+      },
+      {
+        "Title": "Untitled Main Line murders series",
+        "Genre": "Crime drama"
+      },
+      {
+        "Title": "Untitled Matt Rife series",
+        "Genre": "Workplace comedy"
+      },
+      {
+        "Title": "Untitled Maya and the Three-related series",
+        "Genre": "Animated fantasy miniseries"
+      },
+      {
+        "Title": "Untitled Minecraft series",
+        "Genre": "Animated adventure"
+      },
+      {
+        "Title": "Untitled Myron Bolitar series",
+        "Genre": "Mystery drama"
+      },
+      {
+        "Title": "Untitled One Tree Hill sequel series",
+        "Genre": "Teen drama"
+      },
+      {
+        "Title": "Untitled Owen Hanson docuseries",
+        "Genre": "True crime docuseries"
+      },
+      {
+        "Title": "Untitled Prince Harry and Meghan Markle scripted series",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Untitled Regina Hicks project",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "Untitled Scooby-Doo series",
+        "Genre": "Teen mystery"
+      },
+      {
+        "Title": "Untitled Simon Riske series",
+        "Genre": "Spy thriller"
+      },
+      {
+        "Title": "Untitled spiritual procedural series",
+        "Genre": "Crime procedural/Supernatural"
+      },
+      {
+        "Title": "Untitled Stranger Things spin-off series",
+        "Genre": "Science fiction drama"
+      },
+      {
+        "Title": "Untitled U2 biopic series",
+        "Genre": "Biopic"
+      },
+      {
+        "Title": "Untitled Virgin River prequel",
+        "Genre": "Romantic drama"
+      },
+      {
+        "Title": "Yasuke",
+        "Genre": "Period drama"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Afrikaans"
+    ],
+    "data": [
+      {
+        "Title": "Ludik",
+        "Genre": "Drama",
+        "Premiere": "August 26, 2022",
+        "Finale": "August 26, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "46–62 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Danish"
+    ],
+    "data": [
+      {
+        "Title": "The Chestnut Man",
+        "Genre": "Crime drama",
+        "Premiere": "September 29, 2021",
+        "Finale": "September 29, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "51–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Elves",
+        "Genre": "Fantasy horror",
+        "Premiere": "November 28, 2021",
+        "Finale": "November 28, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "20–26 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Chosen",
+        "Genre": "Coming-of-age science fiction",
+        "Premiere": "January 27, 2022",
+        "Finale": "January 27, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "41–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Copenhagen Cowboy",
+        "Genre": "Drama",
+        "Premiere": "January 5, 2023",
+        "Finale": "January 5, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "46–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Nurse",
+        "Genre": "Thriller",
+        "Premiere": "April 27, 2023",
+        "Finale": "April 27, 2023",
+        "Seasons": "4 episodes",
+        "Runtime": "43–54 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Dutch"
+    ],
+    "data": [
+      {
+        "Title": "Misfit: The Series",
+        "Genre": "Teen musical comedy-drama",
+        "Premiere": "October 16, 2021",
+        "Finale": "October 16, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "22–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dirty Lines",
+        "Genre": "Drama",
+        "Premiere": "April 8, 2022",
+        "Finale": "April 8, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43–51 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Icelandic"
+    ],
+    "data": [
+      {
+        "Title": "Katla",
+        "Genre": "Supernatural drama",
+        "Premiere": "June 17, 2021",
+        "Finale": "June 17, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "41–51 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Nigerian Pidgin"
+    ],
+    "data": [
+      {
+        "Title": "Òlòtūré: The Journey",
+        "Genre": "Drama",
+        "Premiere": "June 28, 2024",
+        "Finale": "June 28, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "33–39 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Norwegian"
+    ],
+    "data": [
+      {
+        "Title": "Post Mortem: No One Dies in Skarnes",
+        "Genre": "Supernatural drama",
+        "Premiere": "August 25, 2021",
+        "Finale": "August 25, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Lørenskog Disappearance",
+        "Genre": "Crime drama",
+        "Premiere": "September 14, 2022",
+        "Finale": "September 14, 2022",
+        "Seasons": "5 episodes",
+        "Runtime": "50–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "A Storm for Christmas",
+        "Genre": "Comedy drama",
+        "Premiere": "December 16, 2022",
+        "Finale": "December 16, 2022",
+        "Seasons": "6 episodes",
+        "Runtime": "28–38 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Midsummer Night",
+        "Genre": "Drama",
+        "Premiere": "April 11, 2024",
+        "Finale": "April 11, 2024",
+        "Seasons": "5 episodes",
+        "Runtime": "27–33 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Punjabi"
+    ],
+    "data": [
+      {
+        "Title": "CAT",
+        "Genre": "Crime thriller",
+        "Premiere": "December 9, 2022",
+        "Finale": "December 9, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "40–48 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Tamil"
+    ],
+    "data": [
+      {
+        "Title": "Navarasa",
+        "Genre": "Drama anthology series",
+        "Premiere": "August 6, 2021",
+        "Finale": "August 6, 2021",
+        "Seasons": "9 episodes",
+        "Runtime": "28–48 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Telugu"
+    ],
+    "data": [
+      {
+        "Title": "Pitta Kathalu",
+        "Genre": "Drama anthology series",
+        "Premiere": "February 19, 2021",
+        "Finale": "February 19, 2021",
+        "Seasons": "4 episodes",
+        "Runtime": "35–39 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Zulu"
+    ],
+    "data": [
+      {
+        "Title": "The Brave Ones",
+        "Genre": "Fantasy drama",
+        "Premiere": "September 16, 2022",
+        "Finale": "September 16, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "32–45 min",
+        "Notes": ""
       }
     ]
   },
@@ -9679,2591 +12818,6 @@
         "Premiere": "June 6, 2024",
         "Runtime": "1 h 2 min",
         "Language": "Japanese"
-      },
-      {
-        "Title": "CoComelon Lane: The Nursery Rhyme Musical",
-        "Genre": "Animated children's musical",
-        "Premiere": "August 19, 2024",
-        "Runtime": "30 min",
-        "Language": "English"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Specials",
-      "Episodic"
-    ],
-    "data": [
-      {
-        "Title": "Mighty Little Bheem: Kite Festival",
-        "Genre": "Animation",
-        "Premiere": "January 8, 2021",
-        "Finale": "January 8, 2021",
-        "Seasons": "1 collection, 3 episodes",
-        "Runtime": "6–7 min",
-        "Language": "No spoken language",
-        "Notes": ""
-      },
-      {
-        "Title": "Lava Ka Dhaava",
-        "Genre": "Game show",
-        "Premiere": "May 5, 2021",
-        "Finale": "May 5, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–37 min",
-        "Language": "Hindi",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Guzmán Caye Rebe",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 14, 2021",
-        "Finale": "June 14, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–15 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Nadia Guzmán",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 15, 2021",
-        "Finale": "June 15, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–14 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Omar Ander Alexis",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 16, 2021",
-        "Finale": "June 16, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "10–14 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Carla Samuel",
-        "Genre": "Crime teen drama",
-        "Premiere": "June 17, 2021",
-        "Finale": "June 17, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "13–16 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Revelations: The Masters of the Universe Revelation Aftershow",
-        "Genre": "Aftershow",
-        "Premiere": "July 23, 2021",
-        "Finale": "November 23, 2021",
-        "Seasons": "1 season, 2 episodes",
-        "Runtime": "25 min",
-        "Language": "English",
-        "Notes": ""
-      },
-      {
-        "Title": "The Ingenuity of the Househusband",
-        "Genre": "Comedy",
-        "Premiere": "August 29, 2021",
-        "Finale": "October 7, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "3–6 min",
-        "Language": "Japanese",
-        "Notes": ""
-      },
-      {
-        "Title": "Money Heist: From Tokyo to Berlin",
-        "Genre": "Docu-series",
-        "Premiere": "September 3, 2021",
-        "Finale": "December 3, 2021",
-        "Seasons": "2 volumes, 2 episodes",
-        "Runtime": "51–52 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Blown Away: Christmas",
-        "Genre": "Reality show",
-        "Premiere": "November 19, 2021",
-        "Finale": "November 19, 2021",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "28–29 min",
-        "Language": "English",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Phillipe Caye Felipe",
-        "Genre": "Crime teen drama",
-        "Premiere": "December 15, 2021",
-        "Finale": "December 15, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "9–16 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Samuel Omar",
-        "Genre": "Crime teen drama",
-        "Premiere": "December 20, 2021",
-        "Finale": "December 20, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "11–12 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Elite Short Stories: Patrick",
-        "Genre": "Crime teen drama",
-        "Premiere": "December 23, 2021",
-        "Finale": "December 23, 2021",
-        "Seasons": "1 season, 3 episodes",
-        "Runtime": "11–13 min",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Karma's World Music Videos",
-        "Genre": "Animation",
-        "Premiere": "February 24, 2022",
-        "Finale": "June 16, 2022",
-        "Seasons": "2 volumes, 10 episodes",
-        "Runtime": "4–6 min",
-        "Language": "English",
-        "Notes": ""
-      },
-      {
-        "Title": "Squid Game: The Challenge",
-        "Genre": "Escape room competition",
-        "Premiere": "November 22, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "40–57 min",
-        "Language": "English",
-        "Status": "Renewed"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming"
-    ],
-    "data": [
-      {
-        "Title": "Arcane",
-        "Genre": "Adult animated steampunk science fantasy",
-        "Premiere": "November 6, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "39–44 min",
-        "Language": "English",
-        "Netflix exclusive region": "All markets except China",
-        "Status": "Final season due to premiere in November 2024"
-      },
-      {
-        "Title": "Bad Exorcist (seasons 3–4)",
-        "Genre": "Adult animated horror comedy",
-        "Premiere": "October 14, 2022",
-        "Seasons": "2 seasons, 26 episodes",
-        "Runtime": "11–17 min",
-        "Language": "Polish",
-        "Netflix exclusive region": "Poland",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Ninjago: Dragons Rising",
-        "Genre": "Animated comedy",
-        "Premiere": "June 1, 2023",
-        "Seasons": "2 seasons, 30 episodes",
-        "Runtime": "22–23 min",
-        "Language": "English",
-        "Netflix exclusive region": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Wake Up, Carlo!",
-        "Genre": "Animated comedy",
-        "Premiere": "July 6, 2023",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "16–27 min",
-        "Language": "Portuguese",
-        "Netflix exclusive region": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Ronja the Robber's Daughter",
-        "Genre": "Coming-of-age fantasy",
-        "Premiere": "March 28, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "42–45 min",
-        "Language": "Swedish",
-        "Netflix exclusive region": "Selected territories",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "Under Suspicion: Uncovering the Wesphael Case",
-        "Genre": "True crime",
-        "Partner/Country": "RTL-TVI/Belgium",
-        "Premiere": "March 17, 2021",
-        "Finale": "March 17, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "34–38 min",
-        "Language": "French",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "The Serpent",
-        "Genre": "True crime",
-        "Partner/Country": "BBC One/United Kingdom",
-        "Premiere": "April 2, 2021",
-        "Finale": "April 2, 2021",
-        "Seasons": "8 episodes",
-        "Runtime": "55–59 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Life in Colour with David Attenborough",
-        "Genre": "Nature docuseries",
-        "Partner/Country": "BBC Two/United Kingdom",
-        "Premiere": "April 22, 2021",
-        "Finale": "April 22, 2021",
-        "Seasons": "3 episodes",
-        "Runtime": "44–50 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Dive Club",
-        "Genre": "Mystery teen drama",
-        "Partner/Country": "Network 10/Australia",
-        "Premiere": "September 3, 2021",
-        "Finale": "September 3, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "26–27 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "On the Verge",
-        "Genre": "Comedy",
-        "Partner/Country": "Canal+/France",
-        "Premiere": "September 7, 2021",
-        "Finale": "September 7, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "28–35 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Single's Inferno",
-        "Genre": "Dating show",
-        "Partner/Country": "JTBC/South Korea",
-        "Premiere": "December 18, 2021",
-        "Seasons": "3 seasons, 29 episodes",
-        "Runtime": "56–90 min",
-        "Language": "Korean",
-        "Netflix exclusive regions": "All other markets",
-        "Status": "Season 4 due to premiere in 2024"
-      },
-      {
-        "Title": "The Parisian Agency: Exclusive Properties (seasons 2–4)",
-        "Genre": "Property management reality",
-        "Partner/Country": "TMC/France",
-        "Premiere": "March 3, 2022",
-        "Seasons": "3 seasons, 24 episodes",
-        "Runtime": "51–70 min",
-        "Language": "French",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Soil",
-        "Genre": "Comedy drama",
-        "Partner/Country": "Play4/Belgium",
-        "Premiere": "March 17, 2022",
-        "Finale": "March 17, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–51 min",
-        "Language": "Dutch",
-        "Netflix exclusive region": "Selected territories",
-        "Notes": ""
-      },
-      {
-        "Title": "Borgen – Power &amp; Glory",
-        "Genre": "Political drama",
-        "Partner/Country": "DR/Denmark",
-        "Premiere": "April 14, 2022",
-        "Finale": "April 14, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "53–59 min",
-        "Language": "Danish",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "He's Expecting",
-        "Genre": "Comedy drama",
-        "Partner/Country": "TV Tokyo/Japan",
-        "Premiere": "April 21, 2022",
-        "Finale": "April 21, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "25 min",
-        "Language": "Japanese",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Surviving Summer",
-        "Genre": "Teen drama",
-        "Partner/Country": "ZDF/Germany",
-        "Premiere": "June 3, 2022",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "26–30 min",
-        "Language": "English",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Perfect Mother",
-        "Genre": "Crime drama",
-        "Partner/Country": "TF1/FranceRTBF/BelgiumZDF/Germany",
-        "Premiere": "June 3, 2022",
-        "Finale": "June 3, 2022",
-        "Seasons": "4 episodes",
-        "Runtime": "46–50 min",
-        "Language": "French",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "You Don't Know Me",
-        "Genre": "Crime drama",
-        "Partner/Country": "BBC One/United Kingdom",
-        "Premiere": "June 17, 2022",
-        "Finale": "June 17, 2022",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "54–57 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Fakes",
-        "Genre": "Young adult crime comedy",
-        "Partner/Country": "CBC Gem/Canada",
-        "Premiere": "September 2, 2022",
-        "Finale": "September 2, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–28 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Entrapped",
-        "Genre": "Thriller",
-        "Partner/Country": "RÚV/IcelandZDF/Germany",
-        "Premiere": "September 8, 2022",
-        "Finale": "September 8, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "39–52 min",
-        "Language": "Icelandic",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "I Am a Stalker",
-        "Genre": "True crime docuseries",
-        "Partner/Country": "Crime + Investigation/United Kingdom",
-        "Premiere": "October 28, 2022",
-        "Finale": "October 28, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–45 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Inside Man",
-        "Genre": "Crime drama",
-        "Partner/Country": "BBC One/United Kingdom",
-        "Premiere": "October 31, 2022",
-        "Finale": "October 31, 2022",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "59–61 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Reign Supreme",
-        "Genre": "Music biopic",
-        "Partner/Country": "Arte/France",
-        "Premiere": "November 18, 2022",
-        "Finale": "November 18, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "47–51 min",
-        "Language": "French",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Irreverent",
-        "Genre": "Comedy drama/Crime",
-        "Partner/Country": "Peacock/United States",
-        "Premiere": "December 4, 2022",
-        "Finale": "December 4, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "40–50 min",
-        "Language": "English",
-        "Netflix exclusive region": "Selected territories",
-        "Notes": ""
-      },
-      {
-        "Title": "Don't Pick Up the Phone",
-        "Genre": "Docuseries",
-        "Partner/Country": "Paramount+/United Kingdom",
-        "Premiere": "December 14, 2022",
-        "Finale": "December 14, 2022",
-        "Seasons": "3 episodes",
-        "Runtime": "42–57 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Woman of the Dead",
-        "Genre": "Thriller",
-        "Partner/Country": "ORF/Austria",
-        "Premiere": "January 5, 2023",
-        "Finale": "January 5, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "45–49 min",
-        "Language": "German",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Cunk on Earth",
-        "Genre": "Mockumentary",
-        "Partner/Country": "BBC Two/United Kingdom",
-        "Premiere": "January 31, 2023",
-        "Finale": "January 31, 2023",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "28–29 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Red Rose",
-        "Genre": "Teen horror drama",
-        "Partner/Country": "BBC Three/United Kingdom",
-        "Premiere": "February 15, 2023",
-        "Finale": "February 15, 2023",
-        "Seasons": "8 episodes",
-        "Runtime": "37–49 min",
-        "Language": "English",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "From Me to You: Kimi ni Todoke",
-        "Genre": "Romantic comedy",
-        "Partner/Country": "TV Tokyo/Japan",
-        "Premiere": "March 30, 2023",
-        "Finale": "March 30, 2023",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "33–35 min",
-        "Language": "Japanese",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Rough Diamonds",
-        "Genre": "Drama",
-        "Partner/Country": "VRT/Belgium",
-        "Premiere": "April 21, 2023",
-        "Finale": "April 21, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "47–55 min",
-        "Language": "Dutch",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Dance Brothers",
-        "Genre": "Teen drama",
-        "Partner/Country": "Yle/Finland",
-        "Premiere": "May 10, 2023",
-        "Finale": "May 10, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "19–25 min",
-        "Language": "Finnish",
-        "Netflix exclusive region": "All other markets",
-        "Notes": ""
-      },
-      {
-        "Title": "Tour de France: Unchained",
-        "Genre": "Sports docuseries",
-        "Partner/Country": "France Télévisions/France",
-        "Premiere": "June 8, 2023",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "34–49 min",
-        "Language": "French",
-        "Netflix exclusive regions": "All other markets",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Let's Get Divorced",
-        "Genre": "Romantic comedy drama",
-        "Partner/Country": "TBS/Japan",
-        "Premiere": "June 22, 2023",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "57–68 min",
-        "Language": "Japanese",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Five Star Chef",
-        "Genre": "Culinary competition",
-        "Partner/Country": "Channel 4/United Kingdom",
-        "Premiere": "July 14, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "44–46 min",
-        "Language": "English",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Predators",
-        "Genre": "Nature docuseries",
-        "Partner/Country": "Sky Nature/United Kingdom",
-        "Premiere": "September 6, 2023",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "43–44 min",
-        "Language": "English",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
-      },
-      {
-        "Title": "I Woke Up a Vampire",
-        "Genre": "Family supernatural comedy thriller",
-        "Partner/Country": "Family/Canada",
-        "Premiere": "October 17, 2023",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "23–27 min",
-        "Language": "English",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "Power Rangers (seasons 29–30)",
-        "Genre": "Superhero science fiction",
-        "Previous network(s)": "Fox Kids (seasons 1–10A)ABC Kids/Jetix (seasons 10B–17)Nickelodeon (seasons 18–28)",
-        "Premiere": "March 3, 2022",
-        "Finale": "September 29, 2023",
-        "Seasons": "2 seasons, 32 episodes",
-        "Runtime": "22–25 min",
-        "Language": "English",
-        "Netflix exclusive region": "United States (season 29)Selected territories (season 30)",
-        "Notes": ""
-      },
-      {
-        "Title": "CoComelon (seasons 6–10)",
-        "Genre": "Animation",
-        "Previous network(s)": "YouTube",
-        "Premiere": "September 5, 2022",
-        "Seasons": "5 seasons, 11 episodes",
-        "Runtime": "46–64 min",
-        "Language": "English",
-        "Netflix exclusive region": "Selected territories",
-        "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "One-time"
-    ],
-    "data": [
-      {
-        "Title": "Juanpis González: The People's President",
-        "Genre": "Comedy",
-        "Premiere": "June 28, 2024",
-        "Runtime": "TBA",
-        "Netflix exclusive region": "Selected territories",
-        "Language": "Spanish"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Drama"
-    ],
-    "data": [
-      {
-        "Title": "American Primeval",
-        "Genre": "Western miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Baby Farm",
-        "Genre": "Thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Black Doves",
-        "Genre": "Thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Madness",
-        "Genre": "Conspiracy thriller miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Monsters: The Lyle and Erik Menendez Story",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Perfect Couple",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "To Kill a Monkey",
-        "Genre": "Crime thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Adolescence",
-        "Genre": "Drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "The Choice",
-        "Genre": "Political Thriller",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "The Undertow",
-        "Genre": "Crime drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "The Witness",
-        "Genre": "Crime drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "The Abandons",
-        "Genre": "Western",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Apple Cider Vinegar",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Atomic",
-        "Genre": "Crime drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Baahubali: Before the Beginning",
-        "Genre": "Fantasy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Beast in Me",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Beauty in Black",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "BET",
-        "Genre": "Thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Black Rabbit",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Boroughs",
-        "Genre": "Supernatural mystery drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Covers",
-        "Genre": "Spy fiction",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Death by Lightning",
-        "Genre": "Period drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Department Q",
-        "Genre": "Crime thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Desert King",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Forever",
-        "Genre": "Teen drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Grown Ups",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "House of Guinness",
-        "Genre": "Historical drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "How to Get to Heaven from Belfast",
-        "Genre": "Comedy drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Man on Fire",
-        "Genre": "Thriller drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Missing You",
-        "Genre": "Thriller drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Moon Represents My Heart",
-        "Genre": "Science fiction miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Pulse",
-        "Genre": "Medical drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Ransom Canyon",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Residence",
-        "Genre": "Mystery drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Run Away",
-        "Genre": "Thriller drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Seven Dials Mystery",
-        "Genre": "Mystery drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Survivors",
-        "Genre": "Crime mystery miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "They Both Die at the End",
-        "Genre": "Teen drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Toxic Town",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untamed",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Glenn Burke miniseries",
-        "Genre": "Biopic miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Monster anthology series",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Tim McGraw series",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Waterfront",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Wayward",
-        "Genre": "Thriller miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Zero Day",
-        "Genre": "Political thriller miniseries",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Comedy"
-    ],
-    "data": [
-      {
-        "Title": "A Classic Spy",
-        "Genre": "Crime comedy",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Kaos",
-        "Genre": "Dark comedy",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "No Good Deed",
-        "Genre": "Dark comedy",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Running Point",
-        "Genre": "Sports comedy",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "The Corps",
-        "Genre": "Military comedy drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Four Seasons",
-        "Genre": "Romantic comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Golf",
-        "Genre": "Sports comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Sirens",
-        "Genre": "Dark comedy miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Too Much",
-        "Genre": "Romantic comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Leanne Morgan series",
-        "Genre": "Sitcom",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Tom Segura series",
-        "Genre": "Dark comedy",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Animation",
-      "Adult animation"
-    ],
-    "data": [
-      {
-        "Title": "Gears of War",
-        "Genre": "Military science fiction",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Undervale",
-        "Genre": "Comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Stranger Things animated series",
-        "Genre": "Science fiction horror",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Animation",
-      "Anime"
-    ],
-    "data": [
-      {
-        "Title": "Devil May Cry",
-        "Genre": "Dark fantasy action",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Moonrise",
-        "Genre": "Science fiction",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Tokyo Override",
-        "Genre": "Science fiction",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Gundam: Requiem for Vengeance",
-        "Genre": "Mecha/military science fiction",
-        "Premiere": "October 2024"
-      },
-      {
-        "Title": "Leviathan",
-        "Genre": "Historical drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Army of the Dead: Lost Vegas",
-        "Genre": "Horror",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Beat &amp; Motion",
-        "Genre": "Slice of life",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Lady Napoleon",
-        "Genre": "Action",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The One Piece",
-        "Genre": "Adventure/science fantasy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Stranger Things: Tokyo",
-        "Genre": "Science fiction horror",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Animation",
-      "Kids &amp; family"
-    ],
-    "data": [
-      {
-        "Title": "Jentry Chau vs. The Underworld",
-        "Genre": "Supernatural adventure",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Mighty MonsterWheelies",
-        "Genre": "Preschool",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Mermaid Magic",
-        "Genre": "Fantasy",
-        "Premiere": "August 2024"
-      },
-      {
-        "Title": "Astérix and Obélix: The Big Fight",
-        "Genre": "Historical action adventure",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Motel Transylvania",
-        "Genre": "Horror comedy",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Wolf King",
-        "Genre": "Epic fantasy adventure",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Horton Hears a Who!",
-        "Genre": "Preschool",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "One Fish, Two Fish, Red Fish, Blue Fish",
-        "Genre": "Preschool",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Seven Bears",
-        "Genre": "Fantasy comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Rebel Moon series",
-        "Genre": "Space opera",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled The Witcher series",
-        "Genre": "Fantasy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Wacky Wednesday",
-        "Genre": "Preschool",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "French"
-    ],
-    "data": [
-      {
-        "Title": "La Cage",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Burn(es) Out",
-        "Genre": "Comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Isabelle Adjani series",
-        "Genre": "Thriller",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "German"
-    ],
-    "data": [
-      {
-        "Title": "Cassandra",
-        "Genre": "Science fiction thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Murder Mindfully",
-        "Genre": "Crime thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Plötzlich Kanzlerin",
-        "Genre": "Comedy drama",
-        "Premiere": "2024"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Hindi"
-    ],
-    "data": [
-      {
-        "Title": "Khakee: The Bengal Chapter",
-        "Genre": "Crime thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "IC 814: The Kandahar Hijack",
-        "Genre": "Thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Dabba Cartel",
-        "Genre": "Crime thriller",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Italian"
-    ],
-    "data": [
-      {
-        "Title": "Inganno",
-        "Genre": "Thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Leopard",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Maschi veri",
-        "Genre": "Comedy",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "A.C.A.B. La serie",
-        "Genre": "Crime drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Adorazione",
-        "Genre": "Coming of age drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Il Mostro",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Lotto Gang",
-        "Genre": "Comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Mrs Playmen",
-        "Genre": "Biopic",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Nemesis",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Sara",
-        "Genre": "Crime drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Storia della mia famiglia",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Japanese"
-    ],
-    "data": [
-      {
-        "Title": "Beyond Goodbye",
-        "Genre": "Romantic drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Queen of Villains",
-        "Genre": "Sports drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Glass Heart",
-        "Genre": "Music drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Romantics Anonymous",
-        "Genre": "Romantic comedy",
-        "Premiere": "2025"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Korean"
-    ],
-    "data": [
-      {
-        "Title": "The Frog",
-        "Genre": "Mystery thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Hong Rang",
-        "Genre": "Period drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Mr. Plankton",
-        "Genre": "Romantic comedy",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Trunk",
-        "Genre": "Thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "When Life Gives You Tangerines",
-        "Genre": "Romantic drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Aema",
-        "Genre": "Historical drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "All the Love You Wish For",
-        "Genre": "Romantic comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Cashero",
-        "Genre": "Superhero",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Karma",
-        "Genre": "Crime thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Mercy for None",
-        "Genre": "Thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Trigger",
-        "Genre": "Action thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Two Women",
-        "Genre": "Romantic drama",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Mandarin"
-    ],
-    "data": [
-      {
-        "Title": "Born for the Spotlight",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "GG Precinct",
-        "Genre": "Action comedy",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Agent from Above",
-        "Genre": "Fantasy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Forget You Not",
-        "Genre": "Comedy drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Million-follower Detective",
-        "Genre": "Crime thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Nipple Talk",
-        "Genre": "Romantic comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Resurrected",
-        "Genre": "Thriller",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Norwegian"
-    ],
-    "data": [
-      {
-        "Title": "Billionaire Island",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Detective Hole",
-        "Genre": "Crime drama",
-        "Premiere": "2026"
-      },
-      {
-        "Title": "The New Force",
-        "Genre": "Period drama",
-        "Premiere": "2026"
-      },
-      {
-        "Title": "La Palma",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Polish"
-    ],
-    "data": [
-      {
-        "Title": "Heweliusz",
-        "Genre": "Drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Go Ahead, Brother",
-        "Genre": "Comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Just One Look",
-        "Genre": "Mystery",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Mothers of Penguins",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Project UFO",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Portuguese"
-    ],
-    "data": [
-      {
-        "Title": "Candelária",
-        "Genre": "Drama miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Senna",
-        "Genre": "Sports biopic miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Pssica",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Spanish"
-    ],
-    "data": [
-      {
-        "Title": "The Accident",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Bienvenidos a la familia",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Breathless",
-        "Genre": "Medical drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Celda 211",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Eternaut",
-        "Genre": "Science fiction",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Gringo Hunters",
-        "Genre": "Crime thriller",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Las hermanas Guerra",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Las muertas",
-        "Genre": "Crime drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Nadie nos vió partir",
-        "Genre": "Drama miniseries",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "One Hundred Years of Solitude",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Para siempre",
-        "Genre": "Drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "1992",
-        "Genre": "Thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Animal Salvaje",
-        "Genre": "Comedy miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Asalto al Banco Central",
-        "Genre": "Heist",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Caught",
-        "Genre": "Thriller miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "The Gardener",
-        "Genre": "Thriller",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "El refugio atómico",
-        "Genre": "Post-apocalyptic drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Envidiosa",
-        "Genre": "Comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "La última noche en Tremore Beach",
-        "Genre": "Thriller miniseries",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Legado",
-        "Genre": "Drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Manual para señoritas",
-        "Genre": "Period drama",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Serpientes y Escaleras",
-        "Genre": "Comedy",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Superestar",
-        "Genre": "Music biopic",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled adaptation of Claudia Piñeiro's El tiempo de las moscas and Tuya",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Swedish"
-    ],
-    "data": [
-      {
-        "Title": "The Breakthrough",
-        "Genre": "Crime drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Helicopter Heist",
-        "Genre": "Heist drama",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Diary of a Ditched Girl",
-        "Genre": "Drama",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "The Glass Dome",
-        "Genre": "Crime drama",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Thai"
-    ],
-    "data": [
-      {
-        "Title": "Don't Come Home",
-        "Genre": "Horror",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Tomorrow and I",
-        "Genre": "Science fiction anthology",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Terror Tuesday: Extreme",
-        "Genre": "Horror",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Other"
-    ],
-    "data": [
-      {
-        "Title": "Asaf",
-        "Genre": "Drama",
-        "Language": "Turkish",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Echoes of the Past",
-        "Genre": "Crime drama",
-        "Language": "Arabic",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "The Town",
-        "Genre": "Crime drama",
-        "Language": "Turkish",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Roosters",
-        "Genre": "Comedy",
-        "Language": "Dutch",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Amsterdam Empire",
-        "Genre": "Thriller",
-        "Language": "Dutch",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Jo Bachay Hain Sang Samait Lo",
-        "Genre": "Drama",
-        "Language": "Urdu",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Reservatet",
-        "Genre": "Crime drama",
-        "Language": "Danish",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Subteran",
-        "Genre": "Crime drama",
-        "Language": "Romanian",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Unscripted",
-      "Docuseries"
-    ],
-    "data": [
-      {
-        "Title": "Pop Star Academy: KATSEYE",
-        "Subject": "Music",
-        "Language": "English",
-        "Premiere": "Mid-2024"
-      },
-      {
-        "Title": "The Greatest Rivalry – India vs Pakistan",
-        "Subject": "Sports",
-        "Language": "Hindi",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Our Oceans",
-        "Subject": "Nature",
-        "Language": "English",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Pinzner: German Hitman",
-        "Subject": "True crime",
-        "Language": "German",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Shirin David",
-        "Subject": "Music",
-        "Language": "German",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Untitled 2004 World Series docuseries",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Simone Biles: Rising",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "July 2024"
-      },
-      {
-        "Title": "Untitled United States men's national basketball team docuseries",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "Early 2025"
-      },
-      {
-        "Title": "F1 Academy",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Our Water World",
-        "Subject": "Nature",
-        "Language": "English",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Millennium Diamond Heist",
-        "Subject": "True crime",
-        "Language": "English",
-        "Premiere": "2026"
-      },
-      {
-        "Title": "Alcaraz, the Docuseries",
-        "Subject": "Sports",
-        "Language": "Spanish",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Hunting Gary Glitter",
-        "Subject": "True crime",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Jack Unterweger",
-        "Subject": "True crime",
-        "Language": "German",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Jack Whitehall: Fatherhood with My Father",
-        "Subject": "Travel",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "This Blew Up",
-        "Subject": "Social media",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled 2016 Bitfinex hack docuseries",
-        "Subject": "True crime",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Boston Red Sox docuseries",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Carmen Cervera docuseries",
-        "Subject": "Celebrity",
-        "Language": "Spanish",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Dallas Cowboys docuseries",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Gilgo Beach serial killings docuseries",
-        "Subject": "True crime",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Meghan Markle docuseries",
-        "Subject": "Lifestyle",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled NBA docuseries",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled polo docuseries",
-        "Subject": "Sports",
-        "Language": "English",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Unscripted",
-      "Reality"
-    ],
-    "data": [
-      {
-        "Title": "Making It in Marbella",
-        "Genre": "Reality",
-        "Language": "Swedish",
-        "Premiere": "Late 2024"
-      },
-      {
-        "Title": "The Influencer",
-        "Genre": "Reality competition",
-        "Language": "Korean",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Love Is Blind: Germany",
-        "Genre": "Dating show",
-        "Language": "German",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Unknown Chefs",
-        "Genre": "Cooking competition",
-        "Language": "Korean",
-        "Premiere": "2024"
-      },
-      {
-        "Title": "Love Is Blind: UK",
-        "Genre": "Dating show",
-        "Language": "English",
-        "Premiere": "August 2024"
-      },
-      {
-        "Title": "Bear Hunt",
-        "Genre": "Reality competition",
-        "Language": "English",
-        "Premiere": "2025"
-      },
-      {
-        "Title": "Battle Camp",
-        "Genre": "Reality competition",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Building the Band",
-        "Genre": "Music competition",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Cheaters: Unfinished Business",
-        "Genre": "Reality",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Love Is Blind: Argentina",
-        "Genre": "Dating show",
-        "Language": "Spanish",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Love Is Blind: Habibi",
-        "Genre": "Dating show",
-        "Language": "Arabic",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Love Is Blind: Mexico",
-        "Genre": "Dating show",
-        "Language": "Spanish",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Million Dollar Secret",
-        "Genre": "Reality competition",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Nayanthara: Beyond the Fairytale",
-        "Genre": "Reality",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Nova Cena",
-        "Genre": "Music competition",
-        "Language": "Portuguese",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Rhythm + Flow: Poland",
-        "Genre": "Music competition",
-        "Language": "Polish",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Rugged Rugby: Conquer or Die",
-        "Genre": "Sports competition/Reality competition",
-        "Language": "Korean",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Selling the City",
-        "Genre": "Reality",
-        "Language": "English",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "Winter Palace",
-        "Partner/Country": "RTS/Switzerland",
-        "Genre": "Period drama",
-        "Language": "EnglishFrench",
-        "Premiere": "Late 2024"
-      },
-      {
-        "Title": "Eddie's Lil' Homies",
-        "Partner/Country": "NITV/Australia",
-        "Genre": "Children's animation",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Lockerbie",
-        "Partner/Country": "BBC One/United Kingdom",
-        "Genre": "Drama miniseries",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "North of North",
-        "Partner/Country": "APTN and CBC Television/Canada",
-        "Genre": "Comedy",
-        "Language": "English",
-        "Premiere": "TBA"
-      },
-      {
-        "Title": "Untitled Front Populaire miniseries",
-        "Partner/Country": "TF1/France",
-        "Genre": "Period drama miniseries",
-        "Language": "French",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "Kimi ni Todoke (season 3)",
-        "Genre": "Anime",
-        "Prev. network(s)": "Nippon TV",
-        "Premiere": "August 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Japanese"
-      },
-      {
-        "Title": "My Lover My Killer (season 2)",
-        "Genre": "True crime docuseries",
-        "Prev. network(s)": "Channel 5",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Weak Hero Class 1 (season 2)",
-        "Genre": "Coming-of-age action drama thriller",
-        "Prev. network(s)": "Wavve",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Korean"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Specials",
-      "One-time"
-    ],
-    "data": [
-      {
-        "Title": "Masameer Junior",
-        "Genre": "Adult animation comedy",
-        "Language": "Arabic",
-        "Premiere": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "In development"
-    ],
-    "data": [
-      {
-        "Title": "Agency",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Anna O",
-        "Genre": "Crime thriller"
-      },
-      {
-        "Title": "Arbor Hall",
-        "Genre": "Teen mystery thriller"
-      },
-      {
-        "Title": "Astronaut Chicks",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "Birthright",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Calabasas",
-        "Genre": "Teen drama"
-      },
-      {
-        "Title": "Cashero",
-        "Genre": "Korean language superhero drama"
-      },
-      {
-        "Title": "Coming Undone",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Confessions on the 7:45",
-        "Genre": "Psychological thriller"
-      },
-      {
-        "Title": "Death Note",
-        "Genre": "Supernatural drama"
-      },
-      {
-        "Title": "Dumped",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "East of Eden",
-        "Genre": "Drama miniseries"
-      },
-      {
-        "Title": "El cuco de cristal",
-        "Genre": "Drama thriller"
-      },
-      {
-        "Title": "Fatherhood",
-        "Genre": "Comedy drama"
-      },
-      {
-        "Title": "Forever, Interrupted",
-        "Genre": "Drama miniseries"
-      },
-      {
-        "Title": "Ghostbusters",
-        "Genre": "Animated horror comedy"
-      },
-      {
-        "Title": "The Hated",
-        "Genre": "Western"
-      },
-      {
-        "Title": "The Henna Artist",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Horizon",
-        "Genre": "Science fiction"
-      },
-      {
-        "Title": "Last Samurai Standing",
-        "Genre": "Japanese language drama"
-      },
-      {
-        "Title": "Little Sky",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "Mind MGMT",
-        "Genre": "Thriller"
-      },
-      {
-        "Title": "Night Club",
-        "Genre": "Superhero teen drama"
-      },
-      {
-        "Title": "Nocterra",
-        "Genre": "Science fiction"
-      },
-      {
-        "Title": "One Day in December",
-        "Genre": "Romance drama"
-      },
-      {
-        "Title": "Orbital",
-        "Genre": "Science fiction thriller"
-      },
-      {
-        "Title": "Our Love Is Here to Stay",
-        "Genre": "Biopic/musical comedy"
-      },
-      {
-        "Title": "Princess of South Beach",
-        "Genre": "Teen drama"
-      },
-      {
-        "Title": "Raybearer",
-        "Genre": "Fantasy teen drama"
-      },
-      {
-        "Title": "Revenge Inc.",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Something Is Killing the Children",
-        "Genre": "Horror"
-      },
-      {
-        "Title": "Son of a Donkey",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "Stronger",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "They'll Never Catch Us",
-        "Genre": "Thriller"
-      },
-      {
-        "Title": "Untitled \"Daddy Ball\" series",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Untitled Frank Sinatra biopic series",
-        "Genre": "Biopic"
-      },
-      {
-        "Title": "Untitled Jeffrey Addiss and Will Matthews series",
-        "Genre": "TBA"
-      },
-      {
-        "Title": "Untitled John F. Kennedy miniseries",
-        "Genre": "Biopic miniseries"
-      },
-      {
-        "Title": "Untitled Julio Iglesias series",
-        "Genre": "Biopic"
-      },
-      {
-        "Title": "Untitled Matt Rife series",
-        "Genre": "Workplace comedy"
-      },
-      {
-        "Title": "Untitled Maya and the Three-related series",
-        "Genre": "Animated fantasy miniseries"
-      },
-      {
-        "Title": "Untitled Minecraft series",
-        "Genre": "Animated adventure"
-      },
-      {
-        "Title": "Untitled Myron Bolitar series",
-        "Genre": "Mystery drama"
-      },
-      {
-        "Title": "Untitled Owen Hanson docuseries",
-        "Genre": "True crime docuseries"
-      },
-      {
-        "Title": "Untitled Prince Harry and Meghan Markle scripted series",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Untitled Regina Hicks project",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "Untitled Scooby-Doo series",
-        "Genre": "Teen mystery"
-      },
-      {
-        "Title": "Untitled Simon Riske series",
-        "Genre": "Spy thriller"
-      },
-      {
-        "Title": "Untitled Stranger Things spin-off series",
-        "Genre": "Science fiction drama"
-      },
-      {
-        "Title": "Untitled U2 biopic series",
-        "Genre": "Biopic"
-      },
-      {
-        "Title": "Untitled Virgin River prequel",
-        "Genre": "Romantic drama"
-      },
-      {
-        "Title": "Untitled Charlie and the Chocolate Factory reality series",
-        "Genre": "Reality competition"
-      },
-      {
-        "Title": "Yasuke",
-        "Genre": "Period drama"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Afrikaans"
-    ],
-    "data": [
-      {
-        "Title": "Ludik",
-        "Genre": "Drama",
-        "Premiere": "August 26, 2022",
-        "Finale": "August 26, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "46–62 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Danish"
-    ],
-    "data": [
-      {
-        "Title": "The Chestnut Man",
-        "Genre": "Crime drama",
-        "Premiere": "September 29, 2021",
-        "Finale": "September 29, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "51–59 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Elves",
-        "Genre": "Fantasy horror",
-        "Premiere": "November 28, 2021",
-        "Finale": "November 28, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "20–26 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Chosen",
-        "Genre": "Coming-of-age science fiction",
-        "Premiere": "January 27, 2022",
-        "Finale": "January 27, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "41–49 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Copenhagen Cowboy",
-        "Genre": "Drama",
-        "Premiere": "January 5, 2023",
-        "Finale": "January 5, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "46–56 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Nurse",
-        "Genre": "Thriller",
-        "Premiere": "April 27, 2023",
-        "Finale": "April 27, 2023",
-        "Seasons": "4 episodes",
-        "Runtime": "43–54 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Dutch"
-    ],
-    "data": [
-      {
-        "Title": "Misfit: The Series",
-        "Genre": "Teen musical comedy-drama",
-        "Premiere": "October 16, 2021",
-        "Finale": "October 16, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–28 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Dirty Lines",
-        "Genre": "Drama",
-        "Premiere": "April 8, 2022",
-        "Finale": "April 8, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–51 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Icelandic"
-    ],
-    "data": [
-      {
-        "Title": "Katla",
-        "Genre": "Supernatural drama",
-        "Premiere": "June 17, 2021",
-        "Finale": "June 17, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "41–51 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Norwegian"
-    ],
-    "data": [
-      {
-        "Title": "Post Mortem: No One Dies in Skarnes",
-        "Genre": "Supernatural drama",
-        "Premiere": "August 25, 2021",
-        "Finale": "August 25, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–47 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Lørenskog Disappearance",
-        "Genre": "Crime drama",
-        "Premiere": "September 14, 2022",
-        "Finale": "September 14, 2022",
-        "Seasons": "5 episodes",
-        "Runtime": "50–52 min",
-        "Notes": ""
-      },
-      {
-        "Title": "A Storm for Christmas",
-        "Genre": "Comedy drama",
-        "Premiere": "December 16, 2022",
-        "Finale": "December 16, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "28–38 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Midsummer Night",
-        "Genre": "Drama",
-        "Premiere": "April 11, 2024",
-        "Finale": "April 11, 2024",
-        "Seasons": "5 episodes",
-        "Runtime": "27–33 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Punjabi"
-    ],
-    "data": [
-      {
-        "Title": "CAT",
-        "Genre": "Crime thriller",
-        "Premiere": "December 9, 2022",
-        "Finale": "December 9, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "40–48 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Swedish"
-    ],
-    "data": [
-      {
-        "Title": "Snabba Cash",
-        "Genre": "Thriller",
-        "Premiere": "April 7, 2021",
-        "Finale": "September 22, 2022",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "38–51 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Young Royals",
-        "Genre": "Coming-of-age drama",
-        "Premiere": "July 1, 2021",
-        "Finale": "March 18, 2024",
-        "Seasons": "3 seasons, 18 episodes",
-        "Runtime": "40–57 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Unlikely Murderer",
-        "Genre": "Crime drama miniseries",
-        "Premiere": "November 5, 2021",
-        "Finale": "November 5, 2021",
-        "Seasons": "5 episodes",
-        "Runtime": "43–52 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Anxious People",
-        "Genre": "Comedy drama",
-        "Premiere": "December 29, 2021",
-        "Finale": "December 29, 2021",
-        "Seasons": "6 episodes",
-        "Runtime": "23–34 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Clark",
-        "Genre": "Drama",
-        "Premiere": "May 5, 2022",
-        "Finale": "May 5, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "54–69 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Playlist",
-        "Genre": "Docu-drama miniseries",
-        "Premiere": "October 13, 2022",
-        "Finale": "October 13, 2022",
-        "Seasons": "6 episodes",
-        "Runtime": "45–56 min",
-        "Notes": ""
-      },
-      {
-        "Title": "A Nearly Normal Family",
-        "Genre": "Crime thriller",
-        "Premiere": "November 24, 2023",
-        "Finale": "November 24, 2023",
-        "Seasons": "6 episodes",
-        "Runtime": "36–50 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Deliver Me",
-        "Genre": "Crime drama",
-        "Premiere": "April 24, 2024",
-        "Finale": "April 24, 2024",
-        "Seasons": "5 episodes",
-        "Runtime": "38–48 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Tamil"
-    ],
-    "data": [
-      {
-        "Title": "Navarasa",
-        "Genre": "Drama anthology series",
-        "Premiere": "August 6, 2021",
-        "Finale": "August 6, 2021",
-        "Seasons": "9 episodes",
-        "Runtime": "28–48 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Telugu"
-    ],
-    "data": [
-      {
-        "Title": "Pitta Kathalu",
-        "Genre": "Drama anthology series",
-        "Premiere": "February 19, 2021",
-        "Finale": "February 19, 2021",
-        "Seasons": "4 episodes",
-        "Runtime": "35–39 min",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Zulu"
-    ],
-    "data": [
-      {
-        "Title": "The Brave Ones",
-        "Genre": "Fantasy drama",
-        "Premiere": "September 16, 2022",
-        "Finale": "September 16, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "32–45 min",
-        "Notes": ""
       }
     ]
   },
@@ -12313,6 +12867,16 @@
         "Finale": "April 6, 2023",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "10–13 min",
+        "Language": "Portuguese",
+        "Netflix exclusive region": "Selected territories",
+        "Notes": ""
+      },
+      {
+        "Title": "Wake Up, Carlo!",
+        "Premiere": "July 6, 2023",
+        "Finale": "July 6, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "16–27 min",
         "Language": "Portuguese",
         "Netflix exclusive region": "Selected territories",
         "Notes": ""
@@ -12396,6 +12960,7 @@
         "Premiere": "December 24, 2023",
         "Runtime": "13 min",
         "Language": "Polish",
+        "Netflix exclusive region": "Poland",
         "Notes": ""
       },
       {
@@ -12404,6 +12969,7 @@
         "Premiere": "February 12, 2024",
         "Runtime": "12 min",
         "Language": "Polish",
+        "Netflix exclusive region": "Poland",
         "Notes": ""
       },
       {
@@ -12412,6 +12978,16 @@
         "Premiere": "March 27, 2024",
         "Runtime": "12 min",
         "Language": "Polish",
+        "Netflix exclusive region": "Poland",
+        "Notes": ""
+      },
+      {
+        "Title": "Juanpis González: The People's President",
+        "Genre": "Comedy",
+        "Premiere": "June 28, 2024",
+        "Runtime": "1 h 31 min",
+        "Language": "Spanish",
+        "Netflix exclusive region": "Selected territories",
         "Notes": ""
       }
     ]

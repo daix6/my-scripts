@@ -91,7 +91,7 @@
         "Premiere": "September 21, 2022",
         "Seasons": "1 season, 12 episodes",
         "Runtime": "38–57 min",
-        "Status": "Final season due to premiere in August 2024"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Willow",
@@ -155,15 +155,23 @@
         "Premiere": "March 29, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "38–55 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Acolyte",
         "Genre": "Space opera",
         "Premiere": "June 4, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "35–44 min",
-        "Status": "Season 1 ongoing"
+        "Runtime": "35–49 min",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Star Wars: Skeleton Crew",
+        "Genre": "Space opera",
+        "Premiere": "December 3, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -278,14 +286,6 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Agatha All Along",
         "Genre": "Supernatural superhero dark comedy",
         "Premiere": "September 18, 2024",
@@ -331,7 +331,7 @@
         "Premiere": "August 11, 2021",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "29–38 min",
-        "Status": "Renewed"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "The Proud Family: Louder and Prouder",
@@ -345,9 +345,9 @@
         "Title": "Star Wars: Young Jedi Adventures",
         "Genre": "Space opera",
         "Premiere": "May 4, 2023",
-        "Seasons": "1 season, 25 episodes",
+        "Seasons": "2 seasons, 36 episodes",
         "Runtime": "26–27 min",
-        "Status": "Season 2 due to premiere on August 14, 2024"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Iwájú",
@@ -364,6 +364,30 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30–43 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Lego Star Wars: Rebuild the Galaxy",
+        "Genre": "Animation",
+        "Premiere": "September 13, 2024",
+        "Seasons": "4 episodes",
+        "Runtime": "25–27 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Your Friendly Neighborhood Spider-Man",
+        "Genre": "Superhero comedy",
+        "Premiere": "November 2, 2024",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Win or Lose",
+        "Genre": "Comedy",
+        "Premiere": "December 6, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "20 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -572,7 +596,7 @@
         "Premiere": "October 5, 2022",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "47–53 min",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Save Our Squad with David Beckham",
@@ -946,11 +970,11 @@
       },
       {
         "Title": "I Am Groot",
-        "Genre": "CGI-animated comedy-action",
+        "Genre": "Animated comedy-action",
         "Premiere": "August 10, 2022",
         "Seasons": "2 seasons, 10 episodes",
         "Runtime": "4–6 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Cars on the Road",
@@ -982,7 +1006,7 @@
         "Premiere": "July 5, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "15–17 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "People &amp; Places",
@@ -990,6 +1014,14 @@
         "Premiere": "February 9, 2024",
         "Seasons": "1 season, 1 episode",
         "Runtime": "16 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Lego Pixar: BrickToons",
+        "Genre": "Animated anthology",
+        "Premiere": "September 4, 2024",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "9–10 min",
         "Status": "Pending"
       }
     ]
@@ -1049,6 +1081,12 @@
         "Runtime": "23 min"
       },
       {
+        "Title": "The Lego Star Wars Holiday Special",
+        "Genre": "Animation",
+        "Premiere": "November 17, 2020",
+        "Runtime": "49 min"
+      },
+      {
         "Title": "The Real Right Stuff",
         "Genre": "Documentary",
         "Premiere": "November 20, 2020",
@@ -1065,6 +1103,12 @@
         "Genre": "Making-of documentary",
         "Premiere": "September 24, 2021",
         "Runtime": "1 h 28 min"
+      },
+      {
+        "Title": "Lego Star Wars: Terrifying Tales",
+        "Genre": "Animation",
+        "Premiere": "October 1, 2021",
+        "Runtime": "48 min"
       },
       {
         "Title": "Under the Helmet: The Legacy of Boba Fett",
@@ -1095,6 +1139,12 @@
         "Genre": "Animation",
         "Premiere": "July 8, 2022",
         "Runtime": "23 min"
+      },
+      {
+        "Title": "Lego Star Wars: Summer Vacation",
+        "Genre": "Animation",
+        "Premiere": "August 5, 2022",
+        "Runtime": "49 min"
       },
       {
         "Title": "Andor: A Disney+ Day Special Look",
@@ -1161,7 +1211,7 @@
         "Premiere": "May 4, 2020",
         "Seasons": "3 seasons, 11 episodes",
         "Runtime": "19–69 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Into the Unknown: Making Frozen II",
@@ -1186,22 +1236,6 @@
         "Seasons": "3 episodes",
         "Runtime": "22–33 min",
         "Status": "Miniseries"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "Lego Star Wars: Rebuild the Galaxy",
-        "Genre": "Animation",
-        "Premiere": "September 13, 2024",
-        "Seasons": "4 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
       }
     ]
   },
@@ -1224,7 +1258,7 @@
       {
         "Title": "It Was Always Me",
         "Genre": "Musical/Mystery drama",
-        "Premiere": "June 15, 2022July 20, 2022&#91;h&#93;",
+        "Premiere": "July 20, 2022",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "38–55 min",
         "Language": "Spanish",
@@ -1242,7 +1276,7 @@
       {
         "Title": "The Chorus: Success, Here I Go",
         "Genre": "Musical drama",
-        "Premiere": "September 28, 2022December 7, 2022&#91;j&#93;February 1, 2023&#91;h&#93;",
+        "Premiere": "February 1, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "37–45 min",
         "Language": "Portuguese",
@@ -1264,16 +1298,7 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "25–46 min",
         "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Three Detectives",
-        "Genre": "Teen drama/Crime procedural",
-        "Premiere": "September 6, 2023November 1, 2023&#91;h&#93;",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "34–41 min",
-        "Language": "German",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "4EVER",
@@ -1283,6 +1308,15 @@
         "Runtime": "37–43 min",
         "Language": "Spanish",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Three Detectives",
+        "Genre": "Teen drama/Crime procedural",
+        "Premiere": "November 1, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "34–41 min",
+        "Language": "German",
+        "Status": "Ended"
       },
       {
         "Title": "Aruna's Magic",
@@ -1301,6 +1335,24 @@
         "Runtime": "30–37 min",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "Ayla &amp; the Mirrors",
+        "Genre": "Coming of age musical",
+        "Premiere": "September 27, 2024",
+        "Seasons": "1 season, 30 episodes",
+        "Runtime": "35 min",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Invisible",
+        "Genre": "Drama/Mystery",
+        "Premiere": "December 13, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "50 min",
+        "Language": "Spanish",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1318,12 +1370,12 @@
         "Seasons": "2 seasons, 17 episodes",
         "Runtime": "37–53 min",
         "Language": "Spanish",
-        "Status": "Pending "
+        "Status": "Ended"
       },
       {
         "Title": "Weekend Family",
         "Genre": "Comedy",
-        "Premiere": "February 23, 2022March 9, 2022&#91;h&#93;",
+        "Premiere": "March 9, 2022",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "25–37 min",
         "Language": "French",
@@ -1332,20 +1384,11 @@
       {
         "Title": "All the Same... or Not",
         "Genre": "Comedy drama",
-        "Premiere": "May 25, 2022July 20, 2022&#91;h&#93;",
+        "Premiere": "July 20, 2022",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "34–45 min",
         "Language": "Portuguese",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Daddies on Request",
-        "Genre": "Musical comedy drama",
-        "Premiere": "July 13, 2022November 23, 2022&#91;h&#93;",
-        "Seasons": "2 seasons, 17 episodes",
-        "Runtime": "28–40 min",
-        "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Sumo Do, Sumo Don't",
@@ -1355,6 +1398,15 @@
         "Runtime": "43–56 min",
         "Language": "Japanese",
         "Status": "Ended"
+      },
+      {
+        "Title": "Daddies on Request",
+        "Genre": "Musical comedy drama",
+        "Premiere": "November 23, 2022",
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "28–40 min",
+        "Language": "Spanish",
+        "Status": "Pending"
       },
       {
         "Title": "@Gina Yei: #WithAllMyHeartAndMore",
@@ -1368,7 +1420,7 @@
       {
         "Title": "Mila in the Multiverse",
         "Genre": "Science fiction comedy drama",
-        "Premiere": "January 25, 2023February 15, 2023&#91;h&#93;",
+        "Premiere": "February 15, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "22–32 min",
         "Language": "Portuguese",
@@ -1408,7 +1460,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29–43 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on September 18, 2024"
       }
     ]
   },
@@ -1436,6 +1488,15 @@
         "Runtime": "31–34 min",
         "Language": "Korean",
         "Status": "Pending"
+      },
+      {
+        "Title": "Are You Sure?!",
+        "Genre": "Travel docuseries",
+        "Premiere": "August 8, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "56–80 min",
+        "Language": "Korean",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1530,7 +1591,7 @@
         "Title": "In the Soop: Friendcation",
         "Genre": "Reality",
         "Partner/Region": "JTBC/South Korea",
-        "Premiere": "July 22, 2022October 19, 2022&#91;h&#93;",
+        "Premiere": "October 19, 2022",
         "Seasons": "4 episodes",
         "Runtime": "53–62 min",
         "Exclusive region(s)": "Selected territories",
@@ -1587,32 +1648,10 @@
         "Partner/Region": "BBC One/United Kingdom",
         "Premiere": "May 10, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "45–52 min",
+        "Runtime": "45–57 min",
         "Exclusive region(s)": "All markets except United Kingdom and Ireland",
         "Language": "English",
-        "Status": "Series 14 ongoingSeries 15 due to premiere in 2025"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Partner/Region": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Exclusive region(s)": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
-        "Title": "Pedro el escamoso: más escamoso que nunca",
-        "Genre": "Telenovela",
-        "Partner/Region": "Caracol Televisión/Colombia",
-        "Premiere": "July 16, 2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Latin America",
-        "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Series 15 due to premiere in 2025"
       }
     ]
   },
@@ -1642,7 +1681,7 @@
         "Previous network(s)": "Canale 5 (seasons 1–5)Sky Uno/TV8 (seasons 6–12)",
         "Exclusive region(s)": "Italy",
         "Language": "Italian",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -1700,17 +1739,6 @@
     ],
     "data": [
       {
-        "Title": "Club Mickey Mouse Malaysia (season 4)",
-        "Genre": "Variety",
-        "Original network/Region": "Disney+ Hotstar/Malaysia",
-        "Premiere date": "November 12, 2021June 1, 2022&#91;h&#93;",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "24–26 min",
-        "Exclusive region(s)": "Selected territories",
-        "Language": "English",
-        "Status": "Ended"
-      },
-      {
         "Title": "Snowdrop",
         "Genre": "Romantic dark comedy",
         "Original network/Region": "JTBC/South Korea",
@@ -1733,10 +1761,21 @@
         "Status": "Ended"
       },
       {
+        "Title": "Club Mickey Mouse Malaysia (season 4)",
+        "Genre": "Variety",
+        "Original network/Region": "Disney+ Hotstar/Malaysia",
+        "Premiere date": "June 1, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "24–26 min",
+        "Exclusive region(s)": "Selected territories",
+        "Language": "English",
+        "Status": "Ended"
+      },
+      {
         "Title": "Delicacies Destiny",
         "Genre": "Period romantic comedy",
         "Original network/Region": "Bilibili/China",
-        "Premiere date": "April 7, 2022June 8, 2022&#91;h&#93;",
+        "Premiere date": "June 8, 2022",
         "Seasons": "17 episodes",
         "Runtime": "27–51 min",
         "Exclusive region(s)": "Selected territories",
@@ -1780,12 +1819,12 @@
         "Title": "Moon Girl and Devil Dinosaur",
         "Genre": "Superhero comedy animation",
         "Original network/Region": "Disney Channel/United States",
-        "Premiere date": "February 15, 2023March 1, 2023&#91;w&#93;",
+        "Premiere date": "February 15, 2023March 1, 2023&#91;o&#93;",
         "Seasons": "2 seasons, 30 episodes",
         "Runtime": "22–44 min",
         "Exclusive region(s)": "Selected territories",
         "Language": "English",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Soundtrack #2",
@@ -1807,20 +1846,12 @@
     ],
     "data": [
       {
-        "Title": "Star Wars: Skeleton Crew",
-        "Genre": "Space opera",
-        "Premiere": "Late 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Status": "Post-production"
-      },
-      {
         "Title": "Daredevil: Born Again",
         "Genre": "Superhero action",
         "Premiere": "March 2025",
-        "Seasons": "1 season, 18 episodes",
+        "Seasons": "1 season, 9 episodes",
         "Runtime": "TBA",
-        "Status": "Post-production"
+        "Status": "Post-productionRenewed"
       },
       {
         "Title": "Ironheart",
@@ -1831,7 +1862,7 @@
         "Status": "Post-production"
       },
       {
-        "Title": "Untitled Vision series",
+        "Title": "Vision Quest",
         "Genre": "Superhero action",
         "Premiere": "2026",
         "Seasons": "TBA",
@@ -1866,7 +1897,7 @@
       {
         "Title": "Marvel Zombies",
         "Genre": "Superhero horror",
-        "Premiere": "2025",
+        "Premiere": "TBA",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "TBA",
         "Status": "In production"
@@ -1894,31 +1925,15 @@
         "Premiere": "2024",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "In production"
-      },
-      {
-        "Title": "Win or Lose",
-        "Genre": "Comedy",
-        "Premiere": "2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "20 min",
-        "Status": "In production"
-      },
-      {
-        "Title": "Your Friendly Neighborhood Spider-Man",
-        "Genre": "Superhero comedy",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "In productionRenewed"
+        "Status": "Post-production"
       },
       {
         "Title": "Dream Productions",
         "Genre": "Comedy",
-        "Premiere": "2025",
-        "Seasons": "TBA",
+        "Premiere": "Early 2025",
+        "Seasons": "1 season, 4 episodes",
         "Runtime": "TBA",
-        "Status": "In production"
+        "Status": "Post-production"
       },
       {
         "Title": "The Doomies",
@@ -1970,12 +1985,12 @@
     ],
     "data": [
       {
-        "Title": "Beyond Belief with David Blaine",
+        "Title": "David Blaine: Do Not Attempt",
         "Subject": "Culture",
-        "Premiere": "TBA",
+        "Premiere": "2025",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Pre-production"
+        "Status": "Post-production"
       },
       {
         "Title": "Lion",
@@ -2052,7 +2067,7 @@
     "data": [
       {
         "Title": "Tarã",
-        "Genre": "Fantasy drama",
+        "Subject": "Fantasy drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
@@ -2060,7 +2075,7 @@
       },
       {
         "Title": "Passinho: O Ritmo dos Sonhos",
-        "Genre": "Drama",
+        "Subject": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
@@ -2077,7 +2092,7 @@
     "data": [
       {
         "Title": "Champeta, el ritmo de la Tierra",
-        "Genre": "Comedy drama/Musical/Fantasy",
+        "Subject": "Comedy drama/Musical/Fantasy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "40 min",
@@ -2085,7 +2100,7 @@
       },
       {
         "Title": "El faro del fin del mundo",
-        "Genre": "Adventure drama",
+        "Subject": "Adventure drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
@@ -2093,7 +2108,7 @@
       },
       {
         "Title": "El poder de los girasoles",
-        "Genre": "Drama",
+        "Subject": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "30 min",
@@ -2101,7 +2116,7 @@
       },
       {
         "Title": "Llévame al cielo",
-        "Genre": "Drama",
+        "Subject": "Drama",
         "Premiere": "TBA",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min",
@@ -2109,7 +2124,7 @@
       },
       {
         "Title": "Los MacAnimals",
-        "Genre": "Comedy/Fantasy",
+        "Subject": "Comedy/Fantasy",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min",
@@ -2117,18 +2132,10 @@
       },
       {
         "Title": "Lucha!: Despierta tu naturaleza",
-        "Genre": "Musical/Fiction",
+        "Subject": "Musical/Fiction",
         "Premiere": "TBA",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "30 min",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Selenkay",
-        "Genre": "Fantasy/Mystery",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "40 min",
         "Status": "Filming"
       }
     ]
@@ -2155,7 +2162,7 @@
     "category": [
       "Upcoming original programming",
       "Regional original programming",
-      "English language"
+      "English-language"
     ],
     "data": [
       {
@@ -2166,6 +2173,33 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
         "Status": "Filming"
+      },
+      {
+        "Title": "The War Between the Land and the Sea",
+        "Genre": "Science fiction",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Status": "Pre-production"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Doctor Who: Joy to the World",
+        "Genre": "Science fiction/adventure drama",
+        "Premiere": "December 2024",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Language": "English",
+        "Status": "Post-production"
       }
     ]
   },
@@ -2192,16 +2226,8 @@
         "Genre": "Fantasy"
       },
       {
-        "Title": "House of Secrets",
-        "Genre": "Fantasy action-adventure"
-      },
-      {
         "Title": "Intercats",
         "Genre": "Animated sitcom"
-      },
-      {
-        "Title": "Little Town",
-        "Genre": "Musical comedy"
       },
       {
         "Title": "Milady Origins",
@@ -2232,10 +2258,6 @@
         "Genre": "Fantasy"
       },
       {
-        "Title": "Sal &amp; Gabi Break the Universe",
-        "Genre": "Science fiction"
-      },
-      {
         "Title": "The Temperature of Me and You",
         "Genre": "LGBT science fiction"
       },
@@ -2246,10 +2268,6 @@
       {
         "Title": "Untitled King Kong series",
         "Genre": "Action-adventure"
-      },
-      {
-        "Title": "Witch Mountain",
-        "Genre": "Science fiction"
       },
       {
         "Title": "The Witchverse",

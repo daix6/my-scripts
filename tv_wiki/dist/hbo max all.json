@@ -67,7 +67,7 @@
         "Premiere": "July 28, 2022",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "47–53 min",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Love &amp; Death",
@@ -333,6 +333,22 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "23–27 min",
         "Status": "Ended"
+      },
+      {
+        "Title": "Kite Man: Hell Yeah!",
+        "Genre": "Superhero comedy",
+        "Premiere": "July 18, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Creature Commandos",
+        "Genre": "Superhero",
+        "Premiere": "December 5, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "22 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -429,7 +445,7 @@
         "Premiere": "May 23, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "23–24 min",
-        "Status": "Season 2 due to premiere in late 2024"
+        "Status": "Season 2 due to premiere on October 3, 2024"
       },
       {
         "Title": "Bea's Block",
@@ -504,10 +520,10 @@
         "Title": "The Thaw",
         "Genre": "Crime drama",
         "Premiere": "April 1, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Runtime": "46–55 min",
         "Language": "Polish",
-        "Status": "Renewed"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "García!",
@@ -588,7 +604,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "35–42 min",
         "Language": "PortugueseKorean",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "I Love You and It Hurts",
@@ -634,6 +650,33 @@
         "Runtime": "33–42 min",
         "Language": "Spanish",
         "Status": "Pending"
+      },
+      {
+        "Title": "MILF of Norway",
+        "Genre": "Comedy",
+        "Premiere": "May 21, 2024July 11, 2024&#91;f&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "26 min",
+        "Language": "Norwegian",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Convict (season 4)",
+        "Genre": "Crime drama",
+        "Premiere": "June 11, 2024August 1, 2024&#91;f&#93;",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "42–46 min",
+        "Language": "Polish",
+        "Status": "Ended"
+      },
+      {
+        "Title": "Margarita",
+        "Genre": "Family comedy drama telenovela",
+        "Premiere": "September 2, 2024",
+        "Seasons": "1 season, 40 episodes",
+        "Runtime": "39–42 min",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -862,7 +905,7 @@
       },
       {
         "Title": "Funny or Die's High Science",
-        "Subject": "Science",
+        "Subject": "Comedy/Science",
         "Premiere": "April 20, 2023",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "24–26 min",
@@ -912,7 +955,7 @@
         "Seasons": "1 season, 5 episodes",
         "Runtime": "31–40 min",
         "Language": "Polish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "First Five",
@@ -934,7 +977,7 @@
       },
       {
         "Title": "Wanted: Millionaire",
-        "Subject": "Money",
+        "Subject": "Finance",
         "Premiere": "July 7, 2023",
         "Seasons": "3 episodes",
         "Runtime": "42–45 min",
@@ -948,7 +991,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "29–45 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Superpowered: The DC Story",
@@ -1033,7 +1076,7 @@
       },
       {
         "Title": "Massacre of the Mormons",
-        "Subject": "Family massacre",
+        "Subject": "True crime",
         "Premiere": "April 11, 2024",
         "Seasons": "4 episodes",
         "Runtime": "35–42 min",
@@ -1066,6 +1109,33 @@
         "Runtime": "38–46 min",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "The King of Zanzibar",
+        "Subject": "True crime",
+        "Premiere": "June 28, 2024July 5, 2024&#91;f&#93;",
+        "Seasons": "3 episodes",
+        "Runtime": "52–57 min",
+        "Language": "Polish",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Teen Torture Inc.",
+        "Subject": "Troubled teen industry",
+        "Premiere": "July 11, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "45–50 min",
+        "Language": "English",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Taken Together: Who Killed Lyric and Elizabeth?",
+        "Subject": "True crime",
+        "Premiere": "August 8, 2024",
+        "Seasons": "3 episodes",
+        "Runtime": "49–54 min",
+        "Language": "English",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1326,7 +1396,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "47–52 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Downey's Dream Cars",
@@ -1335,7 +1405,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "42–52 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Time Zone",
@@ -1344,25 +1414,25 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "52–60 min",
         "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Runtime": "Awaiting release",
-        "Language": "Awaiting release",
-        "Status": "Awaiting release"
+        "Status": "Ended"
       },
       {
         "Title": "Breaking New Ground",
         "Genre": "Reality",
         "Premiere": "June 27, 2024",
         "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "44–48 min",
         "Language": "English",
         "Status": "Pending"
+      },
+      {
+        "Title": "Coming from America",
+        "Genre": "Reality",
+        "Premiere": "September 5, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "41 min",
+        "Language": "English",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1588,7 +1658,7 @@
         "Premiere": "November 12, 2020",
         "Seasons": "4 seasons, 140 episodes",
         "Runtime": "26 min",
-        "Status": "Season 54 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Titans (seasons 3–4)",
@@ -1648,7 +1718,7 @@
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 5, 2021December 23, 2021&#91;m&#93;",
+        "Premiere": "December 5, 2021December 23, 2021&#91;q&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min",
         "Status": "Ended"
@@ -1660,7 +1730,7 @@
         "Premiere": "July 28, 2022",
         "Seasons": "2 seasons, 21 episodes",
         "Runtime": "22–44 min",
-        "Status": "Renewed"
+        "Status": "Season 5 due to premiere in November 2024"
       },
       {
         "Title": "Pennyworth: The Origin of Batman's Butler (season 3)",
@@ -1678,7 +1748,7 @@
         "Premiere": "May 23, 2023",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "24–28 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Kendra Sells Hollywood (season 2)",
@@ -1687,7 +1757,7 @@
         "Premiere": "May 26, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "24–29 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Warrior (season 3)",
@@ -1723,7 +1793,7 @@
         "Premiere": "June 1, 2024",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "44 min",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1822,6 +1892,12 @@
         "Genre": "Family comedy",
         "Premiere": "December 7, 2023",
         "Runtime": "23 min"
+      },
+      {
+        "Title": "Cookie Monster's Bake Sale: Back to School",
+        "Genre": "Family comedy",
+        "Premiere": "August 29, 2024",
+        "Runtime": "22 min"
       }
     ]
   },
@@ -1992,34 +2068,14 @@
         "Status": "Ended"
       },
       {
-        "Title": "MILF of Norway",
-        "Genre": "Comedy",
-        "Premiere": "May 21, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Europe",
-        "Language": "Norwegian",
-        "Status": "Season 1 ongoing"
-      },
-      {
         "Title": "Romário: The One",
         "Genre": "Biography/Sports",
         "Premiere": "May 23, 2024",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
+        "Runtime": "42–48 min",
         "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
-        "Status": "Miniseries ongoing"
-      },
-      {
-        "Title": "The Convict (season 4)",
-        "Genre": "Crime drama",
-        "Premiere": "June 11, 2024",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "42–46 min",
-        "Exclusive region(s)": "Poland",
-        "Language": "Polish",
-        "Status": "Final season ongoing"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -2062,43 +2118,11 @@
     ],
     "data": [
       {
-        "Title": "Dune: Prophecy",
-        "Genre": "Science fiction",
-        "Premiere": "Late 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Penguin",
-        "Genre": "Superhero crime drama miniseries",
-        "Premiere": "Late 2024",
-        "Seasons": "8 episodes",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
         "Title": "Duster",
         "Genre": "Crime thriller",
-        "Premiere": "2024",
+        "Premiere": "2025",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "60 min",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Waller",
-        "Genre": "Superhero drama",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Welcome to Derry",
-        "Genre": "Supernatural horror",
-        "Premiere": "2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
         "Status": "Filming"
       },
       {
@@ -2106,22 +2130,6 @@
         "Genre": "Medical drama",
         "Premiere": "2025",
         "Seasons": "1 season, 15 episodes",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "A Knight of the Seven Kingdoms",
-        "Genre": "Fantasy drama",
-        "Premiere": "2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Untitled Harry Potter series",
-        "Genre": "Fantasy drama",
-        "Premiere": "2026",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -2134,57 +2142,32 @@
         "Status": "Series order"
       },
       {
-        "Title": "Lanterns",
-        "Genre": "Science fiction superhero crime drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Series order"
-      },
-      {
         "Title": "Paradise Lost",
         "Genre": "Superhero political drama",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Animation",
-      "Adult animation"
-    ],
-    "data": [
-      {
-        "Title": "Creature Commandos",
-        "Genre": "Superhero",
-        "Premiere": "December 2024",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "22 min",
-        "Status": "In production"
       },
       {
-        "Title": "Kite Man: Hell Yeah!",
-        "Genre": "Superhero comedy",
-        "Premiere": "2024",
-        "Seasons": "1 season, 10 episodes",
+        "Title": "Waller",
+        "Genre": "Superhero drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
         "Runtime": "TBA",
-        "Status": "Post-production"
+        "Status": "Series order"
       }
     ]
   },
   {
     "category": [
       "Upcoming original programming",
-      "Animation",
+      "Drama",
       "Kids &amp; family"
     ],
     "data": [
       {
-        "Title": "Iyanu: Child of Wonder",
+        "Title": "Iyanu",
         "Genre": "Superhero",
         "Premiere": "2025",
         "Seasons": "2 seasons, 26 episodes",
@@ -2224,15 +2207,6 @@
     ],
     "data": [
       {
-        "Title": "City of God: The Fight Rages On",
-        "Genre": "Crime drama",
-        "Premiere": "August 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Language": "Portuguese",
-        "Status": "Filming"
-      },
-      {
         "Title": "Astronauta",
         "Genre": "Adult animation miniseries",
         "Premiere": "2024",
@@ -2260,12 +2234,30 @@
         "Status": "Filming"
       },
       {
+        "Title": "Lady Love",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Polish",
+        "Status": "Filming"
+      },
+      {
         "Title": "Madam Beja",
         "Genre": "Historical telenovela",
         "Premiere": "TBA",
         "Seasons": "1 season, 40 episodes",
         "Runtime": "TBA",
         "Language": "Portuguese",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Merteuil",
+        "Genre": "Period drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "French",
         "Status": "Filming"
       },
       {
@@ -2285,15 +2277,6 @@
         "Runtime": "TBA",
         "Language": "Spanish",
         "Status": "Series order"
-      },
-      {
-        "Title": "Lady Love",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Polish",
-        "Status": "Filming"
       },
       {
         "Title": "Like Water for Chocolate",
@@ -2320,15 +2303,6 @@
         "Seasons": "1 season, 7 episodes",
         "Runtime": "60 min",
         "Language": "French",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Margarita",
-        "Genre": "Family comedy drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
         "Status": "Series order"
       },
       {
@@ -2386,6 +2360,15 @@
     ],
     "data": [
       {
+        "Title": "Skin Hunters",
+        "Genre": "True crime",
+        "Premiere": "TBA",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
+        "Language": "Polish",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Breath of Fire",
         "Genre": "Biography",
         "Premiere": "TBA",
@@ -2393,15 +2376,6 @@
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Series order"
-      },
-      {
-        "Title": "Skin Hunters",
-        "Genre": "Crime",
-        "Premiere": "TBA",
-        "Seasons": "4 episodes",
-        "Runtime": "TBA",
-        "Language": "Polish",
-        "Status": "Post-production"
       }
     ]
   },
@@ -2444,15 +2418,6 @@
         "Genre": "Reality competition",
         "Premiere": "2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Amy Learns To...",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
         "Runtime": "TBA",
         "Language": "English",
         "Status": "Series order"
@@ -2536,8 +2501,8 @@
         "Genre": "Adult animated comedy"
       },
       {
-        "Title": "The Best At It",
-        "Genre": "Comedy"
+        "Title": "The Assassin",
+        "Genre": "Crime drama"
       },
       {
         "Title": "Bunny &amp; Clyde",
@@ -2556,16 +2521,8 @@
         "Genre": "Comedy"
       },
       {
-        "Title": "Enjoy Your Meal",
-        "Genre": "Comedy"
-      },
-      {
         "Title": "Exit Strategy",
         "Genre": "Comedy"
-      },
-      {
-        "Title": "The Final Girl Support Group",
-        "Genre": "Horror"
       },
       {
         "Title": "A Flicker in the Dark",
@@ -2592,12 +2549,8 @@
         "Genre": "Comedy"
       },
       {
-        "Title": "The Human Conditions",
-        "Genre": "Medical drama"
-      },
-      {
-        "Title": "Instant Karma",
-        "Genre": "Young adult contemporary romance"
+        "Title": "Jane Smith",
+        "Genre": "Legal thriller"
       },
       {
         "Title": "Keeping Up with the Joneses",
@@ -2640,10 +2593,6 @@
         "Genre": "Comedy"
       },
       {
-        "Title": "Sag Harbor",
-        "Genre": "Drama"
-      },
-      {
         "Title": "Sea of Tranquility",
         "Genre": "Post-apocalyptic"
       },
@@ -2666,10 +2615,6 @@
       {
         "Title": "Untitled Alice Roosevelt Longworth comedy",
         "Genre": "Comedy"
-      },
-      {
-        "Title": "Untitled Arkham Asylum series",
-        "Genre": "Horror"
       },
       {
         "Title": "Untitled Beverley Schottenstein drama",
@@ -2704,16 +2649,16 @@
         "Genre": "Biopic"
       },
       {
+        "Title": "Untitled law enforcement drama",
+        "Genre": "Crime procedural"
+      },
+      {
         "Title": "Untitled Sherlock Holmes spin-off",
         "Genre": "Mystery"
       },
       {
         "Title": "Untitled Sherlock Holmes spin-off (2)",
         "Genre": "Mystery"
-      },
-      {
-        "Title": "Untitled Val-Zod limited series",
-        "Genre": "Superhero miniseries"
       },
       {
         "Title": "Uptown Bodega",

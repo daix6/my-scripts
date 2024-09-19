@@ -57,9 +57,9 @@
         "Title": "Bel-Air",
         "Genre": "Teen drama",
         "Premiere": "February 13, 2022",
-        "Seasons": "2 seasons, 20 episodes",
+        "Seasons": "3 seasons, 30 episodes",
         "Length": "40–60 min",
-        "Status": "Season 3 due to premiere on August 15, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Joe vs. Carole",
@@ -119,7 +119,7 @@
       },
       {
         "Title": "Irreverent",
-        "Genre": "Crime comedy thriller",
+        "Genre": "Crime drama thriller",
         "Premiere": "November 30, 2022",
         "Seasons": "1 season, 10 episodes",
         "Length": "41–50 min",
@@ -142,28 +142,36 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Awaiting release",
-        "Genre": "Awaiting release",
-        "Premiere": "Awaiting release",
-        "Seasons": "Awaiting release",
-        "Length": "Awaiting release",
-        "Status": "Awaiting release"
-      },
-      {
         "Title": "Those About to Die",
         "Genre": "Historical drama",
         "Premiere": "July 18, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
+        "Length": "50–59 min",
         "Status": "Pending"
       },
       {
         "Title": "Fight Night: The Million Dollar Heist",
         "Genre": "Heist drama",
         "Premiere": "September 5, 2024",
-        "Seasons": "TBA",
+        "Seasons": "8 episodes",
+        "Length": "43–56 min",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Teacup",
+        "Genre": "Horror drama",
+        "Premiere": "October 10, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "30 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hysteria!",
+        "Genre": "Drama thriller",
+        "Premiere": "October 18, 2024",
+        "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
-        "Status": "Miniseries"
+        "Status": "Pending"
       }
     ]
   },
@@ -235,7 +243,7 @@
         "Premiere": "March 31, 2022",
         "Seasons": "2 seasons, 18 episodes",
         "Length": "28−32 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Resort",
@@ -299,7 +307,7 @@
         "Premiere": "June 8, 2023",
         "Seasons": "1 season, 8 episodes",
         "Length": "25–55 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on November 21, 2024"
       },
       {
         "Title": "Twisted Metal",
@@ -316,6 +324,14 @@
         "Seasons": "1 season, 7 episodes",
         "Length": "34–51 min",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Mr. Throwback",
+        "Genre": "Mockumentary",
+        "Premiere": "August 8, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "25–32 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -463,7 +479,7 @@
         "Premiere": "January 12, 2023",
         "Seasons": "1 season, 25 episodes",
         "Length": "14–15 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Fright Krewe",
@@ -482,6 +498,15 @@
         "Seasons": "6 episodes",
         "Length": "50–58 min",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Day of the Jackal",
+        "Genre": "Political thriller",
+        "Partner/Region": "Sky Atlantic/United Kingdom",
+        "Premiere": "November 7, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -559,18 +584,18 @@
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "3 seasons, 77 episodes",
+        "Seasons": "3 seasons, 112 episodes",
         "Length": "42–65 min",
-        "Status": "Season 6 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
-        "Title": "Days of Our Lives (seasons 58–59)",
+        "Title": "Days of Our Lives (seasons 58–60)",
         "Genre": "Soap opera",
         "Prev. network(s)": "NBC",
         "Premiere": "September 12, 2022",
-        "Seasons": "2 seasons, 427 episodes",
+        "Seasons": "3 seasons, 505 episodes",
         "Length": "36–37 min",
-        "Status": "Season 59 ongoingRenewed for season 60"
+        "Status": "Season 60 ongoing"
       }
     ]
   },
@@ -652,7 +677,7 @@
     "category": [
       "Original programming",
       "Non-English language",
-      "Unscripted"
+      "Reality"
     ],
     "data": [
       {
