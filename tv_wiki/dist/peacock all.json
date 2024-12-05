@@ -59,7 +59,7 @@
         "Premiere": "February 13, 2022",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "40–60 min",
-        "Status": "Pending"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Joe vs. Carole",
@@ -154,23 +154,23 @@
         "Genre": "Heist drama",
         "Premiere": "September 5, 2024",
         "Seasons": "8 episodes",
-        "Length": "43–56 min",
-        "Status": "Miniseries ongoing"
+        "Length": "42–56 min",
+        "Status": "Miniseries"
       },
       {
         "Title": "Teacup",
         "Genre": "Horror drama",
         "Premiere": "October 10, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Length": "30 min",
+        "Length": "32–34 min",
         "Status": "Pending"
       },
       {
         "Title": "Hysteria!",
-        "Genre": "Drama thriller",
+        "Genre": "Horror thriller",
         "Premiere": "October 18, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
+        "Length": "47–60 min",
         "Status": "Pending"
       }
     ]
@@ -305,9 +305,9 @@
         "Title": "Based on a True Story",
         "Genre": "Comedy thriller",
         "Premiere": "June 8, 2023",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Length": "25–55 min",
-        "Status": "Season 2 due to premiere on November 21, 2024"
+        "Status": "Pending"
       },
       {
         "Title": "Twisted Metal",
@@ -331,6 +331,14 @@
         "Premiere": "August 8, 2024",
         "Seasons": "1 season, 6 episodes",
         "Length": "25–32 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Laid",
+        "Genre": "Romantic comedy",
+        "Premiere": "December 19, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
         "Status": "Pending"
       }
     ]
@@ -421,13 +429,13 @@
         "Premiere": "October 26, 2023",
         "Seasons": "1 season, 13 episodes",
         "Length": "25 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Caillou",
         "Genre": "Family comedy",
         "Premiere": "February 15, 2024",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "1 season, 20 episodes",
         "Length": "22 min",
         "Status": "Pending"
       },
@@ -443,8 +451,16 @@
         "Title": "Tea Town Teddy Bears",
         "Genre": "Family comedy",
         "Premiere": "September 26, 2024",
-        "Seasons": "1 season, 26 episodes",
-        "Length": "11 min",
+        "Seasons": "1 season, 7 episodes",
+        "Length": "23 min",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Press Start!",
+        "Genre": "Family comedy",
+        "Premiere": "November 21, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "21 min",
         "Status": "Pending"
       }
     ]
@@ -726,7 +742,7 @@
         "Premiere": "October 13, 2023",
         "Seasons": "1 season, 6 episodes",
         "Length": "39–44 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Krishnas: Gurus. Karma. Murder.",
@@ -809,12 +825,44 @@
         "Status": "Pending"
       },
       {
+        "Title": "Reggaeton: The Sound That Conquered the World",
+        "Subject": "Music",
+        "Premiere": "October 3, 2024",
+        "Seasons": "4 episodes",
+        "Length": "40–50 min",
+        "Status": "Miniseries"
+      },
+      {
         "Title": "Anatomy of Lies",
         "Subject": "Television/True crime",
         "Premiere": "October 15, 2024",
-        "Seasons": "TBA",
+        "Seasons": "3 episodes",
+        "Length": "54–58 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Making Manson",
+        "Subject": "True crime",
+        "Premiere": "November 19, 2024",
+        "Seasons": "3 episodes",
+        "Length": "58–61 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Girls Gone Wild: The Untold Story",
+        "Subject": "Adult entertainment/True crime",
+        "Premiere": "December 3, 2024",
+        "Seasons": "3 episodes",
+        "Length": "52–58 min",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Richard Ramirez: The Night Stalker Tapes",
+        "Subject": "True crime",
+        "Premiere": "December 10, 2024",
+        "Seasons": "2 episodes",
         "Length": "TBA",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -919,15 +967,15 @@
         "Premiere": "January 12, 2023",
         "Seasons": "2 seasons, 23 episodes",
         "Length": "43–72 min",
-        "Status": "Renewed for seasons 3–5"
+        "Status": "Season 3 due to premiere on January 9, 2025Renewed for seasons 4–5"
       },
       {
         "Title": "Queens Court",
         "Genre": "Dating show",
         "Premiere": "March 16, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "50–59 min",
-        "Status": "Ended"
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "50–67 min",
+        "Status": "Pending"
       },
       {
         "Title": "The Gentle Art of Swedish Death Cleaning",
@@ -967,6 +1015,14 @@
         "Premiere": "May 9, 2024",
         "Seasons": "1 season, 10 episodes",
         "Length": "56–59 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Eat Slay Love",
+        "Genre": "Reality",
+        "Premiere": "November 7, 2024",
+        "Seasons": "1 season, 3 episodes",
+        "Length": "47–54 min",
         "Status": "Pending"
       }
     ]
@@ -1141,7 +1197,7 @@
         "Premiere": "September 23, 2021",
         "Seasons": "8 seasons, 52 episodes",
         "Length": "23 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Dragons: The Nine Realms",
@@ -1159,7 +1215,7 @@
         "Premiere": "January 13, 2022",
         "Seasons": "2 seasons, 13 episodes",
         "Length": "22–28 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Undeclared War",
@@ -1219,10 +1275,19 @@
         "Title": "The Day of the Jackal",
         "Genre": "Political thriller",
         "Partner/Region": "Sky Atlantic/United Kingdom",
-        "Premiere": "November 7, 2024",
+        "Premiere": "November 14, 2024",
         "Seasons": "1 season, 10 episodes",
+        "Length": "49–56 min",
+        "Status": "Season 1 ongoingRenewed"
+      },
+      {
+        "Title": "Lockerbie: A Search for Truth",
+        "Genre": "Drama",
+        "Partner/Region": "Sky Atlantic/United Kingdom",
+        "Premiere": "January 2, 2025",
+        "Seasons": "5 episodes",
         "Length": "TBA",
-        "Status": "Pending"
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1311,7 +1376,7 @@
         "Premiere": "September 12, 2022",
         "Seasons": "3 seasons, 505 episodes",
         "Length": "36–37 min",
-        "Status": "Season 60 ongoing"
+        "Status": "Season 60 ongoingRenewed"
       }
     ]
   },
@@ -1468,13 +1533,13 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Departure",
+        "Title": "Departure (seasons 1-2)",
         "Genre": "Conspiracy thriller",
         "Partner/Region": "Global/Canada",
         "Premiere": "September 17, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "42–44 min",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "Code 404",
@@ -1555,7 +1620,7 @@
         "Premiere": "July 7, 2023",
         "Seasons": "1 season, 52 episodes",
         "Length": "9–13 min",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -2058,16 +2123,24 @@
         "Status": "Filming"
       },
       {
-        "Title": "Devil in Disguise: John Wayne Gacy",
-        "Genre": "Drama miniseries",
+        "Title": "Copenhagen",
+        "Genre": "Techno-thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Crystal Lake",
+        "Genre": "Horror",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
       {
-        "Title": "Crystal Lake",
-        "Genre": "Horror",
+        "Title": "Devil in Disguise: John Wayne Gacy",
+        "Genre": "Drama miniseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -2104,14 +2177,6 @@
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
-      },
-      {
-        "Title": "Untitled James Wan/Simu Liu series",
-        "Genre": "Techno-thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
       }
     ]
   },
@@ -2124,14 +2189,6 @@
       {
         "Title": "The 'Burbs",
         "Genre": "Dark comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Laid",
-        "Genre": "Romantic comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
@@ -2161,14 +2218,6 @@
       "Animation"
     ],
     "data": [
-      {
-        "Title": "Press Start!",
-        "Genre": "Family comedy",
-        "Premiere": "2024",
-        "Seasons": "1 season, 52 episodes",
-        "Length": "11 min",
-        "Status": "Series order"
-      },
       {
         "Title": "Team Mekbots Animal Rescue",
         "Genre": "Family comedy",
@@ -2204,29 +2253,12 @@
     ],
     "data": [
       {
-        "Title": "Untitled Paris Hilton and Nicole Ritchie reality series",
+        "Title": "Untitled Paris Hilton and Nicole Richie reality series",
         "Genre": "Reality",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Co-productions"
-    ],
-    "data": [
-      {
-        "Title": "Lockerbie",
-        "Genre": "Drama miniseries",
-        "Partner/Region": "Sky Atlantic/United Kingdom",
-        "Premiere": "TBA",
-        "Seasons": "5 episodes",
-        "Length": "TBA",
-        "Status": "Filming"
       }
     ]
   },
@@ -2353,7 +2385,8 @@
         "Genre": "Romance comedy drama"
       },
       {
-        "Title": "Rear Window"
+        "Title": "Rear Window",
+        "Genre": "Thriller"
       },
       {
         "Title": "Sex in the Dark",
@@ -2372,12 +2405,20 @@
         "Genre": "Supernatural mystery drama"
       },
       {
+        "Title": "The Thing About Tommy",
+        "Genre": "True crime drama"
+      },
+      {
         "Title": "True to Size",
         "Genre": "Sitcom"
       },
       {
         "Title": "Untitled Casper the Friendly Ghost series",
         "Genre": "Horror adventure"
+      },
+      {
+        "Title": "Untitled Robert Durst docuseries",
+        "Genre": "True crime docuseries"
       },
       {
         "Title": "You'll Never Believe What Happened to Lacey",

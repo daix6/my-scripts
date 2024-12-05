@@ -163,7 +163,7 @@
         "Premiere": "March 25, 2022",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "47–63 min",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Slow Horses",
@@ -171,7 +171,7 @@
         "Premiere": "April 1, 2022",
         "Seasons": "4 seasons, 24 episodes",
         "Runtime": "40–53 min",
-        "Status": "Season 4 ongoingRenewed"
+        "Status": "Renewed for seasons 5–6"
       },
       {
         "Title": "Roar",
@@ -211,7 +211,7 @@
         "Premiere": "July 29, 2022",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "43–53 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on February 21, 2025"
       },
       {
         "Title": "Five Days at Memorial",
@@ -225,9 +225,9 @@
         "Title": "Bad Sisters",
         "Genre": "Dark comedy thriller",
         "Premiere": "August 19, 2022",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 18 episodes",
         "Runtime": "49–55 min",
-        "Status": "Season 2 due to premiere on November 13, 2024"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Shantaram",
@@ -281,9 +281,9 @@
         "Title": "Silo",
         "Genre": "Dystopian science fiction",
         "Premiere": "May 5, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "43–62 min",
-        "Status": "Season 2 due to premiere on November 15, 2024"
+        "Seasons": "2 season, 20 episodes",
+        "Runtime": "41–62 min",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "City on Fire",
@@ -315,7 +315,7 @@
         "Premiere": "September 8, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "29–52 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Lessons in Chemistry",
@@ -387,7 +387,7 @@
         "Premiere": "April 5, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "32–49 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Franklin",
@@ -434,16 +434,40 @@
         "Genre": "Thriller",
         "Premiere": "October 11, 2024",
         "Seasons": "7 episodes",
-        "Runtime": "TBA",
+        "Runtime": "43–56 min",
         "Status": "Miniseries"
       },
       {
         "Title": "Before",
-        "Genre": "Drama",
+        "Genre": "Psychological thriller",
         "Premiere": "October 25, 2024",
         "Seasons": "10 episodes",
+        "Runtime": "29–35 min",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Prime Target",
+        "Genre": "Thriller",
+        "Premiere": "January 22, 2025",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "Dope Thief",
+        "Genre": "Crime drama",
+        "Premiere": "March 14, 2025",
+        "Seasons": "8 episodes",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Your Friends and Neighbors",
+        "Genre": "Drama",
+        "Premiere": "April 11, 2025",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "TBA",
+        "Status": "Renewed"
       }
     ]
   },
@@ -475,7 +499,7 @@
         "Premiere": "February 7, 2020",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "24–37 min",
-        "Status": "Renewed"
+        "Status": "Season 4 due to premiere on January 29, 2025"
       },
       {
         "Title": "Trying",
@@ -545,9 +569,9 @@
         "Title": "Shrinking",
         "Genre": "Comedy drama",
         "Premiere": "January 27, 2023",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "2 seasons, 22 episodes",
         "Runtime": "28–37 min",
-        "Status": "Season 2 due to premiere on October 16, 2024"
+        "Status": "Season 2 ongoingRenewed"
       },
       {
         "Title": "The Big Door Prize",
@@ -611,7 +635,7 @@
         "Premiere": "July 10, 2024",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "29–36 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Time Bandits",
@@ -627,7 +651,23 @@
         "Premiere": "August 14, 2024",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–56 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Side Quest",
+        "Genre": "Workplace comedy anthology",
+        "Premiere": "March 26, 2025",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Studio",
+        "Genre": "Workplace comedy",
+        "Premiere": "March 26, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -796,7 +836,7 @@
         "Premiere": "August 9, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "19–25 min",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -813,7 +853,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "49–68 min",
         "Language": "Korean",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "Now and Then",
@@ -838,16 +878,16 @@
         "Genre": "Crime drama",
         "Premiere": "July 31, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "54–57 min",
+        "Runtime": "44–59 min",
         "Language": "Spanish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
-        "Title": "La maison",
+        "Title": "La Maison",
         "Genre": "Drama",
         "Premiere": "September 20, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "46–56 min",
         "Language": "French",
         "Status": "Pending"
       },
@@ -856,7 +896,7 @@
         "Genre": "Medical drama",
         "Premiere": "September 25, 2024",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "44–55 min",
         "Language": "Spanish",
         "Status": "Pending"
       },
@@ -865,9 +905,18 @@
         "Genre": "Dark comedy",
         "Premiere": "October 2, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
+        "Runtime": "41–48 min",
         "Language": "German",
         "Status": "Pending"
+      },
+      {
+        "Title": "You Would Do It Too",
+        "Genre": "Crime thriller",
+        "Premiere": "October 30, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "27–30 min",
+        "Language": "Spanish",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -1020,7 +1069,7 @@
         "Premiere": "May 23, 2022",
         "Seasons": "2 seasons, 10 episodes",
         "Runtime": "37–46 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Gutsy",
@@ -1100,7 +1149,7 @@
         "Premiere": "October 11, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "33–39 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Enfield Poltergeist",
@@ -1181,6 +1230,14 @@
         "Seasons": "6 episodes",
         "Runtime": "39–44 min",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "The Secret Lives of Animals",
+        "Subject": "Nature",
+        "Premiere": "December 18, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },

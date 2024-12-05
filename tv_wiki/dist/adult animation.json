@@ -845,7 +845,7 @@
         "Network": "Nick at Nite",
         "Studio": "Smiley, Inc.",
         "Age rating": "TV-G",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -1517,8 +1517,8 @@
         "Network": "FX",
         "Studio": "Floyd County Productions",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
-        "Source": ""
+        "Technique": "TV-14 (some episodes)",
+        "Source": "Traditional"
       },
       {
         "Title": "Black Dynamite",
@@ -3271,6 +3271,30 @@
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""
+      },
+      {
+        "Title": "Universal Basic Guys",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 6 episodes",
+        "Show creator(s)": "Adam and Craig Malamut",
+        "Original release": "September 8, 2024",
+        "Network": "Fox",
+        "Studio": "Leith Hill Productions",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Everybody Still Hates Chris",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "TBA",
+        "Original release": "September 25, 2024",
+        "Network": "Paramount+",
+        "Studio": "CBS Eye Animation Productions",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
       }
     ]
   },
@@ -3933,7 +3957,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 18 episodes",
         "Show creator(s)": "Shalva Ramishvili",
-        "Original release": "November 2009 – 2010",
+        "Original release": "November 2009 – June 2010",
         "Network": "Imedi TV",
         "Studio": "—",
         "Source": ""
@@ -4203,35 +4227,11 @@
         "Source": ""
       },
       {
-        "Title": "Universal Basic Guys",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Adam and Craig Malamut",
-        "Release date": "September 8, 2024",
-        "Original channel": "Fox",
-        "Studio": "Leith Hill Productions",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Everybody Still Hates Chris",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "TBA",
-        "Release date": "September 25, 2024",
-        "Original channel": "Paramount+",
-        "Studio": "CBS Eye Animation Productions",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "Creature Commandos",
         "Genre": "Action",
         "Seasons, episodes": "TBA",
         "Show creator": "James Gunn",
-        "Release date": "December 2024",
+        "Release date": "December 5, 2024",
         "Original channel": "Max",
         "Studio": "Warner Bros. Animation",
         "Age rating": "",
@@ -4257,7 +4257,7 @@
         "Show creator": "TBA",
         "Release date": "2025",
         "Original channel": "Netflix",
-        "Studio": "The Tornante Company",
+        "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
         "Source": ""
