@@ -224,14 +224,14 @@
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Renewed"
+        "Status": "Season 3 due to premiere on March 13, 2025"
       },
       {
         "Title": "Reacher",
         "Genre": "Crime drama",
         "Premiere": "February 4, 2022",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Season 3 due to premiere in 2025Renewed for fourth season"
+        "Status": "Season 3 due to premiere on February 20, 2025Renewed"
       },
       {
         "Title": "Outer Range",
@@ -313,8 +313,8 @@
         "Title": "The Rig",
         "Genre": "Supernatural thriller",
         "Premiere": "January 6, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Status": "Season 2 due to premiere in January 2025"
+        "Seasons": "2 seasons, 12 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "The Consultant",
@@ -403,6 +403,14 @@
         "Status": "Renewed"
       },
       {
+        "Title": "In Your Dreams",
+        "Genre": "Fantasy drama",
+        "Premiere": "November 24, 2023",
+        "Finale": "November 24, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
         "Title": "Expats",
         "Genre": "Drama",
         "Premiere": "January 26, 2024",
@@ -457,6 +465,13 @@
         "Genre": "Crime drama",
         "Premiere": "January 9, 2025",
         "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "House of David",
+        "Genre": "Religious drama",
+        "Premiere": "February 27, 2025",
+        "Seasons": "TBA",
         "Status": "Pending"
       }
     ]
@@ -686,8 +701,8 @@
         "Title": "Harlem",
         "Genre": "Comedy",
         "Premiere": "December 3, 2021",
-        "Seasons": "2 seasons, 18 episodes",
-        "Status": "Season 3 due to premiere on January 23, 2025"
+        "Seasons": "3 seasons, 24 episodes",
+        "Status": "Final season ongoing"
       },
       {
         "Title": "With Love",
@@ -761,13 +776,6 @@
         "Notes": ""
       },
       {
-        "Title": "In Your Dreams",
-        "Genre": "Science fiction",
-        "Premiere": "November 24, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Status": "Pending"
-      },
-      {
         "Title": "Mr. &amp; Mrs. Smith",
         "Genre": "Spy comedy",
         "Premiere": "February 2, 2024",
@@ -794,6 +802,13 @@
         "Genre": "Heist dark comedy",
         "Premiere": "December 6, 2024",
         "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Clean Slate",
+        "Genre": "Comedy",
+        "Premiere": "February 6, 2025",
+        "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
       }
     ]
@@ -876,7 +891,7 @@
         "Genre": "Action/Science fantasy anthology",
         "Premiere": "December 10, 2024",
         "Seasons": "1 season, 15 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -1051,7 +1066,7 @@
         "Title": "Totems",
         "Genre": "Historical drama",
         "Premiere": "February 18, 2022",
-        "Finale": "February 18, 2022",
+        "Finale": "March 11, 2022",
         "Seasons": "1 season, 8 episodes",
         "Notes": ""
       },
@@ -1341,8 +1356,8 @@
         "Title": "Paatal Lok",
         "Genre": "Crime thriller",
         "Premiere": "May 15, 2020",
-        "Seasons": "1 season, 9 episodes",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 17 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Rasbhari",
@@ -1364,8 +1379,8 @@
         "Title": "Bandish Bandits",
         "Genre": "Musical",
         "Premiere": "August 4, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Status": "Season 2 due to premiere on December 13, 2024"
+        "Seasons": "2 seasons, 18 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Tandav",
@@ -1449,7 +1464,7 @@
         "Title": "Jubilee",
         "Genre": "Period drama",
         "Premiere": "April 7, 2023",
-        "Finale": "April 7, 2023",
+        "Finale": "April 14, 2023",
         "Seasons": "1 season, 10 episodes",
         "Notes": ""
       },
@@ -1478,7 +1493,7 @@
         "Notes": ""
       },
       {
-        "Title": "PI Meena",
+        "Title": "P.I. Meena",
         "Genre": "Crime thriller",
         "Premiere": "November 3, 2023",
         "Finale": "November 3, 2023",
@@ -1504,6 +1519,13 @@
         "Genre": "Spy thriller",
         "Premiere": "November 7, 2024",
         "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Waack Girls",
+        "Genre": "Comedy drama",
+        "Premiere": "November 22, 2024",
+        "Seasons": "1 season, 9 episodes",
         "Status": "Pending"
       }
     ]
@@ -1550,15 +1572,9 @@
         "Title": "Tukar Tambah Nasib",
         "Genre": "Fantasy drama",
         "Premiere": "December 7, 2023",
+        "Finale": "December 7, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Aces",
-        "Genre": "Sports drama",
-        "Premiere": "December 21, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Ellyas Pical",
@@ -1596,16 +1612,16 @@
         "Title": "Prisma",
         "Genre": "Teen drama",
         "Premiere": "September 21, 2022",
+        "Finale": "June 6, 2024",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Bad Guy",
         "Genre": "Crime comedy",
         "Premiere": "December 9, 2022",
-        "Finale": "December 15, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
+        "Seasons": "2 seasons, 12 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Everybody Loves Diamonds",
@@ -1620,7 +1636,7 @@
         "Genre": "Comedy",
         "Premiere": "December 21, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "No Activity: Italy",
@@ -1736,9 +1752,8 @@
         "Title": "No Activity",
         "Genre": "Detective comedy",
         "Premiere": "December 17, 2021",
-        "Finale": "December 17, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
+        "Seasons": "2 seasons, 12 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "My Love from the Stars",
@@ -1752,7 +1767,7 @@
         "Title": "Game of Spy",
         "Genre": "Spy thriller",
         "Premiere": "June 24, 2022",
-        "Finale": "June 24, 2022",
+        "Finale": "July 8, 2022",
         "Seasons": "1 season, 10 episodes",
         "Notes": ""
       },
@@ -1915,8 +1930,9 @@
         "Title": "Love Is for the Strong",
         "Genre": "Action drama",
         "Premiere": "November 17, 2023",
+        "Finale": "November 17, 2023",
         "Seasons": "1 season, 7 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Every Family",
@@ -1985,8 +2001,9 @@
         "Title": "La jauría",
         "Genre": "Mystery thriller",
         "Premiere": "July 10, 2020",
+        "Finale": "April 22, 2022",
         "Seasons": "2 seasons, 16 episodes",
-        "Status": "Renewed"
+        "Notes": ""
       },
       {
         "Title": "El candidato",
@@ -2151,7 +2168,7 @@
         "Title": "Melody",
         "Genre": "Musical comedy drama",
         "Premiere": "February 21, 2023",
-        "Finale": "February 21, 2023",
+        "Finale": "March 5, 2023",
         "Seasons": "1 season, 13 episodes",
         "Notes": ""
       },
@@ -2205,22 +2222,25 @@
         "Title": "Los Billis",
         "Genre": "Drama",
         "Premiere": "November 3, 2023",
+        "Finale": "November 3, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Romancero",
         "Genre": "Supernatural horror",
         "Premiere": "November 3, 2023",
+        "Finale": "November 3, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Los Farad",
         "Genre": "Crime thriller",
         "Premiere": "December 12, 2023",
+        "Finale": "December 12, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Red Queen",
@@ -2234,7 +2254,7 @@
         "Genre": "Thriller drama",
         "Premiere": "May 24, 2024",
         "Finale": "June 7, 2024",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "6 episodes",
         "Notes": ""
       },
       {
@@ -2250,6 +2270,13 @@
         "Premiere": "July 19, 2024",
         "Seasons": "1 season, 10 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "No One Will Miss Us",
+        "Genre": "Teen drama",
+        "Premiere": "August 9, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "En fin",
@@ -2275,10 +2302,40 @@
         "Notes": ""
       },
       {
-        "Title": "La liberación",
+        "Title": "The Liberation",
         "Genre": "Drama",
         "Premiere": "January 17, 2025",
         "Seasons": "1 season, 7 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Su majestad",
+        "Genre": "Comedy",
+        "Premiere": "February 27, 2025",
+        "Seasons": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Swedish"
+    ],
+    "data": [
+      {
+        "Title": "Jana: Marked for Life",
+        "Genre": "Crime drama",
+        "Premiere": "April 19, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Paradis City",
+        "Genre": "Post-apocalyptic thriller",
+        "Premiere": "March 7, 2025",
+        "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -2349,8 +2406,9 @@
         "Title": "The Village",
         "Genre": "Horror",
         "Premiere": "November 24, 2023",
+        "Finale": "November 24, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Inspector Rishi",
@@ -2372,68 +2430,6 @@
         "Premiere": "October 18, 2024",
         "Seasons": "1 season, 9 episodes",
         "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Telugu"
-    ],
-    "data": [
-      {
-        "Title": "Gangstars",
-        "Genre": "Crime drama",
-        "Premiere": "June 1, 2018",
-        "Finale": "June 1, 2018",
-        "Seasons": "1 season, 12 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Modern Love Hyderabad",
-        "Genre": "Anthology",
-        "Premiere": "July 8, 2022",
-        "Finale": "July 8, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Hostel Days",
-        "Genre": "Young adult drama",
-        "Premiere": "July 13, 2023",
-        "Finale": "July 13, 2023",
-        "Seasons": "1 season, 5 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Kumari Srimathi",
-        "Genre": "Drama",
-        "Premiere": "September 28, 2023",
-        "Finale": "September 28, 2023",
-        "Seasons": "1 season, 7 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Dhootha",
-        "Genre": "Horror mystery thriller",
-        "Premiere": "December 1, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Vyooham",
-        "Genre": "Action thriller",
-        "Premiere": "December 14, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Bujji and Bhairava",
-        "Genre": "Animated science fiction comedy",
-        "Premiere": "May 31, 2024",
-        "Seasons": "1 season, 2 episodes",
-        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -2471,14 +2467,6 @@
         "Status": "Renewed"
       },
       {
-        "Title": "My Man Is Cupid",
-        "Genre": "Fantasy romance",
-        "Premiere": "December 1, 2023",
-        "Seasons": "1 season, 16 episodes",
-        "Language": "Korean",
-        "Status": "Pending"
-      },
-      {
         "Title": "Poacher",
         "Genre": "Crime drama",
         "Premiere": "February 23, 2024",
@@ -2492,14 +2480,6 @@
         "Premiere": "April 19, 2024",
         "Seasons": "1 season, 6 episodes",
         "Language": "Danish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Jana: Marked for Life",
-        "Genre": "Crime drama",
-        "Premiere": "April 19, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Language": "Swedish",
         "Status": "Pending"
       },
       {
@@ -2519,12 +2499,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Saving Grace",
-        "Genre": "Family drama",
-        "Premiere": "November 28, 2024",
-        "Seasons": "1 season, 14 episodes",
-        "Language": "Filipino",
-        "Status": "Season 1 ongoing"
+        "Title": "Sivarapalli",
+        "Genre": "Comedy drama",
+        "Premiere": "January 24, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "Telugu",
+        "Status": "Pending"
       }
     ]
   },
@@ -2912,7 +2892,7 @@
         "Status": "Renewed for seasons 4–5"
       },
       {
-        "Title": "Chivas: El Rebaño Sagrado",
+        "Title": "Chivas: El rebaño sagrado",
         "Subject": "Sports",
         "Premiere": "June 18, 2021",
         "Finale": "June 18, 2021",
@@ -3067,8 +3047,8 @@
         "Title": "At Home With the Gils",
         "Subject": "Music",
         "Premiere": "June 24, 2022",
-        "Finale": "June 24, 2022",
-        "Seasons": "5 episodes",
+        "Finale": "June 30, 2023",
+        "Seasons": "2 seasons, 11 episodes",
         "Language": "Portuguese",
         "Notes": ""
       },
@@ -3120,17 +3100,18 @@
         "Title": "FC Barcelona: A New Era",
         "Subject": "Sports",
         "Premiere": "December 28, 2022",
+        "Finale": "September 6, 2023",
         "Seasons": "2 seasons, 9 episodes",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Coach Prime",
         "Subject": "Sports",
         "Premiere": "December 29, 2022",
-        "Seasons": "2 seasons, 10 episodes",
+        "Seasons": "3 seasons, 15 episodes",
         "Language": "English",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Cinema Marte Dum Tak",
@@ -3288,9 +3269,10 @@
         "Title": "Rainbow Rishta",
         "Subject": "LGBT culture",
         "Premiere": "November 6, 2023",
+        "Finale": "November 6, 2023",
         "Seasons": "1 season, 6 episodes",
-        "Language": "Hindi",
-        "Status": "Pending"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Dance Life",
@@ -3395,7 +3377,7 @@
         "Premiere": "October 4, 2024",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Medina: The Celebrity Scammer",
@@ -3461,17 +3443,43 @@
         "Title": "Glitter and Greed: The Lisa Frank Story",
         "Subject": "Business",
         "Premiere": "December 5, 2024",
+        "Finale": "December 5, 2024",
         "Seasons": "4 episodes",
         "Language": "English",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
-        "Title": "Untitled Molly-Mae Hague docuseries",
-        "Subject": "Lifestyle",
+        "Title": "Skoczkowie",
+        "Subject": "Sports",
+        "Premiere": "January 10, 2025",
+        "Finale": "January 10, 2025",
+        "Seasons": "5 episodes",
+        "Language": "Polish",
+        "Notes": ""
+      },
+      {
+        "Title": "Molly-Mae: Behind It All",
+        "Subject": "Celebrity/Lifestyle",
         "Premiere": "January 17, 2025",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Calleja en el espacio",
+        "Subject": "Spaceflight",
+        "Premiere": "February 3, 2025",
+        "Seasons": "4 episodes",
+        "Language": "Spanish",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "50,000 First Dates",
+        "Subject": "Neurology",
+        "Premiere": "February 11, 2025",
+        "Seasons": "2 episodes",
+        "Language": "English",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -3486,9 +3494,10 @@
         "Title": "Hitoshi Matsumoto Presents Documental",
         "Genre": "Stand-up comedy competition",
         "Premiere": "November 30, 2016",
+        "Finale": "December 22, 2023",
         "Seasons": "13 seasons, 59 episodes",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Caligula",
@@ -3558,7 +3567,7 @@
         "Premiere": "March 20, 2020",
         "Seasons": "4 seasons, 49 episodes",
         "Language": "Portuguese",
-        "Status": "Renewed"
+        "Status": "Season 5 due to premiere on February 14, 2025"
       },
       {
         "Title": "Making the Cut",
@@ -3704,7 +3713,7 @@
         "Title": "LOL: Last One Laughing Canada",
         "Genre": "Stand-up comedy competition",
         "Premiere": "February 18, 2022",
-        "Finale": "March 3, 2022",
+        "Finale": "March 4, 2022",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
         "Notes": ""
@@ -3754,6 +3763,15 @@
         "Notes": ""
       },
       {
+        "Title": "Written in the Stars",
+        "Genre": "Dating show",
+        "Premiere": "November 27, 2022",
+        "Finale": "January 22, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Language": "Portuguese",
+        "Notes": ""
+      },
+      {
         "Title": "Drag Den",
         "Genre": "Drag competition",
         "Premiere": "December 8, 2022",
@@ -3773,7 +3791,7 @@
         "Title": "LOL: Last One Laughing Sweden",
         "Genre": "Stand-up comedy competition",
         "Premiere": "December 28, 2022",
-        "Seasons": "2 seasons, 12 episodes",
+        "Seasons": "3 seasons, 18 episodes",
         "Language": "Swedish",
         "Status": "Pending"
       },
@@ -3781,15 +3799,15 @@
         "Title": "LOL: Last One Laughing Quebec",
         "Genre": "Stand-up comedy competition",
         "Premiere": "January 6, 2023",
-        "Seasons": "2 seasons, 12 episodes",
+        "Seasons": "3 seasons, 18 episodes",
         "Language": "French",
-        "Status": "Season 3 due to premiere on January 10, 2025"
+        "Status": "Pending"
       },
       {
         "Title": "Cosmic Love France",
         "Genre": "Dating show",
         "Premiere": "January 6, 2023",
-        "Finale": "January 6, 2023",
+        "Finale": "January 13, 2023",
         "Seasons": "1 season, 20 episodes",
         "Language": "French",
         "Notes": ""
@@ -3798,9 +3816,9 @@
         "Title": "LOL: Last One Laughing Netherlands",
         "Genre": "Stand-up comedy competition",
         "Premiere": "January 20, 2023",
-        "Seasons": "2 seasons, 12 episodes",
+        "Seasons": "3 seasons, 18 episodes",
         "Language": "Dutch",
-        "Status": "Pending"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "LOL: Last One Laughing Argentina",
@@ -3814,15 +3832,15 @@
         "Title": "LOL: Last One Laughing Poland",
         "Genre": "Stand-up comedy competition",
         "Premiere": "April 14, 2023",
-        "Seasons": "2 seasons, 12 episodes",
+        "Seasons": "3 seasons, 18 episodes",
         "Language": "Polish",
-        "Status": "Pending"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Queens on the Run",
         "Genre": "Drag competition",
         "Premiere": "April 14, 2023",
-        "Finale": "April 14, 2023",
+        "Finale": "May 25, 2023",
         "Seasons": "1 season, 9 episodes",
         "Language": "Portuguese",
         "Notes": ""
@@ -3831,7 +3849,7 @@
         "Title": "Takeshi's Castle",
         "Genre": "Reality game show",
         "Premiere": "April 21, 2023",
-        "Finale": "April 21, 2023",
+        "Finale": "April 28, 2023",
         "Seasons": "1 season, 8 episodes",
         "Language": "Japanese",
         "Notes": ""
@@ -3842,13 +3860,13 @@
         "Premiere": "June 16, 2023",
         "Seasons": "2 seasons, 12 episodes",
         "Language": "Spanish",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Love Transit",
         "Genre": "Dating show",
         "Premiere": "June 16, 2023",
-        "Finale": "June 16, 2023",
+        "Finale": "June 29, 2023",
         "Seasons": "1 season, 8 episodes",
         "Language": "Japanese",
         "Notes": ""
@@ -3857,7 +3875,7 @@
         "Title": "LOL: Last One Laughing Naija",
         "Genre": "Stand-up comedy competition",
         "Premiere": "July 14, 2023",
-        "Finale": "July 14, 2023",
+        "Finale": "July 28, 2023",
         "Seasons": "1 season, 6 episodes",
         "Language": "English",
         "Notes": ""
@@ -3866,33 +3884,19 @@
         "Title": "LOL: Last One Laughing Colombia",
         "Genre": "Stand-up comedy competition",
         "Premiere": "August 11, 2023",
+        "Finale": "August 25, 2023",
         "Seasons": "1 season, 6 episodes",
         "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Written in the Stars",
-        "Genre": "Dating show",
-        "Premiere": "September 15, 2023",
-        "Seasons": "1 season, 12 episodes",
-        "Language": "Portuguese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "LOL: Last One Laughing... or Screaming France",
         "Genre": "Stand-up comedy competition",
         "Premiere": "October 26, 2023",
+        "Finale": "November 2, 2023",
         "Seasons": "1 season, 5 episodes",
         "Language": "French",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Amazing – Fabio de Luigi",
-        "Genre": "Reality",
-        "Premiere": "November 2, 2023",
-        "Seasons": "1 season, 5 episodes",
-        "Language": "Italian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "007: Road to a Million",
@@ -3906,9 +3910,10 @@
         "Title": "Twin Love",
         "Genre": "Dating show",
         "Premiere": "November 17, 2023",
+        "Finale": "November 17, 2023",
         "Seasons": "1 season, 9 episodes",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Pombo",
@@ -3919,18 +3924,18 @@
         "Status": "Pending"
       },
       {
-        "Title": "LOL: Last One Laughing - Denmark",
+        "Title": "LOL: Last One Laughing – Denmark",
         "Genre": "Stand-up comedy competition",
         "Premiere": "December 29, 2023",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Language": "Danish",
         "Status": "Pending"
       },
       {
-        "Title": "LOL: Last One Laughing - Norway",
+        "Title": "LOL: Last One Laughing – Norway",
         "Genre": "Stand-up comedy competition",
         "Premiere": "December 29, 2023",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Language": "Norwegian",
         "Status": "Pending"
       },
@@ -3939,6 +3944,14 @@
         "Genre": "Stand-up comedy competition",
         "Premiere": "January 19, 2024",
         "Seasons": "1 season, 6 episodes",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Tom Green Country",
+        "Genre": "Reality",
+        "Premiere": "January 31, 2024",
+        "Seasons": "1 season, 4 episodes",
         "Language": "English",
         "Status": "Pending"
       },
@@ -4060,6 +4073,22 @@
         "Title": "Beast Games",
         "Genre": "Reality competition",
         "Premiere": "December 19, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Language": "English",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Tinellis",
+        "Genre": "Reality",
+        "Premiere": "January 17, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "Spanish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Sweethearts",
+        "Genre": "Dating show",
+        "Premiere": "February 13, 2025",
         "Seasons": "TBA",
         "Language": "English",
         "Status": "Pending"
@@ -4122,25 +4151,28 @@
         "Title": "Comedy Island Thailand",
         "Genre": "Improv comedy game show",
         "Premiere": "August 22, 2023",
+        "Finale": "September 6, 2023",
         "Seasons": "1 season, 6 episodes",
         "Language": "Thai",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Comedy Island Philippines",
         "Genre": "Improv comedy game show",
         "Premiere": "August 31, 2023",
+        "Finale": "September 6, 2023",
         "Seasons": "1 season, 6 episodes",
         "Language": "Filipino",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Comedy Island Indonesia",
         "Genre": "Improv comedy game show",
         "Premiere": "November 9, 2023",
+        "Finale": "November 9, 2023",
         "Seasons": "1 season, 6 episodes",
         "Language": "Indonesian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Counsel Culture",
@@ -4394,9 +4426,10 @@
         "Genre": "Fantasy action thriller",
         "Partner": "TVING/South Korea",
         "Premiere": "December 30, 2022",
+        "Finale": "March 10, 2023",
         "Seasons": "1 season, 12 episodes",
         "Language": "Korean",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Apartment 404",
@@ -4414,6 +4447,72 @@
         "Premiere": "October 20, 2024",
         "Seasons": "1 season, 9 episodes",
         "Language": "English",
+        "Status": "Part 2 due to premiere on February 12, 2025"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "The Expanse (seasons 4–6)",
+        "Genre": "Hard science fiction",
+        "Prev. network(s)": "Syfy",
+        "Premiere": "December 13, 2019",
+        "Finale": "January 14, 2022",
+        "Seasons": "3 seasons, 26 episodes",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Absentia (season 3)",
+        "Genre": "Crime thriller",
+        "Prev. network(s)": "AXN",
+        "Premiere": "July 17, 2020",
+        "Finale": "July 17, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "The Kids in the Hall (season 6)",
+        "Genre": "Sketch comedy",
+        "Prev. network(s)": "CBC Television (Canada) (seasons 1–5)HBO (United States) (seasons 1–3)CBS (United States) (seasons 4–5)",
+        "Premiere": "May 13, 2022",
+        "Finale": "May 13, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Pantheon (season 2)",
+        "Genre": "Adult animated science fiction drama",
+        "Prev. network(s)": "AMC+",
+        "Premiere": "October 15, 2023",
+        "Finale": "October 15, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Tribunal Justice (season 2)",
+        "Genre": "Arbitration-based reality court show",
+        "Prev. network(s)": "Amazon Freevee",
+        "Premiere": "January 27, 2025",
+        "Seasons": "24–25 min",
+        "Language": "English",
+        "Status": "Season 2 ongoingRenewed"
+      },
+      {
+        "Title": "Bosch: Legacy (season 3)",
+        "Genre": "Crime drama",
+        "Prev. network(s)": "Amazon Freevee",
+        "Premiere": "March 27, 2025",
+        "Seasons": "TBA",
+        "Language": "English",
         "Status": "Pending"
       }
     ]
@@ -4428,6 +4527,7 @@
         "Title": "Face: Cyber Hanzai Tokusouhan",
         "Genre": "Mystery drama",
         "Premiere": "July 11, 2017",
+        "Finale": "September 12, 2017",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4437,6 +4537,7 @@
         "Title": "Chase",
         "Genre": "Mystery drama",
         "Premiere": "December 22, 2017",
+        "Finale": "January 19, 2018",
         "Seasons": "2 seasons, 12 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4446,6 +4547,7 @@
         "Title": "Shiro to Kiiro",
         "Genre": "Romance drama",
         "Premiere": "February 28, 2018",
+        "Finale": "April 3, 2018",
         "Seasons": "1 season, 25 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4455,6 +4557,7 @@
         "Title": "Deutschland 86",
         "Genre": "Thriller",
         "Premiere": "October 19, 2018",
+        "Finale": "October 19, 2018",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
@@ -4464,6 +4567,7 @@
         "Title": "Alex Rider",
         "Genre": "Spy thriller",
         "Premiere": "June 4, 2020",
+        "Finale": "April 5, 2024",
         "Seasons": "3 seasons, 24 episodes",
         "Prime Video exclusive region": "All territories except United Kingdom and United States",
         "Language": "English",
@@ -4473,6 +4577,7 @@
         "Title": "Tell Me Your Secrets",
         "Genre": "Thriller drama",
         "Premiere": "February 19, 2021",
+        "Finale": "February 19, 2021",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Australia, Canada, New Zealand and United States",
         "Language": "English",
@@ -4482,64 +4587,81 @@
         "Title": "Monterossi – La serie",
         "Genre": "Crime drama",
         "Premiere": "January 17, 2022",
-        "Seasons": "1 season, 6 episodes",
+        "Finale": "November 10, 2023",
+        "Seasons": "2 seasons, 11 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
-        "Status": "Renewed"
+        "Notes": ""
       },
       {
         "Title": "One Good Day",
         "Genre": "Action",
-        "Premiere": "November 17, 2022",
+        "Premiere": "November 15, 2022",
+        "Finale": "December 22, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Hong Kong, Southeast Asia and Taiwan",
         "Language": "Filipino",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
-        "Title": "German Crime Story",
+        "Title": "German Crime Story: Gefesselt",
         "Genre": "Crime drama",
         "Premiere": "January 13, 2023",
+        "Finale": "January 13, 2023",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Cattleya Killer",
         "Genre": "Psychological thriller",
         "Premiere": "June 1, 2023",
+        "Finale": "June 1, 2023",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Hong Kong, Southeast Asia, Taiwan, and other selected territories",
         "Language": "Filipino",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Jee Karda",
         "Genre": "Romantic drama",
         "Premiere": "June 15, 2023",
+        "Finale": "June 15, 2023",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "India",
         "Language": "Hindi",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Fifteen-Love",
         "Genre": "Sports drama",
         "Premiere": "July 21, 2023",
+        "Finale": "July 21, 2023",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "United Kingdom",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Amar é Para os Fortes",
         "Genre": "Crime drama",
-        "Premiere": "July 28, 2023",
+        "Premiere": "November 17, 2023",
+        "Finale": "November 17, 2023",
         "Seasons": "1 season, 7 episodes",
         "Prime Video exclusive region": "Brazil",
         "Language": "Portuguese",
-        "Status": "Pending"
+        "Notes": ""
+      },
+      {
+        "Title": "The Aces",
+        "Genre": "Sports drama",
+        "Premiere": "December 21, 2023",
+        "Finale": "December 28, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Prime Video exclusive region": "Southeast Asia",
+        "Language": "Indonesian",
+        "Notes": ""
       },
       {
         "Title": "Zorro",
@@ -4563,6 +4685,7 @@
         "Title": "Heartless",
         "Genre": "Crime drama",
         "Premiere": "July 19, 2024",
+        "Finale": "July 19, 2024",
         "Seasons": "8 episodes",
         "Prime Video exclusive region": "Spain",
         "Language": "Spanish",
@@ -4590,6 +4713,7 @@
         "Title": "A Very Royal Scandal",
         "Genre": "Political drama",
         "Premiere": "September 19, 2024",
+        "Finale": "September 19, 2024",
         "Seasons": "3 episodes",
         "Prime Video exclusive region": "Australia, Canada, New Zealand, United Kingdom and United States",
         "Language": "English",
@@ -4599,6 +4723,7 @@
         "Title": "Nautilus",
         "Genre": "Adventure drama",
         "Premiere": "October 25, 2024",
+        "Finale": "October 25, 2024",
         "Seasons": "10 episodes",
         "Prime Video exclusive region": "Ireland and United Kingdom",
         "Language": "English",
@@ -4614,8 +4739,9 @@
     "data": [
       {
         "Title": "Baby Steps",
-        "Genre": "Sports drama",
+        "Genre": "Sports romantic comedy",
         "Premiere": "July 22, 2016",
+        "Finale": "September 23, 2016",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4625,6 +4751,7 @@
         "Title": "Gaki Rock: Sakusa roku-ku ninjo monogatari",
         "Genre": "Comedy drama",
         "Premiere": "April 14, 2017",
+        "Finale": "June 23, 2017",
         "Seasons": "1 season, 12 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4634,6 +4761,7 @@
         "Title": "Konta Teru's Legal Recipes",
         "Genre": "Cooking comedy",
         "Premiere": "March 6, 2018",
+        "Finale": "April 24, 2018",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4643,6 +4771,7 @@
         "Title": "Made in Italy",
         "Genre": "Comedy drama",
         "Premiere": "September 23, 2019",
+        "Finale": "September 23, 2019",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
@@ -4652,6 +4781,7 @@
         "Title": "Scatola Nera",
         "Genre": "Crime comedy",
         "Premiere": "November 25, 2019",
+        "Finale": "December 7, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
@@ -4661,6 +4791,7 @@
         "Title": "Shonan Junai Gumi",
         "Genre": "Action comedy drama",
         "Premiere": "February 28, 2020",
+        "Finale": "February 28, 2020",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4670,24 +4801,17 @@
         "Title": "Der Beischläfer",
         "Genre": "Comedy",
         "Premiere": "May 29, 2020",
+        "Finale": "November 12, 2021",
         "Seasons": "2 seasons, 14 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
         "Notes": ""
       },
       {
-        "Title": "Relatos con-fin-a-dos",
-        "Genre": "Comedy drama anthology",
-        "Premiere": "July 3, 2020",
-        "Seasons": "5 episodes",
-        "Prime Video exclusive region": "Spain",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
         "Title": "Binge Reloaded",
         "Genre": "Comedy",
         "Premiere": "December 4, 2020",
+        "Finale": "January 14, 2022",
         "Seasons": "2 seasons, 16 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
@@ -4697,6 +4821,7 @@
         "Title": "Todo por Lucy",
         "Genre": "Sitcom",
         "Premiere": "November 30, 2021",
+        "Finale": "March 31, 2022",
         "Seasons": "2 seasons, 20 episodes",
         "Prime Video exclusive region": "Latin America and United States",
         "Language": "Spanish",
@@ -4706,15 +4831,17 @@
         "Title": "Die Discounter",
         "Genre": "Comedy",
         "Premiere": "December 17, 2021",
-        "Seasons": "3 seasons, 30 episodes",
+        "Finale": "December 23, 2024",
+        "Seasons": "4 seasons, 40 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Sex Zimmer, Küche, Bad",
         "Genre": "Comedy",
         "Premiere": "December 23, 2021",
+        "Finale": "December 23, 2021",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
@@ -4723,38 +4850,50 @@
       {
         "Title": "Ten Percent",
         "Genre": "Comedy drama",
-        "Premiere": "April 28, 2022",
+        "Premiere": "April 29, 2022",
+        "Finale": "April 29, 2022",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "United Kingdom",
         "Language": "English",
         "Notes": ""
       },
       {
-        "Title": "Me Contro Te – La Famiglia Reale",
+        "Title": "Me contro Te – La famiglia reale",
         "Genre": "Family comedy",
         "Premiere": "September 29, 2022",
+        "Finale": "December 20, 2023",
         "Seasons": "2 seasons, 16 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Sono Lillo",
         "Genre": "Comedy",
         "Premiere": "October 31, 2022",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 14 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Friedliche Weihnachten",
         "Genre": "Comedy",
         "Premiere": "December 8, 2022",
+        "Finale": "December 8, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
         "Notes": ""
+      },
+      {
+        "Title": "Pesci piccoli – Un'agenzia, molte idee, poco budget",
+        "Genre": "Workplace comedy",
+        "Premiere": "June 8, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "Italy",
+        "Language": "Italian",
+        "Status": "Renewed"
       },
       {
         "Title": "Dead Hot",
@@ -4789,150 +4928,6 @@
     "category": [
       "Regional original programming",
       "Unscripted",
-      "Docuseries"
-    ],
-    "data": [
-      {
-        "Title": "Prime Japan",
-        "Subject": "Culture",
-        "Premiere": "May 15, 2016",
-        "Seasons": "1 season, 12 episodes",
-        "Prime Video exclusive region": "Japan",
-        "Language": "Japanese",
-        "Notes": ""
-      },
-      {
-        "Title": "Ishi-chan no Sake Tabi",
-        "Subject": "Food/Travel",
-        "Premiere": "February 3, 2017",
-        "Seasons": "1 season, 20 episodes",
-        "Prime Video exclusive region": "Japan",
-        "Language": "Japanese",
-        "Notes": ""
-      },
-      {
-        "Title": "Huesca, más allá de un sueño",
-        "Subject": "Sports",
-        "Premiere": "October 1, 2019",
-        "Seasons": "8 episodes",
-        "Prime Video exclusive region": "Spain",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Una Vida, Una Cena",
-        "Subject": "Culinary art",
-        "Premiere": "December 17, 2019",
-        "Seasons": "1 season, 6 episodes",
-        "Prime Video exclusive region": "Spain",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Soccer Players Living Abroad",
-        "Subject": "Sports",
-        "Premiere": "June 5, 2020",
-        "Seasons": "1 season, 4 episodes",
-        "Prime Video exclusive region": "Spain",
-        "Language": "Spanish",
-        "Notes": ""
-      },
-      {
-        "Title": "True Story",
-        "Subject": "Comedy",
-        "Premiere": "June 26, 2020",
-        "Seasons": "1 season, 6 episodes",
-        "Prime Video exclusive region": "France",
-        "Language": "French",
-        "Notes": ""
-      },
-      {
-        "Title": "PSG City of Lights, 50 Years of Legend",
-        "Subject": "Sports",
-        "Premiere": "September 15, 2020",
-        "Seasons": "4 episodes",
-        "Prime Video exclusive region": "France",
-        "Language": "French",
-        "Notes": ""
-      },
-      {
-        "Title": "Three Mothers, Two Babies and a Scandal",
-        "Subject": "True crime",
-        "Premiere": "October 21, 2022",
-        "Seasons": "3 episodes",
-        "Prime Video exclusive region": "United Kingdom",
-        "Language": "English",
-        "Notes": ""
-      },
-      {
-        "Title": "Good Rivals",
-        "Subject": "Sports",
-        "Premiere": "November 24, 2022",
-        "Seasons": "3 episodes",
-        "Prime Video exclusive region": "Mexico and United States",
-        "Language": "EnglishSpanish",
-        "Notes": ""
-      },
-      {
-        "Title": "Gefesselt",
-        "Subject": "True crime",
-        "Premiere": "January 13, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Prime Video exclusive region": "Germany",
-        "Language": "German",
-        "Status": "Pending"
-      },
-      {
-        "Title": "One for All",
-        "Subject": "Sports",
-        "Premiere": "May 25, 2023",
-        "Seasons": "4 episodes",
-        "Prime Video exclusive region": "France",
-        "Language": "French",
-        "Notes": ""
-      },
-      {
-        "Title": "Dead in the Water",
-        "Subject": "True crime",
-        "Premiere": "February 28, 2024",
-        "Seasons": "3 episodes",
-        "Prime Video exclusive region": "Australia, Canada, Ireland, New Zealand, Netherlands, the Nordics, and United Kingdom",
-        "Language": "English",
-        "Notes": ""
-      },
-      {
-        "Title": "Hope on the Street",
-        "Subject": "Music",
-        "Premiere": "March 28, 2024",
-        "Seasons": "6 episodes",
-        "Prime Video exclusive region": "All markets except South Korea",
-        "Language": "Korean",
-        "Status": "Miniseries ongoing"
-      },
-      {
-        "Title": "Hope on the Street",
-        "Subject": "Music/Breakdance",
-        "Premiere": "March 28, 2024",
-        "Seasons": "6 episodes",
-        "Prime Video exclusive region": "Worldwide except South Korea",
-        "Language": "Korean",
-        "Notes": ""
-      },
-      {
-        "Title": "German Cocaine Cowboy",
-        "Subject": "True crime docudrama",
-        "Premiere": "November 10, 2024",
-        "Seasons": "4 episodes",
-        "Prime Video exclusive region": "Germany",
-        "Language": "German",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Unscripted",
       "Reality"
     ],
     "data": [
@@ -4940,6 +4935,7 @@
         "Title": "Harumi's Kitchen",
         "Genre": "Cooking show",
         "Premiere": "November 4, 2016",
+        "Finale": "August 4, 2017",
         "Seasons": "1 season, 12 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4949,6 +4945,7 @@
         "Title": "Hitoshi Matsumoto Presents Freeze",
         "Genre": "Game show",
         "Premiere": "September 19, 2018",
+        "Finale": "July 10, 2020",
         "Seasons": "2 seasons, 10 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -4958,6 +4955,7 @@
         "Title": "Hear Me. Love Me.",
         "Genre": "Dating game show",
         "Premiere": "September 28, 2018",
+        "Finale": "September 28, 2018",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "India",
         "Language": "Hindi",
@@ -4967,6 +4965,7 @@
         "Title": "Love Island France",
         "Genre": "Reality competition",
         "Premiere": "March 2, 2020",
+        "Finale": "March 16, 2020",
         "Seasons": "1 season, 15 episodes",
         "Prime Video exclusive region": "France",
         "Language": "French",
@@ -4976,33 +4975,36 @@
         "Title": "Celebrity Hunted: Italy",
         "Genre": "Survival competition",
         "Premiere": "March 13, 2020",
-        "Seasons": "3 season, 18 episodes",
+        "Seasons": "4 seasons, 24 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "The Masked Singer Japan",
         "Genre": "Music competition",
         "Premiere": "September 3, 2021",
+        "Finale": "August 25, 2022",
         "Seasons": "2 seasons, 18 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Celebrity Hunted: France – Manhunt",
         "Genre": "Survival competition",
         "Premiere": "October 29, 2021",
+        "Finale": "November 24, 2023",
         "Seasons": "3 seasons, 18 episodes",
         "Prime Video exclusive region": "France",
         "Language": "French",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Celebrity Bake Off España",
         "Genre": "Baking competition",
         "Premiere": "December 16, 2021",
+        "Finale": "December 16, 2021",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Spain",
         "Language": "Spanish",
@@ -5012,6 +5014,7 @@
         "Title": "Bake Off Japan",
         "Genre": "Baking competition",
         "Premiere": "April 22, 2022",
+        "Finale": "April 29, 2022",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Japan",
         "Language": "Japanese",
@@ -5030,64 +5033,41 @@
         "Title": "The Bridge: Denmark",
         "Genre": "Survival competition",
         "Premiere": "November 4, 2022",
+        "Finale": "November 25, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Denmark",
         "Language": "Danish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Bridge: Finland",
         "Genre": "Survival competition",
         "Premiere": "November 4, 2022",
+        "Finale": "November 25, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Finland",
         "Language": "Finnish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Bridge: Norway",
         "Genre": "Survival competition",
         "Premiere": "November 4, 2022",
+        "Finale": "November 25, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Norway",
         "Language": "Norwegian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Bridge: Sweden",
         "Genre": "Survival competition",
         "Premiere": "November 4, 2022",
+        "Finale": "November 25, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Sweden",
         "Language": "Swedish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Ägd av Danny",
-        "Genre": "Prank show",
-        "Premiere": "December 16, 2022",
-        "Seasons": "2 seasons, 12 episodes",
-        "Prime Video exclusive region": "Sweden",
-        "Language": "Swedish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Nicklas Pranker",
-        "Genre": "Prank show",
-        "Premiere": "December 16, 2022",
-        "Seasons": "2 seasons, 12 episodes",
-        "Prime Video exclusive region": "Denmark",
-        "Language": "Danish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Saara Aalto Pränkkää Suomea",
-        "Genre": "Prank show",
-        "Premiere": "December 16, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Prime Video exclusive region": "Finland",
-        "Language": "Finnish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Spice of Life med Stian Blipp",
@@ -5097,6 +5077,36 @@
         "Prime Video exclusive region": "Norway",
         "Language": "Norwegian",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Ägd av Danny",
+        "Genre": "Prank show",
+        "Premiere": "December 16, 2022",
+        "Finale": "November 17, 2023",
+        "Seasons": "2 seasons, 12 episodes",
+        "Prime Video exclusive region": "Sweden",
+        "Language": "Swedish",
+        "Notes": ""
+      },
+      {
+        "Title": "Nicklas Pranker",
+        "Genre": "Prank show",
+        "Premiere": "December 16, 2022",
+        "Finale": "November 17, 2023",
+        "Seasons": "2 seasons, 12 episodes",
+        "Prime Video exclusive region": "Denmark",
+        "Language": "Danish",
+        "Notes": ""
+      },
+      {
+        "Title": "Saara Aalto Pränkkää Suomea",
+        "Genre": "Prank show",
+        "Premiere": "December 16, 2022",
+        "Finale": "January 20, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "Finland",
+        "Language": "Finnish",
+        "Notes": ""
       },
       {
         "Title": "The World Cook",
@@ -5111,61 +5121,56 @@
         "Title": "En Svedig Date",
         "Genre": "Dating show",
         "Premiere": "December 26, 2022",
+        "Finale": "December 26, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Denmark",
         "Language": "Danish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Heit",
         "Genre": "Dating show",
         "Premiere": "December 26, 2022",
+        "Finale": "December 26, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Norway",
         "Language": "Norwegian",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Heta Hjärtan",
         "Genre": "Dating show",
         "Premiere": "December 26, 2022",
+        "Finale": "December 26, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Sweden",
         "Language": "Swedish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Lemmenlöylyt Virallinen",
         "Genre": "Dating show",
         "Premiere": "December 26, 2022",
+        "Finale": "December 26, 2022",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Finland",
         "Language": "Finnish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Good Luck Guys: Denmark",
         "Genre": "Survival dating competition",
         "Premiere": "January 20, 2023",
-        "Seasons": "2 seasons, 14 episodes",
+        "Seasons": "3 seasons, 24 episodes",
         "Prime Video exclusive region": "Denmark",
         "Language": "Danish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Good Luck Guys: Finland",
-        "Genre": "Survival dating competition",
-        "Premiere": "January 20, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Prime Video exclusive region": "Finland",
-        "Language": "Finnish",
         "Status": "Pending"
       },
       {
         "Title": "Good Luck Guys: Norway",
         "Genre": "Survival dating competition",
         "Premiere": "January 20, 2023",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "3 seasons, 24 episodes",
         "Prime Video exclusive region": "Norway",
         "Language": "Norwegian",
         "Status": "Pending"
@@ -5174,15 +5179,26 @@
         "Title": "Good Luck Guys: Sweden",
         "Genre": "Survival dating competition",
         "Premiere": "January 20, 2023",
-        "Seasons": "2 seasons, 16 episodes",
+        "Seasons": "3 seasons, 24 episodes",
         "Prime Video exclusive region": "Sweden",
         "Language": "Swedish",
         "Status": "Pending"
       },
       {
+        "Title": "Good Luck Guys: Finland",
+        "Genre": "Survival dating competition",
+        "Premiere": "January 20, 2023",
+        "Finale": "January 20, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Prime Video exclusive region": "Finland",
+        "Language": "Finnish",
+        "Notes": ""
+      },
+      {
         "Title": "Date My Mate",
         "Genre": "Dating game show",
         "Premiere": "March 1, 2023",
+        "Finale": "March 1, 2023",
         "Seasons": "1 season, 6 episodes",
         "Prime Video exclusive region": "Ireland and United Kingdom",
         "Language": "English"
@@ -5191,7 +5207,7 @@
         "Title": "Bingo &amp; Julia",
         "Genre": "Reality",
         "Premiere": "August 24, 2023",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 14 episodes",
         "Prime Video exclusive region": "Sweden",
         "Language": "Swedish",
         "Status": "Pending"
@@ -5200,7 +5216,7 @@
         "Title": "Girls of Oslo",
         "Genre": "Reality",
         "Premiere": "November 3, 2023",
-        "Seasons": "1 season, 5 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Prime Video exclusive region": "Norway",
         "Language": "Norwegian",
         "Status": "Pending"
@@ -5209,10 +5225,11 @@
         "Title": "Parneviks All In!",
         "Genre": "Reality",
         "Premiere": "November 23, 2023",
+        "Finale": "December 8, 2023",
         "Seasons": "1 season, 5 episodes",
         "Prime Video exclusive region": "Sweden",
         "Language": "Swedish",
-        "Status": "Pending"
+        "Notes": "Pending"
       },
       {
         "Title": "Karaoke Night",
@@ -5276,6 +5293,15 @@
         "Prime Video exclusive region": "Germany",
         "Language": "German",
         "Status": "Pending"
+      },
+      {
+        "Title": "Mission Unknown: Atlantic",
+        "Genre": "Reality",
+        "Premiere": "February 28, 2025",
+        "Seasons": "TBA",
+        "Prime Video exclusive region": "Germany",
+        "Language": "German",
+        "Status": "Pending"
       }
     ]
   },
@@ -5289,38 +5315,40 @@
       {
         "Title": "Prova Prova Sa Sa",
         "Genre": "Improvisational comedy",
-        "Premiere": "November 2, 2022",
-        "Seasons": "1 season, 4 episodes",
+        "Premiere": "November 1, 2022",
+        "Finale": "October 26, 2023",
+        "Seasons": "2 seasons, 9 episodes",
         "Prime Video exclusive region": "Italy",
         "Language": "Italian",
-        "Status": "Renewed"
+        "Notes": ""
       },
       {
         "Title": "HILLarious",
         "Genre": "Sketch comedy",
         "Premiere": "February 9, 2023",
+        "Finale": "February 9, 2023",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
-        "Status": "Pending"
+        "Notes": "Pending"
       },
       {
         "Title": "Buy It Now",
         "Genre": "Game show",
-        "Premiere": "October 28, 2024",
-        "Seasons": "1 season, 6 episodes",
+        "Premiere": "October 29, 2024",
+        "Seasons": "1 season, 13 episodes",
         "Prime Video exclusive region": "United States",
         "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Pop Culture Jeopardy!",
-        "Genre": "Game show",
+        "Genre": "Quiz show",
         "Premiere": "December 4, 2024",
-        "Seasons": "TBA",
-        "Prime Video exclusive region": "Australia, Latin America, Mexico, New Zealand, Spain, United Kingdom and United States",
+        "Seasons": "1 season, 9 episodes",
+        "Prime Video exclusive region": "Australia, Latin America, Mexico, New Zealand, Spain, United Kingdom, United States and Canada",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -5335,6 +5363,7 @@
         "Partner/Country": "Telecinco/Spain",
         "Genre": "Comedy",
         "Premiere": "May 14, 2019",
+        "Finale": "April 14, 2023",
         "Seasons": "4 seasons, 32 episodes",
         "Prime Video exclusive region": "Spain",
         "Language": "Spanish",
@@ -5355,6 +5384,7 @@
         "Partner/Country": "Azteca 7/Mexico",
         "Genre": "Historical drama",
         "Premiere": "November 21, 2019",
+        "Finale": "November 21, 2019",
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Latin America and Spain",
         "Language": "Spanish",
@@ -5365,20 +5395,21 @@
         "Partner/Country": "Comedy Central/Latin AmericaPantaya/United States (seasons 1–2)Vix/United States (season 3)",
         "Genre": "Comedy drama",
         "Premiere": "April 21, 2020",
+        "Finale": "July 12, 2023",
         "Seasons": "3 seasons, 22 episodes",
         "Prime Video exclusive region": "Latin America and Spain",
         "Language": "Spanish",
         "Notes": ""
       },
       {
-        "Title": "La que se avecina (seasons 12–14)",
+        "Title": "La que se avecina (seasons 12–15)",
         "Genre": "Sitcom",
         "Partner/Country": "Telecinco/Spain",
         "Premiere": "May 29, 2020",
-        "Seasons": "3 seasons, 32 episodes",
+        "Seasons": "4 seasons, 40 episodes",
         "Prime Video exclusive region": "Spain",
         "Language": "Spanish",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "The Outlaws",
@@ -5395,7 +5426,8 @@
         "Partner/Country": "RTVE/Spain",
         "Genre": "Horror anthology",
         "Premiere": "November 5, 2021",
-        "Seasons": "4 episodes",
+        "Finale": "October 27, 2022",
+        "Seasons": "2 seasons, 8 episodes",
         "Prime Video exclusive region": "Italy, Latin America, Portugal and Spain",
         "Language": "Spanish",
         "Notes": ""
@@ -5411,14 +5443,14 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Citas Barcelona (season 3)",
+        "Title": "Citas Barcelona (seasons 3–4)",
         "Genre": "Romantic drama",
         "Partner/Country": "TV3/Spain",
         "Premiere": "June 13, 2023",
-        "Seasons": "1 season, 6 episodes",
+        "Seasons": "2 seasons, 12 episodes",
         "Prime Video exclusive region": "Spain",
         "Language": "CatalanSpanish",
-        "Status": "Renewed"
+        "Status": "Pending"
       },
       {
         "Title": "Davey &amp; Jonesie's Locker",
@@ -5432,19 +5464,20 @@
       },
       {
         "Title": "The 1% Club",
-        "Genre": "Game show",
         "Partner/Country": "Fox/United States",
+        "Genre": "Game show",
         "Premiere": "May 23, 2024",
+        "Finale": "September 10, 2024",
         "Seasons": "1 season, 13 episodes",
         "Prime Video exclusive region": "Canada and United States",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Beyond Black Beauty",
         "Genre": "Coming-of-age comedy drama",
         "Partner/Country": "Family/Canada",
-        "Premiere": "March 14, 2024October 15, 2024&#91;d&#93;",
+        "Premiere": "March 14, 2024October 15, 2024&#91;c&#93;",
         "Seasons": "1 season, 12 episodes",
         "Prime Video exclusive region": "Selected territories",
         "Language": "English",
@@ -5461,8 +5494,9 @@
       {
         "Title": "Der Lack ist ab (season 4–5)",
         "Genre": "Comedy",
-        "Original network": "MyVideo (S1–S2)sat1.de (S3)",
+        "Original network": "MyVideo (seasons 1–2)sat1.de (season 3)",
         "Premiere": "December 19, 2017",
+        "Finale": "December 28, 2018",
         "Seasons": "2 seasons, 20 episodes",
         "Prime Video exclusive region": "Germany",
         "Language": "German",
@@ -5473,6 +5507,7 @@
         "Genre": "Comedy",
         "Original network": "Sat.1",
         "Premiere": "January 26, 2018",
+        "Finale": "February 2, 2020",
         "Seasons": "3 seasons, 30 episodes",
         "Prime Video exclusive region": "Austria and Germany",
         "Language": "German",
@@ -5483,6 +5518,7 @@
         "Genre": "Historical drama",
         "Original network": "History",
         "Premiere": "December 30, 2020",
+        "Finale": "December 30, 2020",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Ireland, Japan, and United Kingdom",
         "Language": "English",
@@ -5493,6 +5529,7 @@
         "Genre": "Adult animated sitcom",
         "Original network": "VRV",
         "Premiere": "October 6, 2022",
+        "Finale": "October 6, 2022",
         "Seasons": "1 season, 13 episodes",
         "Prime Video exclusive region": "Australia, Canada and New Zealand",
         "Language": "English",
@@ -5513,6 +5550,7 @@
         "Genre": "Crime drama",
         "Original network": "Showtime",
         "Premiere": "March 28, 2024",
+        "Finale": "March 28, 2024",
         "Seasons": "1 season, 10 episodes",
         "Prime Video exclusive region": "Australia, Canada, Germany, New Zealand, United Kingdom, and United States",
         "Language": "English",
@@ -5526,7 +5564,7 @@
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "France",
         "Language": "French",
-        "Status": "Season 6 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -5537,14 +5575,14 @@
     ],
     "data": [
       {
-        "Title": "Malice",
-        "Genre": "Psychological thriller",
+        "Title": "Costiera",
+        "Genre": "Action comedy drama",
         "Premiere": "2025",
         "Seasons": "TBA"
       },
       {
-        "Title": "Costiera",
-        "Genre": "Action comedy drama",
+        "Title": "Malice",
+        "Genre": "Psychological thriller",
         "Premiere": "2025",
         "Seasons": "TBA"
       },
@@ -5639,12 +5677,6 @@
         "Seasons": "TBA"
       },
       {
-        "Title": "House of David",
-        "Genre": "Religious drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
-      },
-      {
         "Title": "It's Not Like That",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -5693,6 +5725,12 @@
         "Seasons": "TBA"
       },
       {
+        "Title": "Rise of the Empress",
+        "Genre": "Fantasy",
+        "Premiere": "TBA",
+        "Seasons": "TBA"
+      },
+      {
         "Title": "The Runarounds",
         "Genre": "Teen drama",
         "Premiere": "TBA",
@@ -5707,6 +5745,12 @@
       {
         "Title": "Silent River",
         "Genre": "Thriller drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA"
+      },
+      {
+        "Title": "Sterling Point",
+        "Genre": "Drama",
         "Premiere": "TBA",
         "Seasons": "TBA"
       },
@@ -5797,14 +5841,14 @@
         "Seasons": "TBA"
       },
       {
-        "Title": "Top End Bub",
-        "Genre": "Romantic comedy",
+        "Title": "Quarter Life",
+        "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
-        "Title": "Untitled Riz Ahmed series",
-        "Genre": "Comedy",
+        "Title": "Top End Bub",
+        "Genre": "Romantic comedy",
         "Premiere": "TBA",
         "Seasons": "TBA"
       }
@@ -5866,12 +5910,6 @@
     ],
     "data": [
       {
-        "Title": "Gerry Star",
-        "Genre": "Comedy mockumentary",
-        "Premiere": "2024",
-        "Seasons": "1 season, 8 episodes"
-      },
-      {
         "Title": "Der Tiger",
         "Genre": "Historical war drama",
         "Premiere": "2025",
@@ -5888,6 +5926,12 @@
         "Genre": "Dark comedy",
         "Premiere": "2025",
         "Seasons": "1 season, 8 episodes"
+      },
+      {
+        "Title": "Gerry Star",
+        "Genre": "Comedy mockumentary",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes"
       }
     ]
   },
@@ -5901,79 +5945,73 @@
       {
         "Title": "Andhera",
         "Genre": "Horror",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Bandwaale",
         "Genre": "Musical",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Daldal",
         "Genre": "Crime thriller",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Daring Partners",
         "Genre": "Drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Dupahiya",
         "Genre": "Comedy",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Gulkanda Tales",
         "Genre": "Comedy drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Khauf",
         "Genre": "Supernatural horror",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Ma Ka Sum",
         "Genre": "Comedy drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Matka King",
         "Genre": "Crime drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "The Revolutionaries",
         "Genre": "Historical drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Rangeen",
         "Genre": "Drama",
-        "Premiere": "2024",
-        "Seasons": "TBA"
-      },
-      {
-        "Title": "Waack Girls",
-        "Genre": "Comedy drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       },
       {
         "Title": "Ziddi Girls",
         "Genre": "Coming of age comedy drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA"
       }
     ]
@@ -6015,12 +6053,6 @@
       {
         "Title": "Dime tu nombre",
         "Genre": "Horror",
-        "Premiere": "2025",
-        "Seasons": "TBA"
-      },
-      {
-        "Title": "Su majestad",
-        "Genre": "Comedy",
         "Premiere": "2025",
         "Seasons": "TBA"
       },
@@ -6067,12 +6099,6 @@
         "Seasons": "TBA"
       },
       {
-        "Title": "No One Will Miss Us",
-        "Genre": "Teen drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA"
-      },
-      {
         "Title": "Punto Nemo",
         "Genre": "Action",
         "Premiere": "TBA",
@@ -6094,36 +6120,9 @@
         "Seasons": "4 episodes"
       },
       {
-        "Title": "Paradis City",
-        "Genre": "Post-apocalyptic thriller",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 6 episodes"
-      },
-      {
         "Title": "VAKA",
         "Genre": "Dystopian thriller",
         "Premiere": "TBA",
-        "Seasons": "TBA"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language scripted",
-      "Telugu"
-    ],
-    "data": [
-      {
-        "Title": "Arabia Kadali",
-        "Genre": "Suspense drama",
-        "Premiere": "2024",
-        "Seasons": "TBA"
-      },
-      {
-        "Title": "Sivarapalli",
-        "Genre": "Comedy drama",
-        "Premiere": "2024",
         "Seasons": "TBA"
       }
     ]
@@ -6136,9 +6135,16 @@
     ],
     "data": [
       {
+        "Title": "Arabia Kadali",
+        "Genre": "Suspense drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Language": "Telugu"
+      },
+      {
         "Title": "Gangs Kuruthi Punal",
         "Genre": "Period action drama",
-        "Premiere": "2024",
+        "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "Tamil"
       },
@@ -6166,34 +6172,6 @@
     ],
     "data": [
       {
-        "Title": "Dinner Club Germany",
-        "Genre": "Cooking/Travel",
-        "Premiere": "Late 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Language": "German"
-      },
-      {
-        "Title": "The Great Indian Code",
-        "Genre": "Technology",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Language": "Hindi"
-      },
-      {
-        "Title": "In Transit",
-        "Genre": "LGBT rights in India",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Language": "Hindi"
-      },
-      {
-        "Title": "Billions Mike",
-        "Genre": "True crime",
-        "Premiere": "November 2024",
-        "Seasons": "TBA",
-        "Language": "German"
-      },
-      {
         "Title": "Infiltrada en el búnker",
         "Genre": "True crime",
         "Premiere": "2025",
@@ -6208,18 +6186,39 @@
         "Language": "German"
       },
       {
-        "Title": "50k First Dates",
-        "Genre": "Neurology",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Title": "Spy High",
+        "Genre": "Privacy law/Technology",
+        "Premiere": "April 2025",
+        "Seasons": "4 episodes",
         "Language": "English"
       },
       {
-        "Title": "Calleja en el espacio",
-        "Genre": "Spaceflight",
+        "Title": "Dinner Club Germany",
+        "Genre": "Cooking/Travel",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "German"
+      },
+      {
+        "Title": "Doda",
+        "Genre": "Music",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Language": "Spanish"
+        "Language": "Polish"
+      },
+      {
+        "Title": "For the Win: NWSL",
+        "Genre": "Sports",
+        "Premiere": "TBA",
+        "Seasons": "4 episodes",
+        "Language": "English"
+      },
+      {
+        "Title": "The Great Indian Code",
+        "Genre": "Technology",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Language": "Hindi"
       },
       {
         "Title": "Hunted",
@@ -6227,6 +6226,13 @@
         "Premiere": "TBA",
         "Seasons": "1 season, 4 episodes",
         "Language": "German"
+      },
+      {
+        "Title": "In Transit",
+        "Genre": "LGBT rights in India",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Language": "Hindi"
       },
       {
         "Title": "Thomas Müller",
@@ -6280,13 +6286,6 @@
     ],
     "data": [
       {
-        "Title": "LOL: Last One Laughing UK",
-        "Genre": "Comedy competition",
-        "Premiere": "2025",
-        "Seasons": "1 season, 6 episodes",
-        "Language": "English"
-      },
-      {
         "Title": "Liars Club",
         "Genre": "Comedy competition",
         "Premiere": "2025",
@@ -6299,6 +6298,13 @@
         "Premiere": "2025",
         "Seasons": "TBA",
         "Language": "French"
+      },
+      {
+        "Title": "LOL: Last One Laughing UK",
+        "Genre": "Comedy competition",
+        "Premiere": "2025",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "English"
       },
       {
         "Title": "Red Carpet, Vip al Tappeto",
@@ -6322,21 +6328,14 @@
         "Language": "English"
       },
       {
-        "Title": "Los Tinelli",
-        "Genre": "Reality",
+        "Title": "Rap Generation",
+        "Genre": "Music competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
-        "Language": "Spanish"
+        "Language": "Polish"
       },
       {
-        "Title": "Tom Green Country",
-        "Genre": "Reality",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Untitled Dutch-language adaptation of Killer Camp",
+        "Title": "Untitled Dutch adaptation of Killer Camp",
         "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "1 season, 6 episodes",
@@ -6348,6 +6347,13 @@
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Language": "Hindi"
+      },
+      {
+        "Title": "Untitled Polish adaptation of The 50",
+        "Genre": "Reality competition",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Language": "Polish"
       },
       {
         "Title": "Wear Whatever the F You Want",
@@ -6413,32 +6419,16 @@
     ],
     "data": [
       {
-        "Title": "Leverage: Redemption (season 3)",
-        "Genre": "Action crime drama",
-        "Prev. network(s)": "Amazon Freevee",
-        "Premiere": "2024",
-        "Seasons": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Tribunal Justice (seasons 2–3)",
-        "Genre": "Arbitration-based reality court show",
-        "Prev. network(s)": "Amazon Freevee",
-        "Premiere": "Early 2025",
-        "Seasons": "TBA",
-        "Language": "English"
-      },
-      {
-        "Title": "Bosch: Legacy (season 3)",
-        "Genre": "Crime drama",
-        "Prev. network(s)": "Amazon Freevee",
-        "Premiere": "March 2025",
-        "Seasons": "TBA",
-        "Language": "English"
-      },
-      {
         "Title": "Judy Justice (season 4)",
         "Genre": "Arbitration-based reality court show",
+        "Prev. network(s)": "Amazon Freevee",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Language": "English"
+      },
+      {
+        "Title": "Leverage: Redemption (season 3)",
+        "Genre": "Action crime drama",
         "Prev. network(s)": "Amazon Freevee",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -6457,16 +6447,16 @@
         "Genre": "Drama miniseries"
       },
       {
-        "Title": "The Atlas Six",
-        "Genre": "Fantasy"
-      },
-      {
         "Title": "Backwards in Heels",
         "Genre": "Period drama"
       },
       {
         "Title": "The Better Liar",
         "Genre": "Drama"
+      },
+      {
+        "Title": "Bloodlust",
+        "Genre": "Dark comedy"
       },
       {
         "Title": "Boys Come First",
@@ -6603,6 +6593,10 @@
       {
         "Title": "Nut Jobs",
         "Genre": "Crime drama"
+      },
+      {
+        "Title": "One",
+        "Genre": "Sports drama"
       },
       {
         "Title": "Oracle",
@@ -7129,6 +7123,14 @@
         "Finale": "December 7, 2023",
         "Seasons": "4 episodes",
         "Notes": ""
+      },
+      {
+        "Title": "Saving Grace",
+        "Genre": "Drama",
+        "Premiere": "November 28, 2024",
+        "Finale": "January 9, 2025",
+        "Seasons": "1 season, 14 episodes",
+        "Notes": ""
       }
     ]
   },
@@ -7152,54 +7154,72 @@
         "Genre": "Fantasy romantic comedy",
         "Premiere": "December 1, 2023",
         "Finale": "January 20, 2024",
-        "Seasons": "1 season, 16 episodes"
+        "Seasons": "16 episodes",
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
       "Original programming",
-      "Continuations"
+      "Non-English language scripted",
+      "Telugu"
     ],
     "data": [
       {
-        "Title": "The Expanse (seasons 4–6)",
-        "Genre": "Hard science fiction",
-        "Prev. network(s)": "Syfy",
-        "Premiere": "December 13, 2019",
-        "Finale": "January 14, 2022",
-        "Seasons": "3 seasons, 26 episodes",
-        "Language": "English",
+        "Title": "Gangstars",
+        "Genre": "Crime drama",
+        "Premiere": "June 1, 2018",
+        "Finale": "June 1, 2018",
+        "Seasons": "1 season, 12 episodes",
         "Notes": ""
       },
       {
-        "Title": "Absentia (season 3)",
-        "Genre": "Crime thriller",
-        "Prev. network(s)": "AXN",
-        "Premiere": "July 17, 2020",
-        "Finale": "July 17, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Language": "English",
+        "Title": "Modern Love Hyderabad",
+        "Genre": "Anthology",
+        "Premiere": "July 8, 2022",
+        "Finale": "July 8, 2022",
+        "Seasons": "1 season, 6 episodes",
         "Notes": ""
       },
       {
-        "Title": "The Kids in the Hall (season 6)",
-        "Genre": "Sketch comedy",
-        "Prev. network(s)": "CBC Television (Canada) (seasons 1–5)HBO (United States) (seasons 1–3)CBS (United States) (seasons 4–5)",
-        "Premiere": "May 13, 2022",
-        "Finale": "May 13, 2022",
+        "Title": "Hostel Days",
+        "Genre": "Young adult drama",
+        "Premiere": "July 13, 2023",
+        "Finale": "July 13, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Kumari Srimathi",
+        "Genre": "Drama",
+        "Premiere": "September 28, 2023",
+        "Finale": "September 28, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Dhootha",
+        "Genre": "Horror mystery thriller",
+        "Premiere": "December 1, 2023",
+        "Finale": "December 1, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Language": "English",
         "Notes": ""
       },
       {
-        "Title": "Pantheon (season 2)",
-        "Genre": "Adult animated science fiction drama",
-        "Prev. network(s)": "AMC+",
-        "Premiere": "October 15, 2023",
-        "Finale": "October 15, 2023",
+        "Title": "Vyooham",
+        "Genre": "Action thriller",
+        "Premiere": "December 14, 2023",
+        "Finale": "December 14, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Bujji and Bhairava",
+        "Genre": "Animated science fiction comedy",
+        "Premiere": "May 31, 2024",
+        "Finale": "May 31, 2024",
+        "Seasons": "1 season, 2 episodes",
         "Notes": ""
       }
     ]
@@ -7243,6 +7263,7 @@
         "Title": "Baahubali: The Lost Legends",
         "Genre": "Fantasy adventure",
         "Premiere": "April 19, 2017",
+        "Finale": "April 10, 2020",
         "Seasons": "5 seasons, 71 episodes",
         "Prime Video exclusive region": "India",
         "Language": "Hindi",
@@ -7261,18 +7282,157 @@
         "Title": "Selfie with Bajrangi",
         "Genre": "Action comedy",
         "Premiere": "June 1, 2017",
-        "Seasons": "2 seasons, 104 episodes",
-        "Prime Video exclusive region": "India",
-        "Language": "Hindi",
-        "Notes": ""
+        "Seasons": "March 31, 2018",
+        "Prime Video exclusive region": "2 seasons, 104 episodes",
+        "Language": "India",
+        "Notes": "Hindi"
       },
       {
         "Title": "Inspector Chingum",
         "Genre": "Action comedy",
         "Premiere": "April 27, 2018",
-        "Seasons": "2 seasons, 54 episodes",
-        "Prime Video exclusive region": "India",
-        "Language": "Hindi",
+        "Seasons": "April 2, 2019",
+        "Prime Video exclusive region": "2 seasons, 54 episodes",
+        "Language": "India",
+        "Notes": "Hindi"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Prime Japan",
+        "Subject": "Culture",
+        "Premiere": "May 15, 2016",
+        "Finale": "May 20, 2017",
+        "Seasons": "1 season, 12 episodes",
+        "Prime Video exclusive region": "Japan",
+        "Language": "Japanese",
+        "Notes": ""
+      },
+      {
+        "Title": "Ishi-chan no Sake Tabi",
+        "Subject": "Food/Travel",
+        "Premiere": "February 3, 2017",
+        "Finale": "June 9, 2017",
+        "Seasons": "1 season, 20 episodes",
+        "Prime Video exclusive region": "Japan",
+        "Language": "Japanese",
+        "Notes": ""
+      },
+      {
+        "Title": "Huesca, más allá de un sueño",
+        "Subject": "Sports",
+        "Premiere": "October 1, 2019",
+        "Finale": "October 1, 2019",
+        "Seasons": "8 episodes",
+        "Prime Video exclusive region": "Spain",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Una vida, una cena",
+        "Subject": "Culinary art",
+        "Premiere": "December 17, 2019",
+        "Finale": "December 17, 2019",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "Spain",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Soccer Players Living Abroad",
+        "Subject": "Sports",
+        "Premiere": "June 5, 2020",
+        "Finale": "June 5, 2020",
+        "Seasons": "1 season, 4 episodes",
+        "Prime Video exclusive region": "Spain",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "True Story",
+        "Subject": "Comedy",
+        "Premiere": "June 26, 2020",
+        "Finale": "September 29, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Prime Video exclusive region": "France",
+        "Language": "French",
+        "Notes": ""
+      },
+      {
+        "Title": "PSG City of Lights, 50 Years of Legend",
+        "Subject": "Sports",
+        "Premiere": "September 15, 2020",
+        "Finale": "September 10, 2021",
+        "Seasons": "2 seasons, 4 episodes",
+        "Prime Video exclusive region": "France",
+        "Language": "French",
+        "Notes": ""
+      },
+      {
+        "Title": "Three Mothers, Two Babies and a Scandal",
+        "Subject": "True crime",
+        "Premiere": "October 21, 2022",
+        "Finale": "October 21, 2022",
+        "Seasons": "3 episodes",
+        "Prime Video exclusive region": "United Kingdom",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Good Rivals",
+        "Subject": "Sports",
+        "Premiere": "November 24, 2022",
+        "Finale": "December 1, 2022",
+        "Seasons": "3 episodes",
+        "Prime Video exclusive region": "Mexico and United States",
+        "Language": "EnglishSpanish",
+        "Notes": ""
+      },
+      {
+        "Title": "One for All",
+        "Subject": "Sports",
+        "Premiere": "May 25, 2023",
+        "Finale": "May 25, 2023",
+        "Seasons": "4 episodes",
+        "Prime Video exclusive region": "France",
+        "Language": "French",
+        "Notes": ""
+      },
+      {
+        "Title": "Dead in the Water",
+        "Subject": "True crime",
+        "Premiere": "February 28, 2024",
+        "Finale": "February 28, 2024",
+        "Seasons": "3 episodes",
+        "Prime Video exclusive region": "Australia, Canada, Ireland, New Zealand, Netherlands, the Nordics, and United Kingdom",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Hope on the Street",
+        "Subject": "Music/Breakdance",
+        "Premiere": "March 28, 2024",
+        "Finale": "April 12, 2024",
+        "Seasons": "6 episodes",
+        "Prime Video exclusive region": "Worldwide except South Korea",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "German Cocaine Cowboy",
+        "Subject": "True crime docudrama",
+        "Premiere": "November 10, 2024",
+        "Finale": "November 10, 2024",
+        "Seasons": "4 episodes",
+        "Prime Video exclusive region": "Germany",
+        "Language": "German",
         "Notes": ""
       }
     ]

@@ -389,7 +389,7 @@
         "Network": "",
         "Studio": "Spumco",
         "Age rating": "",
-        "Technique": "Traditional",
+        "Technique": "Flash/Traditional",
         "Source": ""
       },
       {
@@ -1229,7 +1229,7 @@
         "Network": "PBS",
         "Studio": "PBS",
         "Age rating": "TV-G",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -1889,7 +1889,7 @@
         "Network": "Adult Swim",
         "Studio": "6 Point Harness",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -1937,7 +1937,7 @@
         "Network": "Adult Swim",
         "Studio": "Bald Fade Productions",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash/Traditional",
         "Source": ""
       },
       {
@@ -1973,7 +1973,7 @@
         "Network": "Adult Swim",
         "Studio": "Stoopid Buddy Stoodios",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Traditional/Flash",
         "Source": ""
       },
       {
@@ -1997,7 +1997,7 @@
         "Network": "YouTube Red",
         "Studio": "ShadowMachine",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2093,7 +2093,7 @@
         "Network": "Adult Swim",
         "Studio": "Babyhemyth Productions",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2401,7 +2401,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "4 seasons, 40 episodes",
         "Show creator(s)": "Mike McMahan",
-        "Original release": "August 6, 2020 – present",
+        "Original release": "August 6, 2020 – December 19, 2024",
         "Network": "Paramount+",
         "Studio": "CBS Eye Animation Productions",
         "Age rating": "TV-14",
@@ -2927,9 +2927,9 @@
       {
         "Title": "Velma",
         "Genre": "Mystery",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 seasons, 21 episodes",
         "Show creator(s)": "Charlie Grandy",
-        "Original release": "January 12, 2023 – present",
+        "Original release": "January 12, 2023 – October 3, 2024",
         "Network": "HBO Max",
         "Studio": "Charlie Grandy Productions",
         "Age rating": "TV-MA",
@@ -3294,6 +3294,30 @@
         "Studio": "CBS Eye Animation Productions",
         "Age rating": "",
         "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Creature Commandos",
+        "Genre": "Action",
+        "Seasons/episodes": "TBA",
+        "Show creator(s)": "James Gunn",
+        "Original release": "December 5, 2024",
+        "Network": "Max",
+        "Studio": "Warner Bros. Animation",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Secret Level",
+        "Genre": "Anthology",
+        "Seasons/episodes": "1 season, 15 episodes",
+        "Show creator(s)": "Tim Miller",
+        "Original release": "December 10, 2024",
+        "Network": "Amazon Prime Video",
+        "Studio": "Blur Studio",
+        "Age rating": "",
+        "Technique": "CGI",
         "Source": ""
       }
     ]
@@ -4215,42 +4239,6 @@
     ],
     "data": [
       {
-        "Title": "Marvel Zombies",
-        "Genre": "Superhero",
-        "Seasons, episodes": "TBA",
-        "Show creator": "TBA",
-        "Release date": "2024",
-        "Original channel": "Disney+",
-        "Studio": "Marvel Studios",
-        "Age rating": "TV-MA",
-        "Technique": "CGI",
-        "Source": ""
-      },
-      {
-        "Title": "Creature Commandos",
-        "Genre": "Action",
-        "Seasons, episodes": "TBA",
-        "Show creator": "James Gunn",
-        "Release date": "December 5, 2024",
-        "Original channel": "Max",
-        "Studio": "Warner Bros. Animation",
-        "Age rating": "",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
-        "Title": "Secret Level",
-        "Genre": "Anthology",
-        "Seasons, episodes": "1 season, 15 episodes",
-        "Show creator": "Tim Miller",
-        "Release date": "December 10, 2024",
-        "Original channel": "Amazon Prime Video",
-        "Studio": "Blur Studio",
-        "Age rating": "",
-        "Technique": "CGI",
-        "Source": ""
-      },
-      {
         "Title": "Long Story Short",
         "Genre": "Comedy",
         "Seasons, episodes": "TBA",
@@ -4260,6 +4248,30 @@
         "Studio": "Netflix Animation",
         "Age rating": "",
         "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "Common Side Effects",
+        "Genre": "",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Joe Bennett",
+        "Release date": "February 2, 2025",
+        "Original channel": "Adult Swim",
+        "Studio": "Bandera Entertainment",
+        "Age rating": "",
+        "Technique": "",
+        "Source": ""
+      },
+      {
+        "Title": "Marvel Zombies",
+        "Genre": "Superhero",
+        "Seasons, episodes": "TBA",
+        "Show creator": "TBA",
+        "Release date": "October 2025",
+        "Original channel": "Disney+",
+        "Studio": "Marvel Studios",
+        "Age rating": "TV-MA",
+        "Technique": "CGI",
         "Source": ""
       }
     ]
