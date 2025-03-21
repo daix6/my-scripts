@@ -449,20 +449,21 @@
         "Notes": ""
       },
       {
-        "Title": "The Recruit",
-        "Genre": "Spy adventure",
-        "Premiere": "December 16, 2022",
-        "Seasons": "2 seasons, 14 episodes",
-        "Runtime": "50–62 min",
-        "Status": "Pending"
-      },
-      {
         "Title": "Far from Home",
         "Genre": "Coming-of-age drama",
         "Premiere": "December 16, 2022",
         "Finale": "December 16, 2022",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "32–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Recruit",
+        "Genre": "Spy adventure",
+        "Premiere": "December 16, 2022",
+        "Finale": "January 30, 2025",
+        "Seasons": "2 seasons, 14 episodes",
+        "Runtime": "50–62 min",
         "Notes": ""
       },
       {
@@ -795,17 +796,18 @@
         "Title": "Beauty in Black",
         "Genre": "Drama",
         "Premiere": "October 24, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–57 min",
-        "Status": "Part 2 due to premiere on March 6, 2025"
+        "Seasons": "1 season, 16 episodes",
+        "Runtime": "42–57 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Territory",
         "Genre": "Drama",
         "Premiere": "October 24, 2024",
+        "Finale": "October 24, 2024",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "54–62 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Madness",
@@ -846,39 +848,67 @@
         "Title": "Apple Cider Vinegar",
         "Genre": "Crime drama",
         "Premiere": "February 6, 2025",
+        "Finale": "February 6, 2025",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "61–65 min",
+        "Notes": ""
       },
       {
         "Title": "Zero Day",
         "Genre": "Political thriller",
         "Premiere": "February 20, 2025",
+        "Finale": "February 20, 2025",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "43–58 min",
+        "Notes": ""
       },
       {
         "Title": "Toxic Town",
         "Genre": "Drama",
         "Premiere": "February 27, 2025",
+        "Finale": "February 27, 2025",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "47–65 min",
+        "Notes": ""
       },
       {
         "Title": "Adolescence",
         "Genre": "Drama",
         "Premiere": "March 13, 2025",
+        "Finale": "March 13, 2025",
         "Seasons": "4 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "51–65 min",
+        "Notes": ""
       },
       {
         "Title": "The Residence",
         "Genre": "Mystery drama",
         "Premiere": "March 20, 2025",
         "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Pulse",
+        "Genre": "Medical drama",
+        "Premiere": "April 3, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Ransom Canyon",
+        "Genre": "Drama",
+        "Premiere": "April 17, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Forever",
+        "Genre": "Teen drama",
+        "Premiere": "May 8, 2025",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -1090,7 +1120,7 @@
         "Premiere": "May 18, 2023",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "24–34 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "FUBAR",
@@ -1098,7 +1128,7 @@
         "Premiere": "May 25, 2023",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "45–59 min",
-        "Status": "Season 2 due to prmiere in 2025"
+        "Status": "Season 2 due to premiere in 2025"
       },
       {
         "Title": "Survival of the Thickest",
@@ -1205,8 +1235,8 @@
         "Genre": "Sports comedy",
         "Premiere": "February 27, 2025",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "26–33 min",
+        "Status": "Renewed"
       }
     ]
   },
@@ -1344,6 +1374,14 @@
         "Premiere": "May 30, 2024",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–37 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Blippi's Job Show",
+        "Genre": "Educational",
+        "Premiere": "April 7, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
         "Status": "Pending"
       }
     ]
@@ -1577,6 +1615,15 @@
         "Runtime": "23–35 min",
         "Language": "English",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Devil May Cry",
+        "Genre": "Dark fantasy action",
+        "Premiere": "April 3, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -1660,11 +1707,10 @@
         "Title": "Record of Ragnarok",
         "Genre": "Action",
         "Premiere": "June 17, 2021",
-        "Finale": "July 12, 2023",
         "Seasons": "2 seasons, 27 episodes",
         "Runtime": "23–26 min",
         "Language": "Japanese",
-        "Notes": ""
+        "Status": "Renewed"
       },
       {
         "Title": "Resident Evil: Infinite Darkness",
@@ -2012,7 +2058,7 @@
         "Seasons": "1 season, 4 episodes",
         "Runtime": "14–20 min",
         "Language": "Japanese",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in September 2025"
       },
       {
         "Title": "The Grimm Variations",
@@ -2061,7 +2107,7 @@
       },
       {
         "Title": "Gundam: Requiem for Vengeance",
-        "Genre": "Mecha / military science fiction",
+        "Genre": "Mecha/Military science fiction",
         "Premiere": "October 17, 2024",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "23–24 min",
@@ -2078,12 +2124,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Devil May Cry",
-        "Genre": "Dark fantasy action",
-        "Premiere": "April 3, 2025",
+        "Title": "Moonrise",
+        "Genre": "Science fiction",
+        "Premiere": "April 10, 2025",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Language": "English",
+        "Language": "Japanese",
         "Status": "Pending"
       }
     ]
@@ -2142,9 +2188,9 @@
         "Title": "The Exchange",
         "Genre": "Drama",
         "Premiere": "February 8, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "48–57 min",
-        "Status": "Season 2 due to premiere on February 13, 2025"
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "46–57 min",
+        "Status": "Pending"
       },
       {
         "Title": "Devil's Advocate",
@@ -2318,7 +2364,7 @@
         "Premiere": "March 1, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "39–50 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Anthracite",
@@ -2342,9 +2388,10 @@
         "Title": "Shafted",
         "Genre": "Comedy",
         "Premiere": "January 24, 2025",
+        "Finale": "January 24, 2025",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "31–40 min",
-        "Status": "Pending"
+        "Notes": ""
       }
     ]
   },
@@ -2462,9 +2509,10 @@
         "Title": "Cassandra",
         "Genre": "Science fiction thriller",
         "Premiere": "February 6, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Finale": "February 6, 2025",
+        "Seasons": "6 episodes",
+        "Runtime": "45–52 min",
+        "Notes": ""
       }
     ]
   },
@@ -2680,6 +2728,22 @@
         "Seasons": "1 season, 7 episodes",
         "Runtime": "38–50 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Dabba Cartel",
+        "Genre": "Crime thriller",
+        "Premiere": "February 28, 2025",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "42–63 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Khakee: The Bengal Chapter",
+        "Genre": "Crime thriller",
+        "Premiere": "March 20, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -2834,9 +2898,10 @@
         "Title": "Adoration",
         "Genre": "Coming of age drama",
         "Premiere": "November 20, 2024",
-        "Seasons": "1 season, 6 episodes",
+        "Finale": "November 20, 2024",
+        "Seasons": "6 episodes",
         "Runtime": "41–51 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Public Disorder",
@@ -2850,17 +2915,18 @@
         "Title": "My Family",
         "Genre": "Drama",
         "Premiere": "February 19, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "41–51 min",
         "Status": "Pending"
       },
       {
         "Title": "The Leopard",
         "Genre": "Period drama",
         "Premiere": "March 5, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Finale": "March 5, 2025",
+        "Seasons": "6 episodes",
+        "Runtime": "51–60 min",
+        "Notes": ""
       }
     ]
   },
@@ -2994,7 +3060,7 @@
       },
       {
         "Title": "Asura",
-        "Genre": "Drama",
+        "Genre": "Family drama",
         "Premiere": "January 9, 2025",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "55–66 min",
@@ -3373,17 +3439,25 @@
       },
       {
         "Title": "Melo Movie",
-        "Genre": "Romance drama",
+        "Genre": "Romantic comedy",
         "Premiere": "February 14, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "57–74 min",
         "Status": "Pending"
       },
       {
         "Title": "When Life Gives You Tangerines",
-        "Genre": "Romance slice of life",
+        "Genre": "Slice of life romantic drama",
         "Premiere": "March 7, 2025",
-        "Seasons": "TBA",
+        "Seasons": "16 episodes",
+        "Runtime": "54–64 min",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Karma",
+        "Genre": "Crime thriller",
+        "Premiere": "April 4, 2025",
+        "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Status": "Pending"
       }
@@ -3484,11 +3558,11 @@
         "Status": "Pending"
       },
       {
-        "Title": "I Am Married... But!",
+        "Title": "I Am Married...But!",
         "Genre": "Romantic comedy",
         "Premiere": "February 14, 2025",
         "Seasons": "1 season, 12 episodes",
-        "Runtime": "TBA",
+        "Runtime": "29–49 min",
         "Status": "Pending"
       }
     ]
@@ -3673,191 +3747,14 @@
         "Seasons": "1 season, 5 episodes",
         "Runtime": "44–46 min",
         "Status": "Pending"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Non-English language scripted",
-      "Portuguese"
-    ],
-    "data": [
-      {
-        "Title": "Invisible City",
-        "Genre": "Fantasy thriller",
-        "Premiere": "February 5, 2021",
-        "Finale": "March 22, 2023",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "31–51 min",
-        "Notes": ""
       },
       {
-        "Title": "Glória",
-        "Genre": "Thriller",
-        "Premiere": "November 5, 2021",
-        "Finale": "November 5, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "40–47 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Summer Heat",
-        "Genre": "Drama",
-        "Premiere": "January 21, 2022",
-        "Finale": "January 21, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–52 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Back to 15",
-        "Genre": "Comedy",
-        "Premiere": "February 25, 2022",
-        "Finale": "August 21, 2024",
-        "Seasons": "3 seasons, 18 episodes",
-        "Runtime": "34–44 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Smother-in-Law",
-        "Genre": "Sitcom",
-        "Premiere": "April 13, 2022",
-        "Finale": "April 12, 2023",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "23–26 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Maldivas",
-        "Genre": "Comedy drama",
-        "Premiere": "June 15, 2022",
-        "Finale": "June 15, 2022",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "29–43 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Unsuspicious",
-        "Genre": "Comedy",
-        "Premiere": "August 17, 2022",
-        "Finale": "August 17, 2022",
-        "Seasons": "1 season, 9 episodes",
-        "Runtime": "26–34 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Only for Love",
-        "Genre": "Musical drama",
-        "Premiere": "September 21, 2022",
-        "Finale": "September 21, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "56–70 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Time Hustler",
-        "Genre": "Comedy",
-        "Premiere": "December 25, 2022",
-        "Finale": "December 25, 2022",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "31–42 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Lady Voyeur",
-        "Genre": "Psychological thriller",
-        "Premiere": "January 1, 2023",
-        "Finale": "January 1, 2023",
-        "Seasons": "10 episodes",
-        "Runtime": "35–49 min",
-        "Notes": ""
-      },
-      {
-        "Title": "The Endless Night",
-        "Genre": "Drama",
-        "Premiere": "January 25, 2023",
-        "Finale": "January 25, 2023",
-        "Seasons": "5 episodes",
-        "Runtime": "41–45 min",
-        "Notes": ""
-      },
-      {
-        "Title": "#NoFilter",
-        "Genre": "Comedy",
-        "Premiere": "February 15, 2023",
-        "Finale": "February 15, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "30–37 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Turn of the Tide",
-        "Genre": "Thriller",
-        "Premiere": "May 26, 2023",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "41–51 min",
-        "Status": "Renewed for seasons 2–3"
-      },
-      {
-        "Title": "Reporting for Duty",
-        "Genre": "Comedy",
-        "Premiere": "September 6, 2023",
-        "Finale": "September 6, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "26–31 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Criminal Code",
-        "Genre": "Crime drama",
-        "Premiere": "November 14, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "49–63 min",
-        "Status": "Season 2 due to premiere in 2025"
-      },
-      {
-        "Title": "End of the Line",
-        "Genre": "Comedy",
-        "Premiere": "January 17, 2024",
-        "Finale": "January 17, 2024",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "21–24 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Luz: The Light of the Heart",
-        "Genre": "Coming of age",
-        "Premiere": "February 7, 2024",
-        "Finale": "February 7, 2024",
-        "Seasons": "1 season, 20 episodes",
-        "Runtime": "30–42 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Desperate Lies",
-        "Genre": "Telenovela",
-        "Premiere": "July 5, 2024",
-        "Finale": "July 5, 2024",
-        "Seasons": "17 episodes",
-        "Runtime": "36–59 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Children of the Church Steps",
-        "Genre": "Drama",
-        "Premiere": "October 30, 2024",
-        "Finale": "October 30, 2024",
-        "Seasons": "4 episodes",
-        "Runtime": "48–51 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Senna",
-        "Genre": "Sports biopic",
-        "Premiere": "November 29, 2024",
-        "Finale": "November 29, 2024",
+        "Title": "Just One Look",
+        "Genre": "Mystery",
+        "Premiere": "March 5, 2025",
+        "Finale": "March 5, 2025",
         "Seasons": "6 episodes",
-        "Runtime": "53–71 min",
+        "Runtime": "41–52 min",
         "Notes": ""
       }
     ]
@@ -4384,9 +4281,10 @@
         "Title": "Iron Reign",
         "Genre": "Thriller",
         "Premiere": "March 15, 2024",
+        "Finale": "March 15, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "47–72 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Hijacking of Flight 601",
@@ -4409,9 +4307,10 @@
         "Title": "Raising Voices",
         "Genre": "Teen drama",
         "Premiere": "May 31, 2024",
-        "Seasons": "1 season, 8 episodes",
+        "Finale": "May 31, 2024",
+        "Seasons": "8 episodes",
         "Runtime": "41–48 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Gangs of Galicia",
@@ -4441,9 +4340,9 @@
         "Title": "Envious",
         "Genre": "Comedy",
         "Premiere": "September 18, 2024",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "25–40 min",
-        "Status": "Season 2 due to premiere on February 5, 2025"
+        "Seasons": "2 seasons, 23 episodes",
+        "Runtime": "21–40 min",
+        "Status": "Pending"
       },
       {
         "Title": "We Were Kings",
@@ -4507,14 +4406,38 @@
         "Title": "Prison Cell 211",
         "Genre": "Crime drama",
         "Premiere": "February 5, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "33–41 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Medusa",
+        "Genre": "Drama",
+        "Premiere": "March 5, 2025",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "31–46 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Welcome to the Family",
+        "Genre": "Drama",
+        "Premiere": "March 12, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "24–36 min",
         "Status": "Pending"
       },
       {
         "Title": "Caught",
-        "Genre": "Thriller miniseries",
+        "Genre": "Thriller",
         "Premiere": "March 26, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "The Lady's Companion",
+        "Genre": "Period drama",
+        "Premiere": "March 28, 2025",
         "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Pending"
@@ -4646,8 +4569,8 @@
         "Title": "The Åre Murders",
         "Genre": "Crime drama",
         "Premiere": "February 6, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "35–57 min",
         "Status": "Pending"
       },
       {
@@ -4744,7 +4667,7 @@
         "Premiere": "March 27, 2024",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "37–59 min",
-        "Status": "Renewed"
+        "Status": "Final season due to premiere in 2025"
       },
       {
         "Title": "Doctor Climax",
@@ -4758,9 +4681,10 @@
         "Title": "Master of the House",
         "Genre": "Drama",
         "Premiere": "July 18, 2024",
-        "Seasons": "1 season, 7 episodes",
+        "Finale": "July 18, 2024",
+        "Seasons": "7 episodes",
         "Runtime": "44–62 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Terror Tuesday: Extreme",
@@ -4785,6 +4709,14 @@
         "Premiere": "December 4, 2024",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "66–81 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dalah: Death and the Flowers",
+        "Genre": "Crime drama",
+        "Premiere": "February 27, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "44–61 min",
         "Status": "Pending"
       }
     ]
@@ -4864,6 +4796,14 @@
         "Seasons": "3 seasons, 24 episodes",
         "Runtime": "41–55 min",
         "Notes": ""
+      },
+      {
+        "Title": "Graveyard",
+        "Genre": "Drama",
+        "Premiere": "June 17, 2022",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "48–116 min",
+        "Status": "Pending"
       },
       {
         "Title": "Another Self",
@@ -4967,6 +4907,14 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "48–57 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Bet Your Life",
+        "Genre": "Supernatural drama",
+        "Premiere": "March 20, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -5046,12 +4994,30 @@
         "Notes": ""
       },
       {
+        "Title": "Turn of the Tide",
+        "Genre": "Thriller",
+        "Premiere": "May 26, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "41–51 min",
+        "Language": "Portuguese",
+        "Status": "Renewed for seasons 2–3"
+      },
+      {
         "Title": "Kohrra",
         "Genre": "Crime drama",
         "Premiere": "July 15, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–50 min",
         "Language": "Punjabi",
+        "Status": "Season 2 due to premiere in 2025"
+      },
+      {
+        "Title": "Criminal Code",
+        "Genre": "Crime drama",
+        "Premiere": "November 14, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "49–63 min",
+        "Language": "Portuguese",
         "Status": "Season 2 due to premiere in 2025"
       },
       {
@@ -5085,22 +5051,14 @@
         "Notes": ""
       },
       {
-        "Title": "Comedy Chaos",
-        "Genre": "Sitcom",
-        "Premiere": "February 16, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "27–34 min",
-        "Language": "Indonesian",
-        "Status": "Pending"
-      },
-      {
         "Title": "Aníkúlápó: Rise of the Spectre",
         "Genre": "Drama",
         "Premiere": "March 1, 2024",
+        "Finale": "March 1, 2024",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "54–74 min",
         "Language": "Yoruba",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Bros",
@@ -5170,9 +5128,27 @@
         "Title": "Roosters",
         "Genre": "Comedy",
         "Premiere": "February 28, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "30–34 min",
+        "Language": "Dutch",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Tuiskoms",
+        "Genre": "Romance",
+        "Premiere": "February 28, 2025",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "45–48 min",
+        "Language": "Afrikaans",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Go!",
+        "Genre": "Thriller",
+        "Premiere": "March 21, 2025",
         "Seasons": "TBA",
         "Runtime": "TBA",
-        "Language": "Dutch",
+        "Language": "Zulu",
         "Status": "Pending"
       }
     ]
@@ -5187,20 +5163,22 @@
         "Genre": "Martial arts/action comedy drama",
         "Previous network(s)": "YouTube Premium",
         "Premiere": "January 1, 2021",
-        "Seasons": "4 seasons, 40 episodes",
-        "Runtime": "27–48 min",
+        "Finale": "February 13, 2025",
+        "Seasons": "4 seasons, 45 episodes",
+        "Runtime": "27–49 min",
         "Language": "English",
-        "Status": "Final season part 3 due to premiere on February 13, 2025"
+        "Notes": ""
       },
       {
         "Title": "Blown Away (seasons 2–4)",
         "Genre": "Reality",
         "Previous network(s)": "Makeful",
         "Premiere": "January 22, 2021",
+        "Finale": "March 8, 2024",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "25–36 min",
         "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Girl from Nowhere (season 2)",
@@ -5330,6 +5308,16 @@
         "Runtime": "14–72 min",
         "Language": "Japanese",
         "Status": "Pending"
+      },
+      {
+        "Title": "Inside (season 2)",
+        "Genre": "Reality competition",
+        "Previous network(s)": "YouTube",
+        "Premiere": "March 17, 2025",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "60–61 min",
+        "Language": "English",
+        "Status": "Season 2 ongoing"
       }
     ]
   },
@@ -5492,10 +5480,11 @@
         "Title": "Cobra Kai: Inside the Dojo",
         "Genre": "Behind the scenes",
         "Premiere": "July 18, 2024",
-        "Seasons": "1 season, 2 episode",
+        "Finale": "February 13, 2025",
+        "Seasons": "1 season, 3 episodes",
         "Runtime": "11–12 min",
         "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Notes": ""
       },
       {
         "Title": "Is It Cake? Holiday",
@@ -5632,7 +5621,7 @@
         "Runtime": "56–100 min",
         "Language": "Korean",
         "Netflix exclusive regions": "All other markets",
-        "Status": "Season 4 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "The Parisian Agency: Exclusive Properties (seasons 2–4)",
@@ -5643,7 +5632,7 @@
         "Runtime": "51–70 min",
         "Language": "French",
         "Netflix exclusive regions": "Selected territories",
-        "Status": "Pending"
+        "Status": "Season 5 due to premiere on April 2, 2025"
       },
       {
         "Title": "Soil",
@@ -5803,7 +5792,7 @@
       },
       {
         "Title": "Woman of the Dead",
-        "Genre": "Thriller",
+        "Genre": "Crime thriller",
         "Partner/Country": "ORF/Austria",
         "Premiere": "January 5, 2023",
         "Seasons": "1 season, 6 episodes",
@@ -5881,7 +5870,7 @@
         "Runtime": "34–49 min",
         "Language": "French",
         "Netflix exclusive regions": "All other markets",
-        "Status": "Season 3 due to premiere in 2025"
+        "Status": "Final season due to premiere in 2025"
       },
       {
         "Title": "Let's Get Divorced",
@@ -5942,15 +5931,15 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Winter Palace",
-        "Genre": "Period drama",
-        "Partner/Country": "RTS/Switzerland",
-        "Premiere": "February 13, 2025",
-        "Seasons": "8 episodes",
-        "Runtime": "43–53 min",
-        "Language": "EnglishFrench",
-        "Netflix exclusive regions": "Selected territories",
-        "Status": "Miniseries"
+        "Title": "North of North",
+        "Genre": "APTN and CBC Television/Canada",
+        "Partner/Country": "Comedy",
+        "Premiere": "April 10, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Language": "English",
+        "Netflix exclusive regions": "All other markets except Canada",
+        "Status": "Pending"
       }
     ]
   },
@@ -5993,6 +5982,17 @@
         "Language": "Norwegian",
         "Netflix exclusive region": "Selected territories",
         "Status": "Season 5 due to premiere on May 15, 2025"
+      },
+      {
+        "Title": "Temptation Island (season 9)",
+        "Genre": "Reality show",
+        "Previous network(s)": "Fox (seasons 1–3)USA Network (seasons 4–8)",
+        "Premiere": "March 12, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "51–66 min",
+        "Language": "English",
+        "Netflix exclusive region": "Selected territories",
+        "Status": "Pending"
       }
     ]
   },
@@ -6168,6 +6168,176 @@
         "Finale": "December 12, 2024",
         "Seasons": "4 episodes",
         "Runtime": "39–50 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Non-English language scripted",
+      "Portuguese"
+    ],
+    "data": [
+      {
+        "Title": "Invisible City",
+        "Genre": "Fantasy thriller",
+        "Premiere": "February 5, 2021",
+        "Finale": "March 22, 2023",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "31–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Glória",
+        "Genre": "Thriller",
+        "Premiere": "November 5, 2021",
+        "Finale": "November 5, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "40–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Summer Heat",
+        "Genre": "Drama",
+        "Premiere": "January 21, 2022",
+        "Finale": "January 21, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Back to 15",
+        "Genre": "Comedy",
+        "Premiere": "February 25, 2022",
+        "Finale": "August 21, 2024",
+        "Seasons": "3 seasons, 18 episodes",
+        "Runtime": "34–44 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Smother-in-Law",
+        "Genre": "Sitcom",
+        "Premiere": "April 13, 2022",
+        "Finale": "April 12, 2023",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "23–26 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Maldivas",
+        "Genre": "Comedy drama",
+        "Premiere": "June 15, 2022",
+        "Finale": "June 15, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "29–43 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Unsuspicious",
+        "Genre": "Comedy",
+        "Premiere": "August 17, 2022",
+        "Finale": "August 17, 2022",
+        "Seasons": "1 season, 9 episodes",
+        "Runtime": "26–34 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Only for Love",
+        "Genre": "Musical drama",
+        "Premiere": "September 21, 2022",
+        "Finale": "September 21, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "56–70 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Time Hustler",
+        "Genre": "Comedy",
+        "Premiere": "December 25, 2022",
+        "Finale": "December 25, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "31–42 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Lady Voyeur",
+        "Genre": "Psychological thriller",
+        "Premiere": "January 1, 2023",
+        "Finale": "January 1, 2023",
+        "Seasons": "10 episodes",
+        "Runtime": "35–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Endless Night",
+        "Genre": "Drama",
+        "Premiere": "January 25, 2023",
+        "Finale": "January 25, 2023",
+        "Seasons": "5 episodes",
+        "Runtime": "41–45 min",
+        "Notes": ""
+      },
+      {
+        "Title": "#NoFilter",
+        "Genre": "Comedy",
+        "Premiere": "February 15, 2023",
+        "Finale": "February 15, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "30–37 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Reporting for Duty",
+        "Genre": "Comedy",
+        "Premiere": "September 6, 2023",
+        "Finale": "September 6, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "26–31 min",
+        "Notes": ""
+      },
+      {
+        "Title": "End of the Line",
+        "Genre": "Comedy",
+        "Premiere": "January 17, 2024",
+        "Finale": "January 17, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "21–24 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Luz: The Light of the Heart",
+        "Genre": "Coming of age",
+        "Premiere": "February 7, 2024",
+        "Finale": "February 7, 2024",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "30–42 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Desperate Lies",
+        "Genre": "Telenovela",
+        "Premiere": "July 5, 2024",
+        "Finale": "July 5, 2024",
+        "Seasons": "17 episodes",
+        "Runtime": "36–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Children of the Church Steps",
+        "Genre": "Drama",
+        "Premiere": "October 30, 2024",
+        "Finale": "October 30, 2024",
+        "Seasons": "4 episodes",
+        "Runtime": "48–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Senna",
+        "Genre": "Sports biopic",
+        "Premiere": "November 29, 2024",
+        "Finale": "November 29, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "53–71 min",
         "Notes": ""
       }
     ]
@@ -6672,6 +6842,14 @@
         "Premiere": "December 13, 2024",
         "Runtime": "1 h",
         "Language": "No dialogue",
+        "Notes": ""
+      },
+      {
+        "Title": "Squid Game: Making Season 2",
+        "Genre": "Making-of",
+        "Premiere": "January 3, 2025",
+        "Runtime": "27 min",
+        "Language": "Korean",
         "Notes": ""
       }
     ]

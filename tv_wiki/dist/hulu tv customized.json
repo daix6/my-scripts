@@ -56,7 +56,7 @@
         "Premiere": "April 26, 2017",
         "Seasons": "5 seasons, 56 episodes",
         "Length": "44–64 min",
-        "Status": "Final season due to premiere in 2025"
+        "Status": "Final season due to premiere on April 8, 2025"
       },
       {
         "Title": "Marvel's Runaways",
@@ -487,16 +487,24 @@
       },
       {
         "Title": "Paradise",
-        "Genre": "Crime drama",
+        "Genre": "Political thriller",
         "Premiere": "January 26, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Season 1 ongoing"
+        "Length": "46–57 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Good American Family",
         "Genre": "True crime drama",
         "Premiere": "March 19, 2025",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Dying for Sex",
+        "Genre": "Drama",
+        "Premiere": "April 4, 2025",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
@@ -772,6 +780,14 @@
         "Title": "Deli Boys",
         "Genre": "Comedy",
         "Premiere": "March 6, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "21–27 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mid-Century Modern",
+        "Genre": "Sitcom",
+        "Premiere": "March 28, 2025",
         "Seasons": "1 season, 10 episodes",
         "Length": "30 min",
         "Status": "Pending"

@@ -377,7 +377,7 @@
         "Network": "Comedy Central",
         "Studio": "Celluoid Studios",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Stop-motion",
         "Source": ""
       },
       {
@@ -657,18 +657,6 @@
         "Source": ""
       },
       {
-        "Title": "Samurai Jack",
-        "Genre": "Action-Adventure",
-        "Seasons/episodes": "10 episodes",
-        "Show creator(s)": "Genndy Tartakovsky",
-        "Original release": "March 11, 2017 – May 20, 2017",
-        "Network": "Cartoon Network",
-        "Studio": "Williams Street",
-        "Age rating": "TV-14",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
         "Title": "Clone High",
         "Genre": "Sitcom",
         "Seasons/episodes": "2 seasons, 23 episodes",
@@ -905,7 +893,7 @@
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash/Traditional",
         "Source": ""
       },
       {
@@ -917,7 +905,7 @@
         "Network": "Adult Swim",
         "Studio": "Dipshot Films",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Traditional/Stop-motion",
         "Source": ""
       },
       {
@@ -1013,7 +1001,7 @@
         "Network": "Cartoon Network",
         "Studio": "Spitfire Studios",
         "Age rating": "TV-PG",
-        "Technique": "CGI/Flash",
+        "Technique": "CGI/Flash/Traditional",
         "Source": ""
       },
       {
@@ -1241,7 +1229,7 @@
         "Network": "HBO",
         "Studio": "Media Rights Capital",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -1457,7 +1445,7 @@
         "Network": "Adult Swim",
         "Studio": "Williams Street",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash/Traditional",
         "Source": ""
       },
       {
@@ -1517,8 +1505,8 @@
         "Network": "FX",
         "Studio": "Floyd County Productions",
         "Age rating": "TV-MA",
-        "Technique": "TV-14 (some episodes)",
-        "Source": "Traditional"
+        "Technique": "Flash",
+        "Source": ""
       },
       {
         "Title": "Black Dynamite",
@@ -1829,7 +1817,7 @@
         "Network": "Comedy Central",
         "Studio": "Bento Box Entertainment",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash/Traditional",
         "Source": ""
       },
       {
@@ -1841,7 +1829,7 @@
         "Network": "Adult Swim",
         "Studio": "Caviar Content",
         "Age rating": "TV-14",
-        "Technique": "CGI",
+        "Technique": "Live-Action/Traditional",
         "Source": ""
       },
       {
@@ -1865,6 +1853,18 @@
         "Network": "Comedy Central",
         "Studio": "ShadowMachine",
         "Age rating": "TV-MA",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Samurai Jack",
+        "Genre": "Action-Adventure",
+        "Seasons/episodes": "10 episodes",
+        "Show creator(s)": "Genndy Tartakovsky",
+        "Original release": "March 11, 2017 – May 20, 2017",
+        "Network": "Cartoon Network",
+        "Studio": "Williams Street",
+        "Age rating": "TV-14",
         "Technique": "Traditional",
         "Source": ""
       },
@@ -1937,7 +1937,7 @@
         "Network": "Adult Swim",
         "Studio": "Bald Fade Productions",
         "Age rating": "TV-MA",
-        "Technique": "Flash/Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2165,7 +2165,7 @@
         "Network": "DrinkTV",
         "Studio": "Dr. God Productions",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2213,7 +2213,7 @@
         "Network": "Fox",
         "Studio": "Titmouse, Inc.",
         "Age rating": "TV-14",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -2495,7 +2495,7 @@
       {
         "Title": "The Great North",
         "Genre": "Comedy",
-        "Seasons/episodes": "4 seasons, 56 episodes",
+        "Seasons/episodes": "5 seasons, 76 episodes",
         "Show creator(s)": "Lizzie Molyneux-Logelin",
         "Original release": "January 3, 2021 – present",
         "Network": "Fox",
@@ -2581,7 +2581,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "2 seasons, 12 episodes",
         "Show creator(s)": "Michael Ouweleen",
-        "Original release": "April 4, 2021 – present",
+        "Original release": "April 4, 2021 – July 17, 2022",
         "Network": "Adult Swim",
         "Studio": "Awesome Inc (season 1)",
         "Age rating": "TV-14",
@@ -2605,7 +2605,7 @@
         "Genre": "Animated sitcom",
         "Seasons/episodes": "2 seasons, 30 episodes",
         "Show creator(s)": "Gabrielle Allan",
-        "Original release": "May 31, 2021 – present",
+        "Original release": "May 31, 2021 – August 6, 2023",
         "Network": "Fox",
         "Studio": "Kapital Entertainment",
         "Age rating": "TV-14",
@@ -2687,9 +2687,9 @@
       {
         "Title": "Chicago Party Aunt",
         "Genre": "Animated sitcom",
-        "Seasons/episodes": "1 seasons, 8 episodes",
+        "Seasons/episodes": "2 seasons, 16 episodes",
         "Show creator(s)": "Chris Witaske",
-        "Original release": "September 17, 2021 – present",
+        "Original release": "September 17, 2021 – December 22, 2022",
         "Network": "Netflix",
         "Studio": "Olive Bridge Entertainment",
         "Age rating": "TV-MA",
@@ -2699,9 +2699,9 @@
       {
         "Title": "Ten Year Old Tom",
         "Genre": "Animated sitcom",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 season, 20 episodes",
         "Show creator(s)": "Steve Dildarian",
-        "Original release": "September 30, 2021 – present",
+        "Original release": "September 30, 2021 – June 29, 2023",
         "Network": "HBO Max",
         "Studio": "Tomorrow Studios",
         "Age rating": "TV-MA",
@@ -2737,7 +2737,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "2 seasons, 16 episodes",
         "Show creator(s)": "Aaron Buchsbaum",
-        "Original release": "October 29, 2021 – present",
+        "Original release": "October 29, 2021 – June 10, 2022",
         "Network": "Amazon Prime Video",
         "Studio": "Amazon Studios",
         "Age rating": "TV-MA",
@@ -2783,7 +2783,7 @@
       {
         "Title": "Hit-Monkey",
         "Genre": "Action",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 season, 20 episodes",
         "Show creator(s)": "Josh Gordon",
         "Original release": "November 17, 2021 – present",
         "Network": "Hulu",
@@ -2809,7 +2809,7 @@
         "Genre": "Live-action animated",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Ben Jones",
-        "Original release": "December 10, 2021 – present",
+        "Original release": "December 10, 2021",
         "Network": "Netflix",
         "Studio": "Georgia Entertainment Industries",
         "Age rating": "TV-14",
@@ -2819,7 +2819,7 @@
       {
         "Title": "Smiling Friends",
         "Genre": "Black comedy",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "2 seasons, 17 episodes",
         "Show creator(s)": "Michael Cusack",
         "Original release": "January 9, 2022 – present",
         "Network": "Adult Swim",
@@ -2905,7 +2905,7 @@
         "Genre": "Black comedy",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Darcy Fowler",
-        "Original release": "August 25, 2022 – present",
+        "Original release": "August 25, 2022",
         "Network": "FXX",
         "Studio": "Jersey Films 2nd Avenue",
         "Age rating": "TV-MA",
@@ -2975,7 +2975,7 @@
       {
         "Title": "Royal Crackers",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 5 episodes",
+        "Seasons/episodes": "2 seasons, 20 episodes",
         "Show creator(s)": "Jason Ruiz",
         "Original release": "April 2, 2023 – present",
         "Network": "Adult Swim",
@@ -2989,7 +2989,7 @@
         "Genre": "Sci-fi",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Carson Mell",
-        "Original release": "April 20, 2023 – present",
+        "Original release": "April 20, 2023",
         "Network": "HBO Max",
         "Studio": "Pat &amp; Mike Productions",
         "Age rating": "TV-MA",
@@ -3011,7 +3011,7 @@
       {
         "Title": "Mulligan",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "1 season, 20 episodes",
         "Show creator(s)": "Robert Carlock",
         "Original release": "May 12, 2023 – present",
         "Network": "Netflix",
@@ -3065,7 +3065,7 @@
         "Network": "Apple TV+",
         "Studio": "Apple Studios",
         "Age rating": "",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3095,7 +3095,7 @@
       {
         "Title": "Krapopolis",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 12 episodes",
+        "Seasons/episodes": "2 seasons, 35 episodes",
         "Show creator(s)": "Dan Harmon",
         "Original release": "September 24, 2023 – present",
         "Network": "Fox",
@@ -3167,9 +3167,9 @@
       {
         "Title": "Grimsburg",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 1 episode",
+        "Seasons/episodes": "1 season, 13 episode",
         "Show creator(s)": "Catlan McClelland",
-        "Original release": "January 7, 2024",
+        "Original release": "January 7, 2024 - present",
         "Network": "Fox",
         "Studio": "Gizmotech Industries",
         "Age rating": "",
@@ -3181,7 +3181,7 @@
         "Genre": "Horror Comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Vivienne Medrano",
-        "Original release": "January 19, 2024",
+        "Original release": "January 19, 2024 - present",
         "Network": "Amazon Prime Video",
         "Studio": "SpindleHorse Toons",
         "Age rating": "TV-MA",
@@ -3205,23 +3205,23 @@
         "Genre": "Dark comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Cirocco Dunlap",
-        "Original release": "February 23, 2024",
+        "Original release": "February 23, 2024 - present",
         "Network": "Amazon Prime Video",
         "Studio": "Animal Pictures",
         "Age rating": "",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
-        "Title": "Good Times",
+        "Title": "Good Times: Black Again",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season 8\nepisodes",
+        "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Carl Jones",
         "Original release": "April 12, 2024",
         "Network": "Netflix",
         "Studio": "Act III Productions",
         "Age rating": "",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3229,7 +3229,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Seth Rogen",
-        "Original release": "July 11, 2024",
+        "Original release": "July 11, 2024 - present",
         "Network": "Amazon Prime Video",
         "Studio": "Amazon MGM Studios",
         "Age rating": "TV-MA",
@@ -3251,7 +3251,7 @@
       {
         "Title": "Kite Man: Hell Yeah!",
         "Genre": "Superhero",
-        "Seasons/episodes": "TBA",
+        "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Justin Halpern",
         "Original release": "July 18, 2024",
         "Network": "Max",
@@ -3275,11 +3275,11 @@
       {
         "Title": "Universal Basic Guys",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 6 episodes",
+        "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "Adam and Craig Malamut",
-        "Original release": "September 8, 2024",
+        "Original release": "September 8, 2024 - present",
         "Network": "Fox",
-        "Studio": "Leith Hill Productions",
+        "Studio": "Mutsack Productions",
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""
@@ -3289,7 +3289,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "TBA",
-        "Original release": "September 25, 2024",
+        "Original release": "September 25, 2024 - present",
         "Network": "Paramount+",
         "Studio": "CBS Eye Animation Productions",
         "Age rating": "",
@@ -3299,7 +3299,7 @@
       {
         "Title": "Creature Commandos",
         "Genre": "Action",
-        "Seasons/episodes": "TBA",
+        "Seasons/episodes": "1 season, 7 episodes",
         "Show creator(s)": "James Gunn",
         "Original release": "December 5, 2024",
         "Network": "Max",
@@ -3318,6 +3318,42 @@
         "Studio": "Blur Studio",
         "Age rating": "",
         "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "Common Side Effects",
+        "Genre": "",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Joe Bennett",
+        "Original release": "February 2, 2025 - present",
+        "Network": "Adult Swim",
+        "Studio": "Bandera Entertainment",
+        "Age rating": "",
+        "Technique": "Traditional/Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Lil Kev",
+        "Genre": "Comedy",
+        "Seasons/episodes": "TBA",
+        "Show creator(s)": "TBA",
+        "Original release": "March 6, 2025",
+        "Network": "BET+",
+        "Studio": "HartBeat Productions",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Oh My God, Yes! A Series of Extremely Relatable Circumstances",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 2 episodes",
+        "Show creator(s)": "Adele Williams",
+        "Original release": "March 9, 2025 - present",
+        "Network": "Adult Swim",
+        "Studio": "Williams Street",
+        "Age rating": "TV-MA",
+        "Technique": "Flash",
         "Source": ""
       }
     ]
@@ -3590,7 +3626,7 @@
         "Original release": "September 1, 2008– November 8, 2009",
         "Network": "Teletoon at Night",
         "Studio": "Cuppa Coffee Studios",
-        "Technique": "CGI",
+        "Technique": "Stop-motion",
         "Source": ""
       },
       {
@@ -3689,7 +3725,7 @@
       {
         "Title": "Doomlands",
         "Genre": "Sitcom",
-        "Seasons/episodes": "1 season, 10 episodes",
+        "Seasons/episodes": "2 seasons, 15 episodes",
         "Show creator(s)": "Josh O’Keefe",
         "Original release": "January 28, 2022 – present",
         "Network": "Roku",
@@ -3816,15 +3852,35 @@
       },
       {
         "Title": "Delta State",
-        "Country": "France",
-        "Genre": "Science fiction",
-        "Seasons/episodes": "1 season, 26 episodes",
-        "Show creator(s)": "Brent Donnelly",
-        "Original release": "September 11, 2004&#160;– February 27, 2005",
-        "Network": "France 2",
-        "Studio": "Nelvana",
-        "Technique": "Flash",
-        "Source": ""
+        "Country": "Australia",
+        "Genre": "France",
+        "Seasons/episodes": "Science fiction",
+        "Show creator(s)": "1 season, 26 episodes",
+        "Original release": "Brent Donnelly",
+        "Network": "SBS",
+        "Studio": "September 11, 2004&#160;– February 27, 2005",
+        "Technique": "France 2",
+        "Source": "Nelvana"
+      },
+      {
+        "Title": "Delta State",
+        "Country": "Canada",
+        "Genre": "Derry Smith",
+        "Seasons/episodes": "Science fiction",
+        "Show creator(s)": "1 season, 26 episodes",
+        "Original release": "Canal+",
+        "Network": "Deltanim Productions",
+        "Studio": "September 11, 2004&#160;– February 27, 2005"
+      },
+      {
+        "Title": "Delta State",
+        "Country": "Canada",
+        "Genre": "Derry Smith",
+        "Seasons/episodes": "Science fiction",
+        "Show creator(s)": "1 season, 26 episodes",
+        "Original release": "Teletoon at Night",
+        "Network": "Gaumont Animation",
+        "Studio": "September 11, 2004&#160;– February 27, 2005"
       },
       {
         "Title": "Bromwell High",
@@ -4246,18 +4302,6 @@
         "Release date": "2025",
         "Original channel": "Netflix",
         "Studio": "Netflix Animation",
-        "Age rating": "",
-        "Technique": "",
-        "Source": ""
-      },
-      {
-        "Title": "Common Side Effects",
-        "Genre": "",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Joe Bennett",
-        "Release date": "February 2, 2025",
-        "Original channel": "Adult Swim",
-        "Studio": "Bandera Entertainment",
         "Age rating": "",
         "Technique": "",
         "Source": ""

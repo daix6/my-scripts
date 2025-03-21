@@ -56,7 +56,7 @@
         "Premiere": "April 26, 2017",
         "Seasons": "5 seasons, 56 episodes",
         "Length": "44–64 min",
-        "Status": "Final season due to premiere in 2025"
+        "Status": "Final season due to premiere on April 8, 2025"
       },
       {
         "Title": "Marvel's Runaways",
@@ -487,16 +487,24 @@
       },
       {
         "Title": "Paradise",
-        "Genre": "Crime drama",
+        "Genre": "Political thriller",
         "Premiere": "January 26, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Length": "TBA",
-        "Status": "Season 1 ongoing"
+        "Length": "46–57 min",
+        "Status": "Renewed"
       },
       {
         "Title": "Good American Family",
         "Genre": "True crime drama",
         "Premiere": "March 19, 2025",
+        "Seasons": "8 episodes",
+        "Length": "TBA",
+        "Status": "Miniseries"
+      },
+      {
+        "Title": "Dying for Sex",
+        "Genre": "Drama",
+        "Premiere": "April 4, 2025",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
@@ -773,6 +781,14 @@
         "Genre": "Comedy",
         "Premiere": "March 6, 2025",
         "Seasons": "1 season, 10 episodes",
+        "Length": "21–27 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mid-Century Modern",
+        "Genre": "Sitcom",
+        "Premiere": "March 28, 2025",
+        "Seasons": "1 season, 10 episodes",
         "Length": "30 min",
         "Status": "Pending"
       }
@@ -920,10 +936,9 @@
         "Title": "Wild Crime",
         "Subject": "True crime",
         "Premiere": "September 28, 2021",
-        "Finale": "October 26, 2022",
-        "Seasons": "2 seasons, 8 episodes",
+        "Seasons": "4 seasons, 16 episodes",
         "Length": "39–41 min",
-        "Notes": ""
+        "Status": "Pending"
       },
       {
         "Title": "The Next Thing You Eat",
@@ -1206,7 +1221,7 @@
         "Title": "Impact x Nightline",
         "Subject": "News magazine",
         "Premiere": "October 6, 2023",
-        "Seasons": "3 seasons, 80 episodes",
+        "Seasons": "3 seasons, 88 episodes",
         "Length": "24–49 min",
         "Status": "Season 3 ongoing"
       },
@@ -1226,15 +1241,6 @@
         "Finale": "November 17, 2023",
         "Seasons": "6 episodes",
         "Length": "27–42 min",
-        "Notes": ""
-      },
-      {
-        "Title": "Wild Crime: Blood Mountain",
-        "Subject": "True crime",
-        "Premiere": "November 30, 2023",
-        "Finale": "November 30, 2023",
-        "Seasons": "4 episodes",
-        "Length": "47–50 min",
         "Notes": ""
       },
       {
@@ -1385,24 +1391,26 @@
         "Premiere": "February 4, 2025",
         "Finale": "February 4, 2025",
         "Seasons": "3 episodes",
-        "Length": "TBA",
+        "Length": "35–45 min",
         "Notes": ""
       },
       {
         "Title": "The Fox Hollow Murders: Playground of a Serial Killer",
         "Subject": "True crime",
         "Premiere": "February 18, 2025",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Finale": "February 18, 2025",
+        "Seasons": "4 episodes",
+        "Length": "48–55 min",
+        "Notes": ""
       },
       {
         "Title": "Devil in the Family: The Fall of Ruby Franke",
         "Subject": "True crime",
         "Premiere": "February 27, 2025",
+        "Finale": "February 27, 2025",
         "Seasons": "3 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
+        "Length": "50 min",
+        "Notes": ""
       }
     ]
   },
@@ -1453,9 +1461,9 @@
         "Title": "The Kardashians",
         "Genre": "Reality",
         "Premiere": "April 14, 2022",
-        "Seasons": "5 seasons, 50 episodes",
+        "Seasons": "6 seasons, 60 episodes",
         "Length": "39–56 min",
-        "Status": "Season 6 due to premiere on February 6, 2025"
+        "Status": "Season 6 ongoing"
       },
       {
         "Title": "Best in Dough",
@@ -1542,9 +1550,10 @@
         "Title": "Love &amp; WWE: Bianca &amp; Montez",
         "Genre": "Reality",
         "Premiere": "February 2, 2024",
+        "Finale": "February 2, 2024",
         "Seasons": "1 season, 8 episodes",
         "Length": "26–29 min",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Vanderpump Villa",
@@ -1584,12 +1593,20 @@
         "Premiere": "September 6, 2024",
         "Seasons": "1 season, 8 episodes",
         "Length": "40–49 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 15, 2025"
       },
       {
         "Title": "Muslim Matchmaker",
         "Genre": "Reality",
         "Premiere": "February 11, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "30–37 min",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Got to Get Out",
+        "Genre": "Reality competition",
+        "Premiere": "April 11, 2025",
         "Seasons": "1 season, 8 episodes",
         "Length": "TBA",
         "Status": "Pending"
@@ -2061,15 +2078,24 @@
         "Status": "Series order"
       },
       {
-        "Title": "Mid-Century Modern",
+        "Title": "Not Suitable for Work",
         "Genre": "Sitcom",
         "Premiere": "TBA",
         "Seasons": "TBA",
         "Length": "30 min",
         "Status": "Series order"
-      },
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
       {
-        "Title": "Murray Hill",
+        "Title": "Uglydolls",
         "Genre": "Comedy",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -2128,10 +2154,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "Got to Get Out",
-        "Genre": "Reality competition",
+        "Title": "Overboard for Love",
+        "Genre": "Dating show",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "TBA",
         "Length": "TBA",
         "Status": "Series order"
       },
@@ -2218,10 +2244,6 @@
         "Genre": "Dark comedy"
       },
       {
-        "Title": "The Golden Spoon",
-        "Genre": "Comedy mystery miniseries"
-      },
-      {
         "Title": "Group Chat",
         "Genre": "Comedy"
       },
@@ -2230,8 +2252,8 @@
         "Genre": "Mystery"
       },
       {
-        "Title": "The Island",
-        "Genre": "Drama miniseries"
+        "Title": "Hip Hop Cop",
+        "Genre": "Drama"
       },
       {
         "Title": "Journey to the Center of the Internet",

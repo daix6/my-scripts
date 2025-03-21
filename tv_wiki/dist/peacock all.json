@@ -167,10 +167,10 @@
       },
       {
         "Title": "Long Bright River",
-        "Genre": "Suspense thriller",
-        "Premiere": "March 13, 2024",
+        "Genre": "Crime drama",
+        "Premiere": "March 13, 2025",
         "Seasons": "8 episodes",
-        "Length": "TBA",
+        "Length": "50–59 min",
         "Status": "Miniseries"
       }
     ]
@@ -283,7 +283,7 @@
         "Premiere": "January 26, 2023",
         "Seasons": "1 season, 10 episodes",
         "Length": "47–67 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on May 8, 2025"
       },
       {
         "Title": "Mrs. Davis",
@@ -315,7 +315,7 @@
         "Premiere": "July 27, 2023",
         "Seasons": "1 season, 10 episodes",
         "Length": "23–32 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in mid-2025"
       },
       {
         "Title": "Ted",
@@ -991,7 +991,7 @@
         "Premiere": "January 12, 2023",
         "Seasons": "3 seasons, 35 episodes",
         "Length": "43–72 min",
-        "Status": "Season 3 ongoingRenewed for seasons 4–5"
+        "Status": "Renewed for seasons 4–5"
       },
       {
         "Title": "Queens Court",
@@ -1409,6 +1409,15 @@
         "Seasons": "3 seasons, 505 episodes",
         "Length": "36–37 min",
         "Status": "Season 60 ongoingRenewed"
+      },
+      {
+        "Title": "Law &amp; Order: Organized Crime (season 5)",
+        "Genre": "Crime procedural",
+        "Prev. network(s)": "NBC",
+        "Premiere": "April 17, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
@@ -1625,7 +1634,7 @@
         "Premiere": "December 23, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "54–59 min",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Trigger Point",
@@ -2010,7 +2019,7 @@
         "Title": "Matthew Perry: A Hollywood Tragedy",
         "Subject": "Biography/True crime",
         "Release": "February 25, 2025",
-        "Runtime": "TBA"
+        "Runtime": "1 hour"
       }
     ]
   },
@@ -2221,7 +2230,7 @@
         "Status": "Series order"
       },
       {
-        "Title": "PONIES",
+        "Title": "Ponies",
         "Genre": "Spy thriller",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -2311,15 +2320,6 @@
     ],
     "data": [
       {
-        "Title": "Law &amp; Order: Organized Crime (season 5)",
-        "Genre": "Crime procedural",
-        "Prev. network": "NBC",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Season order"
-      },
-      {
         "Title": "Married at First Sight (seasons 19–21)",
         "Genre": "Reality",
         "Prev. network": "FYI (seasons 1–4)Lifetime (seasons 5–18)",
@@ -2355,10 +2355,6 @@
     ],
     "data": [
       {
-        "Title": "Avenger Field",
-        "Genre": "War drama"
-      },
-      {
         "Title": "Before I Let Go",
         "Genre": "Drama"
       },
@@ -2373,6 +2369,10 @@
       {
         "Title": "Cleo",
         "Genre": "Historical comedy drama"
+      },
+      {
+        "Title": "Climbing in Heels",
+        "Genre": "Comedy drama"
       },
       {
         "Title": "Clifton",
