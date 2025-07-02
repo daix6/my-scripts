@@ -1,5 +1,9 @@
 [
   {
+    "category": [],
+    "data": []
+  },
+  {
     "category": [
       "Original programming",
       "Drama"
@@ -99,15 +103,15 @@
         "Premiere": "January 9, 2025",
         "Seasons": "1 season, 15 episodes",
         "Runtime": "40–60 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in January 2026"
       },
       {
         "Title": "Duster",
         "Genre": "Crime thriller",
         "Premiere": "May 15, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "60 min",
-        "Status": "Pending"
+        "Runtime": "52 min",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -163,7 +167,7 @@
         "Premiere": "May 13, 2021",
         "Seasons": "4 seasons, 37 episodes",
         "Runtime": "24–37 min",
-        "Status": "Season 4 ongoing"
+        "Status": "Renewed"
       },
       {
         "Title": "The Sex Lives of College Girls",
@@ -177,9 +181,9 @@
         "Title": "And Just Like That...",
         "Genre": "Romantic comedy",
         "Premiere": "December 9, 2021",
-        "Seasons": "2 seasons, 21 episodes",
+        "Seasons": "3 seasons, 33 episodes",
         "Runtime": "34–45 min",
-        "Status": "Season 3 due to premiere on May 29, 2025"
+        "Status": "Season 3 ongoing"
       },
       {
         "Title": "Peacemaker",
@@ -469,15 +473,15 @@
         "Premiere": "April 4, 2024",
         "Seasons": "1 season, 19 episodes",
         "Runtime": "22 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Mermicorno: Starfall",
         "Genre": "Fantasy",
         "Premiere": "January 30, 2025",
-        "Seasons": "1 season, 13 episodes",
+        "Seasons": "2 seasons, 26 episodes",
         "Runtime": "23 min",
-        "Status": "Season 2 due to premiere on May 15, 2025"
+        "Status": "Pending"
       }
     ]
   },
@@ -665,7 +669,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "33–42 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "MILF of Norway",
@@ -674,7 +678,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26 min",
         "Language": "Norwegian",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The Convict (season 4)",
@@ -759,10 +763,10 @@
       },
       {
         "Title": "When No One Sees Us",
-        "Genre": "Political drama",
+        "Genre": "Political thriller",
         "Premiere": "March 7, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "44 min",
+        "Runtime": "36–48 min",
         "Language": "Spanish",
         "Status": "Pending"
       },
@@ -771,7 +775,7 @@
         "Genre": "Comedy drama",
         "Premiere": "March 28, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min",
+        "Runtime": "29–36 min",
         "Language": "French",
         "Status": "Pending"
       },
@@ -780,9 +784,36 @@
         "Genre": "Drama",
         "Premiere": "May 2, 2025",
         "Seasons": "1 season, 7 episodes",
-        "Runtime": "52 min",
+        "Runtime": "44–47 min",
         "Language": "French",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Chespirito: Not Really on Purpose",
+        "Genre": "Biographical drama",
+        "Premiere": "June 5, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "47 min",
+        "Language": "Spanish",
         "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Pati (season 2)",
+        "Genre": "Crime drama",
+        "Premiere": "June 27, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Language": "Polish",
+        "Status": "Season 2 ongoing"
+      },
+      {
+        "Title": "Scheda",
+        "Genre": "Drama",
+        "Premiere": "August 22, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Polish",
+        "Status": "Pending"
       }
     ]
   },
@@ -1193,10 +1224,10 @@
         "Title": "Conan O'Brien Must Go",
         "Subject": "Travel",
         "Premiere": "April 18, 2024",
-        "Seasons": "2 seasons, 5 episodes",
+        "Seasons": "2 seasons, 7 episodes",
         "Runtime": "39–47 min",
         "Language": "English",
-        "Status": "Season 2 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Hell on Earth: The Verónica Case",
@@ -1214,7 +1245,7 @@
         "Seasons": "1 season, 4 episodes",
         "Runtime": "38–46 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "The King of Zanzibar",
@@ -1307,13 +1338,22 @@
         "Status": "Miniseries"
       },
       {
-        "Title": "Bloody Trophy",
-        "Subject": "True crime",
-        "Premiere": "May 9, 2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Polish",
-        "Status": "Pending"
+        "Title": "Super Sara",
+        "Subject": "Entertainment industry",
+        "Premiere": "June 13, 2025",
+        "Seasons": "3 episodes",
+        "Runtime": "46 min",
+        "Language": "Spanish",
+        "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Now or Never – FC Montfermeil",
+        "Subject": "Sports",
+        "Premiere": "June 20, 2025",
+        "Seasons": "1 episode",
+        "Runtime": "34 min",
+        "Language": "French",
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -1646,7 +1686,16 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–42 min",
         "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Back to the Frontier",
+        "Genre": "Reality competition",
+        "Premiere": "July 10, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "48–54 min",
+        "Language": "English",
+        "Status": "Pending"
       }
     ]
   },
@@ -1816,10 +1865,10 @@
         "Genre": "Family comedy",
         "Partner/Country": "Sky Kids/United Kingdom",
         "Premiere": "February 15, 2024",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "1 season, 15 episodes",
         "Runtime": "24 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Home Sweet Rome!",
@@ -1901,7 +1950,7 @@
         "Premiere": "November 12, 2020",
         "Seasons": "5 seasons, 141 episodes",
         "Runtime": "26 min",
-        "Status": "Season 55 ongoingRenewed for final season on Max"
+        "Status": "Final season ongoing"
       },
       {
         "Title": "Titans (seasons 3–4)",
@@ -1961,7 +2010,7 @@
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 5, 2021December 23, 2021&#91;r&#93;",
+        "Premiere": "December 5, 2021December 23, 2021&#91;t&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min",
         "Status": "Ended"
@@ -2036,7 +2085,7 @@
         "Premiere": "June 1, 2024",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "44 min",
-        "Status": "Pending"
+        "Status": "Ended"
       }
     ]
   },
@@ -2471,15 +2520,6 @@
         "Status": "Filming"
       },
       {
-        "Title": "Scheda",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Polish",
-        "Status": "Filming"
-      },
-      {
         "Title": "Piekło kobiet",
         "Genre": "Drama",
         "Premiere": "TBA",
@@ -2534,15 +2574,6 @@
         "Status": "Series order"
       },
       {
-        "Title": "Sin querer queriendo",
-        "Genre": "Biographical drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Series order"
-      },
-      {
         "Title": "Zmora",
         "Genre": "Crime drama",
         "Premiere": "TBA",
@@ -2561,15 +2592,6 @@
     ],
     "data": [
       {
-        "Title": "Now or Never – FC Montfermeil",
-        "Subject": "Sports",
-        "Premiere": "2025",
-        "Seasons": "TBA",
-        "Runtime": "30 min",
-        "Language": "French",
-        "Status": "Series order"
-      },
-      {
         "Title": "33 zdjęcia z getta",
         "Subject": "The Holocaust",
         "Premiere": "TBA",
@@ -2587,15 +2609,6 @@
       "Reality"
     ],
     "data": [
-      {
-        "Title": "Back to the Frontier",
-        "Genre": "Reality competition",
-        "Premiere": "2025",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "TBA",
-        "Language": "English",
-        "Status": "Series order"
-      },
       {
         "Title": "Aventura en pelotas",
         "Genre": "Reality",
@@ -2641,11 +2654,11 @@
     ],
     "data": [
       {
-        "Title": "Pati (season 2)",
-        "Genre": "Crime drama",
+        "Title": "Klara (season 2)",
+        "Genre": "Comedy",
         "Prev. network(s)": "Player",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Language": "Polish",
         "Status": "Filming"
@@ -2663,20 +2676,12 @@
         "Genre": "Courtroom comedy drama"
       },
       {
-        "Title": "Anon Pls",
-        "Genre": "Drama"
-      },
-      {
         "Title": "Anything Factory",
         "Genre": "Adult animated comedy"
       },
       {
         "Title": "The Assassin",
         "Genre": "Crime drama"
-      },
-      {
-        "Title": "Church Girls",
-        "Genre": "Comedy"
       },
       {
         "Title": "Exit Strategy",
@@ -2697,10 +2702,6 @@
       {
         "Title": "Jane Smith",
         "Genre": "Legal thriller"
-      },
-      {
-        "Title": "Keeping Up with the Joneses",
-        "Genre": "Adult animated comedy"
       },
       {
         "Title": "The List",
@@ -2739,7 +2740,7 @@
         "Genre": "Legal drama miniseries"
       },
       {
-        "Title": "Untitled The Conjuring series",
+        "Title": "Untitled The Conjuring Universe series",
         "Genre": "Drama"
       },
       {
@@ -2769,10 +2770,6 @@
       {
         "Title": "Uptown Bodega",
         "Genre": "Adult animated comedy"
-      },
-      {
-        "Title": "Wild Life",
-        "Genre": "Teen comedy"
       },
       {
         "Title": "Your Second Wife",

@@ -24,18 +24,6 @@
         "Source": ""
       },
       {
-        "Title": "Capitol Critters",
-        "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 13 episodes",
-        "Show creator(s)": "Steven Bochco",
-        "Original release": "1995",
-        "Network": "Cartoon Network",
-        "Studio": "Steven Bochco Productions",
-        "Age rating": "TV-PG",
-        "Technique": "Traditional",
-        "Source": ""
-      },
-      {
         "Title": "The Adventures of OG Sherlock Kush",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 20 episodes",
@@ -53,18 +41,6 @@
         "Seasons/episodes": "1 season, 12 episodes",
         "Show creator(s)": "Greg Berlanti",
         "Original release": "2015–16",
-        "Network": "CW Seed",
-        "Studio": "Warner Bros. Animation",
-        "Age rating": "—",
-        "Technique": "—",
-        "Source": ""
-      },
-      {
-        "Title": "Freedom Fighters: The Ray",
-        "Genre": "Action, Adventure, Science fiction, Superhero",
-        "Seasons/episodes": "2 seasons, 12 episodes",
-        "Show creator(s)": "Greg Berlanti",
-        "Original release": "2017–present",
         "Network": "CW Seed",
         "Studio": "Warner Bros. Animation",
         "Age rating": "—",
@@ -143,7 +119,7 @@
       {
         "Title": "The Simpsons",
         "Genre": "Sitcom",
-        "Seasons/episodes": "35 seasons, 760 episodes",
+        "Seasons/episodes": "36 seasons, 790 episodes",
         "Show creator(s)": "Matt Groening",
         "Original release": "December 17, 1989 – present",
         "Network": "Fox",
@@ -151,6 +127,17 @@
         "Age rating": "TV-PG",
         "Technique": "Traditional",
         "Source": ""
+      },
+      {
+        "Title": "The Ren &amp; Stimpy Show",
+        "Genre": "Comedy",
+        "Seasons/episodes": "5 seasons, 52 episodes",
+        "Show creator(s)": "John Kricfalusi",
+        "Original release": "August 11, 1991 – October 20, 1996",
+        "Network": "Nickelodeon",
+        "Studio": "Spümcø",
+        "Age rating": "TV-Y7",
+        "Technique": "Traditional"
       },
       {
         "Title": "Æon Flux",
@@ -184,6 +171,18 @@
         "Original release": "January 28, 1992 – March 14, 1992",
         "Network": "ABC",
         "Studio": "Hanna-Barbera",
+        "Age rating": "TV-PG",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Capitol Critters",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 13 episodes",
+        "Show creator(s)": "Steven Bochco",
+        "Original release": "September 15, 1995-September 17, 1996",
+        "Network": "Cartoon Network",
+        "Studio": "Steven Bochco Productions",
         "Age rating": "TV-PG",
         "Technique": "Traditional",
         "Source": ""
@@ -443,7 +442,7 @@
       {
         "Title": "Family Guy",
         "Genre": "Sitcom",
-        "Seasons/episodes": "22 seasons, 418 episodes",
+        "Seasons/episodes": "23 seasons, 441 episodes",
         "Show creator(s)": "Seth MacFarlane",
         "Original release": "January 31, 1999 – present",
         "Network": "Fox",
@@ -467,7 +466,7 @@
       {
         "Title": "Futurama",
         "Genre": "Science fiction",
-        "Seasons/episodes": "8 seasons, 150 episodes",
+        "Seasons/episodes": "9 seasons, 160 episodes",
         "Show creator(s)": "Matt Groening",
         "Original release": "March 28, 1999 – present",
         "Network": "Fox",
@@ -911,7 +910,7 @@
       {
         "Title": "American Dad!",
         "Genre": "Animated sitcom",
-        "Seasons/episodes": "20 seasons, 366 episodes",
+        "Seasons/episodes": "21 seasons, 388 episodes",
         "Show creator(s)": "Seth MacFarlane",
         "Original release": "February 6, 2005 – present",
         "Network": "Fox",
@@ -941,7 +940,7 @@
         "Network": "MTV2",
         "Studio": "Augenblick Studios",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash/Traditional",
         "Source": ""
       },
       {
@@ -1401,6 +1400,17 @@
         "Source": ""
       },
       {
+        "Title": "Regular Show",
+        "Genre": "Animated sitcom Adventure",
+        "Seasons/episodes": "8 seasons, 261 episodes",
+        "Show creator(s)": "J. G. Quintel",
+        "Original release": "September 6, 2010 – January 16, 2017",
+        "Network": "Cartoon Network",
+        "Studio": "Cartoon Network Studios",
+        "Age rating": "TV-PG",
+        "Technique": "Traditional"
+      },
+      {
         "Title": "Off the Air",
         "Genre": "Anthology",
         "Seasons/episodes": "14 seasons, 52 episodes",
@@ -1415,7 +1425,7 @@
       {
         "Title": "Bob's Burgers",
         "Genre": "Sitcom",
-        "Seasons/episodes": "14 seasons, 270 episodes",
+        "Seasons/episodes": "15 seasons, 291 episodes",
         "Show creator(s)": "Loren Bouchard",
         "Original release": "January 9, 2011 – present",
         "Network": "Fox",
@@ -1619,7 +1629,7 @@
       {
         "Title": "Rick and Morty",
         "Genre": "Science fiction",
-        "Seasons/episodes": "5 seasons, 46 episodes",
+        "Seasons/episodes": "8 seasons, 76 episodes",
         "Show creator(s)": "Justin Roiland",
         "Original release": "December 2, 2013 – present",
         "Network": "Adult Swim",
@@ -1950,6 +1960,18 @@
         "Studio": "Rough Draft Studios",
         "Age rating": "TV-MA",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Freedom Fighters: The Ray",
+        "Genre": "Action, Adventure, Science fiction, Superhero",
+        "Seasons/episodes": "2 seasons, 12 episodes",
+        "Show creator(s)": "Greg Berlanti",
+        "Original release": "December 8, 2017 – July 18, 2018",
+        "Network": "CW Seed",
+        "Studio": "Warner Bros. Animation",
+        "Age rating": "—",
+        "Technique": "—",
         "Source": ""
       },
       {
@@ -2459,7 +2481,7 @@
       {
         "Title": "Blood of Zeus",
         "Genre": "Drama",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "3 seasons, 24 episodes",
         "Show creator(s)": "Charley Parlapanides",
         "Original release": "October 27, 2020 – present",
         "Network": "Netflix",
@@ -2747,7 +2769,7 @@
       {
         "Title": "Arcane",
         "Genre": "Action",
-        "Seasons/episodes": "1 season, 9 episodes",
+        "Seasons/episodes": "2 seasons, 18 episodes",
         "Show creator(s)": "Ash Brannon",
         "Original release": "November 6, 2021 – present",
         "Network": "Netflix",
@@ -2831,7 +2853,7 @@
       {
         "Title": "The Legend of Vox Machina",
         "Genre": "Action",
-        "Seasons/episodes": "2 seasons, 24 episodes",
+        "Seasons/episodes": "3 seasons, 36 episodes",
         "Show creator(s)": "Critical Role",
         "Original release": "January 28, 2022 – present",
         "Network": "Amazon Prime Video",
@@ -3329,7 +3351,7 @@
         "Network": "Adult Swim",
         "Studio": "Bandera Entertainment",
         "Age rating": "",
-        "Technique": "Traditional/Flash",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -3743,6 +3765,18 @@
         "Network": "Roku",
         "Studio": "Look Mom! Productions",
         "Technique": "TV-MA",
+        "Source": "Flash",
+        "": ""
+      },
+      {
+        "Title": "Super Team Canada",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Robert Cohen",
+        "Original release": "May 16, 2025",
+        "Network": "Crave",
+        "Studio": "Atomic Cartoons",
+        "Technique": "",
         "Source": "Flash",
         "": ""
       }
@@ -4307,6 +4341,30 @@
     ],
     "data": [
       {
+        "Title": "Standing By",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Dan Levy",
+        "Release date": "August 8, 2025",
+        "Original channel": "Hulu",
+        "Studio": "20th Television Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Women Wearing Shoulder Pads",
+        "Genre": "",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Gonzalo Cordova",
+        "Release date": "August 17, 2025",
+        "Original channel": "Adult Swim",
+        "Studio": "Cinema Fantasma",
+        "Age rating": "",
+        "Technique": "Stop-Motion",
+        "Source": ""
+      },
+      {
         "Title": "Long Story Short",
         "Genre": "Comedy",
         "Seasons, episodes": "TBA",
@@ -4314,6 +4372,18 @@
         "Release date": "August 22, 2025",
         "Original channel": "Netflix",
         "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Haunted Hotel",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Matt Roller",
+        "Release date": "September 19, 2025",
+        "Original channel": "Netflix",
+        "Studio": "Harmonious Claptrap",
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""

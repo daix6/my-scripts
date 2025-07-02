@@ -19,7 +19,7 @@
         "Premiere": "November 1, 2019",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "46–66 min",
-        "Status": "Renewed"
+        "Status": "Season 4 due to premiere on September 17, 2025"
       },
       {
         "Title": "See",
@@ -171,7 +171,7 @@
         "Premiere": "April 1, 2022",
         "Seasons": "4 seasons, 24 episodes",
         "Runtime": "40–53 min",
-        "Status": "Renewed for seasons 5–6"
+        "Status": "Season 5 due to premiere on September 24, 2025Renewed"
       },
       {
         "Title": "Roar",
@@ -329,9 +329,9 @@
         "Title": "The Buccaneers",
         "Genre": "Period drama",
         "Premiere": "November 8, 2023",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "49–55 min",
-        "Status": "Season 2 due to premiere on June 18, 2025"
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "Monarch: Legacy of Monsters",
@@ -467,15 +467,15 @@
         "Premiere": "April 11, 2025",
         "Seasons": "1 season, 9 episodes",
         "Runtime": "46–55 min",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Smoke",
         "Genre": "Crime drama",
         "Premiere": "June 27, 2025",
         "Seasons": "9 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "41–65 min",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "Chief of War",
@@ -611,7 +611,7 @@
         "Premiere": "May 24, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "27–32 min",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on August 6, 2025"
       },
       {
         "Title": "Still Up",
@@ -683,7 +683,7 @@
         "Premiere": "March 26, 2025",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–44 min",
-        "Status": "Season 1 ongoingRenewed"
+        "Status": "Renewed"
       },
       {
         "Title": "Government Cheese",
@@ -691,23 +691,23 @@
         "Premiere": "April 16, 2025",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "25–42 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Murderbot",
         "Genre": "Science fiction action comedy",
         "Premiere": "May 16, 2025",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "24–29 min",
+        "Status": "Season 1 ongoing"
       },
       {
         "Title": "Stick",
         "Genre": "Sports comedy",
         "Premiere": "June 4, 2025",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Status": "Pending"
+        "Runtime": "29–45 min",
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -835,7 +835,7 @@
         "Premiere": "April 14, 2023",
         "Seasons": "3 seasons, 20 episodes",
         "Runtime": "22–26 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Me",
@@ -851,7 +851,7 @@
         "Premiere": "August 9, 2024",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24—25 min",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on January 30, 2026"
       }
     ]
   },
@@ -909,7 +909,7 @@
         "Premiere": "December 4, 2020",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "23–25 min",
-        "Status": "Ended"
+        "Status": "Season 4 due to premiere on August 1, 2025"
       },
       {
         "Title": "The Snoopy Show",
@@ -1013,7 +1013,7 @@
         "Premiere": "April 28, 2023",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "22–24 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Curses!",
@@ -1062,6 +1062,14 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "21–23 min",
         "Status": "Pending"
+      },
+      {
+        "Title": "Not a Box",
+        "Genre": "Educational",
+        "Premiere": "June 13, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "23 min",
+        "Status": "Pending"
       }
     ]
   },
@@ -1105,7 +1113,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44–59 min",
         "Language": "Spanish",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "La Maison",
@@ -1157,9 +1165,9 @@
         "Genre": "Period drama",
         "Premiere": "April 30, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–44 min",
+        "Runtime": "36–50 min",
         "Language": "French",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1511,7 +1519,7 @@
         "Subject": "Entertainment industry",
         "Premiere": "March 28, 2025",
         "Seasons": "2 episodes",
-        "Runtime": "92-97 min",
+        "Runtime": "92–97 min",
         "Status": "Miniseries"
       },
       {
@@ -1519,8 +1527,8 @@
         "Subject": "Travel",
         "Premiere": "May 9, 2025",
         "Seasons": "10 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "36–45 min",
+        "Status": "Miniseries ongoing"
       },
       {
         "Title": "The Wild Ones",
@@ -1740,6 +1748,12 @@
         "Genre": "Reality",
         "Release": "December 16, 2024",
         "Runtime": "59 min"
+      },
+      {
+        "Title": "Snoopy Presents: A Summer Musical",
+        "Genre": "Animation",
+        "Release": "July 18, 2025",
+        "Runtime": "40 min"
       }
     ]
   },
@@ -1777,15 +1791,23 @@
         "Title": "Untitled Vince Gilligan series",
         "Genre": "Science fiction",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "2 seasons",
         "Runtime": "TBA",
         "Status": "Post-productionRenewed"
       },
       {
-        "Title": "Cape Fear",
-        "Genre": "Psychological thriller miniseries",
+        "Title": "12 12 12",
+        "Genre": "Heist drama",
         "Premiere": "TBA",
-        "Seasons": "10 episodes",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Cape Fear",
+        "Genre": "Psychological thriller",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       },
@@ -1838,12 +1860,12 @@
         "Status": "Filming"
       },
       {
-        "Title": "12 12 12",
-        "Genre": "Heist drama",
+        "Title": "The Wanted Man",
+        "Genre": "Thriller",
         "Premiere": "TBA",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
-        "Status": "Series order"
+        "Status": "Filming"
       },
       {
         "Title": "Berlin Noir",
@@ -1878,10 +1900,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "The Wanted Man",
-        "Genre": "Thriller",
+        "Title": "Untitled Joona Linna series",
+        "Genre": "Crime drama",
         "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "1 season, 10 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       },
@@ -1890,6 +1912,14 @@
         "Genre": "Adventure drama miniseries",
         "Premiere": "TBA",
         "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Wild Things",
+        "Genre": "Biographical drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "8 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -1910,6 +1940,14 @@
         "Status": "Filming"
       },
       {
+        "Title": "Widow's Bay",
+        "Genre": "Horror comedy",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Status": "Filming"
+      },
+      {
         "Title": "The Husbands",
         "Genre": "Comedy drama",
         "Premiere": "TBA",
@@ -1926,10 +1964,10 @@
         "Status": "Series order"
       },
       {
-        "Title": "Widow's Bay",
-        "Genre": "Horror comedy",
+        "Title": "Prodigies",
+        "Genre": "Romantic comedy",
         "Premiere": "TBA",
-        "Seasons": "1 season, 10 episodes",
+        "Seasons": "TBA",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -1964,6 +2002,30 @@
         "Subject": "Natural history",
         "Premiere": "TBA",
         "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Knife Edge: Chasing Michelin Stars",
+        "Subject": "Restaurant industry",
+        "Premiere": "TBA",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Mr. Scorsese",
+        "Subject": "Filmmaking",
+        "Premiere": "TBA",
+        "Seasons": "5 episodes",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled UConn Huskies women's basketball docuseries",
+        "Subject": "Sports",
+        "Premiere": "TBA",
+        "Seasons": "3 episodes",
         "Runtime": "TBA",
         "Status": "Series order"
       }
@@ -2009,20 +2071,8 @@
         "Genre": "Thriller"
       },
       {
-        "Title": "Lazarus",
-        "Genre": "Drama"
-      },
-      {
         "Title": "Long Island Compromise",
         "Genre": "Drama"
-      },
-      {
-        "Title": "The Prince of Tides",
-        "Genre": "Romantic drama"
-      },
-      {
-        "Title": "Prodigies",
-        "Genre": "Romantic comedy"
       },
       {
         "Title": "Raising Wild",
@@ -2055,10 +2105,6 @@
       {
         "Title": "Untitled Monarch: Legacy of Monsters spin-off",
         "Genre": "Monster action"
-      },
-      {
-        "Title": "Untitled Siegfried &amp; Roy series",
-        "Genre": "Biographical drama miniseries"
       }
     ]
   }

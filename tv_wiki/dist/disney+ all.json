@@ -11,7 +11,7 @@
         "Premiere": "November 12, 2019",
         "Seasons": "3 seasons, 24 episodes",
         "Runtime": "33–59 min",
-        "Status": "Renewed"
+        "Status": "Ended"
       },
       {
         "Title": "The Right Stuff",
@@ -91,7 +91,7 @@
         "Premiere": "September 21, 2022",
         "Seasons": "2 seasons, 24 episodes",
         "Runtime": "38–60 min",
-        "Status": "Final season ongoing"
+        "Status": "Ended"
       },
       {
         "Title": "Willow",
@@ -186,8 +186,8 @@
         "Genre": "Superhero action",
         "Premiere": "June 24, 2025",
         "Seasons": "6 episodes",
-        "Runtime": "TBA",
-        "Status": "Miniseries"
+        "Runtime": "44–56 min",
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -415,7 +415,7 @@
       },
       {
         "Title": "Eyes of Wakanda",
-        "Genre": "Superhero action",
+        "Genre": "Superhero anthology",
         "Premiere": "August 6, 2025",
         "Seasons": "4 episodes",
         "Runtime": "TBA",
@@ -940,7 +940,7 @@
         "Title": "Marvel Studios: Legends",
         "Genre": "Superhero clip show",
         "Premiere": "January 8, 2021",
-        "Seasons": "2 seasons, 46 episodes",
+        "Seasons": "2 seasons, 47 episodes",
         "Runtime": "5–12 min",
         "Status": "Ended"
       },
@@ -1070,7 +1070,7 @@
         "Premiere": "February 9, 2024",
         "Seasons": "1 season, 1 episode",
         "Runtime": "16 min",
-        "Status": "Ended"
+        "Status": "New episodes due to premiere on July 9, 2025"
       },
       {
         "Title": "Lego Pixar: BrickToons",
@@ -1735,7 +1735,7 @@
         "Runtime": "45–57 min",
         "Exclusive region(s)": "All markets except United Kingdom and Ireland",
         "Language": "English",
-        "Status": "Series 15 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -1821,6 +1821,37 @@
         "Premiere": "December 25, 2024",
         "Runtime": "57 min",
         "Exclusive region(s)": "All territories except the United Kingdom and Ireland",
+        "Language": "English"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Exclusive specials"
+    ],
+    "data": [
+      {
+        "Title": "The Simpsons: O C'mon All Ye Faithful",
+        "Genre": "Adult animation",
+        "Premiere": "December 17, 2024",
+        "Runtime": "45 min",
+        "Exclusive region(s)": "All markets",
+        "Language": "English"
+      },
+      {
+        "Title": "The Simpsons: The Past and the Furious",
+        "Genre": "Adult animation",
+        "Premiere": "February 12, 2025",
+        "Runtime": "24 min",
+        "Exclusive region(s)": "All markets",
+        "Language": "English"
+      },
+      {
+        "Title": "The Simpsons: Yellow Planet",
+        "Genre": "Adult animation",
+        "Premiere": "April 22, 2025",
+        "Runtime": "24 min",
+        "Exclusive region(s)": "All markets",
         "Language": "English"
       }
     ]
@@ -1930,7 +1961,7 @@
         "Title": "Vision Quest",
         "Genre": "Superhero action",
         "Premiere": "2026",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Filming"
       }
@@ -1946,9 +1977,25 @@
         "Title": "Wonder Man",
         "Genre": "Superhero action comedy",
         "Premiere": "December 2025",
-        "Seasons": "TBA",
+        "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Status": "Post-production"
+      },
+      {
+        "Title": "Malcolm in the Middle: Life's Still Unfair",
+        "Genre": "Sitcom",
+        "Premiere": "December 2025",
+        "Seasons": "1 season, 4 episodes",
+        "Runtime": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Untitled Oswald the Lucky Rabbit series",
+        "Genre": "Animation/live-action comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Pre-production"
       }
     ]
   },
@@ -2036,27 +2083,18 @@
   {
     "category": [
       "Upcoming original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "Malcolm in the Middle (season 8)",
-        "Genre": "Sitcom",
-        "Prev. network(s)": "Fox",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 4 episodes",
-        "Runtime": "TBA",
-        "Status": "Season order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
       "Non-English language",
       "Japanese"
     ],
     "data": [
+      {
+        "Title": "Cat's Eye",
+        "Subject": "Mystery crime anime",
+        "Premiere": "September 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "In production"
+      },
       {
         "Title": "Disney Twisted-Wonderland the Animation",
         "Subject": "Fantasy anime",
@@ -2122,14 +2160,6 @@
         "Seasons": "1 season, 7 episodes",
         "Runtime": "30 min",
         "Status": "Post-production"
-      },
-      {
-        "Title": "Llévame al cielo",
-        "Subject": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min",
-        "Status": "Filming"
       }
     ]
   },
@@ -2156,6 +2186,25 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
+        "Status": "Filming"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Regional original programming",
+      "Non-English language"
+    ],
+    "data": [
+      {
+        "Title": "Soy Luna (season 4)",
+        "Genre": "Teen drama telenovela",
+        "Premiere": "2026",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Latin America",
+        "Language": "Spanish",
         "Status": "Filming"
       }
     ]
@@ -2195,10 +2244,6 @@
         "Genre": "French action-adventure"
       },
       {
-        "Title": "Our Time",
-        "Genre": "Comedy drama"
-      },
-      {
         "Title": "Real Steel",
         "Genre": "Science fiction sports drama"
       },
@@ -2213,10 +2258,6 @@
       {
         "Title": "Untitled King Kong series",
         "Genre": "Action-adventure"
-      },
-      {
-        "Title": "Untitled Oswald the Lucky Rabbit series",
-        "Genre": "Animation/live action"
       },
       {
         "Title": "Untitled Power Rangers series",

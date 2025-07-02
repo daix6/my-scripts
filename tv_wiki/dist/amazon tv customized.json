@@ -223,8 +223,9 @@
         "Title": "The Wheel of Time",
         "Genre": "Fantasy",
         "Premiere": "November 19, 2021",
+        "Finale": "April 17, 2025",
         "Seasons": "3 seasons, 24 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Reacher",
@@ -400,7 +401,7 @@
         "Genre": "Superhero teen drama",
         "Premiere": "September 29, 2023",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on September 17, 2025"
       },
       {
         "Title": "In Your Dreams",
@@ -439,7 +440,7 @@
         "Genre": "Post-apocalyptic drama",
         "Premiere": "April 10, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere in December 2025Renewed"
       },
       {
         "Title": "The Edge of Sleep",
@@ -467,8 +468,9 @@
         "Title": "On Call",
         "Genre": "Crime drama",
         "Premiere": "January 9, 2025",
+        "Finale": "January 9, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "House of David",
@@ -482,15 +484,16 @@
         "Genre": "Horror action",
         "Premiere": "April 3, 2025",
         "Finale": "April 3, 2025",
-        "Seasons": "8 episodes",
+        "Seasons": "1 season, 8 episodes",
         "Notes": ""
       },
       {
         "Title": "Étoile",
         "Genre": "Comedy drama",
         "Premiere": "April 24, 2025",
+        "Finale": "April 24, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Notes": ""
       },
       {
         "Title": "Motorheads",
@@ -503,8 +506,9 @@
         "Title": "The Better Sister",
         "Genre": "Thriller",
         "Premiere": "May 29, 2025",
+        "Finale": "May 29, 2025",
         "Seasons": "8 episodes",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "We Were Liars",
@@ -518,6 +522,34 @@
         "Genre": "Thriller",
         "Premiere": "June 25, 2025",
         "Seasons": "1 season, 13 episodes",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "Ballard",
+        "Genre": "Detective fiction",
+        "Premiere": "July 9, 2025",
+        "Seasons": "1 season, 10 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Butterfly",
+        "Genre": "Spy thriller",
+        "Premiere": "August 13, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Terminal List: Dark Wolf",
+        "Genre": "Conspiracy thriller",
+        "Premiere": "August 27, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Hotel Costiera",
+        "Genre": "Action comedy drama",
+        "Premiere": "September 24, 2025",
+        "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -926,15 +958,15 @@
         "Title": "The Second Best Hospital in the Galaxy",
         "Genre": "Science fiction black comedy",
         "Premiere": "February 23, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Season 2 due to premiere on May 27, 2025"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Sausage Party: Foodtopia",
         "Genre": "Comedy",
         "Premiere": "July 11, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on August 13, 2025"
       },
       {
         "Title": "Batman: Caped Crusader",
@@ -1136,8 +1168,9 @@
         "Title": "Viktor Bringt's",
         "Genre": "Comedy",
         "Premiere": "May 30, 2024",
+        "Finale": "May 30, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Perfekt Verpasst",
@@ -1269,8 +1302,8 @@
         "Title": "Panchayat",
         "Genre": "Comedy drama",
         "Premiere": "April 3, 2020",
-        "Seasons": "3 seasons, 24 episodes",
-        "Status": "Season 4 due to premiere on July 2, 2025"
+        "Seasons": "4 seasons, 32 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Paatal Lok",
@@ -1694,12 +1727,12 @@
         "Genre": "Political thriller",
         "Premiere": "February 9, 2024",
         "Finale": "February 9, 2024",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "8 episodes",
         "Notes": ""
       },
       {
         "Title": "My Undead Yokai Girlfriend",
-        "Genre": "Horror romantic comedy",
+        "Genre": "Romantic horror comedy",
         "Premiere": "March 22, 2024",
         "Finale": "March 22, 2024",
         "Seasons": "1 season, 8 episodes",
@@ -1709,8 +1742,9 @@
         "Title": "1122: For a Happy Marriage",
         "Genre": "Romantic drama",
         "Premiere": "June 14, 2024",
+        "Finale": "June 28, 2024",
         "Seasons": "1 season, 7 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Like a Dragon: Yakuza",
@@ -1723,15 +1757,16 @@
         "Title": "Oshi no Ko",
         "Genre": "Fantasy idol drama",
         "Premiere": "November 28, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Finale": "November 28, 2024",
+        "Seasons": "8 episodes",
+        "Notes": ""
       },
       {
         "Title": "Marry My Husband",
         "Genre": "Romantic dark comedy",
         "Premiere": "June 27, 2025",
         "Seasons": "10 episodes",
-        "Status": "Miniseries"
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -2130,13 +2165,6 @@
         "Notes": ""
       },
       {
-        "Title": "Tengo Que Morir Todas Las Noches",
-        "Genre": "Drama",
-        "Premiere": "June 7, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
-      },
-      {
         "Title": "Betty, la fea: The Story Continues",
         "Genre": "Romantic comedy",
         "Premiere": "July 19, 2024",
@@ -2178,6 +2206,20 @@
         "Genre": "Comedy",
         "Premiere": "February 27, 2025",
         "Seasons": "1 season, 7 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Punto Nemo",
+        "Genre": "Action",
+        "Premiere": "March 28, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Mentiras, la serie",
+        "Genre": "Musical comedy drama",
+        "Premiere": "June 13, 2025",
+        "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
       }
     ]
@@ -2261,6 +2303,13 @@
         "Notes": ""
       },
       {
+        "Title": "Thalaivettiyaan Paalayam",
+        "Genre": "Comedy drama",
+        "Premiere": "September 20, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Snakes and Ladders",
         "Genre": "Coming of age action-adventure",
         "Premiere": "October 18, 2024",
@@ -2276,15 +2325,6 @@
       "Other"
     ],
     "data": [
-      {
-        "Title": "Toppen",
-        "Genre": "Political satire",
-        "Premiere": "December 2, 2022",
-        "Finale": "December 2, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Language": "Swedish",
-        "Notes": ""
-      },
       {
         "Title": "Modern Love Amsterdam",
         "Genre": "Romantic comedy anthology",
@@ -2320,30 +2360,12 @@
         "Notes": ""
       },
       {
-        "Title": "Furia (season 2)",
-        "Genre": "Political thriller",
-        "Premiere": "April 19, 2024",
-        "Finale": "April 19, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Language": "Norwegian",
-        "Notes": ""
-      },
-      {
         "Title": "Bullshit",
         "Genre": "Drama",
         "Premiere": "April 19, 2024",
         "Finale": "April 19, 2024",
         "Seasons": "1 season, 6 episodes",
         "Language": "Danish",
-        "Notes": ""
-      },
-      {
-        "Title": "Jana: Marked for Life",
-        "Genre": "Crime drama",
-        "Premiere": "April 19, 2024",
-        "Finale": "April 19, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Language": "Swedish",
         "Notes": ""
       },
       {
@@ -2567,7 +2589,7 @@
         "Partner": "TVING/South Korea",
         "Premiere": "December 30, 2022",
         "Finale": "March 10, 2023",
-        "Seasons": "1 season, 12 episodes",
+        "Seasons": "12 episodes",
         "Language": "Korean",
         "Notes": ""
       },
@@ -2579,6 +2601,16 @@
         "Finale": "April 12, 2024",
         "Seasons": "1 season, 8 episodes",
         "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "Davey &amp; Jonesie's Locker",
+        "Genre": "Teen comedy",
+        "Partner": "Hulu/United States",
+        "Premiere": "March 22, 2024",
+        "Finale": "March 22, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Language": "English",
         "Notes": ""
       },
       {
@@ -2639,6 +2671,15 @@
         "Notes": ""
       },
       {
+        "Title": "Tribunal Justice (season 2)",
+        "Genre": "Arbitration-based reality court show",
+        "Prev. network(s)": "Amazon Freevee",
+        "Premiere": "January 27, 2025",
+        "Seasons": "1 season, 80 episodes",
+        "Language": "English",
+        "Status": "Renewed"
+      },
+      {
         "Title": "Bosch: Legacy (season 3)",
         "Genre": "Crime drama",
         "Prev. network(s)": "Amazon Freevee",
@@ -2664,7 +2705,7 @@
         "Premiere": "April 17, 2025",
         "Seasons": "1 season, 10 episodes",
         "Language": "English",
-        "Status": "Season 3 ongoing"
+        "Status": "Pending"
       }
     ]
   },
@@ -2832,6 +2873,16 @@
         "Seasons": "1 season, 8 episodes",
         "Prime Video exclusive region": "Austria and Germany",
         "Language": "German",
+        "Notes": ""
+      },
+      {
+        "Title": "Tengo que morir todas las noches",
+        "Genre": "Drama",
+        "Premiere": "June 7, 2024",
+        "Finale": "June 7, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Prime Video exclusive region": "Latin America",
+        "Language": "Spanish",
         "Notes": ""
       },
       {
@@ -3072,10 +3123,11 @@
         "Title": "STHLM Blackout",
         "Genre": "Action comedy",
         "Premiere": "May 3, 2024",
+        "Finale": "May 10, 2024",
         "Seasons": "1 season, 4 episodes",
         "Prime Video exclusive region": "Nordics",
         "Language": "Swedish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Office Australia",
@@ -3085,6 +3137,25 @@
         "Prime Video exclusive region": "All markets except United States",
         "Language": "English",
         "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Regional original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Baahubali: The Lost Legends",
+        "Genre": "Fantasy adventure",
+        "Premiere": "April 19, 2017",
+        "Finale": "April 10, 2020",
+        "Seasons": "5 seasons, 71 episodes",
+        "Prime Video exclusive region": "India",
+        "Language": "Hindi",
+        "Notes": ""
       }
     ]
   },
@@ -3176,16 +3247,6 @@
         "Seasons": "2 seasons, 12 episodes",
         "Prime Video exclusive region": "Spain",
         "Language": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}CatalanSpanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Davey &amp; Jonesie's Locker",
-        "Genre": "Teen comedy",
-        "Partner/Country": "Hulu/United States",
-        "Premiere": "March 22, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Prime Video exclusive region": "Australia, Canada and New Zealand",
-        "Language": "English",
         "Status": "Pending"
       },
       {
@@ -3782,6 +3843,56 @@
     "category": [
       "Original programming",
       "Non-English language scripted",
+      "Norwegian"
+    ],
+    "data": [
+      {
+        "Title": "Furia (season 2)",
+        "Genre": "Political thriller",
+        "Premiere": "April 19, 2024",
+        "Finale": "April 19, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "The Commoner",
+        "Genre": "Period drama",
+        "Premiere": "February 14, 2025",
+        "Finale": "February 21, 2025",
+        "Seasons": "4 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Swedish"
+    ],
+    "data": [
+      {
+        "Title": "Toppen",
+        "Genre": "Political satire",
+        "Premiere": "December 2, 2022",
+        "Finale": "December 2, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Jana: Marked for Life",
+        "Genre": "Crime drama",
+        "Premiere": "April 19, 2024",
+        "Finale": "April 19, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
       "Telugu"
     ],
     "data": [
@@ -3868,25 +3979,6 @@
         "Title": "Dinner Party Diaries with José Andrés",
         "Genre": "Cooking show/Talk show",
         "Premiere": "March 19, 2024"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Regional original programming",
-      "Animation",
-      "Adult animation"
-    ],
-    "data": [
-      {
-        "Title": "Baahubali: The Lost Legends",
-        "Genre": "Fantasy adventure",
-        "Premiere": "April 19, 2017",
-        "Finale": "April 10, 2020",
-        "Seasons": "5 seasons, 71 episodes",
-        "Prime Video exclusive region": "India",
-        "Language": "Hindi",
-        "Notes": ""
       }
     ]
   }
