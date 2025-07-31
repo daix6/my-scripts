@@ -1,9 +1,5 @@
 [
   {
-    "category": [],
-    "data": []
-  },
-  {
     "category": [
       "Original programming",
       "Drama"
@@ -110,8 +106,8 @@
         "Genre": "Crime thriller",
         "Premiere": "May 15, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "52 min",
-        "Status": "Season 1 ongoing"
+        "Runtime": "44–54 min",
+        "Status": "Ended"
       }
     ]
   },
@@ -433,7 +429,7 @@
         "Premiere": "July 29, 2021",
         "Seasons": "3 seasons, 77 episodes",
         "Runtime": "11–22 min",
-        "Status": "Pending"
+        "Status": "Ended"
       },
       {
         "Title": "Little Ellen",
@@ -473,7 +469,7 @@
         "Premiere": "April 4, 2024",
         "Seasons": "1 season, 19 episodes",
         "Runtime": "22 min",
-        "Status": "Pending"
+        "Status": "New episodes due to premiere on August 14, 2025"
       },
       {
         "Title": "Mermicorno: Starfall",
@@ -795,7 +791,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "47 min",
         "Language": "Spanish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Pati (season 2)",
@@ -804,7 +800,16 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Language": "Polish",
-        "Status": "Season 2 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "Prince (season 3)",
+        "Genre": "Satire",
+        "Premiere": "August 15, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Turkish",
+        "Status": "Pending"
       },
       {
         "Title": "Scheda",
@@ -1344,16 +1349,25 @@
         "Seasons": "3 episodes",
         "Runtime": "46 min",
         "Language": "Spanish",
-        "Status": "Miniseries ongoing"
+        "Status": "Miniseries"
       },
       {
         "Title": "Now or Never – FC Montfermeil",
         "Subject": "Sports",
         "Premiere": "June 20, 2025",
-        "Seasons": "1 episode",
+        "Seasons": "5 episodes",
         "Runtime": "34 min",
         "Language": "French",
         "Status": "Miniseries ongoing"
+      },
+      {
+        "Title": "Most Wanted: Teen Hacker",
+        "Subject": "True crime",
+        "Premiere": "September 5, 2025",
+        "Seasons": "4 episodes",
+        "Runtime": "TBA",
+        "Language": "Finnish",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -1695,7 +1709,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "48–54 min",
         "Language": "English",
-        "Status": "Pending"
+        "Status": "Season 1 ongoing"
       }
     ]
   },
@@ -2444,6 +2458,22 @@
   {
     "category": [
       "Upcoming original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Stuart Fails to Save the Universe",
+        "Genre": "Science fiction comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
       "Non-English language scripted"
     ],
     "data": [
@@ -2484,15 +2514,6 @@
         "Status": "Season order"
       },
       {
-        "Title": "Prince (season 3)",
-        "Genre": "Satire",
-        "Premiere": "2025",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Turkish",
-        "Status": "Season order"
-      },
-      {
         "Title": "Portobello",
         "Genre": "Legal drama",
         "Premiere": "2026",
@@ -2502,21 +2523,21 @@
         "Status": "Filming"
       },
       {
+        "Title": "Niebo. Rok w piekle",
+        "Genre": "Drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Polish",
+        "Status": "Post-production"
+      },
+      {
         "Title": "Madam Beja",
         "Genre": "Historical telenovela",
         "Premiere": "TBA",
         "Seasons": "1 season, 40 episodes",
         "Runtime": "TBA",
         "Language": "Portuguese",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Niebo. Pięć lat w piekle",
-        "Genre": "Drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Polish",
         "Status": "Filming"
       },
       {
@@ -2574,6 +2595,15 @@
         "Status": "Series order"
       },
       {
+        "Title": "Untitled Jan Holoubek series",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Polish",
+        "Status": "Filming"
+      },
+      {
         "Title": "Zmora",
         "Genre": "Crime drama",
         "Premiere": "TBA",
@@ -2581,24 +2611,6 @@
         "Runtime": "TBA",
         "Language": "Polish",
         "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Unscripted",
-      "Docuseries"
-    ],
-    "data": [
-      {
-        "Title": "33 zdjęcia z getta",
-        "Subject": "The Holocaust",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Polish",
-        "Status": "In production"
       }
     ]
   },
@@ -2629,15 +2641,6 @@
       },
       {
         "Title": "Untitled Spanish adaptation of Naked Attraction",
-        "Genre": "Reality competition",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Runtime": "TBA",
-        "Language": "Spanish",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Untitled Spanish adaptation of The Traitors",
         "Genre": "Reality competition",
         "Premiere": "TBA",
         "Seasons": "TBA",
@@ -2722,10 +2725,6 @@
       {
         "Title": "Skinny Dip",
         "Genre": "Romantic comedy"
-      },
-      {
-        "Title": "Stuart Fails to Save the Universe",
-        "Genre": "Comedy"
       },
       {
         "Title": "Unfriendly Black Hotties",

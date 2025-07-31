@@ -60,15 +60,6 @@
         "Source": ""
       },
       {
-        "Title": "Stroker and Hoop",
-        "Genre": "Studio B Productions",
-        "Show creator(s)": "Jeffrey G. Olsen",
-        "Studio": "Turner Studios",
-        "Age rating": "TV-14",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "The Flintstones",
         "Genre": "Sitcom",
         "Seasons/episodes": "6 seasons, 166 episodes",
@@ -112,9 +103,8 @@
         "Original release": "April 23, 1982 - May 7, 1982",
         "Network": "NBC",
         "Studio": "Hanna-Barbera",
-        "Age rating": "TV-NR",
-        "Technique": "Traditional",
-        "Source": ""
+        "Age rating": "Traditional",
+        "Technique": ""
       },
       {
         "Title": "The Simpsons",
@@ -127,17 +117,6 @@
         "Age rating": "TV-PG",
         "Technique": "Traditional",
         "Source": ""
-      },
-      {
-        "Title": "The Ren &amp; Stimpy Show",
-        "Genre": "Comedy",
-        "Seasons/episodes": "5 seasons, 52 episodes",
-        "Show creator(s)": "John Kricfalusi",
-        "Original release": "August 11, 1991 – October 20, 1996",
-        "Network": "Nickelodeon",
-        "Studio": "Spümcø",
-        "Age rating": "TV-Y7",
-        "Technique": "Traditional"
       },
       {
         "Title": "Æon Flux",
@@ -838,26 +817,14 @@
       {
         "Title": "Stroker and Hoop",
         "Genre": "Action",
-        "Seasons/episodes": "1 season, 13 episodes",
-        "Show creator(s)": "Casper Kelly",
-        "Original release": "August 1, 2004 – December 25, 2005",
-        "Network": "Adult Swim",
-        "Studio": "Williams Street",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "The Venture Bros.",
-        "Genre": "Action-Adventure",
-        "Seasons/episodes": "7 seasons, 81 episodes",
-        "Show creator(s)": "Jackson Publick",
-        "Original release": "August 7, 2004 – October 7, 2018",
-        "Network": "Adult Swim",
-        "Studio": "NoodleSoup Productions",
-        "Age rating": "TV-14",
-        "Technique": "Traditional",
-        "Source": ""
+        "Seasons/episodes": "Comedy",
+        "Show creator(s)": "1 season, 13 episodes",
+        "Original release": "Casper Kelly",
+        "Network": "August 1, 2004 – December 25, 2005",
+        "Studio": "Adult Swim",
+        "Age rating": "Williams Street",
+        "Technique": "TV-MA",
+        "Source": "Flash"
       },
       {
         "Title": "Father of the Pride",
@@ -1400,17 +1367,6 @@
         "Source": ""
       },
       {
-        "Title": "Regular Show",
-        "Genre": "Animated sitcom Adventure",
-        "Seasons/episodes": "8 seasons, 261 episodes",
-        "Show creator(s)": "J. G. Quintel",
-        "Original release": "September 6, 2010 – January 16, 2017",
-        "Network": "Cartoon Network",
-        "Studio": "Cartoon Network Studios",
-        "Age rating": "TV-PG",
-        "Technique": "Traditional"
-      },
-      {
         "Title": "Off the Air",
         "Genre": "Anthology",
         "Seasons/episodes": "14 seasons, 52 episodes",
@@ -1511,7 +1467,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "David Hornsby",
-        "Original release": "January 19, 2012 –December 20, 2012",
+        "Original release": "January 19, 2012 – December 20, 2012",
         "Network": "FX",
         "Studio": "Floyd County Productions",
         "Age rating": "TV-MA",
@@ -1559,7 +1515,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "Matt Burnett",
-        "Original release": "July 13-September 28, 2013",
+        "Original release": "July 13 - September 28, 2013",
         "Network": "CMT",
         "Studio": "Bell Broadcast and New Media Fund",
         "Age rating": "TV-14",
@@ -1629,7 +1585,7 @@
       {
         "Title": "Rick and Morty",
         "Genre": "Science fiction",
-        "Seasons/episodes": "8 seasons, 76 episodes",
+        "Seasons/episodes": "8 seasons, 81 episodes",
         "Show creator(s)": "Justin Roiland",
         "Original release": "December 2, 2013 – present",
         "Network": "Adult Swim",
@@ -2315,7 +2271,7 @@
         "Genre": "Action",
         "Seasons/episodes": "1 season, 2 episodes",
         "Show creator(s)": "J. M. DeMatteis",
-        "Original release": "January 6–November 24, 2020",
+        "Original release": "January 6 – November 24, 2020",
         "Network": "CW Seed",
         "Studio": "Warner Bros. Animation",
         "Age rating": "TV-14",
@@ -2979,13 +2935,13 @@
         "Network": "Netflix",
         "Studio": "Sony Pictures Animation",
         "Age rating": "TV-MA",
-        "Technique": "Traditional",
+        "Technique": "Flash",
         "Source": ""
       },
       {
         "Title": "Digman!",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "2 seasons, 9 episodes",
         "Show creator(s)": "Andy Samberg",
         "Original release": "March 22, 2023 – present",
         "Network": "Comedy Central",
@@ -3023,7 +2979,7 @@
         "Genre": "Fantasy drama",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Genndy Tartakovsky",
-        "Original release": "May 5, 2023 – present",
+        "Original release": "May 5 – June 30, 2023",
         "Network": "Adult Swim",
         "Studio": "Cartoon Network Studios",
         "Age rating": "TV-PG",
@@ -3035,7 +2991,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 20 episodes",
         "Show creator(s)": "Robert Carlock",
-        "Original release": "May 12, 2023 – present",
+        "Original release": "May 12, 2023 – May 24, 2024",
         "Network": "Netflix",
         "Studio": "Little Stranger, Inc.",
         "Age rating": "TV-14",
@@ -3227,7 +3183,7 @@
         "Genre": "Dark comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Cirocco Dunlap",
-        "Original release": "February 23, 2024 - present",
+        "Original release": "February 23, 2024 – present",
         "Network": "Amazon Prime Video",
         "Studio": "Animal Pictures",
         "Age rating": "",
@@ -3247,11 +3203,23 @@
         "Source": ""
       },
       {
+        "Title": "Ren &amp; Stimpy (2024)",
+        "Genre": "Comedy",
+        "Seasons/episodes": "1 season, 10 episodes",
+        "Show creator(s)": "Bob Camp",
+        "Original release": "June 30, 2024 – present",
+        "Network": "Comedy Central",
+        "Studio": "Awesome Inc",
+        "Age rating": "",
+        "Technique": "Traditional/Flash",
+        "Source": ""
+      },
+      {
         "Title": "Sausage Party: Foodtopia",
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 8 episodes",
         "Show creator(s)": "Seth Rogen",
-        "Original release": "July 11, 2024 - present",
+        "Original release": "July 11, 2024 – present",
         "Network": "Amazon Prime Video",
         "Studio": "Amazon MGM Studios",
         "Age rating": "TV-MA",
@@ -3299,7 +3267,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 13 episodes",
         "Show creator(s)": "Adam and Craig Malamut",
-        "Original release": "September 8, 2024 - present",
+        "Original release": "September 8, 2024 – present",
         "Network": "Fox",
         "Studio": "Mutsack Productions",
         "Age rating": "",
@@ -3406,16 +3374,6 @@
         "Original release": "1986 – 1987",
         "Network": "Channel 4",
         "Studio": "Virgin Group",
-        "Source": ""
-      },
-      {
-        "Title": "The Animals of Farthing Wood",
-        "Genre": "Adventure, Drama",
-        "Series/episodes": "3 seasons, 39 episodes",
-        "Show creator(s)": "based on the book created by Colin Dann",
-        "Original release": "January 6, 1993 - 21 December 1995",
-        "Network": "CBBC",
-        "Studio": "Telemagination\nLa Fabrique",
         "Source": ""
       },
       {
