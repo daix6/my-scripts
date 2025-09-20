@@ -14,7 +14,7 @@
       {
         "Title": "Beavis and Butt-Head",
         "Genre": "Sitcom",
-        "Seasons/episodes": "8 seasons, 222 episodes",
+        "Seasons/episodes": "11 seasons, 274 episodes",
         "Show creator(s)": "Mike Judge",
         "Original release": "2nd Revival series",
         "Network": "Paramount+",
@@ -22,6 +22,18 @@
         "Age rating": "",
         "Technique": "Traditional",
         "Source": ""
+      },
+      {
+        "Title": "Stroker and Hoop",
+        "Genre": "The Venture Bros.",
+        "Seasons/episodes": "Action-Adventure",
+        "Show creator(s)": "1 season, 13 episodes",
+        "Original release": "7 seasons, 81 episodes",
+        "Network": "August 1, 2004 – December 25, 2005",
+        "Studio": "Adult Swim",
+        "Age rating": "Jackson Publick",
+        "Technique": "August 7, 2004 – October 7, 2018",
+        "Source": "Flash"
       },
       {
         "Title": "The Adventures of OG Sherlock Kush",
@@ -104,7 +116,8 @@
         "Network": "NBC",
         "Studio": "Hanna-Barbera",
         "Age rating": "Traditional",
-        "Technique": ""
+        "Technique": "",
+        "Source": ""
       },
       {
         "Title": "The Simpsons",
@@ -181,7 +194,7 @@
       {
         "Title": "Beavis and Butt-Head",
         "Genre": "Sitcom",
-        "Seasons/episodes": "8 seasons, 222 episodes",
+        "Seasons/episodes": "11 seasons, 274 episodes",
         "Show creator(s)": "Mike Judge",
         "Original release": "Original series: March 8, 1993&#160;– November 28, 1997",
         "Network": "MTV",
@@ -193,7 +206,7 @@
       {
         "Title": "Beavis and Butt-Head",
         "Genre": "Sitcom",
-        "Seasons/episodes": "8 seasons, 222 episodes",
+        "Seasons/episodes": "11 seasons, 274 episodes",
         "Show creator(s)": "Mike Judge",
         "Original release": "Revival series: October 27 – December 29, 2011",
         "Network": "Comedy Central",
@@ -301,9 +314,9 @@
       {
         "Title": "King of the Hill",
         "Genre": "Sitcom",
-        "Seasons/episodes": "13 seasons, 259 episodes",
+        "Seasons/episodes": "14 seasons, 269 episodes",
         "Show creator(s)": "Mike Judge",
-        "Original release": "January 12, 1997 – May 6, 2010",
+        "Original release": "January 12, 1997 – present",
         "Network": "Fox",
         "Studio": "Film Roman",
         "Age rating": "TV-PG",
@@ -452,6 +465,18 @@
         "Studio": "The Curiosity Company",
         "Age rating": "TV-14",
         "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Home Movies",
+        "Genre": "Sitcom",
+        "Seasons/episodes": "4 seasons, 52 episodes",
+        "Show creator(s)": "Brendon Small",
+        "Original release": "",
+        "Network": "UPN",
+        "Studio": "Burns &amp; Burns Productions",
+        "Age rating": "",
+        "Technique": "",
         "Source": ""
       },
       {
@@ -1055,18 +1080,6 @@
         "Source": ""
       },
       {
-        "Title": "Happy Tree Friends",
-        "Genre": "Dark Comedy",
-        "Seasons/episodes": "1 season, 13 episodes",
-        "Show creator(s)": "Aubrey Ankrum",
-        "Original release": "September 25, 2006 – December 25, 2006",
-        "Network": "G4",
-        "Studio": "Mondo Media",
-        "Age rating": "TV-MA",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "Frisky Dingo",
         "Genre": "Action",
         "Seasons/episodes": "2 seasons, 25 episodes",
@@ -1381,7 +1394,7 @@
       {
         "Title": "Bob's Burgers",
         "Genre": "Sitcom",
-        "Seasons/episodes": "15 seasons, 291 episodes",
+        "Seasons/episodes": "15 seasons, 298 episodes",
         "Show creator(s)": "Loren Bouchard",
         "Original release": "January 9, 2011 – present",
         "Network": "Fox",
@@ -1887,7 +1900,7 @@
         "Genre": "Sitcom",
         "Seasons/episodes": "4 seasons, 41 episodes",
         "Show creator(s)": "Nick Kroll",
-        "Original release": "September 29, 2017 – present",
+        "Original release": "September 29, 2017 – May 23, 2025",
         "Network": "Netflix",
         "Studio": "Danger Goldberg Productions",
         "Age rating": "TV-MA",
@@ -2941,7 +2954,7 @@
       {
         "Title": "Digman!",
         "Genre": "Comedy",
-        "Seasons/episodes": "2 seasons, 9 episodes",
+        "Seasons/episodes": "2 seasons, 13 episodes",
         "Show creator(s)": "Andy Samberg",
         "Original release": "March 22, 2023 – present",
         "Network": "Comedy Central",
@@ -3051,7 +3064,7 @@
         "Genre": "Science fantasy",
         "Seasons/episodes": "1 season, 10 episodes",
         "Show creator(s)": "Adam Muto",
-        "Original release": "August 31 – present",
+        "Original release": "August 31, 2023 – present",
         "Network": "Max",
         "Studio": "Cartoon Network Studios",
         "Age rating": "",
@@ -3217,7 +3230,7 @@
       {
         "Title": "Sausage Party: Foodtopia",
         "Genre": "Comedy",
-        "Seasons/episodes": "1 season, 8 episodes",
+        "Seasons/episodes": "2 seasons, 16 episodes",
         "Show creator(s)": "Seth Rogen",
         "Original release": "July 11, 2024 – present",
         "Network": "Amazon Prime Video",
@@ -3357,6 +3370,18 @@
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""
+      },
+      {
+        "Title": "Long Story Short",
+        "Genre": "Comedy",
+        "Seasons/episodes": "TBA",
+        "Show creator(s)": "Raphael Bob-Waksberg",
+        "Original release": "August 22, 2025",
+        "Network": "Netflix",
+        "Studio": "Netflix Animation",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
       }
     ]
   },
@@ -3371,7 +3396,7 @@
         "Genre": "Comedy",
         "Seasons/episodes": "1 season, 22 episodes",
         "Show creator(s)": "Terry Adlam",
-        "Original release": "1986 – 1987",
+        "Original release": "1987",
         "Network": "Channel 4",
         "Studio": "Virgin Group",
         "Source": ""
@@ -4100,6 +4125,33 @@
         "Source": ""
       },
       {
+        "Title": "Happy Tree Friends",
+        "Genre": "Dark comedy",
+        "Show creator(s)": "1 season, 13 episodes",
+        "Original release": "Aubrey Ankrum",
+        "Network": "September 25, 2006 – December 25, 2006",
+        "Studio": "G4",
+        "Source": "Mondo Media"
+      },
+      {
+        "Title": "Happy Tree Friends",
+        "Genre": "Splatter",
+        "Show creator(s)": "1 season, 13 episodes",
+        "Original release": "Rhode Montijo",
+        "Network": "September 25, 2006 – December 25, 2006",
+        "Studio": "G4",
+        "Source": "Mondo Media"
+      },
+      {
+        "Title": "Happy Tree Friends",
+        "Genre": "Splatter",
+        "Show creator(s)": "1 season, 13 episodes",
+        "Original release": "Kenn Navarro",
+        "Network": "September 25, 2006 – December 25, 2006",
+        "Studio": "G4",
+        "Source": "Mondo Media"
+      },
+      {
         "Title": "Snake 'n' Bacon",
         "Genre": "Comedy",
         "Show creator(s)": "Michael Kupperman",
@@ -4208,6 +4260,19 @@
         "Network": "Netflix",
         "Studio": "Combo Estúdio",
         "Source": ""
+      },
+      {
+        "Title": "Women Wearing Shoulder Pads",
+        "Country": "Mexico",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Gonzalo Cordova",
+        "Release date": "August 17, 2025 – present",
+        "Original channel": "Adult Swim",
+        "Studio": "Cinema Fantasma",
+        "Age rating": "TV-MA",
+        "Technique": "Stop-Motion",
+        "Source": ""
       }
     ]
   },
@@ -4299,45 +4364,9 @@
     ],
     "data": [
       {
-        "Title": "Standing By",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Dan Levy",
-        "Release date": "August 8, 2025",
-        "Original channel": "Hulu",
-        "Studio": "20th Television Animation",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
-        "Title": "Women Wearing Shoulder Pads",
-        "Genre": "",
-        "Seasons, episodes": "TBA",
-        "Show creator": "Gonzalo Cordova",
-        "Release date": "August 17, 2025",
-        "Original channel": "Adult Swim",
-        "Studio": "Cinema Fantasma",
-        "Age rating": "",
-        "Technique": "Stop-Motion",
-        "Source": ""
-      },
-      {
-        "Title": "Long Story Short",
-        "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
-        "Show creator": "TBA",
-        "Release date": "August 22, 2025",
-        "Original channel": "Netflix",
-        "Studio": "Netflix Animation",
-        "Age rating": "",
-        "Technique": "Flash",
-        "Source": ""
-      },
-      {
         "Title": "Haunted Hotel",
         "Genre": "Comedy",
-        "Seasons, episodes": "TBA",
+        "Seasons, episodes": "1 season, 10 episodes",
         "Show creator": "Matt Roller",
         "Release date": "September 19, 2025",
         "Original channel": "Netflix",
@@ -4351,11 +4380,47 @@
         "Genre": "Superhero",
         "Seasons, episodes": "TBA",
         "Show creator": "TBA",
-        "Release date": "October 2025",
+        "Release date": "September 24, 2025",
         "Original channel": "Disney+",
         "Studio": "Marvel Studios",
         "Age rating": "TV-MA",
         "Technique": "CGI",
+        "Source": ""
+      },
+      {
+        "Title": "HaHa, You Clowns",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Joe Cappa",
+        "Release date": "October 19, 2025",
+        "Original channel": "Adult Swim",
+        "Studio": "Williams Street",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Mighty Nein",
+        "Genre": "Fantasy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Critical Role",
+        "Release date": "November 19, 2025",
+        "Original channel": "Amazon Prime Video",
+        "Studio": "Amazon MGM Studios",
+        "Age rating": "",
+        "Technique": "Traditional",
+        "Source": ""
+      },
+      {
+        "Title": "Alley Cats",
+        "Genre": "Comedy",
+        "Seasons, episodes": "TBA",
+        "Show creator": "Ricky Gervais",
+        "Release date": "2026",
+        "Original channel": "Netflix",
+        "Studio": "Derek Production",
+        "Age rating": "",
+        "Technique": "Flash",
         "Source": ""
       },
       {
@@ -4366,6 +4431,18 @@
         "Release date": "2026",
         "Original channel": "Netflix",
         "Studio": "Titmouse, Inc.",
+        "Age rating": "",
+        "Technique": "Flash",
+        "Source": ""
+      },
+      {
+        "Title": "Strip Law",
+        "Genre": "Comedy",
+        "Seasons, episodes": "1 season, 10 episodes",
+        "Show creator": "Cullen Crawford",
+        "Release date": "February 20, 2026",
+        "Original channel": "Netflix",
+        "Studio": "Underground",
         "Age rating": "",
         "Technique": "Flash",
         "Source": ""

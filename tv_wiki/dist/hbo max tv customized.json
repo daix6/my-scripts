@@ -1,335 +1,51 @@
 [
   {
-    "category": [],
-    "data": []
-  },
-  {
     "category": [
-      "Original programming",
+      "Current programming",
       "Drama"
     ],
     "data": [
-      {
-        "Title": "Raised by Wolves",
-        "Genre": "Science fiction",
-        "Premiere": "September 3, 2020",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "39–54 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Gossip Girl",
-        "Genre": "Teen drama",
-        "Premiere": "July 8, 2021",
-        "Seasons": "2 seasons, 22 episodes",
-        "Runtime": "53–57 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Station Eleven",
-        "Genre": "Post-apocalyptic drama",
-        "Premiere": "December 16, 2021",
-        "Seasons": "10 episodes",
-        "Runtime": "44–59 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "DMZ",
-        "Genre": "Dystopian alternate history drama",
-        "Premiere": "March 17, 2022",
-        "Seasons": "4 episodes",
-        "Runtime": "58–60 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Julia",
-        "Genre": "Biographical drama",
-        "Premiere": "March 31, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "43–49 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Tokyo Vice",
-        "Genre": "Crime drama",
-        "Premiere": "April 7, 2022",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "51–64 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Staircase",
-        "Genre": "Biographical crime drama",
-        "Premiere": "May 5, 2022",
-        "Seasons": "8 episodes",
-        "Runtime": "59–73 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Pretty Little Liars",
-        "Genre": "Teen mystery crime thriller",
-        "Premiere": "July 28, 2022",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "47–53 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Love &amp; Death",
-        "Genre": "Biographical crime drama",
-        "Premiere": "April 27, 2023",
-        "Seasons": "7 episodes",
-        "Runtime": "45–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Full Circle",
-        "Genre": "Mystery",
-        "Premiere": "July 13, 2023",
-        "Seasons": "6 episodes",
-        "Runtime": "37–59 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Girls on the Bus",
-        "Genre": "Political comedy drama",
-        "Premiere": "March 14, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "42–49 min",
-        "Status": "Ended"
-      },
       {
         "Title": "The Pitt",
         "Genre": "Medical drama",
         "Premiere": "January 9, 2025",
         "Seasons": "1 season, 15 episodes",
         "Runtime": "40–60 min",
-        "Status": "Season 2 due to premiere in January 2026"
-      },
-      {
-        "Title": "Duster",
-        "Genre": "Crime thriller",
-        "Premiere": "May 15, 2025",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "52 min",
-        "Status": "Season 1 ongoing"
+        "Status": "Season 2 due to premiere on January 8, 2026"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Comedy"
     ],
     "data": [
-      {
-        "Title": "Love Life",
-        "Genre": "Romantic comedy anthology",
-        "Premiere": "May 27, 2020",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "24–35 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Flight Attendant",
-        "Genre": "Mystery drama/Dark comedy",
-        "Premiere": "November 26, 2020",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "37–48 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Generation",
-        "Genre": "Teen comedy drama",
-        "Premiere": "March 11, 2021",
-        "Seasons": "1 season, 16 episodes",
-        "Runtime": "26–37 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Made for Love",
-        "Genre": "Dark comedy",
-        "Premiere": "April 1, 2021",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "24–32 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "That Damn Michael Che",
-        "Genre": "Sketch comedy",
-        "Premiere": "May 6, 2021",
-        "Seasons": "2 seasons, 12 episodes",
-        "Runtime": "19–23 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Hacks",
         "Genre": "Black comedy drama",
         "Premiere": "May 13, 2021",
         "Seasons": "4 seasons, 37 episodes",
         "Runtime": "24–37 min",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "The Sex Lives of College Girls",
-        "Genre": "Comedy drama",
-        "Premiere": "November 18, 2021",
-        "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "22–51 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "And Just Like That...",
-        "Genre": "Romantic comedy",
-        "Premiere": "December 9, 2021",
-        "Seasons": "3 seasons, 33 episodes",
-        "Runtime": "34–45 min",
-        "Status": "Season 3 ongoing"
+        "Status": "Renewed for final season"
       },
       {
         "Title": "Peacemaker",
         "Genre": "Superhero comedy drama",
         "Premiere": "January 13, 2022",
-        "Seasons": "1 season, 8 episodes",
+        "Seasons": "2 seasons, 16 episodes",
         "Runtime": "38–44 min",
-        "Status": "Season 2 due to premiere on August 21, 2025"
-      },
-      {
-        "Title": "Our Flag Means Death",
-        "Genre": "Period comedy",
-        "Premiere": "March 3, 2022",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "25–32 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Minx",
-        "Genre": "Comedy",
-        "Premiere": "March 17, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–35 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Rap Sh!t",
-        "Genre": "Music comedy",
-        "Premiere": "July 21, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "27–37 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Bookie",
-        "Genre": "Comedy",
-        "Premiere": "November 30, 2023",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "21–28 min",
-        "Status": "Ended"
+        "Status": "Season 2 ongoing"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
-      "Kids &amp; family"
-    ],
-    "data": [
-      {
-        "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime! Shorts!",
-        "Genre": "Family comedy",
-        "Premiere": "September 17, 2020",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "4–8 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "My Sesame Street Friends",
-        "Genre": "Preschool education",
-        "Premiere": "November 12, 2020",
-        "Seasons": "15 seasons, 195 episodes",
-        "Runtime": "11–12 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Head of the Class",
-        "Genre": "Teen sitcom",
-        "Premiere": "November 4, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "21–27 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Garcias",
-        "Genre": "Family sitcom",
-        "Premiere": "April 14, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–28 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Gordita Chronicles",
-        "Genre": "Coming-of-age comedy",
-        "Premiere": "June 23, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–30 min",
-        "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
+      "Current programming",
       "Animation",
       "Adult animation"
     ],
     "data": [
-      {
-        "Title": "Close Enough",
-        "Genre": "Surreal comedy",
-        "Premiere": "July 9, 2020",
-        "Seasons": "3 seasons, 24 episodes",
-        "Runtime": "22–24 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Prince",
-        "Genre": "Political satire/sitcom",
-        "Premiere": "July 29, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "12–14 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Ten Year Old Tom",
-        "Genre": "Sitcom",
-        "Premiere": "September 30, 2021",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "25–28 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Santa Inc.",
-        "Genre": "Workplace comedy",
-        "Premiere": "December 2, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "21–25 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Velma",
-        "Genre": "Mystery horror comedy",
-        "Premiere": "January 12, 2023",
-        "Seasons": "2 seasons, 21 episodes",
-        "Runtime": "23–28 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Fired on Mars",
-        "Genre": "Science fiction workplace comedy",
-        "Premiere": "April 20, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "23–31 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Adventure Time: Fionna and Cake",
         "Genre": "Fantasy adventure comedy",
@@ -337,30 +53,6 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "24–27 min",
         "Status": "Season 2 due to premiere in 2025"
-      },
-      {
-        "Title": "Young Love",
-        "Genre": "Family sitcom",
-        "Premiere": "September 21, 2023",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "20–26 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Scavengers Reign",
-        "Genre": "Science fiction drama",
-        "Premiere": "October 19, 2023",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "23–27 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Kite Man: Hell Yeah!",
-        "Genre": "Superhero comedy",
-        "Premiere": "July 18, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "23 min",
-        "Status": "Pending"
       },
       {
         "Title": "Creature Commandos",
@@ -374,55 +66,10 @@
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Non-English language scripted"
     ],
     "data": [
-      {
-        "Title": "The Informant",
-        "Genre": "Spy thriller",
-        "Premiere": "April 1, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "40–46 min",
-        "Language": "Hungarian",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dafne and the Rest",
-        "Genre": "Comedy drama",
-        "Premiere": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}October 26, 2021December 10, 2021&#91;d&#93;",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "30 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Kamikaze",
-        "Genre": "Young adult thriller drama",
-        "Premiere": "November 14, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "22–35 min",
-        "Language": "Danish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Ruxx",
-        "Genre": "Comedy drama",
-        "Premiere": "March 8, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "44–50 min",
-        "Language": "Romanian",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Lust",
-        "Genre": "Sex comedy",
-        "Premiere": "March 18, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "25–29 min",
-        "Language": "Swedish",
-        "Status": "Ended"
-      },
       {
         "Title": "The Thaw",
         "Genre": "Crime drama",
@@ -431,69 +78,6 @@
         "Runtime": "46–55 min",
         "Language": "Polish",
         "Status": "Renewed"
-      },
-      {
-        "Title": "García!",
-        "Genre": "Science fiction thriller",
-        "Premiere": "October 28, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "54–59 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "This Is Luna",
-        "Genre": "Romantic comedy",
-        "Premiere": "November 13, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "29–35 min",
-        "Language": "Portuguese",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Poor Devil",
-        "Genre": "Adult animation",
-        "Premiere": "February 17, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "15–23 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Mariachis",
-        "Genre": "Comedy drama",
-        "Premiere": "March 2, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "32–47 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "#BringBackAlice",
-        "Genre": "Mystery thriller",
-        "Premiere": "April 14, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "49–54 min",
-        "Language": "Polish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Headless Chickens",
-        "Genre": "Sports comedy drama",
-        "Premiere": "April 28, 2023",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "24–31 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Spy/Master",
-        "Genre": "Spy drama",
-        "Premiere": "May 19, 2023",
-        "Seasons": "6 episodes",
-        "Runtime": "44–51 min",
-        "Language": "Romanian",
-        "Status": "Miniseries"
       },
       {
         "Title": "VGLY",
@@ -505,85 +89,13 @@
         "Status": "Renewed"
       },
       {
-        "Title": "My Magic Closet",
-        "Genre": "Romantic fantasy drama",
-        "Premiere": "July 20, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "35–42 min",
-        "Language": "PortugueseKorean",
-        "Status": "Ended"
-      },
-      {
-        "Title": "I Love You and It Hurts",
-        "Genre": "Teen drama",
-        "Premiere": "August 17, 2023",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "34–45 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Candy Cruz",
-        "Genre": "Comedy",
-        "Premiere": "October 19, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "27–33 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Teenage Kiss: The Future Is Dead",
-        "Genre": "Teen drama",
-        "Premiere": "October 19, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "23–32 min",
-        "Language": "Portuguese",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Divided Youth",
-        "Genre": "Teen drama",
-        "Premiere": "April 4, 2024",
-        "Seasons": "1 season, 7 episodes",
-        "Runtime": "34–51 min",
-        "Language": "Portuguese",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Six Is Not a Crowd",
-        "Genre": "Comedy drama",
-        "Premiere": "May 2, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "33–42 min",
-        "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "MILF of Norway",
-        "Genre": "Comedy",
-        "Premiere": "May 21, 2024July 11, 2024&#91;f&#93;",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "26 min",
-        "Language": "Norwegian",
-        "Status": "Ended"
-      },
-      {
         "Title": "Margarita",
         "Genre": "Family comedy drama telenovela",
         "Premiere": "September 2, 2024",
         "Seasons": "1 season, 40 episodes",
         "Runtime": "39–42 min",
         "Language": "Spanish",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Confidante",
-        "Genre": "Drama",
-        "Premiere": "October 11, 2024",
-        "Seasons": "4 episodes",
-        "Runtime": "56 min",
-        "Language": "French",
-        "Status": "Miniseries"
+        "Status": "Renewed"
       },
       {
         "Title": "X-Rated Queen",
@@ -593,15 +105,6 @@
         "Runtime": "43–47 min",
         "Language": "Polish",
         "Status": "Pending"
-      },
-      {
-        "Title": "Scars of Beauty",
-        "Genre": "Telenovela",
-        "Premiere": "January 27, 2025",
-        "Seasons": "40 episodes",
-        "Runtime": "47–60 min",
-        "Language": "Portuguese",
-        "Status": "Ongoing"
       },
       {
         "Title": "The Eastern Gate",
@@ -653,15 +156,679 @@
         "Genre": "Biographical drama",
         "Premiere": "June 5, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Runtime": "47 min",
+        "Runtime": "43–50 min",
         "Language": "Spanish",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Graft",
+        "Genre": "Drama",
+        "Premiere": "September 26, 2025",
+        "Seasons": "TBA",
+        "Runtime": "TBA",
+        "Language": "Turkish",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Seduction",
+        "Genre": "Period drama",
+        "Premiere": "November 14, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "52 min",
+        "Language": "French",
+        "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Bea's Block",
+        "Genre": "Family comedy",
+        "Partner/Country": "Sky Kids/United Kingdom",
+        "Premiere": "February 15, 2024",
+        "Seasons": "1 season, 20 episodes",
+        "Runtime": "24 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dylan's Playtime Adventures",
+        "Genre": "Preschool comedy",
+        "Partner/Country": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}CBC Kids/CanadaCBeebies/United Kingdom",
+        "Premiere": "March 6, 2025",
+        "Seasons": "1 season, 19 episodes",
+        "Runtime": "22 min",
+        "Language": "English",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Harley Quinn (seasons 3–5)",
+        "Genre": "Adult animated superhero dark comedy",
+        "Prev. network(s)": "DC Universe",
+        "Premiere": "July 28, 2022",
+        "Seasons": "3 seasons, 31 episodes",
+        "Runtime": "22–44 min",
+        "Language": "English",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Prince (season 3)",
+        "Genre": "Satire",
+        "Prev. network(s)": "BluTV",
+        "Premiere": "May 9, 2025August 15, 2025&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "46–65 min",
+        "Language": "Turkish",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Regional original programming"
+    ],
+    "data": [
+      {
+        "Title": "Divina Comida México",
+        "Genre": "Reality",
+        "Premiere": "October 27, 2022",
+        "Seasons": "3 seasons, 44 episodes",
+        "Runtime": "34–47 min",
+        "Exclusive region(s)": "Latin America",
+        "Language": "Spanish",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "Raised by Wolves",
+        "Genre": "Science fiction",
+        "Premiere": "September 3, 2020",
+        "Finale": "March 17, 2022",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "39–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Gossip Girl",
+        "Genre": "Teen drama",
+        "Premiere": "July 8, 2021",
+        "Finale": "January 26, 2023",
+        "Seasons": "2 seasons, 22 episodes",
+        "Runtime": "53–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Station Eleven",
+        "Genre": "Post-apocalyptic drama",
+        "Premiere": "December 16, 2021",
+        "Finale": "January 13, 2022",
+        "Seasons": "10 episodes",
+        "Runtime": "44–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "DMZ",
+        "Genre": "Dystopian alternate history drama",
+        "Premiere": "March 17, 2022",
+        "Finale": "March 17, 2022",
+        "Seasons": "4 episodes",
+        "Runtime": "58–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Julia",
+        "Genre": "Biographical drama",
+        "Premiere": "March 31, 2022",
+        "Finale": "December 21, 2023",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "43–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Tokyo Vice",
+        "Genre": "Crime drama",
+        "Premiere": "April 7, 2022",
+        "Finale": "April 4, 2024",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "51–64 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Staircase",
+        "Genre": "Biographical crime drama",
+        "Premiere": "May 5, 2022",
+        "Finale": "June 9, 2022",
+        "Seasons": "8 episodes",
+        "Runtime": "59–73 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Pretty Little Liars",
+        "Genre": "Teen mystery crime thriller",
+        "Premiere": "July 28, 2022",
+        "Finale": "June 20, 2024",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "47–53 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Love &amp; Death",
+        "Genre": "Biographical crime drama",
+        "Premiere": "April 27, 2023",
+        "Finale": "May 25, 2023",
+        "Seasons": "7 episodes",
+        "Runtime": "45–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Full Circle",
+        "Genre": "Mystery",
+        "Premiere": "July 13, 2023",
+        "Finale": "July 27, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "37–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Girls on the Bus",
+        "Genre": "Political comedy drama",
+        "Premiere": "March 14, 2024",
+        "Finale": "May 9, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "42–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Duster",
+        "Genre": "Crime thriller",
+        "Premiere": "May 15, 2025",
+        "Finale": "July 3, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–54 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Love Life",
+        "Genre": "Romantic comedy anthology",
+        "Premiere": "May 27, 2020",
+        "Finale": "November 11, 2021",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "24–35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Flight Attendant",
+        "Genre": "Mystery drama/Dark comedy",
+        "Premiere": "November 26, 2020",
+        "Finale": "May 26, 2022",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "37–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Generation",
+        "Genre": "Teen comedy drama",
+        "Premiere": "March 11, 2021",
+        "Finale": "July 8, 2021",
+        "Seasons": "1 season, 16 episodes",
+        "Runtime": "26–37 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Made for Love",
+        "Genre": "Dark comedy",
+        "Premiere": "April 1, 2021",
+        "Finale": "May 19, 2022",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "24–32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "That Damn Michael Che",
+        "Genre": "Sketch comedy",
+        "Premiere": "May 6, 2021",
+        "Finale": "May 26, 2022",
+        "Seasons": "2 seasons, 12 episodes",
+        "Runtime": "19–23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Sex Lives of College Girls",
+        "Genre": "Comedy drama",
+        "Premiere": "November 18, 2021",
+        "Finale": "January 23, 2025",
+        "Seasons": "3 seasons, 30 episodes",
+        "Runtime": "22–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "And Just Like That...",
+        "Genre": "Romantic comedy",
+        "Premiere": "December 9, 2021",
+        "Finale": "August 14, 2025",
+        "Seasons": "3 seasons, 33 episodes",
+        "Runtime": "34–45 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Our Flag Means Death",
+        "Genre": "Period comedy",
+        "Premiere": "March 3, 2022",
+        "Finale": "October 26, 2023",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "25–32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Minx",
+        "Genre": "Comedy",
+        "Premiere": "March 17, 2022",
+        "Finale": "April 14, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24–35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Rap Sh!t",
+        "Genre": "Music comedy",
+        "Premiere": "July 21, 2022",
+        "Finale": "December 21, 2023",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "27–37 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Bookie",
+        "Genre": "Comedy",
+        "Premiere": "November 30, 2023",
+        "Finale": "January 30, 2025",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "21–28 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Mo Willems and The Storytime All-Stars Present: Don't Let the Pigeon Do Storytime! Shorts!",
+        "Genre": "Family comedy",
+        "Premiere": "September 17, 2020",
+        "Finale": "September 17, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "4–8 min",
+        "Notes": ""
+      },
+      {
+        "Title": "My Sesame Street Friends",
+        "Genre": "Preschool education",
+        "Premiere": "November 12, 2020",
+        "Finale": "January 15, 2025",
+        "Seasons": "15 seasons, 195 episodes",
+        "Runtime": "11–12 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Head of the Class",
+        "Genre": "Teen sitcom",
+        "Premiere": "November 4, 2021",
+        "Finale": "November 4, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "21–27 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Garcias",
+        "Genre": "Family sitcom",
+        "Premiere": "April 14, 2022",
+        "Finale": "May 12, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Gordita Chronicles",
+        "Genre": "Coming-of-age comedy",
+        "Premiere": "June 23, 2022",
+        "Finale": "June 23, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24–30 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Close Enough",
+        "Genre": "Surreal comedy",
+        "Premiere": "July 9, 2020",
+        "Finale": "April 7, 2022",
+        "Seasons": "3 seasons, 24 episodes",
+        "Runtime": "22–24 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Prince",
+        "Genre": "Political satire/sitcom",
+        "Premiere": "July 29, 2021",
+        "Finale": "July 29, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "12–14 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Ten Year Old Tom",
+        "Genre": "Sitcom",
+        "Premiere": "September 30, 2021",
+        "Finale": "June 29, 2023",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "25–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Santa Inc.",
+        "Genre": "Workplace comedy",
+        "Premiere": "December 2, 2021",
+        "Finale": "December 2, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "21–25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Velma",
+        "Genre": "Mystery horror comedy",
+        "Premiere": "January 12, 2023",
+        "Finale": "October 3, 2024",
+        "Seasons": "2 seasons, 21 episodes",
+        "Runtime": "23–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Fired on Mars",
+        "Genre": "Science fiction workplace comedy",
+        "Premiere": "April 20, 2023",
+        "Finale": "May 11, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "23–31 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Young Love",
+        "Genre": "Family sitcom",
+        "Premiere": "September 21, 2023",
+        "Finale": "October 19, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "20–26 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Scavengers Reign",
+        "Genre": "Science fiction drama",
+        "Premiere": "October 19, 2023",
+        "Finale": "November 9, 2023",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "23–27 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Kite Man: Hell Yeah!",
+        "Genre": "Superhero comedy",
+        "Premiere": "July 18, 2024",
+        "Finale": "September 12, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "23–24 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Non-English language scripted"
+    ],
+    "data": [
+      {
+        "Title": "The Informant",
+        "Genre": "Spy thriller",
+        "Premiere": "April 1, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "40–46 min",
+        "Language": "Hungarian",
+        "Notes": ""
+      },
+      {
+        "Title": "Dafne and the Rest",
+        "Genre": "Comedy drama",
+        "Premiere": "October 26, 2021December 10, 2021&#91;i&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "30 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Kamikaze",
+        "Genre": "Young adult thriller drama",
+        "Premiere": "November 14, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "22–35 min",
+        "Language": "Danish",
+        "Notes": ""
+      },
+      {
+        "Title": "Ruxx",
+        "Genre": "Comedy drama",
+        "Premiere": "March 8, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "44–50 min",
+        "Language": "Romanian",
+        "Notes": ""
+      },
+      {
+        "Title": "Lust",
+        "Genre": "Sex comedy",
+        "Premiere": "March 18, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "25–29 min",
+        "Language": "Swedish",
+        "Notes": ""
+      },
+      {
+        "Title": "García!",
+        "Genre": "Science fiction thriller",
+        "Premiere": "October 28, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "54–59 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "This Is Luna",
+        "Genre": "Romantic comedy",
+        "Premiere": "November 13, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "29–35 min",
+        "Language": "Portuguese",
+        "Notes": ""
+      },
+      {
+        "Title": "Poor Devil",
+        "Genre": "Adult animation",
+        "Premiere": "February 17, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "15–23 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Mariachis",
+        "Genre": "Comedy drama",
+        "Premiere": "March 2, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "32–47 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "#BringBackAlice",
+        "Genre": "Mystery thriller",
+        "Premiere": "April 14, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "49–54 min",
+        "Language": "Polish",
+        "Notes": ""
+      },
+      {
+        "Title": "Headless Chickens",
+        "Genre": "Sports comedy drama",
+        "Premiere": "April 28, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "24–31 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Spy/Master",
+        "Genre": "Spy drama",
+        "Premiere": "May 19, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "44–51 min",
+        "Language": "Romanian",
+        "Notes": ""
+      },
+      {
+        "Title": "My Magic Closet",
+        "Genre": "Romantic fantasy drama",
+        "Premiere": "July 20, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "35–42 min",
+        "Language": "PortugueseKorean",
+        "Notes": ""
+      },
+      {
+        "Title": "I Love You and It Hurts",
+        "Genre": "Teen drama",
+        "Premiere": "August 17, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "34–45 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Candy Cruz",
+        "Genre": "Comedy",
+        "Premiere": "October 19, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "27–33 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "Teenage Kiss: The Future Is Dead",
+        "Genre": "Teen drama",
+        "Premiere": "October 19, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "23–32 min",
+        "Language": "Portuguese",
+        "Notes": ""
+      },
+      {
+        "Title": "Divided Youth",
+        "Genre": "Teen drama",
+        "Premiere": "April 4, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Runtime": "34–51 min",
+        "Language": "Portuguese",
+        "Notes": ""
+      },
+      {
+        "Title": "Six Is Not a Crowd",
+        "Genre": "Comedy drama",
+        "Premiere": "May 2, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "33–42 min",
+        "Language": "Spanish",
+        "Notes": ""
+      },
+      {
+        "Title": "MILF of Norway",
+        "Genre": "Comedy",
+        "Premiere": "May 21, 2024July 11, 2024&#91;c&#93;",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "26 min",
+        "Language": "Norwegian",
+        "Notes": ""
+      },
+      {
+        "Title": "The Confidante",
+        "Genre": "Drama",
+        "Premiere": "October 11, 2024",
+        "Seasons": "4 episodes",
+        "Runtime": "56 min",
+        "Language": "French",
+        "Notes": ""
+      },
+      {
+        "Title": "Astronauta",
+        "Genre": "Adult animation miniseries",
+        "Premiere": "October 18, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "TBA",
+        "Language": "Portuguese",
+        "Notes": ""
+      },
+      {
+        "Title": "Scars of Beauty",
+        "Genre": "Telenovela",
+        "Premiere": "January 27, 2025",
+        "Seasons": "40 episodes",
+        "Runtime": "47–60 min",
+        "Language": "Portuguese",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
       "Co-productions"
     ],
     "data": [
@@ -673,7 +840,7 @@
         "Seasons": "8 episodes",
         "Runtime": "45–63 min",
         "Language": "Spanish",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Bridge",
@@ -683,7 +850,7 @@
         "Seasons": "2 seasons, 14 episodes",
         "Runtime": "38–48 min",
         "Language": "English",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "It's a Sin",
@@ -693,7 +860,7 @@
         "Seasons": "5 episodes",
         "Runtime": "46–48 min",
         "Language": "English",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Starstruck",
@@ -703,7 +870,7 @@
         "Seasons": "3 seasons, 18 episodes",
         "Runtime": "20–26 min",
         "Language": "English",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Sort Of",
@@ -713,7 +880,7 @@
         "Seasons": "3 seasons, 24 episodes",
         "Runtime": "21–22 min",
         "Language": "English",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Perfect Life (season 2)",
@@ -723,7 +890,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "26–34 min",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Girl Before",
@@ -733,7 +900,7 @@
         "Seasons": "4 episodes",
         "Runtime": "55–58 min",
         "Language": "English",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Tourist (season 1)",
@@ -743,7 +910,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "55–58 min",
         "Language": "English",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Theodosia (season 1)",
@@ -753,7 +920,7 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "24–25 min",
         "Language": "English",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Head (seasons 2–3)",
@@ -763,7 +930,7 @@
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "41–56 min",
         "Language": "DanishEnglishSwedish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Two Sides of the Abyss",
@@ -773,17 +940,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–51 min",
         "Language": "German",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Bea's Block",
-        "Genre": "Family comedy",
-        "Partner/Country": "Sky Kids/United Kingdom",
-        "Premiere": "February 15, 2024",
-        "Seasons": "1 season, 15 episodes",
-        "Runtime": "24 min",
-        "Language": "English",
-        "Status": "Season 1 ongoing"
+        "Notes": ""
       },
       {
         "Title": "Home Sweet Rome!",
@@ -793,23 +950,13 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "25 min",
         "Language": "English",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Dylan's Playtime Adventures",
-        "Genre": "Preschool comedy",
-        "Partner/Country": "CBC Kids/CanadaCBeebies/United Kingdom",
-        "Premiere": "March 6, 2025",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "22 min",
-        "Language": "English",
-        "Status": "Pending"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Continuations"
     ],
     "data": [
@@ -820,7 +967,8 @@
         "Premiere": "June 18, 2020",
         "Seasons": "4 seasons, 60 episodes",
         "Runtime": "12 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Doom Patrol (seasons 2–4)",
@@ -829,7 +977,8 @@
         "Premiere": "June 25, 2020",
         "Seasons": "3 seasons, 31 episodes",
         "Runtime": "38–58 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Esme &amp; Roy (season 2)",
@@ -838,7 +987,8 @@
         "Premiere": "June 25, 2020",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "24 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Search Party (seasons 3–5)",
@@ -847,7 +997,8 @@
         "Premiere": "June 25, 2020",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "20–30 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Infinity Train (seasons 3–4)",
@@ -856,16 +1007,18 @@
         "Premiere": "August 13, 2020",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "12 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Sesame Street (seasons 51–55)",
         "Genre": "Education",
         "Prev. network(s)": "NET (season 1)PBS (seasons 2–45)HBO Kids (seasons 46–50)",
         "Premiere": "November 12, 2020",
-        "Seasons": "5 seasons, 141 episodes",
+        "Seasons": "5 seasons, 175 episodes",
         "Runtime": "26 min",
-        "Status": "Final season ongoing"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Titans (seasons 3–4)",
@@ -874,7 +1027,8 @@
         "Premiere": "August 12, 2021",
         "Seasons": "2 seasons, 25 episodes",
         "Runtime": "40–56 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "The Other Two (seasons 2–3)",
@@ -883,7 +1037,8 @@
         "Premiere": "August 26, 2021",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "25–44 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Scooby-Doo and Guess Who? (season 2B)",
@@ -892,7 +1047,8 @@
         "Premiere": "October 1, 2021",
         "Seasons": "1 season, 11 episodes",
         "Runtime": "22 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Young Justice (season 4)",
@@ -901,7 +1057,8 @@
         "Premiere": "October 16, 2021",
         "Seasons": "1 season, 26 episodes",
         "Runtime": "21–25 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Gen:Lock (season 2)",
@@ -910,7 +1067,8 @@
         "Premiere": "November 4, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "25–27 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "South Side (seasons 2–3)",
@@ -919,25 +1077,18 @@
         "Premiere": "November 11, 2021",
         "Seasons": "2 seasons, 18 episodes",
         "Runtime": "27–33 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Beforeigners (season 2)",
         "Genre": "Science fiction crime drama",
         "Prev. network(s)": "HBO Nordic",
-        "Premiere": "December 5, 2021December 23, 2021&#91;t&#93;",
+        "Premiere": "December 5, 2021December 23, 2021&#91;s&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Harley Quinn (seasons 3–5)",
-        "Genre": "Adult animated superhero dark comedy",
-        "Prev. network(s)": "DC Universe",
-        "Premiere": "July 28, 2022",
-        "Seasons": "3 seasons, 31 episodes",
-        "Runtime": "22–44 min",
-        "Status": "Pending"
+        "Language": "NorwegianEnglish",
+        "Notes": ""
       },
       {
         "Title": "Pennyworth: The Origin of Batman's Butler (season 3)",
@@ -946,7 +1097,8 @@
         "Premiere": "October 6, 2022",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–51 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Clone High (seasons 2–3)",
@@ -955,7 +1107,8 @@
         "Premiere": "May 23, 2023",
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "24–28 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Kendra Sells Hollywood (season 2)",
@@ -964,7 +1117,8 @@
         "Premiere": "May 26, 2023",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "24–29 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Warrior (season 3)",
@@ -973,7 +1127,8 @@
         "Premiere": "June 29, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "46–59 min",
-        "Status": "Ended"
+        "Language": "EnglishCantonese",
+        "Notes": ""
       },
       {
         "Title": "Serving the Hamptons (season 2)",
@@ -982,7 +1137,8 @@
         "Premiere": "February 2, 2024",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–42 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Selling the Hamptons (season 2)",
@@ -991,7 +1147,8 @@
         "Premiere": "March 1, 2024",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "38–49 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       },
       {
         "Title": "Trixie Motel (season 2)",
@@ -1000,13 +1157,14 @@
         "Premiere": "June 1, 2024",
         "Seasons": "1 season, 4 episodes",
         "Runtime": "44 min",
-        "Status": "Ended"
+        "Language": "English",
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Specials"
     ],
     "data": [
@@ -1116,39 +1274,39 @@
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming"
     ],
     "data": [
       {
         "Title": "The Missing",
         "Genre": "Crime drama",
-        "Premiere": "July 22, 2021October 14, 2021&#91;d&#93;",
+        "Premiere": "July 22, 2021October 14, 2021&#91;i&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Portuguese",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Love Spells (Amarres)",
         "Genre": "Romantic comedy drama",
-        "Premiere": "August 12, 2021October 14, 2021&#91;d&#93;",
+        "Premiere": "August 12, 2021October 14, 2021&#91;i&#93;",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44–51 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Rap Battlefield",
         "Genre": "Coming-of-age music drama",
-        "Premiere": "September 16, 2021November 4, 2021&#91;d&#93;",
+        "Premiere": "September 16, 2021November 4, 2021&#91;i&#93;",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "37–52 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Before I Forget (Asesino del Olvido)",
@@ -1158,17 +1316,17 @@
         "Runtime": "45–54 min",
         "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "A Thousand Fangs",
         "Genre": "Military action drama",
-        "Premiere": "October 28, 2021December 9, 2021&#91;d&#93;",
+        "Premiere": "October 28, 2021December 9, 2021&#91;i&#93;",
         "Seasons": "1 season, 7 episodes",
         "Runtime": "44–54 min",
         "Exclusive region(s)": "Latin America and the United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Frankelda's Book of Spooks",
@@ -1176,29 +1334,29 @@
         "Premiere": "October 29, 2021",
         "Seasons": "1 season, 5 episodes",
         "Runtime": "13–17 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Juanpa + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;i&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Sandy + Chef",
         "Genre": "Cooking show",
-        "Premiere": "November 11, 2021March 10, 2022&#91;d&#93;",
+        "Premiere": "November 11, 2021March 10, 2022&#91;i&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "29 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Portuguese",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Vote for Juan",
@@ -1206,19 +1364,19 @@
         "Premiere": "November 28, 2021",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "26–36 min",
-        "Exclusive region(s)": "Spain, Latin America and the United States",
+        "Exclusive region(s)": "Spain, Latin America and United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Búnker",
         "Genre": "Action comedy",
-        "Premiere": "December 23, 2021January 27, 2022&#91;d&#93;",
+        "Premiere": "December 23, 2021January 27, 2022&#91;i&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30 min",
-        "Exclusive region(s)": "Latin America and the United States",
+        "Exclusive region(s)": "Latin America and United States",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Sin novedad",
@@ -1228,7 +1386,7 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Spain",
         "Language": "Spanish",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Onda Boa com Ivete",
@@ -1238,7 +1396,7 @@
         "Runtime": "TBA",
         "Exclusive region(s)": "Latin America",
         "Language": "Portuguese",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "How to Screw It All Up",
@@ -1248,17 +1406,7 @@
         "Runtime": "16–23 min",
         "Exclusive region(s)": "Latin America and the United States",
         "Language": "Spanish",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Divina Comida México",
-        "Genre": "Reality",
-        "Premiere": "October 27, 2022",
-        "Seasons": "3 seasons, 44 episodes",
-        "Runtime": "34–47 min",
-        "Exclusive region(s)": "Latin America",
-        "Language": "Spanish",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Osel",
@@ -1268,7 +1416,7 @@
         "Runtime": "45 min",
         "Exclusive region(s)": "Spain",
         "Language": "Spanish",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Bridge Hungary",
@@ -1278,7 +1426,7 @@
         "Runtime": "49–54 min",
         "Exclusive region(s)": "Hungary, Slovakia and Czechia",
         "Language": "Hungarian",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Romário: The One",
@@ -1288,7 +1436,7 @@
         "Runtime": "42–48 min",
         "Exclusive region(s)": "Latin America",
         "Language": "Spanish",
-        "Status": "Miniseries"
+        "Notes": ""
       }
     ]
   }

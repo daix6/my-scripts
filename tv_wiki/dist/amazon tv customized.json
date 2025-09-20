@@ -255,8 +255,9 @@
         "Title": "The Summer I Turned Pretty",
         "Genre": "Young adult romantic drama",
         "Premiere": "June 17, 2022",
+        "Finale": "September 17, 2025",
         "Seasons": "3 seasons, 26 episodes",
-        "Status": "Final season ongoing"
+        "Notes": ""
       },
       {
         "Title": "The Terminal List",
@@ -401,8 +402,8 @@
         "Title": "Gen V",
         "Genre": "Superhero teen drama",
         "Premiere": "September 29, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Season 2 due to premiere on September 17, 2025"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "In Your Dreams",
@@ -441,14 +442,7 @@
         "Genre": "Post-apocalyptic drama",
         "Premiere": "April 10, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Season 2 due to premiere in December 2025Renewed"
-      },
-      {
-        "Title": "The Edge of Sleep",
-        "Genre": "Thriller",
-        "Premiere": "October 17, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Status": "Pending"
+        "Status": "Season 2 due to premiere on December 17, 2025Renewed"
       },
       {
         "Title": "Cross",
@@ -478,7 +472,7 @@
         "Genre": "Religious drama",
         "Premiere": "February 27, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Renewed"
+        "Status": "Season 2 due to premiere on October 5, 2025"
       },
       {
         "Title": "The Bondsman",
@@ -500,8 +494,9 @@
         "Title": "Motorheads",
         "Genre": "Coming of age drama",
         "Premiere": "May 20, 2025",
+        "Finale": "May 20, 2025",
         "Seasons": "1 season, 10 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Better Sister",
@@ -516,14 +511,14 @@
         "Genre": "Psychological thriller",
         "Premiere": "June 18, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "Countdown",
         "Genre": "Thriller",
         "Premiere": "June 25, 2025",
         "Seasons": "1 season, 13 episodes",
-        "Status": "Season 1 ongoing"
+        "Status": "Pending"
       },
       {
         "Title": "Ballard",
@@ -544,6 +539,13 @@
         "Genre": "Conspiracy thriller",
         "Premiere": "August 27, 2025",
         "Seasons": "1 season, 7 episodes",
+        "Status": "Season 1 ongoing"
+      },
+      {
+        "Title": "The Runarounds",
+        "Genre": "Teen drama",
+        "Premiere": "September 1, 2025",
+        "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
       },
       {
@@ -559,6 +561,13 @@
         "Premiere": "September 24, 2025",
         "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
+      },
+      {
+        "Title": "Lazarus",
+        "Genre": "Psychological thriller",
+        "Premiere": "October 22, 2025",
+        "Seasons": "6 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -740,8 +749,9 @@
         "Title": "Upload",
         "Genre": "Science fiction",
         "Premiere": "May 1, 2020",
-        "Seasons": "3 seasons, 25 episodes",
-        "Status": "Final season due to premiere on August 25, 2025"
+        "Finale": "August 25, 2025",
+        "Seasons": "4 seasons, 29 episodes",
+        "Notes": ""
       },
       {
         "Title": "Gary Busey: Pet Judge",
@@ -756,6 +766,14 @@
         "Genre": "Comedy horror",
         "Premiere": "October 30, 2020",
         "Finale": "October 30, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Paradise City",
+        "Genre": "Musical drama",
+        "Premiere": "March 25, 2021",
+        "Finale": "March 25, 2021",
         "Seasons": "1 season, 8 episodes",
         "Notes": ""
       },
@@ -906,7 +924,7 @@
         "Genre": "Comedy",
         "Premiere": "May 15, 2025",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Status": "Renewed"
       }
     ]
   },
@@ -973,8 +991,8 @@
         "Title": "Sausage Party: Foodtopia",
         "Genre": "Comedy",
         "Premiere": "July 11, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Season 2 due to premiere on August 13, 2025"
+        "Seasons": "2 seasons, 16 episodes",
+        "Status": "Pending"
       },
       {
         "Title": "Batman: Caped Crusader",
@@ -998,10 +1016,42 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Mighty Nein",
+        "Title": "The Mighty Nein",
         "Genre": "Fantasy action",
         "Premiere": "November 19, 2025",
         "Seasons": "TBA",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Animation",
+      "Anime"
+    ],
+    "data": [
+      {
+        "Title": "Crayon Shin-chan Spin-off",
+        "Genre": "Comedy",
+        "Premiere": "August 3, 2016",
+        "Finale": "August 23, 2017",
+        "Seasons": "4 seasons, 52 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Blade of the Immortal",
+        "Genre": "Historical action",
+        "Premiere": "October 10, 2019",
+        "Finale": "March 25, 2020",
+        "Seasons": "1 season, 24 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Tatsuki Fujimoto 17-26",
+        "Genre": "Anthology",
+        "Premiere": "November 2, 2025",
+        "Seasons": "1 season, 8 episodes",
         "Status": "Pending"
       }
     ]
@@ -1082,117 +1132,6 @@
         "Premiere": "October 18, 2024",
         "Seasons": "1 season, 6 episodes",
         "Status": "Renewed"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "German"
-    ],
-    "data": [
-      {
-        "Title": "You Are Wanted",
-        "Genre": "Thriller",
-        "Premiere": "March 12, 2017",
-        "Finale": "May 18, 2018",
-        "Seasons": "2 seasons, 12 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Beat",
-        "Genre": "Crime thriller",
-        "Premiere": "November 9, 2018",
-        "Finale": "November 9, 2018",
-        "Seasons": "1 season, 7 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Bibi &amp; Tina",
-        "Genre": "Sitcom",
-        "Premiere": "April 3, 2020",
-        "Finale": "April 3, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "We Children from Bahnhof Zoo",
-        "Genre": "Drama",
-        "Premiere": "February 19, 2021",
-        "Finale": "February 19, 2021",
-        "Seasons": "8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Love Addicts",
-        "Genre": "Comedy",
-        "Premiere": "November 29, 2022",
-        "Finale": "November 29, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "The Pimp – No F***ing Fairytale",
-        "Genre": "Drama",
-        "Premiere": "March 3, 2023",
-        "Finale": "March 3, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "The Gryphon",
-        "Genre": "Fantasy drama",
-        "Premiere": "May 25, 2023",
-        "Finale": "May 25, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Sebastian Fitzek's The Therapy",
-        "Genre": "Mystery thriller",
-        "Premiere": "October 26, 2023",
-        "Finale": "October 26, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Last Exit Schinkenstraße",
-        "Genre": "Comedy",
-        "Premiere": "October 27, 2023",
-        "Finale": "October 27, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Mandy und die Mächte des Bösen",
-        "Genre": "Horror comedy",
-        "Premiere": "November 3, 2023",
-        "Finale": "November 3, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Maxton Hall — The World Between Us",
-        "Genre": "Teen drama",
-        "Premiere": "May 9, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Status": "Season 2 due to premiere in on November 7, 2025Renewed"
-      },
-      {
-        "Title": "Viktor Bringt's",
-        "Genre": "Comedy",
-        "Premiere": "May 30, 2024",
-        "Finale": "May 30, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Perfekt Verpasst",
-        "Genre": "Comedy",
-        "Premiere": "August 15, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
       }
     ]
   },
@@ -1445,6 +1384,14 @@
         "Notes": ""
       },
       {
+        "Title": "Jee Karda",
+        "Genre": "Romantic drama",
+        "Premiere": "June 15, 2023",
+        "Finale": "June 15, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
         "Title": "Adhura",
         "Genre": "Horror",
         "Premiere": "July 7, 2023",
@@ -1492,11 +1439,32 @@
         "Notes": ""
       },
       {
+        "Title": "Ziddi Girls",
+        "Genre": "Coming of age comedy drama",
+        "Premiere": "February 27, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
         "Title": "Dupahiya",
         "Genre": "Comedy",
         "Premiere": "March 7, 2025",
         "Seasons": "1 season, 9 episodes",
         "Status": "Renewed"
+      },
+      {
+        "Title": "Khauf",
+        "Genre": "Supernatural horror",
+        "Premiere": "April 15, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Andhera",
+        "Genre": "Horror",
+        "Premiere": "August 14, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
       }
     ]
   },
@@ -1782,7 +1750,14 @@
         "Premiere": "June 27, 2025",
         "Finale": "July 24, 2025",
         "Seasons": "10 episodes",
-        "Notes": "Miniseries"
+        "Notes": ""
+      },
+      {
+        "Title": "Human Specimens",
+        "Genre": "Psychological thriller",
+        "Premiere": "December 18, 2025",
+        "Seasons": "5 episodes",
+        "Status": "Miniseries"
       }
     ]
   },
@@ -2058,8 +2033,9 @@
         "Title": "Memento mori",
         "Genre": "Thriller",
         "Premiere": "October 27, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Status": "Final season due to premiere on August 1, 2025"
+        "Finale": "August 1, 2025",
+        "Seasons": "3 seasons, 15 episodes",
+        "Notes": ""
       },
       {
         "Title": "Los Billis",
@@ -2104,15 +2080,16 @@
         "Title": "Betty, la fea: The Story Continues",
         "Genre": "Romantic comedy",
         "Premiere": "July 19, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Status": "Renewed"
+        "Seasons": "2 seasons, 20 episodes",
+        "Status": "Season 2 ongoing"
       },
       {
         "Title": "No One Will Miss Us",
         "Genre": "Teen drama",
         "Premiere": "August 9, 2024",
+        "Finale": "August 9, 2024",
         "Seasons": "1 season, 8 episodes",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "En fin",
@@ -2122,19 +2099,18 @@
         "Status": "Pending"
       },
       {
+        "Title": "Every Minute Counts",
+        "Genre": "Drama",
+        "Premiere": "November 8, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Status": "Season 2 due to premiere on September 20, 2025"
+      },
+      {
         "Title": "Cromañón: The Night of the Fire",
         "Genre": "Drama",
         "Premiere": "November 8, 2024",
         "Finale": "November 8, 2024",
         "Seasons": "8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Every Minute Counts",
-        "Genre": "Drama",
-        "Premiere": "November 8, 2024",
-        "Finale": "November 8, 2024",
-        "Seasons": "10 episodes",
         "Notes": ""
       },
       {
@@ -2163,6 +2139,13 @@
         "Genre": "Musical comedy drama",
         "Premiere": "June 13, 2025",
         "Seasons": "1 season, 8 episodes",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Menem",
+        "Genre": "Political drama",
+        "Premiere": "July 9, 2025",
+        "Seasons": "1 season, 6 episodes",
         "Status": "Pending"
       }
     ]
@@ -2265,17 +2248,74 @@
     "category": [
       "Original programming",
       "Non-English language scripted",
-      "Other"
+      "Telugu"
     ],
     "data": [
       {
-        "Title": "Funny Little Stories",
-        "Genre": "Comedy",
-        "Premiere": "March 26, 2021",
-        "Seasons": "2 seasons, 10 episodes",
-        "Language": "Portuguese",
-        "Status": "Pending"
+        "Title": "Gangstars",
+        "Genre": "Crime drama",
+        "Premiere": "June 1, 2018",
+        "Finale": "June 1, 2018",
+        "Seasons": "1 season, 12 episodes",
+        "Notes": ""
       },
+      {
+        "Title": "Modern Love Hyderabad",
+        "Genre": "Anthology",
+        "Premiere": "July 8, 2022",
+        "Finale": "July 8, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Hostel Days",
+        "Genre": "Young adult drama",
+        "Premiere": "July 13, 2023",
+        "Finale": "July 13, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Kumari Srimathi",
+        "Genre": "Drama",
+        "Premiere": "September 28, 2023",
+        "Finale": "September 28, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Dhootha",
+        "Genre": "Horror mystery thriller",
+        "Premiere": "December 1, 2023",
+        "Finale": "December 1, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Vyooham",
+        "Genre": "Action thriller",
+        "Premiere": "December 14, 2023",
+        "Finale": "December 14, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Bujji and Bhairava",
+        "Genre": "Animated science fiction comedy",
+        "Premiere": "May 31, 2024",
+        "Finale": "May 31, 2024",
+        "Seasons": "2 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Other"
+    ],
+    "data": [
       {
         "Title": "Modern Love Amsterdam",
         "Genre": "Romantic comedy anthology",
@@ -2284,14 +2324,6 @@
         "Seasons": "1 season, 6 episodes",
         "Language": "Dutch",
         "Notes": ""
-      },
-      {
-        "Title": "Induk Gajah",
-        "Genre": "Comedy drama",
-        "Premiere": "March 23, 2023",
-        "Seasons": "2 seasons, 16 episodes",
-        "Language": "Indonesian",
-        "Status": "Pending"
       },
       {
         "Title": "That Cover Girl",
@@ -2318,6 +2350,14 @@
         "Seasons": "1 season, 6 episodes",
         "Language": "Danish",
         "Notes": ""
+      },
+      {
+        "Title": "Maxton Hall—The World Between Us",
+        "Genre": "Teen drama",
+        "Premiere": "May 9, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Language": "German",
+        "Status": "Season 2 due to premiere on November 7, 2025Renewed"
       },
       {
         "Title": "Those Who Kill (season 4)",
@@ -2576,20 +2616,11 @@
       {
         "Title": "Confidence Queen",
         "Genre": "Crime comedy",
-        "Partner": "Coupang Play/South Korea",
+        "Partner": "Coupang Play and TV Chosun/South Korea",
         "Premiere": "September 6, 2025",
         "Seasons": "12 episodes",
         "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Helluva Boss (season 3)",
-        "Genre": "Musical black comedy",
-        "Partner": "SpindleHorse/United States",
-        "Premiere": "September 10, 2025",
-        "Seasons": "TBA",
-        "Language": "English",
-        "Status": "Renewed"
+        "Status": "Miniseries ongoing"
       }
     ]
   },
@@ -2785,16 +2816,6 @@
         "Notes": ""
       },
       {
-        "Title": "Jee Karda",
-        "Genre": "Romantic drama",
-        "Premiere": "June 15, 2023",
-        "Finale": "June 15, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Prime Video exclusive region": "India",
-        "Language": "Hindi",
-        "Notes": ""
-      },
-      {
         "Title": "Fifteen-Love",
         "Genre": "Sports drama",
         "Premiere": "July 21, 2023",
@@ -2903,8 +2924,18 @@
         "Notes": ""
       },
       {
+        "Title": "Blind Spot",
+        "Genre": "Crime drama",
+        "Premiere": "January 24, 2025",
+        "Finale": "January 24, 2025",
+        "Seasons": "4 episodes",
+        "Prime Video exclusive region": "Nordics",
+        "Language": "Swedish",
+        "Notes": ""
+      },
+      {
         "Title": "The Narrow Road to the Deep North",
-        "Genre": "Period drama miniseries",
+        "Genre": "Period drama",
         "Premiere": "April 18, 2025",
         "Finale": "April 18, 2025",
         "Seasons": "5 episodes",
@@ -3336,6 +3367,393 @@
   },
   {
     "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Filipino"
+    ],
+    "data": [
+      {
+        "Title": "Fit Check: Confessions of an Ukay Queen",
+        "Genre": "Comedy drama",
+        "Premiere": "July 6, 2023",
+        "Finale": "July 6, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Linlang",
+        "Genre": "Mystery thriller",
+        "Premiere": "October 5, 2023",
+        "Finale": "November 16, 2023",
+        "Seasons": "1 season, 14 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Simula sa Gitna",
+        "Genre": "Comedy drama",
+        "Premiere": "November 2, 2023",
+        "Finale": "December 7, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Roadkillers",
+        "Genre": "Action thriller",
+        "Premiere": "November 30, 2023",
+        "Finale": "December 7, 2023",
+        "Seasons": "4 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Saving Grace",
+        "Genre": "Drama",
+        "Premiere": "November 28, 2024",
+        "Finale": "January 9, 2025",
+        "Seasons": "1 season, 14 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "German"
+    ],
+    "data": [
+      {
+        "Title": "You Are Wanted",
+        "Genre": "Thriller",
+        "Premiere": "March 12, 2017",
+        "Finale": "May 18, 2018",
+        "Seasons": "2 seasons, 12 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Beat",
+        "Genre": "Crime thriller",
+        "Premiere": "November 9, 2018",
+        "Finale": "November 9, 2018",
+        "Seasons": "1 season, 7 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Bibi &amp; Tina",
+        "Genre": "Sitcom",
+        "Premiere": "April 3, 2020",
+        "Finale": "April 3, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "We Children from Bahnhof Zoo",
+        "Genre": "Drama",
+        "Premiere": "February 19, 2021",
+        "Finale": "February 19, 2021",
+        "Seasons": "8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Love Addicts",
+        "Genre": "Comedy",
+        "Premiere": "November 29, 2022",
+        "Finale": "November 29, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "The Pimp – No F***ing Fairytale",
+        "Genre": "Drama",
+        "Premiere": "March 3, 2023",
+        "Finale": "March 3, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "The Gryphon",
+        "Genre": "Fantasy drama",
+        "Premiere": "May 25, 2023",
+        "Finale": "May 25, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Sebastian Fitzek's The Therapy",
+        "Genre": "Mystery thriller",
+        "Premiere": "October 26, 2023",
+        "Finale": "October 26, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Viktor Bringt's",
+        "Genre": "Comedy",
+        "Premiere": "May 30, 2024",
+        "Finale": "May 30, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "The Perfect Miss",
+        "Genre": "Romantic comedy",
+        "Premiere": "August 15, 2024",
+        "Finale": "August 15, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Indonesian"
+    ],
+    "data": [
+      {
+        "Title": "Induk Gajah",
+        "Genre": "Comedy drama",
+        "Premiere": "March 23, 2023",
+        "Finale": "August 21, 2024",
+        "Seasons": "2 seasons, 16 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "A+",
+        "Genre": "Coming-of-age crime drama",
+        "Premiere": "May 25, 2023",
+        "Finale": "May 25, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Sabtu Bersama Bapak",
+        "Genre": "Family drama",
+        "Premiere": "June 29, 2023",
+        "Finale": "June 29, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Rencana Besar",
+        "Genre": "Heist thriller",
+        "Premiere": "October 5, 2023",
+        "Finale": "October 5, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Tukar Tambah Nasib",
+        "Genre": "Fantasy drama",
+        "Premiere": "December 7, 2023",
+        "Finale": "December 7, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Ellyas Pical",
+        "Genre": "Sports drama",
+        "Premiere": "March 21, 2024",
+        "Finale": "March 21, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Korean"
+    ],
+    "data": [
+      {
+        "Title": "The Idolmaster KR",
+        "Genre": "Musical drama",
+        "Premiere": "April 28, 2017",
+        "Finale": "October 6, 2017",
+        "Seasons": "24 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "My Man Is Cupid",
+        "Genre": "Fantasy romantic comedy",
+        "Premiere": "December 1, 2023",
+        "Finale": "January 20, 2024",
+        "Seasons": "16 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Norwegian"
+    ],
+    "data": [
+      {
+        "Title": "Furia (season 2)",
+        "Genre": "Political thriller",
+        "Premiere": "April 19, 2024",
+        "Finale": "April 19, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "The Commoner",
+        "Genre": "Period drama",
+        "Premiere": "February 14, 2025",
+        "Finale": "February 21, 2025",
+        "Seasons": "4 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Portuguese"
+    ],
+    "data": [
+      {
+        "Title": "Funny Little Stories",
+        "Genre": "Comedy",
+        "Premiere": "March 26, 2021",
+        "Finale": "August 8, 2024",
+        "Seasons": "2 seasons, 10 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "September Mornings",
+        "Genre": "Drama",
+        "Premiere": "June 25, 2021",
+        "Finale": "September 23, 2022",
+        "Seasons": "2 seasons, 11 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Uncoupled in Rio",
+        "Genre": "Comedy",
+        "Premiere": "October 1, 2021",
+        "Finale": "October 1, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Lov3",
+        "Genre": "Romantic comedy",
+        "Premiere": "February 18, 2022",
+        "Finale": "February 18, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Verdict",
+        "Genre": "Crime drama",
+        "Premiere": "April 15, 2022",
+        "Finale": "April 15, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Elected",
+        "Genre": "Comedy",
+        "Premiere": "October 7, 2022",
+        "Finale": "October 7, 2022",
+        "Seasons": "1 season, 7 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Novela",
+        "Genre": "Comedy",
+        "Premiere": "July 28, 2023",
+        "Finale": "July 28, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "New Bandits",
+        "Genre": "Crime drama",
+        "Premiere": "August 18, 2023",
+        "Finale": "August 18, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Love Is for the Strong",
+        "Genre": "Action drama",
+        "Premiere": "November 17, 2023",
+        "Finale": "November 17, 2023",
+        "Seasons": "1 season, 7 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Every Family",
+        "Genre": "Comedy",
+        "Premiere": "July 12, 2024",
+        "Finale": "July 12, 2024",
+        "Seasons": "1 season, 7 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Non-English language scripted",
+      "Swedish"
+    ],
+    "data": [
+      {
+        "Title": "Toppen",
+        "Genre": "Political satire",
+        "Premiere": "December 2, 2022",
+        "Finale": "December 2, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      },
+      {
+        "Title": "Jana: Marked for Life",
+        "Genre": "Crime drama",
+        "Premiere": "April 19, 2024",
+        "Finale": "April 19, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Original programming",
+      "Specials"
+    ],
+    "data": [
+      {
+        "Title": "Borat: VHS Cassette of Material Deemed \"Sub-acceptable\" By Kazakhstan Ministry of Censorship and Circumcision",
+        "Genre": "Comedy",
+        "Premiere": "May 24, 2021"
+      },
+      {
+        "Title": "Invincible: Atom Eve",
+        "Genre": "Superhero drama",
+        "Premiere": "July 21, 2023"
+      },
+      {
+        "Title": "Make Me Scream",
+        "Genre": "Horror reality competition",
+        "Premiere": "October 3, 2023"
+      },
+      {
+        "Title": "Dinner Party Diaries with José Andrés",
+        "Genre": "Cooking show/Talk show",
+        "Premiere": "March 19, 2024"
+      }
+    ]
+  },
+  {
+    "category": [
       "Pilots not picked up to series"
     ],
     "data": [
@@ -3667,378 +4085,6 @@
         "Genre": "Comedy",
         "Premiere": "November 10, 2017",
         "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Animation",
-      "Anime"
-    ],
-    "data": [
-      {
-        "Title": "Crayon Shin-chan Spin-off",
-        "Genre": "Comedy",
-        "Premiere": "August 3, 2016",
-        "Finale": "August 23, 2017",
-        "Seasons": "4 seasons, 52 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Blade of the Immortal",
-        "Genre": "Historical action",
-        "Premiere": "October 10, 2019",
-        "Finale": "March 25, 2020",
-        "Seasons": "1 season, 24 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Filipino"
-    ],
-    "data": [
-      {
-        "Title": "Fit Check: Confessions of an Ukay Queen",
-        "Genre": "Comedy drama",
-        "Premiere": "July 6, 2023",
-        "Finale": "July 6, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Linlang",
-        "Genre": "Mystery thriller",
-        "Premiere": "October 5, 2023",
-        "Finale": "November 16, 2023",
-        "Seasons": "1 season, 14 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Simula sa Gitna",
-        "Genre": "Comedy drama",
-        "Premiere": "November 2, 2023",
-        "Finale": "December 7, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Roadkillers",
-        "Genre": "Action thriller",
-        "Premiere": "November 30, 2023",
-        "Finale": "December 7, 2023",
-        "Seasons": "4 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Saving Grace",
-        "Genre": "Drama",
-        "Premiere": "November 28, 2024",
-        "Finale": "January 9, 2025",
-        "Seasons": "1 season, 14 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Indonesian"
-    ],
-    "data": [
-      {
-        "Title": "A+",
-        "Genre": "Coming-of-age crime drama",
-        "Premiere": "May 25, 2023",
-        "Finale": "May 25, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Sabtu Bersama Bapak",
-        "Genre": "Family drama",
-        "Premiere": "June 29, 2023",
-        "Finale": "June 29, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Rencana Besar",
-        "Genre": "Heist thriller",
-        "Premiere": "October 5, 2023",
-        "Finale": "October 5, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Tukar Tambah Nasib",
-        "Genre": "Fantasy drama",
-        "Premiere": "December 7, 2023",
-        "Finale": "December 7, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Ellyas Pical",
-        "Genre": "Sports drama",
-        "Premiere": "March 21, 2024",
-        "Finale": "March 21, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Korean"
-    ],
-    "data": [
-      {
-        "Title": "The Idolmaster KR",
-        "Genre": "Musical drama",
-        "Premiere": "April 28, 2017",
-        "Finale": "October 6, 2017",
-        "Seasons": "24 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "My Man Is Cupid",
-        "Genre": "Fantasy romantic comedy",
-        "Premiere": "December 1, 2023",
-        "Finale": "January 20, 2024",
-        "Seasons": "16 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Norwegian"
-    ],
-    "data": [
-      {
-        "Title": "Furia (season 2)",
-        "Genre": "Political thriller",
-        "Premiere": "April 19, 2024",
-        "Finale": "April 19, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "The Commoner",
-        "Genre": "Period drama",
-        "Premiere": "February 14, 2025",
-        "Finale": "February 21, 2025",
-        "Seasons": "4 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Portuguese"
-    ],
-    "data": [
-      {
-        "Title": "September Mornings",
-        "Genre": "Drama",
-        "Premiere": "June 25, 2021",
-        "Finale": "September 23, 2022",
-        "Seasons": "2 seasons, 11 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Uncoupled in Rio",
-        "Genre": "Comedy",
-        "Premiere": "October 1, 2021",
-        "Finale": "October 1, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Lov3",
-        "Genre": "Romantic comedy",
-        "Premiere": "February 18, 2022",
-        "Finale": "February 18, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Verdict",
-        "Genre": "Crime drama",
-        "Premiere": "April 15, 2022",
-        "Finale": "April 15, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Elected",
-        "Genre": "Comedy",
-        "Premiere": "October 7, 2022",
-        "Finale": "October 7, 2022",
-        "Seasons": "1 season, 7 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Novela",
-        "Genre": "Comedy",
-        "Premiere": "July 28, 2023",
-        "Finale": "July 28, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "New Bandits",
-        "Genre": "Crime drama",
-        "Premiere": "August 18, 2023",
-        "Finale": "August 18, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Love Is for the Strong",
-        "Genre": "Action drama",
-        "Premiere": "November 17, 2023",
-        "Finale": "November 17, 2023",
-        "Seasons": "1 season, 7 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Every Family",
-        "Genre": "Comedy",
-        "Premiere": "July 12, 2024",
-        "Finale": "July 12, 2024",
-        "Seasons": "1 season, 7 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Swedish"
-    ],
-    "data": [
-      {
-        "Title": "Toppen",
-        "Genre": "Political satire",
-        "Premiere": "December 2, 2022",
-        "Finale": "December 2, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Jana: Marked for Life",
-        "Genre": "Crime drama",
-        "Premiere": "April 19, 2024",
-        "Finale": "April 19, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Non-English language scripted",
-      "Telugu"
-    ],
-    "data": [
-      {
-        "Title": "Gangstars",
-        "Genre": "Crime drama",
-        "Premiere": "June 1, 2018",
-        "Finale": "June 1, 2018",
-        "Seasons": "1 season, 12 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Modern Love Hyderabad",
-        "Genre": "Anthology",
-        "Premiere": "July 8, 2022",
-        "Finale": "July 8, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Hostel Days",
-        "Genre": "Young adult drama",
-        "Premiere": "July 13, 2023",
-        "Finale": "July 13, 2023",
-        "Seasons": "1 season, 5 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Kumari Srimathi",
-        "Genre": "Drama",
-        "Premiere": "September 28, 2023",
-        "Finale": "September 28, 2023",
-        "Seasons": "1 season, 7 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Dhootha",
-        "Genre": "Horror mystery thriller",
-        "Premiere": "December 1, 2023",
-        "Finale": "December 1, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Vyooham",
-        "Genre": "Action thriller",
-        "Premiere": "December 14, 2023",
-        "Finale": "December 14, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Notes": ""
-      },
-      {
-        "Title": "Bujji and Bhairava",
-        "Genre": "Animated science fiction comedy",
-        "Premiere": "May 31, 2024",
-        "Finale": "May 31, 2024",
-        "Seasons": "1 season, 2 episodes",
-        "Notes": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Specials"
-    ],
-    "data": [
-      {
-        "Title": "Borat: VHS Cassette of Material Deemed \"Sub-acceptable\" By Kazakhstan Ministry of Censorship and Circumcision",
-        "Genre": "Comedy",
-        "Premiere": "May 24, 2021"
-      },
-      {
-        "Title": "Invincible: Atom Eve",
-        "Genre": "Superhero drama",
-        "Premiere": "July 21, 2023"
-      },
-      {
-        "Title": "Make Me Scream",
-        "Genre": "Horror reality competition",
-        "Premiere": "October 3, 2023"
-      },
-      {
-        "Title": "Dinner Party Diaries with José Andrés",
-        "Genre": "Cooking show/Talk show",
-        "Premiere": "March 19, 2024"
       }
     ]
   }

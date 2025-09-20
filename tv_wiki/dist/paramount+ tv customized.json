@@ -1,129 +1,17 @@
 [
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Drama"
     ],
     "data": [
-      {
-        "Title": "The Good Fight",
-        "Genre": "Legal drama",
-        "Premiere": "February 19, 2017",
-        "Seasons": "6 seasons, 60 episodes",
-        "Runtime": "40–59 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Star Trek: Discovery",
-        "Genre": "Science fiction",
-        "Premiere": "September 24, 2017",
-        "Seasons": "5 seasons, 65 episodes",
-        "Runtime": "37–65 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Strange Angel",
-        "Genre": "Historical drama",
-        "Premiere": "June 14, 2018",
-        "Seasons": "2 seasons, 17 episodes",
-        "Runtime": "46–54 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "One Dollar",
-        "Genre": "Mystery thriller",
-        "Premiere": "August 30, 2018",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "50–57 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Star Trek: Short Treks",
-        "Genre": "Science fiction anthology",
-        "Premiere": "October 4, 2018",
-        "Seasons": "2 seasons, 10 episodes",
-        "Runtime": "8–18 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Tell Me a Story",
-        "Genre": "Psychological thriller anthology",
-        "Premiere": "October 31, 2018",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "42–57 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Twilight Zone",
-        "Genre": "Science fantasy anthology",
-        "Premiere": "April 1, 2019",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "37–56 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Star Trek: Picard",
-        "Genre": "Science fiction",
-        "Premiere": "January 23, 2020",
-        "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "39–62 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Interrogation",
-        "Genre": "True crime drama",
-        "Premiere": "February 6, 2020",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "39–52 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Stand",
-        "Genre": "Apocalyptic drama",
-        "Premiere": "December 17, 2020",
-        "Seasons": "9 episodes",
-        "Runtime": "49–65 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Coyote",
-        "Genre": "Crime drama",
-        "Premiere": "January 7, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "43–56 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Mayor of Kingstown",
         "Genre": "Crime thriller",
         "Premiere": "November 14, 2021",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "34–66 min",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "1883",
-        "Genre": "Neo-Western drama",
-        "Premiere": "December 19, 2021",
-        "Seasons": "10 episodes",
-        "Runtime": "44–67 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Halo",
-        "Genre": "Military science fiction",
-        "Premiere": "March 24, 2022",
-        "Seasons": "2 seasons, 17 episodes",
-        "Runtime": "40–61 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Offer",
-        "Genre": "Drama",
-        "Premiere": "April 28, 2022",
-        "Seasons": "10 episodes",
-        "Runtime": "51–69 min",
-        "Status": "Miniseries"
+        "Status": "Season 4 due to premiere on October 26, 2025"
       },
       {
         "Title": "Star Trek: Strange New Worlds",
@@ -131,7 +19,7 @@
         "Premiere": "May 5, 2022",
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "46–63 min",
-        "Status": "Season 3 ongoingRenewed for seasons 4–5 (final)"
+        "Status": "Renewed for seasons 4–5 (final)"
       },
       {
         "Title": "Tulsa King",
@@ -139,23 +27,7 @@
         "Premiere": "November 13, 2022",
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "36–43 min",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "1923",
-        "Genre": "Neo-Western drama",
-        "Premiere": "December 18, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "47–112 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Wolf Pack",
-        "Genre": "Supernatural teen drama",
-        "Premiere": "January 26, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "46–57 min",
-        "Status": "Ended"
+        "Status": "Season 3 due to premiere on September 21, 2025Renewed"
       },
       {
         "Title": "School Spirits",
@@ -166,44 +38,12 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Rabbit Hole",
-        "Genre": "Spy drama",
-        "Premiere": "March 26, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "42–56 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Fatal Attraction",
-        "Genre": "Psychological thriller",
-        "Premiere": "April 30, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "53–62 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "Lioness",
         "Genre": "Spy drama",
         "Premiere": "July 23, 2023",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "38–57 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Lawmen: Bass Reeves",
-        "Genre": "Western drama",
-        "Premiere": "November 5, 2023",
-        "Seasons": "8 episodes",
-        "Runtime": "32–57 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Sexy Beast",
-        "Genre": "Crime drama",
-        "Premiere": "January 25, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43–55 min",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Landman",
@@ -211,15 +51,7 @@
         "Premiere": "November 17, 2024",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "43–80 min",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Happy Face",
-        "Genre": "True crime drama",
-        "Premiere": "March 20, 2025",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "48–58 min",
-        "Status": "Ended"
+        "Status": "Season 2 due to premiere on November 16, 2025"
       },
       {
         "Title": "MobLand",
@@ -231,141 +63,37 @@
       },
       {
         "Title": "NCIS: Tony &amp; Ziva",
-        "Genre": "Romantic thriller",
+        "Genre": "Police procedural",
         "Premiere": "September 4, 2025",
         "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
+        "Runtime": "43–50 min",
+        "Status": "Season 1 ongoing"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Crutch",
+        "Genre": "Sitcom",
+        "Premiere": "November 3, 2025",
+        "Seasons": "TBA",
+        "Runtime": "30 min",
         "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
-      "Comedy"
-    ],
-    "data": [
-      {
-        "Title": "No Activity",
-        "Genre": "Comedy",
-        "Premiere": "November 12, 2017",
-        "Seasons": "4 seasons, 32 episodes",
-        "Runtime": "25–33 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Why Women Kill",
-        "Genre": "Dark comedy drama anthology",
-        "Premiere": "August 15, 2019",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "45–56 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "iCarly",
-        "Genre": "Sitcom",
-        "Premiere": "June 17, 2021",
-        "Seasons": "3 seasons, 33 episodes",
-        "Runtime": "21–26 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Guilty Party",
-        "Genre": "Dark comedy",
-        "Premiere": "October 14, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "28–35 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Game",
-        "Genre": "Comedy drama",
-        "Premiere": "November 11, 2021",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "29–38 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Fairly OddParents: Fairly Odder",
-        "Genre": "Sitcom",
-        "Premiere": "March 31, 2022",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "24–25 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Players",
-        "Genre": "Docu-comedy drama",
-        "Premiere": "June 16, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "28–35 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Grease: Rise of the Pink Ladies",
-        "Genre": "Musical comedy",
-        "Premiere": "April 6, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "48–59 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Frasier",
-        "Genre": "Sitcom",
-        "Premiere": "October 12, 2023",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "23–30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Knuckles",
-        "Genre": "Action-adventure comedy",
-        "Premiere": "April 26, 2024",
-        "Seasons": "6 episodes",
-        "Runtime": "23–33 min",
-        "Status": "Miniseries"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
+      "Current programming",
       "Animation",
       "Adult animation"
     ],
     "data": [
-      {
-        "Title": "Tooning Out the News",
-        "Genre": "Variety news satire",
-        "Premiere": "April 7, 2020",
-        "Seasons": "2 seasons, 233 episodes",
-        "Runtime": "5–44 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Star Trek: Lower Decks",
-        "Genre": "Science fiction comedy",
-        "Premiere": "August 6, 2020",
-        "Seasons": "5 seasons, 50 episodes",
-        "Runtime": "23–30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Harper House",
-        "Genre": "Comedy",
-        "Premiere": "September 16, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "24–25 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Mike Judge's Beavis and Butt-Head",
-        "Genre": "Adult animated comedy",
-        "Premiere": "August 4, 2022",
-        "Seasons": "2 seasons, 24 episodes",
-        "Runtime": "20–22 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Ark: The Animated Series",
         "Genre": "Science fiction drama",
@@ -378,20 +106,10 @@
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Co-productions"
     ],
     "data": [
-      {
-        "Title": "For Heaven's Sake",
-        "Genre": "True crime docu-comedy",
-        "Partner/Country": "CBC Gem/Canada",
-        "Premiere": "March 4, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "26–32 min",
-        "Language": "English",
-        "Status": "Ended"
-      },
       {
         "Title": "SkyMed",
         "Genre": "Medical drama",
@@ -401,131 +119,23 @@
         "Runtime": "43 min",
         "Language": "English",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Yonder",
-        "Genre": "Science fiction drama",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "April 11, 2023",
-        "Seasons": "6 episodes",
-        "Runtime": "30–36 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Gold (season 1)",
-        "Genre": "Action thriller",
-        "Partner/Country": "BBC One/United Kingdom",
-        "Premiere": "September 14, 2023September 17, 2023&#91;j&#93;",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "55–58 min",
-        "Language": "English",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Bargain",
-        "Genre": "Survival thriller",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "October 5, 2023",
-        "Seasons": "6 episodes",
-        "Runtime": "33–37 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "A Bloody Lucky Day",
-        "Genre": "Psychological thriller",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "February 1, 2024",
-        "Seasons": "10 episodes",
-        "Runtime": "46–65 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Pyramid Game",
-        "Genre": "Teen psychological thriller",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "May 30, 2024",
-        "Seasons": "10 episodes",
-        "Runtime": "50–64 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Dreaming of a Freaking Fairy Tale",
-        "Genre": "Romantic comedy",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "September 26, 2024",
-        "Seasons": "10 episodes",
-        "Runtime": "40 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Zorro",
-        "Genre": "Action-adventure",
-        "Partner/Country": "France Télévisions/France",
-        "Premiere": "November 6, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "70 min",
-        "Language": "French",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Queen Woo",
-        "Genre": "Period drama",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "December 23, 2024",
-        "Seasons": "8 episodes",
-        "Runtime": "56–61 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Dongjae, the Good or the Bastard",
-        "Genre": "Crime thriller",
-        "Partner/Country": "TVING/South Korea",
-        "Premiere": "March 28, 2025",
-        "Seasons": "10 episodes",
-        "Runtime": "43–57 min",
-        "Language": "Korean",
-        "Status": "Miniseries"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Continuations"
     ],
     "data": [
       {
-        "Title": "Younger (season 7)",
-        "Genre": "Comedy drama",
-        "Prev. network(s)": "TV Land",
-        "Premiere": "April 15, 2021",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "25–47 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Evil (seasons 2–4)",
-        "Genre": "Supernatural drama",
-        "Prev. network(s)": "CBS",
-        "Premiere": "June 20, 2021",
-        "Seasons": "3 seasons, 37 episodes",
-        "Runtime": "45–57 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "RuPaul's Drag Race All Stars (seasons 6–10)",
         "Genre": "Reality competition",
-        "Prev. network(s)": "Logo (seasons 1–2)VH1 (seasons 3–5)",
+        "Prev. network(s)": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Logo (seasons 1–2)VH1 (seasons 3–5)",
         "Premiere": "June 24, 2021",
         "Seasons": "5 seasons, 60 episodes",
         "Runtime": "61–83 min",
-        "Status": "Pending"
+        "Status": "Renewed"
       },
       {
         "Title": "RuPaul's Drag Race All Stars: Untucked (seasons 3–7)",
@@ -534,43 +144,7 @@
         "Premiere": "June 24, 2021",
         "Seasons": "5 seasons, 60 episodes",
         "Runtime": "21–22 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Inside the NFL (seasons 45–46)",
-        "Genre": "Sports talk show",
-        "Prev. network(s)": "HBO (seasons 1–31)Showtime (seasons 32–44)",
-        "Premiere": "September 7, 2021",
-        "Seasons": "2 seasons, 48 episodes",
-        "Runtime": "9–70 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "SEAL Team (seasons 5B–7)",
-        "Genre": "Military action",
-        "Prev. network(s)": "CBS",
-        "Premiere": "November 1, 2021",
-        "Seasons": "3 seasons, 30 episodes",
-        "Runtime": "43–49 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Next Influencer (season 3)",
-        "Genre": "Reality",
-        "Prev. network(s)": "AwesomenessTV",
-        "Premiere": "January 13, 2022",
-        "Seasons": "1 season, 12 episodes",
-        "Runtime": "35–48 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Blood &amp; Treasure (season 2)",
-        "Genre": "Action-adventure",
-        "Prev. network(s)": "CBS",
-        "Premiere": "July 17, 2022",
-        "Seasons": "1 season, 13 episodes",
-        "Runtime": "38–43 min",
-        "Status": "Ended"
+        "Status": "Renewed"
       },
       {
         "Title": "Ink Master (seasons 14–16)",
@@ -582,24 +156,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "Inside Amy Schumer (season 5)",
-        "Genre": "Sketch comedy",
-        "Prev. network(s)": "Comedy Central",
-        "Premiere": "October 20, 2022",
-        "Seasons": "1 season, 5 episodes",
-        "Runtime": "22–24 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Real Love Boat (season 1B)",
-        "Genre": "Reality competition",
-        "Prev. network(s)": "CBS",
-        "Premiere": "November 2, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "43 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "Criminal Minds (seasons 16–18)",
         "Genre": "Crime drama",
         "Prev. network(s)": "CBS",
@@ -607,30 +163,723 @@
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "44–56 min",
         "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Regional original programming",
+      "English language"
+    ],
+    "data": [
+      {
+        "Title": "Last King of the Cross",
+        "Genre": "Crime thriller",
+        "Premiere": "February 17, 2023",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "44–62 min",
+        "Exclusive region(s)": "Australia and Canada",
+        "Status": "Pending"
+      },
+      {
+        "Title": "NCIS: Sydney",
+        "Genre": "Military police procedural",
+        "Premiere": "November 10, 2023",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "42–44 min",
+        "Exclusive region(s)": "Australia and United Kingdom",
+        "Status": "Renewed "
+      },
+      {
+        "Title": "Top Gear Australia (season 5)",
+        "Genre": "Reality",
+        "Premiere": "May 17, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "58–64 min",
+        "Exclusive region(s)": "All markets except Ireland, United Kingdom and United States",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Dating Naked UK",
+        "Genre": "Dating show",
+        "Premiere": "August 23, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "43 min",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Aussie Shore",
+        "Genre": "Reality",
+        "Premiere": "October 3, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Australia and New Zealand",
+        "Status": "Pending"
+      },
+      {
+        "Title": "Curfew",
+        "Genre": "Crime thriller",
+        "Premiere": "October 10, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "73–79 min",
+        "Exclusive region(s)": "Ireland and United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Road Trip",
+        "Genre": "Comedy drama",
+        "Premiere": "December 26, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "45 min",
+        "Exclusive region(s)": "Australia, Canada and United Kingdom",
+        "Status": "Pending"
+      },
+      {
+        "Title": "The Crow Girl",
+        "Genre": "Crime thriller",
+        "Premiere": "January 16, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "United Kingdom",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Little Disasters",
+        "Genre": "Psychological thriller",
+        "Premiere": "May 22, 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "TBA",
+        "Exclusive region(s)": "Ireland and United Kingdom",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Regional original programming",
+      "German"
+    ],
+    "data": [
+      {
+        "Title": "Germany Shore (seasons 2–4)",
+        "Genre": "Reality",
+        "Premiere": "December 15, 2022",
+        "Seasons": "3 seasons, 28 episodes",
+        "Runtime": "43–71 min",
+        "Exclusive region(s)": "Austria, Germany and Switzerland",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Regional original programming",
+      "Italian"
+    ],
+    "data": [
+      {
+        "Title": "Italia Shore",
+        "Genre": "Reality",
+        "Premiere": "March 4, 2024",
+        "Seasons": "2 seasons, 18 episodes",
+        "Runtime": "40–52 min",
+        "Exclusive region(s)": "Italy",
+        "Status": "Pending"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Current programming",
+      "Regional original programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Colin from Accounts",
+        "Genre": "Comedy",
+        "Partner/Country": "Binge/Australia",
+        "Premiere": "November 9, 2023",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "24–32 min",
+        "Language": "English",
+        "Exclusive region(s)": "United States",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "The Good Fight",
+        "Genre": "Legal drama",
+        "Premiere": "February 19, 2017",
+        "Finale": "November 10, 2022",
+        "Seasons": "6 seasons, 60 episodes",
+        "Runtime": "40–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: Discovery",
+        "Genre": "Science fiction",
+        "Premiere": "September 24, 2017",
+        "Finale": "May 30, 2024",
+        "Seasons": "5 seasons, 65 episodes",
+        "Runtime": "37–65 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Strange Angel",
+        "Genre": "Historical drama",
+        "Premiere": "June 14, 2018",
+        "Finale": "July 25, 2019",
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "46–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "One Dollar",
+        "Genre": "Mystery thriller",
+        "Premiere": "August 30, 2018",
+        "Finale": "November 1, 2018",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "50–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: Short Treks",
+        "Genre": "Science fiction anthology",
+        "Premiere": "October 4, 2018",
+        "Finale": "January 9, 2020",
+        "Seasons": "2 seasons, 10 episodes",
+        "Runtime": "8–18 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Tell Me a Story",
+        "Genre": "Psychological thriller anthology",
+        "Premiere": "October 31, 2018",
+        "Finale": "February 6, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "42–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Twilight Zone",
+        "Genre": "Science fantasy anthology",
+        "Premiere": "April 1, 2019",
+        "Finale": "June 25, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "37–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: Picard",
+        "Genre": "Science fiction",
+        "Premiere": "January 23, 2020",
+        "Finale": "April 20, 2023",
+        "Seasons": "3 seasons, 30 episodes",
+        "Runtime": "39–62 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Interrogation",
+        "Genre": "True crime drama",
+        "Premiere": "February 6, 2020",
+        "Finale": "February 6, 2020",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "39–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Stand",
+        "Genre": "Apocalyptic drama",
+        "Premiere": "December 17, 2020",
+        "Finale": "February 11, 2021",
+        "Seasons": "9 episodes",
+        "Runtime": "49–65 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Coyote",
+        "Genre": "Crime drama",
+        "Premiere": "January 7, 2021",
+        "Finale": "January 7, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "43–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "1883",
+        "Genre": "Neo-Western drama",
+        "Premiere": "December 19, 2021",
+        "Finale": "February 27, 2022",
+        "Seasons": "10 episodes",
+        "Runtime": "44–67 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Halo",
+        "Genre": "Military science fiction",
+        "Premiere": "March 24, 2022",
+        "Finale": "March 21, 2024",
+        "Seasons": "2 seasons, 17 episodes",
+        "Runtime": "40–61 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Offer",
+        "Genre": "Drama",
+        "Premiere": "April 28, 2022",
+        "Finale": "June 16, 2022",
+        "Seasons": "10 episodes",
+        "Runtime": "51–69 min",
+        "Notes": ""
+      },
+      {
+        "Title": "1923",
+        "Genre": "Neo-Western drama",
+        "Premiere": "December 18, 2022",
+        "Finale": "April 6, 2025",
+        "Seasons": "2 seasons, 16 episodes",
+        "Runtime": "47–112 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Wolf Pack",
+        "Genre": "Supernatural teen drama",
+        "Premiere": "January 26, 2023",
+        "Finale": "March 16, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "46–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Rabbit Hole",
+        "Genre": "Spy drama",
+        "Premiere": "March 26, 2023",
+        "Finale": "May 7, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "42–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Fatal Attraction",
+        "Genre": "Psychological thriller",
+        "Premiere": "April 30, 2023",
+        "Finale": "May 28, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "53–62 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Lawmen: Bass Reeves",
+        "Genre": "Western drama",
+        "Premiere": "November 5, 2023",
+        "Finale": "December 17, 2023",
+        "Seasons": "8 episodes",
+        "Runtime": "32–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Sexy Beast",
+        "Genre": "Crime drama",
+        "Premiere": "January 25, 2024",
+        "Finale": "February 29, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Happy Face",
+        "Genre": "True crime drama",
+        "Premiere": "March 20, 2025",
+        "Finale": "May 1, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "48–58 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "No Activity",
+        "Genre": "Comedy",
+        "Premiere": "November 12, 2017",
+        "Finale": "May 27, 2021",
+        "Seasons": "4 seasons, 32 episodes",
+        "Runtime": "25–33 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Why Women Kill",
+        "Genre": "Dark comedy drama anthology",
+        "Premiere": "August 15, 2019",
+        "Finale": "July 29, 2021",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "45–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "iCarly",
+        "Genre": "Sitcom",
+        "Premiere": "June 17, 2021",
+        "Finale": "July 27, 2023",
+        "Seasons": "3 seasons, 33 episodes",
+        "Runtime": "21–26 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Guilty Party",
+        "Genre": "Dark comedy",
+        "Premiere": "October 14, 2021",
+        "Finale": "December 9, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "28–35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Game",
+        "Genre": "Comedy drama",
+        "Premiere": "November 11, 2021",
+        "Finale": "February 9, 2023",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "29–38 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Fairly OddParents: Fairly Odder",
+        "Genre": "Sitcom",
+        "Premiere": "March 31, 2022",
+        "Finale": "March 31, 2022",
+        "Seasons": "1 season, 13 episodes",
+        "Runtime": "24–25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Players",
+        "Genre": "Mockumentary",
+        "Premiere": "June 16, 2022",
+        "Finale": "July 28, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "28–35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Grease: Rise of the Pink Ladies",
+        "Genre": "Musical comedy",
+        "Premiere": "April 6, 2023",
+        "Finale": "June 1, 2023",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "48–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Frasier",
+        "Genre": "Sitcom",
+        "Premiere": "October 12, 2023",
+        "Finale": "November 14, 2024",
+        "Seasons": "2 seasons, 20 episodes",
+        "Runtime": "23–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Knuckles",
+        "Genre": "Action-adventure comedy",
+        "Premiere": "April 26, 2024",
+        "Finale": "April 26, 2024",
+        "Seasons": "6 episodes",
+        "Runtime": "23–33 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Tooning Out the News",
+        "Genre": "Variety news satire",
+        "Premiere": "April 7, 2020",
+        "Finale": "November 12, 2021",
+        "Seasons": "2 seasons, 233 episodes",
+        "Runtime": "5–44 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Star Trek: Lower Decks",
+        "Genre": "Science fiction comedy",
+        "Premiere": "August 6, 2020",
+        "Finale": "December 19, 2024",
+        "Seasons": "5 seasons, 50 episodes",
+        "Runtime": "23–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Harper House",
+        "Genre": "Comedy",
+        "Premiere": "September 16, 2021",
+        "Finale": "November 4, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Runtime": "24–25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Mike Judge's Beavis and Butt-Head",
+        "Genre": "Adult animated comedy",
+        "Premiere": "August 4, 2022",
+        "Finale": "June 29, 2023",
+        "Seasons": "2 seasons, 24 episodes",
+        "Runtime": "20–22 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "For Heaven's Sake",
+        "Genre": "True crime docu-comedy",
+        "Partner/Country": "CBC Gem/Canada",
+        "Premiere": "March 4, 2021",
+        "Finale": "March 4, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "26–32 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Yonder",
+        "Genre": "Science fiction drama",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "April 11, 2023",
+        "Finale": "April 11, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "30–36 min",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "The Gold (season 1)",
+        "Genre": "Action thriller",
+        "Partner/Country": "BBC One/United Kingdom",
+        "Premiere": "September 14, 2023September 17, 2023&#91;m&#93;",
+        "Finale": "September 14, 2023September 17, 2023&#91;m&#93;",
+        "Seasons": "1 season, 6 episodes",
+        "Runtime": "55–58 min",
+        "Language": "English",
+        "Notes": ""
+      },
+      {
+        "Title": "Bargain",
+        "Genre": "Survival thriller",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "October 5, 2023",
+        "Finale": "October 5, 2023",
+        "Seasons": "6 episodes",
+        "Runtime": "33–37 min",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "A Bloody Lucky Day",
+        "Genre": "Psychological thriller",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "February 1, 2024",
+        "Finale": "February 1, 2024",
+        "Seasons": "10 episodes",
+        "Runtime": "46–65 min",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "Pyramid Game",
+        "Genre": "Teen psychological thriller",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "May 30, 2024",
+        "Finale": "May 30, 2024",
+        "Seasons": "10 episodes",
+        "Runtime": "50–64 min",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "Dreaming of a Freaking Fairy Tale",
+        "Genre": "Romantic comedy",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "September 26, 2024",
+        "Finale": "September 26, 2024",
+        "Seasons": "10 episodes",
+        "Runtime": "40 min",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "Zorro",
+        "Genre": "Action-adventure",
+        "Partner/Country": "France Télévisions/France",
+        "Premiere": "November 6, 2024",
+        "Finale": "November 6, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "70 min",
+        "Language": "French",
+        "Notes": ""
+      },
+      {
+        "Title": "Queen Woo",
+        "Genre": "Period drama",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "December 23, 2024",
+        "Finale": "December 23, 2024",
+        "Seasons": "8 episodes",
+        "Runtime": "56–61 min",
+        "Language": "Korean",
+        "Notes": ""
+      },
+      {
+        "Title": "Dongjae, the Good or the Bastard",
+        "Genre": "Crime thriller",
+        "Partner/Country": "TVING/South Korea",
+        "Premiere": "March 28, 2025",
+        "Finale": "March 28, 2025",
+        "Seasons": "10 episodes",
+        "Runtime": "43–57 min",
+        "Language": "Korean",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Younger (season 7)",
+        "Genre": "Comedy drama",
+        "Prev. network(s)": "TV Land",
+        "Premiere": "April 15, 2021",
+        "Finale": "June 10, 2021",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "25–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Evil (seasons 2–4)",
+        "Genre": "Supernatural drama",
+        "Prev. network(s)": "CBS",
+        "Premiere": "June 20, 2021",
+        "Finale": "August 22, 2024",
+        "Seasons": "3 seasons, 37 episodes",
+        "Runtime": "45–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Inside the NFL (seasons 45–46)",
+        "Genre": "Sports talk show",
+        "Prev. network(s)": "HBO (seasons 1–31)Showtime (seasons 32–44)",
+        "Premiere": "September 7, 2021",
+        "Finale": "February 14, 2023",
+        "Seasons": "2 seasons, 48 episodes",
+        "Runtime": "9–70 min",
+        "Notes": ""
+      },
+      {
+        "Title": "SEAL Team (seasons 5B–7)",
+        "Genre": "Military action",
+        "Prev. network(s)": "CBS",
+        "Premiere": "November 1, 2021",
+        "Finale": "October 6, 2024",
+        "Seasons": "3 seasons, 30 episodes",
+        "Runtime": "43–49 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Next Influencer (season 3)",
+        "Genre": "Reality",
+        "Prev. network(s)": "AwesomenessTV",
+        "Premiere": "January 13, 2022",
+        "Finale": "February 24, 2022",
+        "Seasons": "1 season, 12 episodes",
+        "Runtime": "35–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Blood &amp; Treasure (season 2)",
+        "Genre": "Action-adventure",
+        "Prev. network(s)": "CBS",
+        "Premiere": "July 17, 2022",
+        "Finale": "1 season, 13 episodes",
+        "Seasons": "38–43 min",
+        "Runtime": ""
+      },
+      {
+        "Title": "Inside Amy Schumer (season 5)",
+        "Genre": "Sketch comedy",
+        "Prev. network(s)": "Comedy Central",
+        "Premiere": "October 20, 2022",
+        "Finale": "November 10, 2022",
+        "Seasons": "1 season, 5 episodes",
+        "Runtime": "22–24 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Real Love Boat (season 1B)",
+        "Genre": "Reality competition",
+        "Prev. network(s)": "CBS",
+        "Premiere": "November 2, 2022",
+        "Finale": "December 21, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Runtime": "43 min",
+        "Notes": ""
       },
       {
         "Title": "Are You the One? (season 9)",
         "Genre": "Dating show",
         "Prev. network(s)": "MTV",
-        "Premiere": "January 18, 2023January 19, 2023&#91;m&#93;February 1, 2023&#91;n&#93;",
+        "Premiere": "January 18, 2023January 19, 2023&#91;p&#93;February 1, 2023&#91;q&#93;",
+        "Finale": "March 15, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "41–46 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Joe Pickett (season 2)",
         "Genre": "Neo-Western crime drama",
         "Prev. network(s)": "Spectrum Originals",
         "Premiere": "June 4, 2023",
+        "Finale": "July 30, 2023",
         "Seasons": "1 season, 10 episodes",
         "Runtime": "42–59 min",
-        "Status": "Ended"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Specials"
     ],
     "data": [
@@ -722,7 +971,7 @@
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "English language"
     ],
@@ -734,7 +983,7 @@
         "Seasons": "3 seasons, 24 episodes",
         "Runtime": "44–46 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Spreadsheet",
@@ -743,7 +992,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "23–27 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "More Than This",
@@ -752,7 +1001,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "24 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Secrets She Keeps (season 2)",
@@ -761,7 +1010,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Couples Therapy Australia",
@@ -770,7 +1019,7 @@
         "Seasons": "2 seasons, 12 episodes",
         "Runtime": "22–28 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Are You the One? UK",
@@ -779,7 +1028,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44–66 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Box",
@@ -788,7 +1037,7 @@
         "Seasons": "3 episodes",
         "Runtime": "51–58 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Disappearance of Gabby Petito",
@@ -797,7 +1046,7 @@
         "Seasons": "3 episodes",
         "Runtime": "54–60 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Bridge Australia",
@@ -806,7 +1055,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "47–67 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Who Murdered Meredith Kercher?",
@@ -815,7 +1064,7 @@
         "Seasons": "2 episodes",
         "Runtime": "66–67 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Girl in the Box: The True Story",
@@ -824,7 +1073,7 @@
         "Seasons": "2 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Millionaire Holiday Home Swap",
@@ -833,7 +1082,7 @@
         "Seasons": "6 episodes",
         "Runtime": "42–50 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Rise of the Billionaires",
@@ -842,7 +1091,7 @@
         "Seasons": "4 episodes",
         "Runtime": "43–54 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Sky Blue: Inside Sydney FC",
@@ -851,7 +1100,7 @@
         "Seasons": "4 episodes",
         "Runtime": "49 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Undressed",
@@ -860,7 +1109,7 @@
         "Seasons": "1 season, 9 episodes",
         "Runtime": "44–47 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Ex-Wife",
@@ -869,16 +1118,7 @@
         "Seasons": "4 episodes",
         "Runtime": "45 min",
         "Exclusive region(s)": "Australia, Austria, Germany, Switzerland and United Kingdom",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Love Rats",
-        "Genre": "True crime docuseries",
-        "Premiere": "October 14, 2022",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "44–48 min",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "Hauntings",
@@ -887,7 +1127,7 @@
         "Seasons": "1 season, 4 episodes",
         "Runtime": "45–46 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Monster: The Loch Ness Mystery",
@@ -896,7 +1136,7 @@
         "Seasons": "3 episodes",
         "Runtime": "52 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Flatshare",
@@ -905,7 +1145,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Blowing LA",
@@ -914,16 +1154,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "42–44 min",
         "Exclusive region(s)": "Canada and United Kingdom",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Last King of the Cross",
-        "Genre": "Drama",
-        "Premiere": "February 17, 2023",
-        "Seasons": "2 seasons, 20 episodes",
-        "Runtime": "44–62 min",
-        "Exclusive region(s)": "Australia and Canada",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "1939: Secrets of Hollywood's Golden Year",
@@ -932,7 +1163,7 @@
         "Seasons": "2 episodes",
         "Runtime": "66 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "No Escape",
@@ -941,7 +1172,7 @@
         "Seasons": "1 season, 7 episodes",
         "Runtime": "52–60 min",
         "Exclusive region(s)": "Australia, Canada, Ireland and United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Betoota Advocate Presents",
@@ -950,7 +1181,7 @@
         "Seasons": "4 episodes",
         "Runtime": "44–48 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Hot Yachts",
@@ -959,16 +1190,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "42–48 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Inspired Unemployed (Impractical) Jokers",
-        "Genre": "Comedy",
-        "Premiere": "August 9, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "24–28 min",
-        "Exclusive region(s)": "Australia",
-        "Status": "Renewed"
+        "Notes": ""
       },
       {
         "Title": "One Night",
@@ -977,7 +1199,7 @@
         "Seasons": "6 episodes",
         "Runtime": "52 min",
         "Exclusive region(s)": "Australia and United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Killing Kind",
@@ -986,7 +1208,7 @@
         "Seasons": "6 episodes",
         "Runtime": "45–49 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Strip",
@@ -995,7 +1217,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "39–45 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Burning Girls",
@@ -1004,16 +1226,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45–56 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Ended"
-      },
-      {
-        "Title": "NCIS: Sydney",
-        "Genre": "Military police procedural",
-        "Premiere": "November 10, 2023",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "42–44 min",
-        "Exclusive region(s)": "Australia and United Kingdom",
-        "Status": "Renewed "
+        "Notes": ""
       },
       {
         "Title": "The Doll Factory",
@@ -1022,7 +1235,7 @@
         "Seasons": "6 episodes",
         "Runtime": "46–51 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Paper Dolls",
@@ -1031,7 +1244,7 @@
         "Seasons": "8 episodes",
         "Runtime": "40–43 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Serial Killer's Wife",
@@ -1040,7 +1253,7 @@
         "Seasons": "4 episodes",
         "Runtime": "44–47 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "The Castaways",
@@ -1049,7 +1262,7 @@
         "Seasons": "1 season, 5 episodes",
         "Runtime": "47–52 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Motorway Cops USA",
@@ -1058,7 +1271,7 @@
         "Seasons": "6 episodes",
         "Runtime": "44–45 min",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Celebrity Ex on the Beach (season 3)",
@@ -1067,7 +1280,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "44 min",
         "Exclusive region(s)": "Australia and United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "A Gentleman in Moscow",
@@ -1075,17 +1288,8 @@
         "Premiere": "March 29, 2024",
         "Seasons": "8 episodes",
         "Runtime": "43–55 min",
-        "Exclusive region(s)": "All markets except United States",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Top Gear Australia (season 5)",
-        "Genre": "Reality",
-        "Premiere": "May 17, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Runtime": "58–64 min",
-        "Exclusive region(s)": "All markets except Ireland, United Kingdom and United States",
-        "Status": "Pending"
+        "Exclusive region(s)": "All markets except United States and Latin America",
+        "Notes": ""
       },
       {
         "Title": "Insomnia",
@@ -1094,7 +1298,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "45–47 min",
         "Exclusive region(s)": "Ireland and United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Fake",
@@ -1103,7 +1307,7 @@
         "Seasons": "8 episodes",
         "Runtime": "40 min",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Stags",
@@ -1112,85 +1316,31 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "TBA",
         "Exclusive region(s)": "Australia",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Dating Naked UK",
-        "Genre": "Dating show",
-        "Premiere": "August 23, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "43 min",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Aussie Shore",
-        "Genre": "Reality",
-        "Premiere": "October 3, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Australia and New Zealand",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Curfew",
-        "Genre": "Crime thriller",
-        "Premiere": "October 10, 2024",
-        "Seasons": "6 episodes",
-        "Runtime": "73–79 min",
-        "Exclusive region(s)": "Ireland and United Kingdom",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Road Trip",
-        "Genre": "Comedy drama",
-        "Premiere": "December 26, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "45 min",
-        "Exclusive region(s)": "Australia, Canada and United Kingdom",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Crow Girl",
-        "Genre": "Crime thriller",
-        "Premiere": "January 16, 2025",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "United Kingdom",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Little Disasters",
-        "Genre": "Psychological thriller",
-        "Premiere": "May 22, 2025",
-        "Seasons": "1 season, 6 episodes",
-        "Runtime": "TBA",
-        "Exclusive region(s)": "Ireland and United Kingdom",
-        "Status": "Pending"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "French"
     ],
     "data": [
       {
         "Title": "Le Stade",
-        "Genre": "Sports drama",
+        "Genre": "Sports docuseries",
         "Premiere": "December 22, 2022",
-        "Seasons": "1 season, 4 episodes",
+        "Seasons": "2 seasons, 8 episodes",
         "Runtime": "41–43 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Renewed"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "German"
     ],
@@ -1202,16 +1352,7 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "23–25 min",
         "Exclusive region(s)": "Austria, Germany, Switzerland and United Kingdom",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Germany Shore (seasons 2–4)",
-        "Genre": "Reality",
-        "Premiere": "December 15, 2022",
-        "Seasons": "3 seasons, 28 episodes",
-        "Runtime": "43–71 min",
-        "Exclusive region(s)": "Austria, Germany and Switzerland",
-        "Status": "Pending"
+        "Notes": ""
       },
       {
         "Title": "The Sheikh",
@@ -1220,7 +1361,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "41–51 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Chemistry of Death",
@@ -1229,7 +1370,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "43–49 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "A Thin Line",
@@ -1238,7 +1379,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–51 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Kohlrabenschwarz",
@@ -1247,7 +1388,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "44–50 min",
         "Exclusive region(s)": "Austria, Germany and Switzerland",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Drag Race Germany",
@@ -1256,7 +1397,7 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "58–66 min",
         "Exclusive region(s)": "Austria, Germany and Switzerland",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "One Trillion Dollars",
@@ -1265,7 +1406,7 @@
         "Seasons": "6 episodes",
         "Runtime": "46–53 min",
         "Exclusive region(s)": "Canada, Germany and United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Parallel Me",
@@ -1274,13 +1415,13 @@
         "Seasons": "8 episodes",
         "Runtime": "41–48 min",
         "Exclusive region(s)": "Germany",
-        "Status": "Miniseries"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "Italian"
     ],
@@ -1292,7 +1433,7 @@
         "Seasons": "2 seasons, 20 episodes",
         "Runtime": "40–50 min",
         "Exclusive region(s)": "Italy",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Are You the One? Italia",
@@ -1301,7 +1442,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "53–62 min",
         "Exclusive region(s)": "Italy",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Vita da Carlo (season 2)",
@@ -1310,7 +1451,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "28–35 min",
         "Exclusive region(s)": "Italy",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Drag Race Italia (season 3)",
@@ -1319,22 +1460,13 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "51–75 min",
         "Exclusive region(s)": "Italy",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Italia Shore",
-        "Genre": "Reality",
-        "Premiere": "March 4, 2024",
-        "Seasons": "2 seasons, 18 episodes",
-        "Runtime": "40–52 min",
-        "Exclusive region(s)": "Italy",
-        "Status": "Pending"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "Portuguese"
     ],
@@ -1346,7 +1478,7 @@
         "Seasons": "3 seasons, 36 episodes",
         "Runtime": "50–59 min",
         "Exclusive region(s)": "Latin America and United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Followers",
@@ -1355,7 +1487,7 @@
         "Seasons": "1 season, 6 episodes",
         "Runtime": "30–40 min",
         "Exclusive region(s)": "Latin America",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Adriano Imperador",
@@ -1364,7 +1496,7 @@
         "Seasons": "3 episodes",
         "Runtime": "41–45 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Marcelo, Marmelo, Martelo",
@@ -1373,7 +1505,7 @@
         "Seasons": "1 season, 13 episodes",
         "Runtime": "27–34 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Drag Race Brasil",
@@ -1382,7 +1514,7 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "60–68 min",
         "Exclusive region(s)": "Brazil",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Anderson \"Spider\" Silva",
@@ -1391,13 +1523,13 @@
         "Seasons": "5 episodes",
         "Runtime": "39–49 min",
         "Exclusive region(s)": "All markets except United States",
-        "Status": "Miniseries"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "Spanish"
     ],
@@ -1409,7 +1541,7 @@
         "Seasons": "3 seasons, 30 episodes",
         "Runtime": "10–37 min",
         "Exclusive region(s)": "Argentina",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Siendo Pampita",
@@ -1418,7 +1550,7 @@
         "Seasons": "2 seasons, 19 episodes",
         "Runtime": "24–29 min",
         "Exclusive region(s)": "Argentina",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Parot",
@@ -1427,7 +1559,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "47–55 min",
         "Exclusive region(s)": "United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Before I Forget",
@@ -1436,7 +1568,7 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "45–54 min",
         "Exclusive region(s)": "United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Susana, Invitada de Honor",
@@ -1445,25 +1577,25 @@
         "Seasons": "1 season, 3 episodes",
         "Runtime": "39–54 min",
         "Exclusive region(s)": "Argentina",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Envoys",
         "Genre": "Horror thriller",
-        "Premiere": "December 12, 2021January 20, 2022&#91;x&#93;",
+        "Premiere": "December 12, 2021January 20, 2022&#91;z&#93;",
         "Seasons": "2 seasons, 16 episodes",
         "Runtime": "43–63 min",
         "Exclusive region(s)": "All markets",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Cecilia",
         "Genre": "Family comedy drama",
-        "Premiere": "December 21, 2021April 14, 2022&#91;x&#93;",
+        "Premiere": "December 21, 2021April 14, 2022&#91;z&#93;",
         "Seasons": "1 season, 8 episodes",
         "Runtime": "30–44 min",
         "Exclusive region(s)": "All markets",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Marley &amp; Mirko",
@@ -1472,7 +1604,7 @@
         "Seasons": "1 season, 8 episodes",
         "Runtime": "24–31 min",
         "Exclusive region(s)": "Argentina",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The First of Us",
@@ -1481,7 +1613,7 @@
         "Seasons": "59 episodes",
         "Runtime": "40–62 min",
         "Exclusive region(s)": "Latin America",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "When You Least Expect It",
@@ -1490,16 +1622,16 @@
         "Seasons": "1 season, 10 episodes",
         "Runtime": "48–52 min",
         "Exclusive region(s)": "Australia, Canada and United States",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Bosé",
         "Genre": "Biopic",
-        "Premiere": "November 3, 2022December 1, 2022&#91;j&#93;",
+        "Premiere": "November 3, 2022December 1, 2022&#91;m&#93;",
         "Seasons": "1 season, 6 episodes",
         "Runtime": "46–54 min",
         "Exclusive region(s)": "All markets",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Drag Race México",
@@ -1508,13 +1640,13 @@
         "Seasons": "1 season, 12 episodes",
         "Runtime": "57–62 min",
         "Exclusive region(s)": "Latin America",
-        "Status": "Ended"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "Co-productions"
     ],
@@ -1528,7 +1660,7 @@
         "Runtime": "52–56 min",
         "Language": "Italian",
         "Exclusive region(s)": "Austria, France, Germany, Italy and Switzerland",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Pervert: Hunting the Strip Search Caller",
@@ -1539,7 +1671,7 @@
         "Runtime": "60 min",
         "Language": "English",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Corpo Libero",
@@ -1550,7 +1682,7 @@
         "Runtime": "49–53 min",
         "Language": "Italian",
         "Exclusive region(s)": "Australia, Canada, France, Latin America, Italy, South Korea and United Kingdom",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Con Girl",
@@ -1561,7 +1693,7 @@
         "Runtime": "46–51 min",
         "Language": "English",
         "Exclusive region(s)": "United Kingdom",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "North Shore",
@@ -1572,24 +1704,13 @@
         "Runtime": "44 min",
         "Language": "English",
         "Exclusive region(s)": "Australia",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Colin from Accounts",
-        "Genre": "Comedy",
-        "Partner/Country": "Binge/Australia",
-        "Premiere": "November 9, 2023",
-        "Seasons": "2 seasons, 16 episodes",
-        "Runtime": "24–32 min",
-        "Language": "English",
-        "Exclusive region(s)": "United States",
-        "Status": "Renewed"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Regional original programming",
       "Stand-up comedy"
     ],

@@ -1,290 +1,42 @@
 [
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Drama"
     ],
     "data": [
-      {
-        "Title": "Brave New World",
-        "Genre": "Science fiction",
-        "Premiere": "July 15, 2020",
-        "Seasons": "1 season, 9 episodes",
-        "Length": "41–56 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dr. Death",
-        "Genre": "True crime drama",
-        "Premiere": "July 15, 2021",
-        "Seasons": "2 seasons, 16 episodes",
-        "Length": "44–63 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Days of Our Lives: Beyond Salem",
-        "Genre": "Soap opera",
-        "Premiere": "September 6, 2021",
-        "Seasons": "2 seasons, 10 episodes",
-        "Length": "38–50 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Lost Symbol",
-        "Genre": "Mystery",
-        "Premiere": "September 16, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "40–51 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "One of Us Is Lying",
-        "Genre": "Teen mystery drama",
-        "Premiere": "October 7, 2021",
-        "Seasons": "2 seasons, 16 episodes",
-        "Length": "41–51 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Girl in the Woods",
-        "Genre": "Supernatural horror",
-        "Premiere": "October 21, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "24–30 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Bel-Air",
         "Genre": "Teen drama",
         "Premiere": "February 13, 2022",
         "Seasons": "3 seasons, 30 episodes",
         "Length": "40–60 min",
-        "Status": "Renewed for final season"
-      },
-      {
-        "Title": "Joe vs. Carole",
-        "Genre": "Biographical drama",
-        "Premiere": "March 3, 2022",
-        "Seasons": "8 episodes",
-        "Length": "46–54 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Angelyne",
-        "Genre": "Biographical drama",
-        "Premiere": "May 19, 2022",
-        "Seasons": "5 episodes",
-        "Length": "42–52 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Queer as Folk",
-        "Genre": "Drama",
-        "Premiere": "June 9, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "42–56 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Vampire Academy",
-        "Genre": "Supernatural drama",
-        "Premiere": "September 15, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "45–55 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "A Friend of the Family",
-        "Genre": "Crime drama",
-        "Premiere": "October 6, 2022",
-        "Seasons": "9 episodes",
-        "Length": "49–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Calling",
-        "Genre": "Crime drama",
-        "Premiere": "November 10, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "40–47 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Leopard Skin",
-        "Genre": "Crime drama",
-        "Premiere": "November 17, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "23–34 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Irreverent",
-        "Genre": "Crime drama thriller",
-        "Premiere": "November 30, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "41–50 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Continental: From the World of John Wick",
-        "Genre": "Action thriller",
-        "Premiere": "September 22, 2023",
-        "Seasons": "3 episodes",
-        "Length": "79–97 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Apples Never Fall",
-        "Genre": "Mystery drama",
-        "Premiere": "March 14, 2024",
-        "Seasons": "7 episodes",
-        "Length": "46–66 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Those About to Die",
-        "Genre": "Historical drama",
-        "Premiere": "July 18, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "50–59 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Fight Night: The Million Dollar Heist",
-        "Genre": "Heist drama",
-        "Premiere": "September 5, 2024",
-        "Seasons": "8 episodes",
-        "Length": "42–56 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Teacup",
-        "Genre": "Horror drama",
-        "Premiere": "October 10, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "32–34 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Long Bright River",
-        "Genre": "Crime drama",
-        "Premiere": "March 13, 2025",
-        "Seasons": "8 episodes",
-        "Length": "50–59 min",
-        "Status": "Miniseries"
+        "Status": "Final season due to premiere on November 24, 2025"
       },
       {
         "Title": "Devil in Disguise: John Wayne Gacy",
-        "Genre": "True crime drama miniseries",
+        "Genre": "True crime drama",
         "Premiere": "October 16, 2025",
         "Seasons": "8 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
+      },
+      {
+        "Title": "All Her Fault",
+        "Genre": "Mystery thriller",
+        "Premiere": "November 6, 2025",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "TBA",
+        "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Comedy"
     ],
     "data": [
-      {
-        "Title": "Saved by the Bell",
-        "Genre": "Sitcom",
-        "Premiere": "November 25, 2020",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "24–33 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Punky Brewster",
-        "Genre": "Sitcom",
-        "Premiere": "February 25, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "24–28 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Rutherford Falls",
-        "Genre": "Sitcom",
-        "Premiere": "April 22, 2021",
-        "Seasons": "2 seasons, 18 episodes",
-        "Length": "23–30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Girls5eva",
-        "Genre": "Musical comedy",
-        "Premiere": "May 6, 2021",
-        "Seasons": "2 seasons, 16 episodes",
-        "Length": "26–32 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "MacGruber",
-        "Genre": "Action comedy",
-        "Premiere": "December 16, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "25–35 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Take Note",
-        "Genre": "Musical comedy",
-        "Premiere": "February 24, 2022",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "23–25 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Bust Down",
-        "Genre": "Comedy",
-        "Premiere": "March 10, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "26–30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Killing It",
-        "Genre": "Comedy",
-        "Premiere": "March 31, 2022",
-        "Seasons": "2 seasons, 18 episodes",
-        "Length": "28−32 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Resort",
-        "Genre": "Crime comedy",
-        "Premiere": "July 28, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "31–39 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Pitch Perfect: Bumper in Berlin",
-        "Genre": "Musical comedy",
-        "Premiere": "November 23, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "27–31 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Best Man: The Final Chapters",
-        "Genre": "Comedy drama",
-        "Premiere": "December 22, 2022",
-        "Seasons": "8 episodes",
-        "Length": "41–56 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Paul T. Goldman",
-        "Genre": "True crime docu-comedy",
-        "Premiere": "January 1, 2023",
-        "Seasons": "6 episodes",
-        "Length": "31–63 min",
-        "Status": "Miniseries"
-      },
       {
         "Title": "Poker Face",
         "Genre": "Mystery comedy",
@@ -294,36 +46,12 @@
         "Status": "Pending"
       },
       {
-        "Title": "Mrs. Davis",
-        "Genre": "Science fiction dark comedy",
-        "Premiere": "April 20, 2023",
-        "Seasons": "8 episodes",
-        "Length": "49–61 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Bupkis",
-        "Genre": "Comedy",
-        "Premiere": "May 4, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "23–32 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Based on a True Story",
-        "Genre": "Comedy thriller",
-        "Premiere": "June 8, 2023",
-        "Seasons": "2 seasons, 16 episodes",
-        "Length": "25–55 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "Twisted Metal",
         "Genre": "Action comedy",
         "Premiere": "July 27, 2023",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "23–32 min",
-        "Status": "Season 2 due to premiere on July 31, 2025"
+        "Seasons": "2 seasons, 22 episodes",
+        "Length": "23–37 min",
+        "Status": "Pending"
       },
       {
         "Title": "Ted",
@@ -334,127 +62,22 @@
         "Status": "Renewed"
       },
       {
-        "Title": "Mr. Throwback",
-        "Genre": "Mockumentary",
-        "Premiere": "August 8, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "25–32 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Hysteria!",
-        "Genre": "Comedy horror thriller",
-        "Premiere": "October 18, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "47–60 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Laid",
-        "Genre": "Crime comedy",
-        "Premiere": "December 19, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "28–34 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "The Paper",
-        "Genre": "Mockumentary",
+        "Genre": "Workplace comedy mockumentary",
         "Premiere": "September 4, 2025",
         "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Pending"
+        "Length": "26–32 min",
+        "Status": "Renewed"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
-      "Animation",
-      "Adult animation"
-    ],
-    "data": [
-      {
-        "Title": "In the Know",
-        "Genre": "Workplace comedy/talk show hybrid",
-        "Premiere": "January 25, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "22–27 min",
-        "Status": "Ended"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
+      "Current programming",
       "Animation",
       "Kids &amp; family"
     ],
     "data": [
-      {
-        "Title": "Cleopatra in Space",
-        "Genre": "Science fiction",
-        "Premiere": "April 15, 2020",
-        "Seasons": "3 seasons, 26 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Archibald's Next Big Thing Is Here!",
-        "Genre": "Family comedy",
-        "Premiere": "February 18, 2021",
-        "Seasons": "4 seasons, 24 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dragons Rescue Riders: Heroes of the Sky",
-        "Genre": "Family action-adventure",
-        "Premiere": "November 24, 2021",
-        "Seasons": "4 seasons, 24 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Babble Bop!",
-        "Genre": "Musical",
-        "Premiere": "December 23, 2021",
-        "Seasons": "2 seasons, 13 episodes",
-        "Length": "30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Supernatural Academy",
-        "Genre": "Fantasy",
-        "Premiere": "January 20, 2022",
-        "Seasons": "1 season, 16 episodes",
-        "Length": "22–23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dino Pops",
-        "Genre": "Family comedy",
-        "Premiere": "May 25, 2023",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "19 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Superbuns",
-        "Genre": "Family comedy",
-        "Premiere": "October 12, 2023",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "21 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "L'il Stompers",
-        "Genre": "Family comedy",
-        "Premiere": "October 26, 2023",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "25 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Caillou",
         "Genre": "Family comedy",
@@ -462,14 +85,6 @@
         "Seasons": "1 season, 26 episodes",
         "Length": "22 min",
         "Status": "Pending"
-      },
-      {
-        "Title": "Megamind Rules!",
-        "Genre": "Family comedy",
-        "Premiere": "March 1, 2024",
-        "Seasons": "1 season, 16 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
       },
       {
         "Title": "Tea Town Teddy Bears",
@@ -499,353 +114,17 @@
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Unscripted",
       "Docuseries"
     ],
     "data": [
       {
-        "Title": "Lost Speedways",
-        "Subject": "Sports",
-        "Premiere": "July 15, 2020",
-        "Seasons": "2 seasons, 16 episodes",
-        "Length": "24–28 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "True Colors",
-        "Subject": "Biography/Culture/Celebrity",
-        "Premiere": "September 29, 2020",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "11–26 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "John Wayne Gacy: Devil in Disguise",
-        "Subject": "True crime",
-        "Premiere": "March 25, 2021",
-        "Seasons": "6 episodes",
-        "Length": "48–55 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Michael Phelps: Medals, Memories, and More",
-        "Subject": "Sports",
-        "Premiere": "April 14, 2021",
-        "Seasons": "3 episodes",
-        "Length": "64–95 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The '96 Effect",
-        "Subject": "Sports",
-        "Premiere": "June 17, 2021",
-        "Seasons": "3 episodes",
-        "Length": "24–38 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Golden: The Journey of USA's Elite Gymnasts",
-        "Subject": "Sports",
-        "Premiere": "June 27, 2021",
-        "Seasons": "6 episodes",
-        "Length": "45–47 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "For Ball and Country",
-        "Subject": "Sports",
-        "Premiere": "July 19, 2021",
-        "Seasons": "7 episodes",
-        "Length": "22–52 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Dr. Death: The Undoctored Story",
-        "Subject": "True crime",
-        "Premiere": "July 29, 2021",
-        "Seasons": "4 episodes",
-        "Length": "42–48 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Born for Business",
-        "Subject": "Business",
-        "Premiere": "August 23, 2021",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Monster in the Shadows",
-        "Subject": "True crime",
-        "Premiere": "August 26, 2021",
-        "Seasons": "3 episodes",
-        "Length": "44–47 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Unidentified with Demi Lovato",
-        "Subject": "Paranormal",
-        "Premiere": "September 30, 2021",
-        "Seasons": "4 episodes",
-        "Length": "43–47 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Joe Montana: Cool Under Pressure",
-        "Subject": "Sports",
-        "Premiere": "January 6, 2022",
-        "Seasons": "6 episodes",
-        "Length": "43–60 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Meddling",
-        "Subject": "Sports",
-        "Premiere": "January 6, 2022",
-        "Seasons": "4 episodes",
-        "Length": "33–43 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "True Story with Ed and Randall",
-        "Subject": "Comedy",
-        "Premiere": "January 20, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "29–42 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Earnin' It: The NFL's Forward Progress",
-        "Subject": "Sports",
-        "Premiere": "January 23, 2022",
-        "Seasons": "5 episodes",
-        "Length": "43–56 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "American Rock Stars",
-        "Subject": "Sports",
-        "Premiere": "January 26, 2022",
-        "Seasons": "4 episodes",
-        "Length": "26–34 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Perfect World: A Deadly Game",
-        "Subject": "True crime",
-        "Premiere": "March 8, 2022",
-        "Seasons": "2 episodes",
-        "Length": "48–50 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "WWE Evil",
-        "Subject": "Sports",
-        "Premiere": "March 24, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "40–52 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Preaching Evil: A Wife on the Run with Warren Jeffs",
-        "Subject": "True crime",
-        "Premiere": "April 26, 2022",
-        "Seasons": "4 episodes",
-        "Length": "43–50 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Sins of the Amish",
-        "Subject": "True crime",
-        "Premiere": "May 24, 2022",
-        "Seasons": "2 episodes",
-        "Length": "52–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Hillside Strangler: Devil in Disguise",
-        "Subject": "True crime",
-        "Premiere": "August 2, 2022",
-        "Seasons": "4 episodes",
-        "Length": "52–56 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The End Is Nye",
-        "Subject": "Science",
-        "Premiere": "August 25, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "41–45 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Shadowland",
-        "Subject": "Conspiracy theories/Journalism",
-        "Premiere": "September 21, 2022",
-        "Seasons": "6 episodes",
-        "Length": "49–62 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "I Love You, You Hate Me",
-        "Subject": "Television industry",
-        "Premiere": "October 12, 2022",
-        "Seasons": "2 episodes",
-        "Length": "53–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Once Upon a Time in Londongrad",
-        "Subject": "True crime",
-        "Premiere": "November 15, 2022",
-        "Seasons": "6 episodes",
-        "Length": "26–29 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Dangerous Breed: Crime. Cons. Cats.",
-        "Subject": "True crime",
-        "Premiere": "November 22, 2022",
-        "Seasons": "3 episodes",
-        "Length": "54–59 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Casey Anthony: Where the Truth Lies",
-        "Subject": "True crime",
-        "Premiere": "November 29, 2022",
-        "Seasons": "3 episodes",
-        "Length": "60–78 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Who Killed Jenni Rivera?",
-        "Subject": "True crime",
-        "Premiere": "December 6, 2022",
-        "Seasons": "3 episodes",
-        "Length": "44–48 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Battle for Justina Pelletier",
-        "Subject": "Patients' rights",
-        "Premiere": "December 13, 2022",
-        "Seasons": "4 episodes",
-        "Length": "40–57 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Who Killed Robert Wone?",
-        "Subject": "True crime",
-        "Premiere": "March 7, 2023",
-        "Seasons": "2 episodes",
-        "Length": "61–75 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Menendez + Menudo: Boys Betrayed",
-        "Subject": "True crime",
-        "Premiere": "May 2, 2023",
-        "Seasons": "3 episodes",
-        "Length": "54–62 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Rainn Wilson and the Geography of Bliss",
-        "Subject": "Travel",
-        "Premiere": "May 18, 2023",
-        "Seasons": "1 season, 5 episodes",
-        "Length": "47–55 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Myth of the Zodiac Killer",
-        "Subject": "True crime",
-        "Premiere": "July 11, 2023",
-        "Seasons": "2 episodes",
-        "Length": "60–70 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "John Carpenter's Suburban Screams",
-        "Subject": "Horror",
-        "Premiere": "October 13, 2023",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "39–44 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Krishnas: Gurus. Karma. Murder.",
-        "Subject": "True crime",
-        "Premiere": "October 24, 2023",
-        "Seasons": "3 episodes",
-        "Length": "52–53 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "House of Kardashian",
-        "Subject": "Celebrity",
-        "Premiere": "November 16, 2023",
-        "Seasons": "3 episodes",
-        "Length": "49–53 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Kings from Queens: The Run DMC Story",
-        "Subject": "Music",
-        "Premiere": "February 1, 2024",
-        "Seasons": "3 episodes",
-        "Length": "48–51 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Orlando Bloom: To the Edge",
-        "Subject": "Extreme sports",
-        "Premiere": "April 18, 2024",
-        "Seasons": "3 episodes",
-        "Length": "53–59 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Action",
-        "Subject": "Film/Stunt performance",
-        "Premiere": "April 26, 2024",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "42–51 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Bronx Zoo '90: Crime, Chaos and Baseball",
-        "Subject": "Sports",
-        "Premiere": "May 16, 2024",
-        "Seasons": "3 episodes",
-        "Length": "44–48 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Hungry Games: Alaska's Big Bear Challenge",
-        "Subject": "Nature",
-        "Premiere": "July 11, 2024",
-        "Seasons": "3 episodes",
-        "Length": "50 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Face to Face with Scott Peterson",
-        "Subject": "True crime",
-        "Premiere": "August 20, 2024",
-        "Seasons": "3 episodes",
-        "Length": "57–58 min",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Here Come the Irish",
         "Subject": "Sports",
         "Premiere": "August 29, 2024",
         "Seasons": "1 season, 7 episodes",
-        "Length": "30-43 min",
+        "Length": "30–43 min",
         "Status": "Pending"
       },
       {
@@ -857,73 +136,9 @@
         "Status": "Pending"
       },
       {
-        "Title": "Reggaeton: The Sound That Conquered the World",
-        "Subject": "Music",
-        "Premiere": "October 3, 2024",
-        "Seasons": "4 episodes",
-        "Length": "40–50 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Anatomy of Lies",
-        "Subject": "Television/True crime",
-        "Premiere": "October 15, 2024",
-        "Seasons": "3 episodes",
-        "Length": "54–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Making Manson",
-        "Subject": "True crime",
-        "Premiere": "November 19, 2024",
-        "Seasons": "3 episodes",
-        "Length": "58–61 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Girls Gone Wild: The Untold Story",
-        "Subject": "Adult entertainment/True crime",
-        "Premiere": "December 3, 2024",
-        "Seasons": "3 episodes",
-        "Length": "52–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Richard Ramirez: The Night Stalker Tapes",
-        "Subject": "True crime",
-        "Premiere": "December 10, 2024",
-        "Seasons": "2 episodes",
-        "Length": "61–62 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "SNL50: Beyond Saturday Night",
-        "Subject": "Television",
-        "Premiere": "January 16, 2025",
-        "Seasons": "4 episodes",
-        "Length": "49–67 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Gilgo Beach Killer: The House of Secrets",
-        "Subject": "True crime miniseries",
-        "Premiere": "June 10, 2025",
-        "Seasons": "3 episodes",
-        "Length": "60 min",
-        "Status": "Miniseries"
-      },
-      {
         "Title": "Epic Ride: The Story of Universal Theme Parks",
         "Subject": "Theme parks",
-        "Premiere": "July 24, 2025",
-        "Seasons": "3 episodes",
-        "Length": "TBA",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Adaptive",
-        "Subject": "Sports",
-        "Premiere": "July 28, 2025",
+        "Premiere": "September 29, 2025",
         "Seasons": "3 episodes",
         "Length": "TBA",
         "Status": "Miniseries"
@@ -932,75 +147,11 @@
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Unscripted",
       "Reality"
     ],
     "data": [
-      {
-        "Title": "Vanderpump Dogs",
-        "Genre": "Reality",
-        "Premiere": "June 9, 2021",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "21 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Ex-Rated",
-        "Genre": "Reality",
-        "Premiere": "August 12, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "30–34 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Frogger",
-        "Genre": "Reality competition",
-        "Premiere": "September 9, 2021",
-        "Seasons": "1 season, 13 episodes",
-        "Length": "40–42 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Top Chef Family Style",
-        "Genre": "Cooking competition",
-        "Premiere": "September 9, 2021",
-        "Seasons": "1 season, 14 episodes",
-        "Length": "44 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Backyard Blowout",
-        "Genre": "Reality competition",
-        "Premiere": "September 16, 2021",
-        "Seasons": "1 season, 11 episodes",
-        "Length": "22–23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Create the Escape",
-        "Genre": "Reality competition",
-        "Premiere": "October 7, 2021",
-        "Seasons": "1 season, 11 episodes",
-        "Length": "21–23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Siwas Dance Pop Revolution",
-        "Genre": "Reality competition",
-        "Premiere": "November 4, 2021",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "43–52 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Paris in Love",
-        "Genre": "Reality",
-        "Premiere": "November 11, 2021",
-        "Seasons": "2 seasons, 21 episodes",
-        "Length": "31–59 min",
-        "Status": "Ended"
-      },
       {
         "Title": "The Real Housewives Ultimate Girls Trip",
         "Genre": "Reality",
@@ -1008,22 +159,6 @@
         "Seasons": "4 seasons, 28 episodes",
         "Length": "22–59 min",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Baking It",
-        "Genre": "Reality competition",
-        "Premiere": "December 2, 2021",
-        "Seasons": "2 seasons, 12 episodes",
-        "Length": "41–54 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Below Deck Down Under",
-        "Genre": "Reality",
-        "Premiere": "March 17, 2022",
-        "Seasons": "1 season, 17 episodes",
-        "Length": "43–54 min",
-        "Status": "Ended"
       },
       {
         "Title": "The Traitors",
@@ -1042,14 +177,6 @@
         "Status": "Pending"
       },
       {
-        "Title": "The Gentle Art of Swedish Death Cleaning",
-        "Genre": "Reality",
-        "Premiere": "April 27, 2023",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "47–57 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "Love Island Games",
         "Genre": "Reality competition",
         "Premiere": "November 1, 2023",
@@ -1058,44 +185,12 @@
         "Status": "Season 2 due to premiere on September 16, 2025"
       },
       {
-        "Title": "Couple to Throuple",
-        "Genre": "Dating show",
-        "Premiere": "February 8, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "45–59 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The McBee Dynasty: Real American Cowboys",
-        "Genre": "Reality",
-        "Premiere": "March 11, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "40–47 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Love Undercover",
-        "Genre": "Dating show",
-        "Premiere": "May 9, 2024",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "56–59 min",
-        "Status": "Ended"
-      },
-      {
         "Title": "Eat Slay Love",
         "Genre": "Reality",
         "Premiere": "November 7, 2024",
         "Seasons": "1 season, 3 episodes",
         "Length": "47–54 min",
         "Status": "Pending"
-      },
-      {
-        "Title": "Paris &amp; Nicole: The Encore",
-        "Genre": "Reality",
-        "Premiere": "December 12, 2024",
-        "Seasons": "3 episodes",
-        "Length": "34–37 min",
-        "Status": "Miniseries"
       },
       {
         "Title": "Nelly &amp; Ashanti: We Belong Together",
@@ -1109,112 +204,15 @@
         "Title": "Love Island: Beyond the Villa",
         "Genre": "Reality",
         "Premiere": "July 13, 2025",
-        "Seasons": "1 season, 1 episode",
-        "Length": "TBA",
-        "Status": "Season 1 ongoing"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Original programming",
-      "Unscripted",
-      "Variety"
-    ],
-    "data": [
-      {
-        "Title": "The At-Home Variety Show Featuring Seth MacFarlane",
-        "Genre": "Variety show",
-        "Premiere": "May 11, 2020",
-        "Seasons": "1 season, 21 episodes",
-        "Length": "3–16 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Wilmore",
-        "Genre": "Late-night talk show",
-        "Premiere": "September 18, 2020",
-        "Seasons": "1 season, 11 episodes",
-        "Length": "23–30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Amber Ruffin Show",
-        "Genre": "Late-night talk show",
-        "Premiere": "September 25, 2020",
-        "Seasons": "3 seasons, 57 episodes",
-        "Length": "19–45 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Overview",
-        "Genre": "News",
-        "Premiere": "January 16, 2021",
         "Seasons": "1 season, 8 episodes",
-        "Length": "15–21 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Olympic Highlights with Kevin Hart and Snoop Dogg",
-        "Genre": "Comedy sports news",
-        "Premiere": "July 23, 2021",
-        "Seasons": "1 season, 9 episodes",
-        "Length": "24–38 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Hart to Heart",
-        "Genre": "Talk show",
-        "Premiere": "August 5, 2021",
-        "Seasons": "4 seasons, 38 episodes",
-        "Length": "42–56 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "The Kids Tonight Show",
-        "Genre": "Children's late-night talk show",
-        "Premiere": "October 14, 2021",
-        "Seasons": "1 season, 20 episodes",
-        "Length": "11–18 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "So Dumb It's Criminal Hosted by Snoop Dogg",
-        "Genre": "Comedy clip show",
-        "Premiere": "April 20, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "24–30 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dateline: The Last Day",
-        "Genre": "News",
-        "Premiere": "June 14, 2022",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "43–54 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Traitors: Postmortem",
-        "Genre": "Aftershow",
-        "Premiere": "January 12, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "7–12 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Olympic Highlights with Kevin Hart and Kenan Thompson",
-        "Genre": "Comedy sports news",
-        "Premiere": "July 26, 2024",
-        "Seasons": "1 season, 8 episodes",
-        "Length": "33 min",
+        "Length": "43–55 min",
         "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Sports"
     ],
     "data": [
@@ -1225,140 +223,15 @@
         "Seasons": "11 seasons, 517 episodes",
         "Length": "43–55 min",
         "Status": "Pending"
-      },
-      {
-        "Title": "WWE NXT Level Up",
-        "Genre": "Professional wrestling",
-        "Premiere": "February 18, 2022",
-        "Seasons": "1 season, 28 episodes",
-        "Length": "30–60 min",
-        "Status": "Pending"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Co-productions"
     ],
     "data": [
-      {
-        "Title": "Madagascar: A Little Wild",
-        "Genre": "Animated family comedy",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "September 7, 2020",
-        "Seasons": "8 seasons, 50 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Mighty Ones",
-        "Genre": "Animated family comedy",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "November 9, 2020",
-        "Seasons": "4 seasons, 40 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Trolls: TrollsTopia",
-        "Genre": "Animated family comedy",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "November 19, 2020",
-        "Seasons": "7 seasons, 52 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Epstein's Shadow: Ghislaine Maxwell",
-        "Genre": "Docuseries",
-        "Partner/Region": "Sky Documentaries/United Kingdom",
-        "Premiere": "June 24, 2021",
-        "Seasons": "3 episodes",
-        "Length": "46–58 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "The Croods: Family Tree",
-        "Genre": "Animated family comedy",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "September 23, 2021",
-        "Seasons": "8 seasons, 52 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Dragons: The Nine Realms",
-        "Genre": "Animated adventure",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "December 23, 2021",
-        "Seasons": "8 seasons, 52 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Wolf Like Me",
-        "Genre": "Dark romantic comedy",
-        "Partner/Region": "Stan/Australia",
-        "Premiere": "January 13, 2022",
-        "Seasons": "2 seasons, 13 episodes",
-        "Length": "22–28 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Undeclared War",
-        "Genre": "Cyber-thriller",
-        "Partner/Region": "Channel 4/United Kingdom",
-        "Premiere": "August 18, 2022",
-        "Seasons": "6 episodes",
-        "Length": "47–56 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Last Light",
-        "Genre": "Thriller",
-        "Partner/Region": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}MBC Group/Middle East and North AfricaStan/AustraliaViaplay/Nordic countries",
-        "Premiere": "September 8, 2022",
-        "Seasons": "5 episodes",
-        "Length": "42–43 min",
-        "Status": "Miniseries"
-      },
-      {
-        "Title": "Abominable and the Invisible City",
-        "Genre": "Animated adventure",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "October 5, 2022",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Makery",
-        "Genre": "Educational",
-        "Partner/Region": "Sky Kids/United Kingdom",
-        "Premiere": "January 12, 2023",
-        "Seasons": "1 season, 25 episodes",
-        "Length": "14–15 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Fright Krewe",
-        "Genre": "Animated horror",
-        "Partner/Region": "Hulu/United States",
-        "Premiere": "October 2, 2023",
-        "Seasons": "2 seasons, 20 episodes",
-        "Length": "21–22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Tattooist of Auschwitz",
-        "Genre": "Period drama",
-        "Partner/Region": "Sky Atlantic/United KingdomStan/Australia",
-        "Premiere": "May 2, 2024",
-        "Seasons": "6 episodes",
-        "Length": "50–58 min",
-        "Status": "Miniseries"
-      },
       {
         "Title": "The Day of the Jackal",
         "Genre": "Political thriller",
@@ -1367,95 +240,23 @@
         "Seasons": "1 season, 10 episodes",
         "Length": "49–56 min",
         "Status": "Renewed"
-      },
-      {
-        "Title": "Lockerbie: A Search for Truth",
-        "Genre": "Drama",
-        "Partner/Region": "Sky Atlantic/United Kingdom",
-        "Premiere": "January 2, 2025",
-        "Seasons": "5 episodes",
-        "Length": "48–61 min",
-        "Status": "Miniseries"
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
       "Continuations"
     ],
     "data": [
-      {
-        "Title": "Curious George (seasons 10–15)",
-        "Genre": "Family animation",
-        "Prev. network(s)": "PBS Kids",
-        "Premiere": "July 15, 2020",
-        "Seasons": "6 seasons, 45 episodes",
-        "Length": "23 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Where's Waldo? (season 2)",
-        "Genre": "Family animation",
-        "Prev. network(s)": "Universal Kids",
-        "Premiere": "July 15, 2020",
-        "Seasons": "1 season, 20 episodes",
-        "Length": "22 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "A.P. Bio (seasons 3–4)",
-        "Genre": "Comedy",
-        "Prev. network(s)": "NBC",
-        "Premiere": "September 3, 2020",
-        "Seasons": "2 seasons, 16 episodes",
-        "Length": "21–25 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Connecting (season 1B)",
-        "Genre": "Comedy",
-        "Prev. network(s)": "NBC",
-        "Premiere": "November 5, 2020",
-        "Seasons": "1 season, 4 episodes",
-        "Length": "20–21 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "American Ninja Warrior Junior (season 3)",
-        "Genre": "Reality competition",
-        "Prev. network(s)": "Universal Kids",
-        "Premiere": "September 9, 2021",
-        "Seasons": "1 season, 15 episodes",
-        "Length": "42–45 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "Home Sweet Home (season 1B)",
-        "Genre": "Reality",
-        "Prev. network(s)": "NBC",
-        "Premiere": "November 12, 2021",
-        "Seasons": "1 season, 5 episodes",
-        "Length": "43 min",
-        "Status": "Ended"
-      },
-      {
-        "Title": "The Real Housewives of Miami (seasons 4–5)",
-        "Genre": "Reality",
-        "Prev. network(s)": "Bravo",
-        "Premiere": "December 16, 2021",
-        "Seasons": "2 seasons, 33 episodes",
-        "Length": "41–43 min",
-        "Status": "Ended"
-      },
       {
         "Title": "Love Island (seasons 4–7)",
         "Genre": "Reality",
         "Prev. network(s)": "CBS",
         "Premiere": "July 19, 2022",
-        "Seasons": "4 seasons, 148 episodes",
+        "Seasons": "4 seasons, 149 episodes",
         "Length": "42–65 min",
-        "Status": "New episode due to premiere on August 25, 2025"
+        "Status": "Pending"
       },
       {
         "Title": "Days of Our Lives (seasons 58–60)",
@@ -1479,7 +280,1620 @@
   },
   {
     "category": [
-      "Original programming",
+      "Current programming",
+      "Exclusive international distribution"
+    ],
+    "data": [
+      {
+        "Title": "Smother",
+        "Genre": "Crime thriller",
+        "Partner/Region": "RTÉ One/Ireland",
+        "Premiere": "July 1, 2021",
+        "Seasons": "2 seasons, 12 episodes",
+        "Length": "49–51 min",
+        "Status": "Renewed for final season"
+      },
+      {
+        "Title": "Vigil",
+        "Genre": "Crime thriller",
+        "Partner/Region": "BBC One/United Kingdom",
+        "Premiere": "December 23, 2021",
+        "Seasons": "2 seasons, 12 episodes",
+        "Length": "54–59 min",
+        "Status": "Renewed"
+      },
+      {
+        "Title": "Trigger Point",
+        "Genre": "Crime thriller",
+        "Partner/Region": "ITV/United Kingdom",
+        "Premiere": "July 8, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "45–47 min",
+        "Status": "Renewed"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "The Copenhagen Test",
+        "Genre": "Science fiction spy thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Post-production"
+      },
+      {
+        "Title": "Crystal Lake",
+        "Genre": "Horror",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Good Daughter",
+        "Genre": "Suspense thriller miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "Ponies",
+        "Genre": "Spy thriller",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The Five-Star Weekend",
+        "Genre": "Drama miniseries",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "M.I.A.",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Superfakes",
+        "Genre": "Crime drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "The Miniature Wife",
+        "Genre": "Romantic comedy drama",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Filming"
+      },
+      {
+        "Title": "The 'Burbs",
+        "Genre": "Black comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Dig",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "Ted: The Animated Series",
+        "Genre": "Comedy",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Tiffany Haddish Goes Off",
+        "Subject": "Travel",
+        "Premiere": "Late 2025",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "TBA",
+        "Status": "Series order"
+      },
+      {
+        "Title": "Untitled Jordan Peele black cowboy series",
+        "Subject": "History",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "House of Villains (season 3)",
+        "Genre": "Reality competition",
+        "Prev. network": "E! (seasons 1–2)",
+        "Premiere": "Early 2026",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "TBA",
+        "Status": "Season order"
+      },
+      {
+        "Title": "Married at First Sight (seasons 19–21)",
+        "Genre": "Reality",
+        "Prev. network": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}FYI (seasons 1–4)Lifetime (seasons 5–18)",
+        "Premiere": "TBA",
+        "Seasons": "TBA",
+        "Length": "TBA",
+        "Status": "Season order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "Non-English language",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Gente sana",
+        "Subject": "Mental health",
+        "Premiere": "TBA",
+        "Seasons": "6 episodes",
+        "Length": "TBA",
+        "Language": "Spanish",
+        "Status": "Series order"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original programming",
+      "In development"
+    ],
+    "data": [
+      {
+        "Title": "Before I Let Go",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Best Buds",
+        "Genre": "Adult animated comedy"
+      },
+      {
+        "Title": "Cleo",
+        "Genre": "Historical comedy drama"
+      },
+      {
+        "Title": "Climbing in Heels",
+        "Genre": "Comedy drama"
+      },
+      {
+        "Title": "Crush",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Excellence: 8 Fights",
+        "Genre": "Biopic"
+      },
+      {
+        "Title": "Fear",
+        "Genre": "Thriller"
+      },
+      {
+        "Title": "Freeman",
+        "Genre": "Mystery drama"
+      },
+      {
+        "Title": "Friday Night Lights",
+        "Genre": "Sports drama"
+      },
+      {
+        "Title": "Little Secrets",
+        "Genre": "Mystery thriller"
+      },
+      {
+        "Title": "Lonely Hearts Club",
+        "Genre": "Crime thriller, comedy drama"
+      },
+      {
+        "Title": "Pitch Perfect: K-Pop Idols",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "Queen of Flow",
+        "Genre": "Drama"
+      },
+      {
+        "Title": "Rear Window",
+        "Genre": "Thriller"
+      },
+      {
+        "Title": "Sex in the Dark",
+        "Genre": "Reality competition"
+      },
+      {
+        "Title": "The Show Must Go On",
+        "Genre": "Mystery anthology"
+      },
+      {
+        "Title": "The Shrouded College",
+        "Genre": "Adventure horror"
+      },
+      {
+        "Title": "St. Donatus",
+        "Genre": "Supernatural mystery drama"
+      },
+      {
+        "Title": "Strangers",
+        "Genre": "Thriller"
+      },
+      {
+        "Title": "The Thing About Tommy",
+        "Genre": "True crime drama"
+      },
+      {
+        "Title": "Untitled Clueless sequel series",
+        "Genre": "Coming-of-age teen comedy"
+      },
+      {
+        "Title": "Untitled Hostel series",
+        "Genre": "Horror"
+      },
+      {
+        "Title": "Untitled Robert Durst docuseries",
+        "Genre": "True crime docuseries"
+      },
+      {
+        "Title": "The W",
+        "Genre": "Comedy"
+      },
+      {
+        "Title": "You'll Never Believe What Happened to Lacey",
+        "Genre": "Comedy"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Upcoming original films",
+      "Feature films"
+    ],
+    "data": [
+      {
+        "Title": "Community: The Movie",
+        "Genre": "Comedy",
+        "Release": "TBA",
+        "Runtime": "TBA"
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Drama"
+    ],
+    "data": [
+      {
+        "Title": "Brave New World",
+        "Genre": "Science fiction",
+        "Premiere": "July 15, 2020",
+        "Seasons": "1 season, 9 episodes",
+        "Length": "41–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dr. Death",
+        "Genre": "True crime drama",
+        "Premiere": "July 15, 2021",
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "44–63 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Days of Our Lives: Beyond Salem",
+        "Genre": "Soap opera",
+        "Premiere": "September 6, 2021",
+        "Seasons": "2 seasons, 10 episodes",
+        "Length": "38–50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Lost Symbol",
+        "Genre": "Mystery",
+        "Premiere": "September 16, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "40–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "One of Us Is Lying",
+        "Genre": "Teen mystery drama",
+        "Premiere": "October 7, 2021",
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "41–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Girl in the Woods",
+        "Genre": "Supernatural horror",
+        "Premiere": "October 21, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "24–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Joe vs. Carole",
+        "Genre": "Biographical drama",
+        "Premiere": "March 3, 2022",
+        "Seasons": "8 episodes",
+        "Length": "46–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Angelyne",
+        "Genre": "Biographical drama",
+        "Premiere": "May 19, 2022",
+        "Seasons": "5 episodes",
+        "Length": "42–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Queer as Folk",
+        "Genre": "Drama",
+        "Premiere": "June 9, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "42–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Vampire Academy",
+        "Genre": "Supernatural drama",
+        "Premiere": "September 15, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "45–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "A Friend of the Family",
+        "Genre": "Crime drama",
+        "Premiere": "October 6, 2022",
+        "Seasons": "9 episodes",
+        "Length": "49–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Calling",
+        "Genre": "Crime drama",
+        "Premiere": "November 10, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "40–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Leopard Skin",
+        "Genre": "Crime drama",
+        "Premiere": "November 17, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "23–34 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Irreverent",
+        "Genre": "Crime drama thriller",
+        "Premiere": "November 30, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "41–50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Continental: From the World of John Wick",
+        "Genre": "Action thriller",
+        "Premiere": "September 22, 2023",
+        "Seasons": "3 episodes",
+        "Length": "79–97 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Apples Never Fall",
+        "Genre": "Mystery drama",
+        "Premiere": "March 14, 2024",
+        "Seasons": "7 episodes",
+        "Length": "46–66 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Those About to Die",
+        "Genre": "Historical drama",
+        "Premiere": "July 18, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "50–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Fight Night: The Million Dollar Heist",
+        "Genre": "Heist drama",
+        "Premiere": "September 5, 2024",
+        "Seasons": "8 episodes",
+        "Length": "42–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Teacup",
+        "Genre": "Horror drama",
+        "Premiere": "October 10, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "32–34 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Long Bright River",
+        "Genre": "Crime drama",
+        "Premiere": "March 13, 2025",
+        "Seasons": "8 episodes",
+        "Length": "50–59 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Comedy"
+    ],
+    "data": [
+      {
+        "Title": "Saved by the Bell",
+        "Genre": "Sitcom",
+        "Premiere": "November 25, 2020",
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "24–33 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Punky Brewster",
+        "Genre": "Sitcom",
+        "Premiere": "February 25, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "24–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Rutherford Falls",
+        "Genre": "Sitcom",
+        "Premiere": "April 22, 2021",
+        "Seasons": "2 seasons, 18 episodes",
+        "Length": "23–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Girls5eva",
+        "Genre": "Musical comedy",
+        "Premiere": "May 6, 2021",
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "26–32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "MacGruber",
+        "Genre": "Action comedy",
+        "Premiere": "December 16, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "25–35 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Take Note",
+        "Genre": "Musical comedy",
+        "Premiere": "February 24, 2022",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "23–25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Bust Down",
+        "Genre": "Comedy",
+        "Premiere": "March 10, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "26–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Killing It",
+        "Genre": "Comedy",
+        "Premiere": "March 31, 2022",
+        "Seasons": "2 seasons, 18 episodes",
+        "Length": "28−32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Resort",
+        "Genre": "Crime comedy",
+        "Premiere": "July 28, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "31–39 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Pitch Perfect: Bumper in Berlin",
+        "Genre": "Musical comedy",
+        "Premiere": "November 23, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "27–31 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Best Man: The Final Chapters",
+        "Genre": "Comedy drama",
+        "Premiere": "December 22, 2022",
+        "Seasons": "8 episodes",
+        "Length": "41–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Paul T. Goldman",
+        "Genre": "True crime docu-comedy",
+        "Premiere": "January 1, 2023",
+        "Seasons": "6 episodes",
+        "Length": "31–63 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Mrs. Davis",
+        "Genre": "Science fiction dark comedy",
+        "Premiere": "April 20, 2023",
+        "Seasons": "8 episodes",
+        "Length": "49–61 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Bupkis",
+        "Genre": "Comedy",
+        "Premiere": "May 4, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "23–32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Based on a True Story",
+        "Genre": "Comedy thriller",
+        "Premiere": "June 8, 2023",
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "25–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Mr. Throwback",
+        "Genre": "Mockumentary",
+        "Premiere": "August 8, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "25–32 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Hysteria!",
+        "Genre": "Comedy horror thriller",
+        "Premiere": "October 18, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "47–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Laid",
+        "Genre": "Crime comedy",
+        "Premiere": "December 19, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "28–34 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Animation",
+      "Adult animation"
+    ],
+    "data": [
+      {
+        "Title": "In the Know",
+        "Genre": "Workplace comedy/talk show hybrid",
+        "Premiere": "January 25, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "22–27 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Animation",
+      "Kids &amp; family"
+    ],
+    "data": [
+      {
+        "Title": "Cleopatra in Space",
+        "Genre": "Science fiction",
+        "Premiere": "April 15, 2020",
+        "Seasons": "3 seasons, 26 episodes",
+        "Length": "22 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Archibald's Next Big Thing Is Here!",
+        "Genre": "Family comedy",
+        "Premiere": "February 18, 2021",
+        "Seasons": "4 seasons, 24 episodes",
+        "Length": "22 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dragons Rescue Riders: Heroes of the Sky",
+        "Genre": "Family action-adventure",
+        "Premiere": "November 24, 2021",
+        "Seasons": "4 seasons, 24 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Babble Bop!",
+        "Genre": "Musical",
+        "Premiere": "December 23, 2021",
+        "Seasons": "2 seasons, 13 episodes",
+        "Length": "30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Supernatural Academy",
+        "Genre": "Fantasy",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 16 episodes",
+        "Length": "22–23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dino Pops",
+        "Genre": "Family comedy",
+        "Premiere": "May 25, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "19 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Superbuns",
+        "Genre": "Family comedy",
+        "Premiere": "October 12, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "21 min",
+        "Notes": ""
+      },
+      {
+        "Title": "L'il Stompers",
+        "Genre": "Family comedy",
+        "Premiere": "October 26, 2023",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Megamind Rules!",
+        "Genre": "Family comedy",
+        "Premiere": "March 1, 2024",
+        "Seasons": "1 season, 16 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Unscripted",
+      "Docuseries"
+    ],
+    "data": [
+      {
+        "Title": "Lost Speedways",
+        "Subject": "Sports",
+        "Premiere": "July 15, 2020",
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "24–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "True Colors",
+        "Subject": "Biography/Culture/Celebrity",
+        "Premiere": "September 29, 2020",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "11–26 min",
+        "Notes": ""
+      },
+      {
+        "Title": "John Wayne Gacy: Devil in Disguise",
+        "Subject": "True crime",
+        "Premiere": "March 25, 2021",
+        "Seasons": "6 episodes",
+        "Length": "48–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Michael Phelps: Medals, Memories, and More",
+        "Subject": "Sports",
+        "Premiere": "April 14, 2021",
+        "Seasons": "3 episodes",
+        "Length": "64–95 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The '96 Effect",
+        "Subject": "Sports",
+        "Premiere": "June 17, 2021",
+        "Seasons": "3 episodes",
+        "Length": "24–38 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Golden: The Journey of USA's Elite Gymnasts",
+        "Subject": "Sports",
+        "Premiere": "June 27, 2021",
+        "Seasons": "6 episodes",
+        "Length": "45–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "For Ball and Country",
+        "Subject": "Sports",
+        "Premiere": "July 19, 2021",
+        "Seasons": "7 episodes",
+        "Length": "22–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dr. Death: The Undoctored Story",
+        "Subject": "True crime",
+        "Premiere": "July 29, 2021",
+        "Seasons": "4 episodes",
+        "Length": "42–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Born for Business",
+        "Subject": "Business",
+        "Premiere": "August 23, 2021",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "22 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Monster in the Shadows",
+        "Subject": "True crime",
+        "Premiere": "August 26, 2021",
+        "Seasons": "3 episodes",
+        "Length": "44–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Unidentified with Demi Lovato",
+        "Subject": "Paranormal",
+        "Premiere": "September 30, 2021",
+        "Seasons": "4 episodes",
+        "Length": "43–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Joe Montana: Cool Under Pressure",
+        "Subject": "Sports",
+        "Premiere": "January 6, 2022",
+        "Seasons": "6 episodes",
+        "Length": "43–60 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Meddling",
+        "Subject": "Sports",
+        "Premiere": "January 6, 2022",
+        "Seasons": "4 episodes",
+        "Length": "33–43 min",
+        "Notes": ""
+      },
+      {
+        "Title": "True Story with Ed and Randall",
+        "Subject": "Comedy",
+        "Premiere": "January 20, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "29–42 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Earnin' It: The NFL's Forward Progress",
+        "Subject": "Sports",
+        "Premiere": "January 23, 2022",
+        "Seasons": "5 episodes",
+        "Length": "43–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "American Rock Stars",
+        "Subject": "Sports",
+        "Premiere": "January 26, 2022",
+        "Seasons": "4 episodes",
+        "Length": "26–34 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Perfect World: A Deadly Game",
+        "Subject": "True crime",
+        "Premiere": "March 8, 2022",
+        "Seasons": "2 episodes",
+        "Length": "48–50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "WWE Evil",
+        "Subject": "Sports",
+        "Premiere": "March 24, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "40–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Preaching Evil: A Wife on the Run with Warren Jeffs",
+        "Subject": "True crime",
+        "Premiere": "April 26, 2022",
+        "Seasons": "4 episodes",
+        "Length": "43–50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Sins of the Amish",
+        "Subject": "True crime",
+        "Premiere": "May 24, 2022",
+        "Seasons": "2 episodes",
+        "Length": "52–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Hillside Strangler: Devil in Disguise",
+        "Subject": "True crime",
+        "Premiere": "August 2, 2022",
+        "Seasons": "4 episodes",
+        "Length": "52–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The End Is Nye",
+        "Subject": "Science",
+        "Premiere": "August 25, 2022",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "41–45 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Shadowland",
+        "Subject": "Conspiracy theories/Journalism",
+        "Premiere": "September 21, 2022",
+        "Seasons": "6 episodes",
+        "Length": "49–62 min",
+        "Notes": ""
+      },
+      {
+        "Title": "I Love You, You Hate Me",
+        "Subject": "Television industry",
+        "Premiere": "October 12, 2022",
+        "Seasons": "2 episodes",
+        "Length": "53–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Once Upon a Time in Londongrad",
+        "Subject": "True crime",
+        "Premiere": "November 15, 2022",
+        "Seasons": "6 episodes",
+        "Length": "26–29 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dangerous Breed: Crime. Cons. Cats.",
+        "Subject": "True crime",
+        "Premiere": "November 22, 2022",
+        "Seasons": "3 episodes",
+        "Length": "54–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Casey Anthony: Where the Truth Lies",
+        "Subject": "True crime",
+        "Premiere": "November 29, 2022",
+        "Seasons": "3 episodes",
+        "Length": "60–78 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Who Killed Jenni Rivera?",
+        "Subject": "True crime",
+        "Premiere": "December 6, 2022",
+        "Seasons": "3 episodes",
+        "Length": "44–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Battle for Justina Pelletier",
+        "Subject": "Patients' rights",
+        "Premiere": "December 13, 2022",
+        "Seasons": "4 episodes",
+        "Length": "40–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Who Killed Robert Wone?",
+        "Subject": "True crime",
+        "Premiere": "March 7, 2023",
+        "Seasons": "2 episodes",
+        "Length": "61–75 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Menendez + Menudo: Boys Betrayed",
+        "Subject": "True crime",
+        "Premiere": "May 2, 2023",
+        "Seasons": "3 episodes",
+        "Length": "54–62 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Rainn Wilson and the Geography of Bliss",
+        "Subject": "Travel",
+        "Premiere": "May 18, 2023",
+        "Seasons": "1 season, 5 episodes",
+        "Length": "47–55 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Myth of the Zodiac Killer",
+        "Subject": "True crime",
+        "Premiere": "July 11, 2023",
+        "Seasons": "2 episodes",
+        "Length": "60–70 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Suburban Screams",
+        "Subject": "Horror",
+        "Premiere": "October 13, 2023",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "39–44 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Krishnas: Gurus. Karma. Murder.",
+        "Subject": "True crime",
+        "Premiere": "October 24, 2023",
+        "Seasons": "3 episodes",
+        "Length": "52–53 min",
+        "Notes": ""
+      },
+      {
+        "Title": "House of Kardashian",
+        "Subject": "Celebrity",
+        "Premiere": "November 16, 2023",
+        "Seasons": "3 episodes",
+        "Length": "49–53 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Kings from Queens: The Run DMC Story",
+        "Subject": "Music",
+        "Premiere": "February 1, 2024",
+        "Seasons": "3 episodes",
+        "Length": "48–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Orlando Bloom: To the Edge",
+        "Subject": "Extreme sports",
+        "Premiere": "April 18, 2024",
+        "Seasons": "3 episodes",
+        "Length": "53–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Action",
+        "Subject": "Film/Stunt performance",
+        "Premiere": "April 26, 2024",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "42–51 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Bronx Zoo '90: Crime, Chaos and Baseball",
+        "Subject": "Sports",
+        "Premiere": "May 16, 2024",
+        "Seasons": "3 episodes",
+        "Length": "44–48 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Hungry Games: Alaska's Big Bear Challenge",
+        "Subject": "Nature",
+        "Premiere": "July 11, 2024",
+        "Seasons": "3 episodes",
+        "Length": "50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Face to Face with Scott Peterson",
+        "Subject": "True crime",
+        "Premiere": "August 20, 2024",
+        "Seasons": "3 episodes",
+        "Length": "57–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Reggaeton: The Sound That Conquered the World",
+        "Subject": "Music",
+        "Premiere": "October 3, 2024",
+        "Seasons": "4 episodes",
+        "Length": "40–50 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Anatomy of Lies",
+        "Subject": "Television/True crime",
+        "Premiere": "October 15, 2024",
+        "Seasons": "3 episodes",
+        "Length": "54–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Making Manson",
+        "Subject": "True crime",
+        "Premiere": "November 19, 2024",
+        "Seasons": "3 episodes",
+        "Length": "58–61 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Girls Gone Wild: The Untold Story",
+        "Subject": "Adult entertainment/True crime",
+        "Premiere": "December 3, 2024",
+        "Seasons": "3 episodes",
+        "Length": "52–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Richard Ramirez: The Night Stalker Tapes",
+        "Subject": "True crime",
+        "Premiere": "December 10, 2024",
+        "Seasons": "2 episodes",
+        "Length": "61–62 min",
+        "Notes": ""
+      },
+      {
+        "Title": "SNL50: Beyond Saturday Night",
+        "Subject": "Television",
+        "Premiere": "January 16, 2025",
+        "Seasons": "4 episodes",
+        "Length": "49–67 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Gilgo Beach Killer: The House of Secrets",
+        "Subject": "True crime miniseries",
+        "Premiere": "June 10, 2025",
+        "Seasons": "3 episodes",
+        "Length": "55–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Adaptive",
+        "Subject": "Sports",
+        "Premiere": "July 28, 2025",
+        "Seasons": "3 episodes",
+        "Length": "44–46 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Unscripted",
+      "Reality"
+    ],
+    "data": [
+      {
+        "Title": "Vanderpump Dogs",
+        "Genre": "Reality",
+        "Premiere": "June 9, 2021",
+        "Seasons": "1 season, 6 episodes",
+        "Length": "21 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Ex-Rated",
+        "Genre": "Reality",
+        "Premiere": "August 12, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "30–34 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Frogger",
+        "Genre": "Reality competition",
+        "Premiere": "September 9, 2021",
+        "Seasons": "1 season, 13 episodes",
+        "Length": "40–42 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Top Chef Family Style",
+        "Genre": "Cooking competition",
+        "Premiere": "September 9, 2021",
+        "Seasons": "1 season, 14 episodes",
+        "Length": "44 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Backyard Blowout",
+        "Genre": "Reality competition",
+        "Premiere": "September 16, 2021",
+        "Seasons": "1 season, 11 episodes",
+        "Length": "22–23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Create the Escape",
+        "Genre": "Reality competition",
+        "Premiere": "October 7, 2021",
+        "Seasons": "1 season, 11 episodes",
+        "Length": "21–23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Siwas Dance Pop Revolution",
+        "Genre": "Reality competition",
+        "Premiere": "November 4, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "43–52 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Paris in Love",
+        "Genre": "Reality",
+        "Premiere": "November 11, 2021",
+        "Seasons": "2 seasons, 21 episodes",
+        "Length": "31–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Baking It",
+        "Genre": "Reality competition",
+        "Premiere": "December 2, 2021",
+        "Seasons": "2 seasons, 12 episodes",
+        "Length": "41–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Below Deck Down Under",
+        "Genre": "Reality",
+        "Premiere": "March 17, 2022",
+        "Seasons": "1 season, 17 episodes",
+        "Length": "43–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Gentle Art of Swedish Death Cleaning",
+        "Genre": "Reality",
+        "Premiere": "April 27, 2023",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "47–57 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Couple to Throuple",
+        "Genre": "Dating show",
+        "Premiere": "February 8, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "45–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The McBee Dynasty: Real American Cowboys",
+        "Genre": "Reality",
+        "Premiere": "March 11, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "40–47 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Love Undercover",
+        "Genre": "Dating show",
+        "Premiere": "May 9, 2024",
+        "Seasons": "1 season, 10 episodes",
+        "Length": "56–59 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Paris &amp; Nicole: The Encore",
+        "Genre": "Reality",
+        "Premiere": "December 12, 2024",
+        "Seasons": "3 episodes",
+        "Length": "34–37 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Unscripted",
+      "Variety"
+    ],
+    "data": [
+      {
+        "Title": "The At-Home Variety Show Featuring Seth MacFarlane",
+        "Genre": "Variety show",
+        "Premiere": "May 11, 2020",
+        "Seasons": "1 season, 21 episodes",
+        "Length": "3–16 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Wilmore",
+        "Genre": "Late-night talk show",
+        "Premiere": "September 18, 2020",
+        "Seasons": "1 season, 11 episodes",
+        "Length": "23–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Amber Ruffin Show",
+        "Genre": "Late-night talk show",
+        "Premiere": "September 25, 2020",
+        "Seasons": "3 seasons, 57 episodes",
+        "Length": "19–45 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Overview",
+        "Genre": "News",
+        "Premiere": "January 16, 2021",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "15–21 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Olympic Highlights with Kevin Hart and Snoop Dogg",
+        "Genre": "Comedy sports news",
+        "Premiere": "July 23, 2021",
+        "Seasons": "1 season, 9 episodes",
+        "Length": "24–38 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Hart to Heart",
+        "Genre": "Talk show",
+        "Premiere": "August 5, 2021",
+        "Seasons": "4 seasons, 38 episodes",
+        "Length": "42–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Kids Tonight Show",
+        "Genre": "Children's late-night talk show",
+        "Premiere": "October 14, 2021",
+        "Seasons": "1 season, 20 episodes",
+        "Length": "11–18 min",
+        "Notes": ""
+      },
+      {
+        "Title": "So Dumb It's Criminal Hosted by Snoop Dogg",
+        "Genre": "Comedy clip show",
+        "Premiere": "April 20, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "24–30 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dateline: The Last Day",
+        "Genre": "News",
+        "Premiere": "June 14, 2022",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "43–54 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Traitors: Postmortem",
+        "Genre": "Aftershow",
+        "Premiere": "January 12, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "7–12 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Olympic Highlights with Kevin Hart and Kenan Thompson",
+        "Genre": "Comedy sports news",
+        "Premiere": "July 26, 2024",
+        "Seasons": "1 season, 8 episodes",
+        "Length": "33 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Sports"
+    ],
+    "data": [
+      {
+        "Title": "WWE NXT Level Up",
+        "Genre": "Professional wrestling",
+        "Premiere": "February 18, 2022",
+        "Seasons": "1 season, 28 episodes",
+        "Length": "30–60 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Co-productions"
+    ],
+    "data": [
+      {
+        "Title": "Madagascar: A Little Wild",
+        "Genre": "Animated family comedy",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "September 7, 2020",
+        "Seasons": "8 seasons, 50 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Mighty Ones",
+        "Genre": "Animated family comedy",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "November 9, 2020",
+        "Seasons": "4 seasons, 40 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Trolls: TrollsTopia",
+        "Genre": "Animated family comedy",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "November 19, 2020",
+        "Seasons": "7 seasons, 52 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Epstein's Shadow: Ghislaine Maxwell",
+        "Genre": "Docuseries",
+        "Partner/Region": "Sky Documentaries/United Kingdom",
+        "Premiere": "June 24, 2021",
+        "Seasons": "3 episodes",
+        "Length": "46–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Croods: Family Tree",
+        "Genre": "Animated family comedy",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "September 23, 2021",
+        "Seasons": "8 seasons, 52 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Dragons: The Nine Realms",
+        "Genre": "Animated adventure",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "December 23, 2021",
+        "Seasons": "8 seasons, 52 episodes",
+        "Length": "22 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Wolf Like Me",
+        "Genre": "Dark romantic comedy",
+        "Partner/Region": "Stan/Australia",
+        "Premiere": "January 13, 2022",
+        "Seasons": "2 seasons, 13 episodes",
+        "Length": "22–28 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Undeclared War",
+        "Genre": "Cyber-thriller",
+        "Partner/Region": "Channel 4/United Kingdom",
+        "Premiere": "August 18, 2022",
+        "Seasons": "6 episodes",
+        "Length": "47–56 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Last Light",
+        "Genre": "Thriller",
+        "Partner/Region": "MBC Group/Middle East and North AfricaStan/AustraliaViaplay/Nordic countries",
+        "Premiere": "September 8, 2022",
+        "Seasons": "5 episodes",
+        "Length": "42–43 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Abominable and the Invisible City",
+        "Genre": "Animated adventure",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "October 5, 2022",
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Makery",
+        "Genre": "Educational",
+        "Partner/Region": "Sky Kids/United Kingdom",
+        "Premiere": "January 12, 2023",
+        "Seasons": "1 season, 25 episodes",
+        "Length": "14–15 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Fright Krewe",
+        "Genre": "Animated horror",
+        "Partner/Region": "Hulu/United States",
+        "Premiere": "October 2, 2023",
+        "Seasons": "2 seasons, 20 episodes",
+        "Length": "21–22 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Tattooist of Auschwitz",
+        "Genre": "Period drama",
+        "Partner/Region": "Sky Atlantic/United KingdomStan/Australia",
+        "Premiere": "May 2, 2024",
+        "Seasons": "6 episodes",
+        "Length": "50–58 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Lockerbie: A Search for Truth",
+        "Genre": "Drama",
+        "Partner/Region": "Sky Atlantic/United Kingdom",
+        "Premiere": "January 2, 2025",
+        "Seasons": "5 episodes",
+        "Length": "48–61 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
+      "Continuations"
+    ],
+    "data": [
+      {
+        "Title": "Curious George (seasons 10–15)",
+        "Genre": "Family animation",
+        "Prev. network(s)": "PBS Kids",
+        "Premiere": "July 15, 2020",
+        "Seasons": "6 seasons, 45 episodes",
+        "Length": "23 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Where's Waldo? (season 2)",
+        "Genre": "Family animation",
+        "Prev. network(s)": "Universal Kids",
+        "Premiere": "July 15, 2020",
+        "Seasons": "1 season, 20 episodes",
+        "Length": "22 min",
+        "Notes": ""
+      },
+      {
+        "Title": "A.P. Bio (seasons 3–4)",
+        "Genre": "Comedy",
+        "Prev. network(s)": "NBC",
+        "Premiere": "September 3, 2020",
+        "Seasons": "2 seasons, 16 episodes",
+        "Length": "21–25 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Connecting (season 1B)",
+        "Genre": "Comedy",
+        "Prev. network(s)": "NBC",
+        "Premiere": "November 5, 2020",
+        "Seasons": "1 season, 4 episodes",
+        "Length": "20–21 min",
+        "Notes": ""
+      },
+      {
+        "Title": "American Ninja Warrior Junior (season 3)",
+        "Genre": "Reality competition",
+        "Prev. network(s)": "Universal Kids",
+        "Premiere": "September 9, 2021",
+        "Seasons": "1 season, 15 episodes",
+        "Length": "42–45 min",
+        "Notes": ""
+      },
+      {
+        "Title": "Home Sweet Home (season 1B)",
+        "Genre": "Reality",
+        "Prev. network(s)": "NBC",
+        "Premiere": "November 12, 2021",
+        "Seasons": "1 season, 5 episodes",
+        "Length": "43 min",
+        "Notes": ""
+      },
+      {
+        "Title": "The Real Housewives of Miami (seasons 4–5)",
+        "Genre": "Reality",
+        "Prev. network(s)": "Bravo",
+        "Premiere": "December 16, 2021",
+        "Seasons": "2 seasons, 33 episodes",
+        "Length": "41–43 min",
+        "Notes": ""
+      }
+    ]
+  },
+  {
+    "category": [
+      "Ended programming",
       "Specials"
     ],
     "data": [
@@ -1535,7 +1949,7 @@
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Non-English language",
       "Comedy"
     ],
@@ -1547,13 +1961,13 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "39–50 min",
         "Language": "Spanish",
-        "Status": "Ended"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Non-English language",
       "Reality"
     ],
@@ -1565,13 +1979,13 @@
         "Seasons": "1 season, 8 episodes",
         "Length": "46–60 min",
         "Language": "EnglishSpanish",
-        "Status": "Ended"
+        "Notes": ""
       }
     ]
   },
   {
     "category": [
-      "Original programming",
+      "Ended programming",
       "Exclusive international distribution"
     ],
     "data": [
@@ -1582,7 +1996,7 @@
         "Premiere": "April 15, 2020",
         "Seasons": "2 seasons, 16 episodes",
         "Length": "44–46 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "The Capture",
@@ -1591,7 +2005,7 @@
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "56–69 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Intelligence",
@@ -1600,7 +2014,7 @@
         "Premiere": "July 15, 2020",
         "Seasons": "2 seasons, 13 episodes",
         "Length": "20–22 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Hitmen",
@@ -1609,7 +2023,7 @@
         "Premiere": "August 6, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "21–25 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Save Me Too (season 2)",
@@ -1618,7 +2032,7 @@
         "Premiere": "September 3, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "46–50 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Noughts + Crosses",
@@ -1627,7 +2041,7 @@
         "Premiere": "September 4, 2020",
         "Seasons": "1 season, 6 episodes",
         "Length": "55–58 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Departure (seasons 1–2)",
@@ -1636,7 +2050,7 @@
         "Premiere": "September 17, 2020",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "42–44 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Code 404",
@@ -1645,7 +2059,7 @@
         "Premiere": "October 8, 2020",
         "Seasons": "3 seasons, 18 episodes",
         "Length": "26–31 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Dime Quién Soy: Mistress of War",
@@ -1654,7 +2068,7 @@
         "Premiere": "March 8, 2021",
         "Seasons": "9 episodes",
         "Length": "42–60 min",
-        "Status": "Miniseries"
+        "Notes": ""
       },
       {
         "Title": "Intergalactic",
@@ -1663,7 +2077,7 @@
         "Premiere": "May 13, 2021",
         "Seasons": "1 season, 8 episodes",
         "Length": "43–47 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "We Are Lady Parts",
@@ -1672,34 +2086,7 @@
         "Premiere": "June 3, 2021",
         "Seasons": "2 seasons, 12 episodes",
         "Length": "24–25 min",
-        "Status": "Pending"
-      },
-      {
-        "Title": "Smother",
-        "Genre": "Crime thriller",
-        "Partner/Region": "RTÉ One/Ireland",
-        "Premiere": "July 1, 2021",
-        "Seasons": "2 seasons, 12 episodes",
-        "Length": "49–51 min",
-        "Status": "Renewed for final season"
-      },
-      {
-        "Title": "Vigil",
-        "Genre": "Crime thriller",
-        "Partner/Region": "BBC One/United Kingdom",
-        "Premiere": "December 23, 2021",
-        "Seasons": "2 seasons, 12 episodes",
-        "Length": "54–59 min",
-        "Status": "Renewed"
-      },
-      {
-        "Title": "Trigger Point",
-        "Genre": "Crime thriller",
-        "Partner/Region": "ITV/United Kingdom",
-        "Premiere": "July 8, 2022",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "45–47 min",
-        "Status": "Renewed"
+        "Notes": ""
       },
       {
         "Title": "Everything I Know About Love",
@@ -1708,7 +2095,7 @@
         "Premiere": "August 25, 2022",
         "Seasons": "1 season, 7 episodes",
         "Length": "42–44 min",
-        "Status": "Ended"
+        "Notes": ""
       },
       {
         "Title": "Moley",
@@ -1717,7 +2104,7 @@
         "Premiere": "July 7, 2023",
         "Seasons": "1 season, 52 episodes",
         "Length": "9–13 min",
-        "Status": "Ended"
+        "Notes": ""
       }
     ]
   },
@@ -2232,318 +2619,6 @@
         "Genre": "Drama",
         "Release": "September 4, 2020",
         "Runtime": "1 hour, 24 min"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Drama"
-    ],
-    "data": [
-      {
-        "Title": "All Her Fault",
-        "Genre": "Mystery thriller miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Copenhagen Test",
-        "Genre": "Science fiction spy thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Post-production"
-      },
-      {
-        "Title": "Crystal Lake",
-        "Genre": "Horror",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Good Daughter",
-        "Genre": "Suspense thriller miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "Ponies",
-        "Genre": "Spy thriller",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The Five-Star Weekend",
-        "Genre": "Drama miniseries",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "M.I.A.",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Superfakes",
-        "Genre": "Crime drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Comedy"
-    ],
-    "data": [
-      {
-        "Title": "The Miniature Wife",
-        "Genre": "Romantic comedy drama",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Filming"
-      },
-      {
-        "Title": "The 'Burbs",
-        "Genre": "Black comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Dig",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Animation",
-      "Adult animation"
-    ],
-    "data": [
-      {
-        "Title": "Ted: The Animated Series",
-        "Genre": "Comedy",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Unscripted",
-      "Docuseries"
-    ],
-    "data": [
-      {
-        "Title": "Tiffany Haddish Goes Off",
-        "Subject": "Travel",
-        "Premiere": "Late 2025",
-        "Seasons": "1 season, 6 episodes",
-        "Length": "TBA",
-        "Status": "Series order"
-      },
-      {
-        "Title": "Untitled Jordan Peele black cowboy series",
-        "Subject": "History",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Continuations"
-    ],
-    "data": [
-      {
-        "Title": "House of Villains (season 3)",
-        "Genre": "Reality competition",
-        "Prev. network": "E! (seasons 1–2)",
-        "Premiere": "Early 2026",
-        "Seasons": "1 season, 10 episodes",
-        "Length": "TBA",
-        "Status": "Season order"
-      },
-      {
-        "Title": "Married at First Sight (seasons 19–21)",
-        "Genre": "Reality",
-        "Prev. network": "FYI (seasons 1–4)Lifetime (seasons 5–18)",
-        "Premiere": "TBA",
-        "Seasons": "TBA",
-        "Length": "TBA",
-        "Status": "Season order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "Non-English language",
-      "Docuseries"
-    ],
-    "data": [
-      {
-        "Title": "Gente sana",
-        "Subject": "Mental health",
-        "Premiere": "TBA",
-        "Seasons": "6 episodes",
-        "Length": "TBA",
-        "Language": "Spanish",
-        "Status": "Series order"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original programming",
-      "In development"
-    ],
-    "data": [
-      {
-        "Title": "Before I Let Go",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Best Buds",
-        "Genre": "Adult animated comedy"
-      },
-      {
-        "Title": "Cleo",
-        "Genre": "Historical comedy drama"
-      },
-      {
-        "Title": "Clifton",
-        "Genre": "Thriller"
-      },
-      {
-        "Title": "Climbing in Heels",
-        "Genre": "Comedy drama"
-      },
-      {
-        "Title": "Crush",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Excellence: 8 Fights",
-        "Genre": "Biopic"
-      },
-      {
-        "Title": "Fear",
-        "Genre": "Thriller"
-      },
-      {
-        "Title": "Freeman",
-        "Genre": "Mystery drama"
-      },
-      {
-        "Title": "Friday Night Lights",
-        "Genre": "Sports drama"
-      },
-      {
-        "Title": "Little Secrets",
-        "Genre": "Mystery thriller"
-      },
-      {
-        "Title": "Lonely Hearts Club",
-        "Genre": "Crime thriller, comedy drama"
-      },
-      {
-        "Title": "Pitch Perfect: K-Pop Idols",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "Queen of Flow",
-        "Genre": "Drama"
-      },
-      {
-        "Title": "Rear Window",
-        "Genre": "Thriller"
-      },
-      {
-        "Title": "Sex in the Dark",
-        "Genre": "Reality competition"
-      },
-      {
-        "Title": "The Show Must Go On",
-        "Genre": "Mystery anthology"
-      },
-      {
-        "Title": "The Shrouded College",
-        "Genre": "Adventure horror"
-      },
-      {
-        "Title": "St. Donatus",
-        "Genre": "Supernatural mystery drama"
-      },
-      {
-        "Title": "Strangers",
-        "Genre": "Thriller"
-      },
-      {
-        "Title": "The Thing About Tommy",
-        "Genre": "True crime drama"
-      },
-      {
-        "Title": "Untitled Clueless sequel series",
-        "Genre": "Coming-of-age teen comedy"
-      },
-      {
-        "Title": "Untitled Robert Durst docuseries",
-        "Genre": "True crime docuseries"
-      },
-      {
-        "Title": "The W",
-        "Genre": "Comedy"
-      },
-      {
-        "Title": "You'll Never Believe What Happened to Lacey",
-        "Genre": "Comedy"
-      }
-    ]
-  },
-  {
-    "category": [
-      "Upcoming original films",
-      "Feature films"
-    ],
-    "data": [
-      {
-        "Title": "Community: The Movie",
-        "Genre": "Comedy",
-        "Release": "TBA",
-        "Runtime": "TBA"
       }
     ]
   }
